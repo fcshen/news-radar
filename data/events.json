@@ -1,5 +1,175 @@
 [
  {
+  "id": "37b6afc33ad6b6d2",
+  "ts": "2026-11-26T02:22:04+08:00",
+  "title": "惠誉评级：6x1工作制的结束将对巴西医疗保健和制药行业产生温和影响",
+  "title_zh": "",
+  "body": "惠誉评级：6x1工作制的结束将对巴西医疗保健和制药行业产生温和影响。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx3979594.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b7c5aef8cbd7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3077724832508910185,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e9abc73390a14af0",
+  "ts": "2026-11-26T02:20:51+08:00",
+  "title": "美联储下次FOMC会议加息25个基点的概率为93%",
+  "title_zh": "",
+  "body": "美联储下次FOMC会议加息25个基点的概率为93%。",
+  "summary": "美联储下次FOMC会议加息25个基点的概率为93%。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx3979179.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 100.0,
+  "level": "L3",
+  "impact": "",
+  "cluster_id": "4dbca439622d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 9482682084780802161,
+  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=40 sev=8 pct=12 op=N spread=0 burst=5",
+  "engine": "template",
+  "tries": 1
+ },
+ {
+  "id": "7bea88adfe2a9ffc",
+  "ts": "2026-11-26T02:18:08+08:00",
+  "title": "道指上涨近150点，受IBM和宣伟公司股价上涨提振",
+  "title_zh": "",
+  "body": "标普500指数和纳斯达克指数收窄跌幅，最新分别下跌0.65%和1.4%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx3978057.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "34bf424ea94b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6700483025520552069,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "c14db74b71d0fda0",
+  "ts": "2026-11-26T02:17:54+08:00",
+  "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的3亿美元",
+  "title_zh": "",
+  "body": "美联储在固定利率逆回购操作中总计接纳了1个对手方的3亿美元。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 95.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "72e7bd6fbef5",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9821166014533011146,
+  "reason": "tier=55 ent=1['美联储'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f065b2c33f260afc",
+  "ts": "2026-11-26T02:17:27+08:00",
+  "title": "“大空头”伯里平仓纳指看跌期权 称当前几乎全面做多",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，因科技股近期大幅下跌，曾因2008年做空美国房地产市场而闻名的投资者迈克尔·伯里表示，其投资组合目前多头仓位已超过空头，且暂时几乎全面做多。他透露，已平仓纳斯达克100指数看跌期权，目前仅持有Palantir(PLTR.N)和MetLife的看跌期权，并持有约25%的现金，计划逐步投入市场。伯里还持有英伟达(NVDA.O)看涨期权，但表示计划等待市场情绪转乐观、股价接近200美元时再度做空英伟达。他认为，目前市场波动率上升，股票看跌期权价格昂贵，直接卖空股票是表达看空观点的主要方式，但风险收益并不对称。其主要持仓包括MercadoLibre、Temple&Webster和京东等公司。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5ddb11073f40",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 445823264594364606,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "3feecb7f355da5f4",
+  "ts": "2026-11-26T02:16:33+08:00",
+  "title": "周三（11月25日），美联储隔夜逆回购协议（RRP）使用规模为3亿美元（交易对手1家），上个交易日报3.01亿美元",
+  "title_zh": "",
+  "body": "周三（11月25日），美联储隔夜逆回购协议（RRP）使用规模为3亿美元（交易对手1家），上个交易日报3.01亿美元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx3977336.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 95.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "db52cd419f7f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11855718203645805174,
+  "reason": "tier=55 ent=1['美联储'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "41fbfe9a8c369689",
+  "ts": "2026-11-26T02:14:33+08:00",
+  "title": "伊朗外长指责以色列企图借虚假指控将美国拖入对伊战争",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，伊朗外长阿拉格齐发表声明，指责以色列就伊朗制药业散布虚假信息，声称伊朗在制药厂生产和藏匿化学武器。阿拉格齐表示，以色列拒绝加入禁止核武器、化学武器和生物武器的国际公约，却指控作为《不扩散核武器条约》和《禁止化学武器公约》成员国的伊朗。他还指责以色列过去一年两次将美国拖入针对伊朗的战争，并称此次指控旨在欺骗美国，使其再次卷入一场服务于以色列利益的战争。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 91.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "fa4063c4aa18",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11430314525468599762,
+  "reason": "tier=55 ent=2['伊朗', '以色列'] pred=1 conv=0 combo=32 rel=27 sev=8 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "ae79672294ce0663",
   "ts": "2026-11-26T02:13:06+08:00",
   "title": "初步计划显示，尼日利亚四种主要原油品级的1月出口量预计平均为91.1万桶/日，而12月为88.8万桶/日",
@@ -12,16 +182,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 27.4,
+  "score": 29.1,
   "level": "L0",
   "impact": "",
   "cluster_id": "38c8c99059b9",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5015983733160848261,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=Y spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=Y spread=2 burst=5"
  },
  {
   "id": "611b0e26430a9e67",
@@ -119,6 +290,30 @@
   "pushed": false,
   "sh": 1612721331415652535,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "30c697af93b4c9f4",
+  "ts": "2026-11-26T02:02:45+08:00",
+  "title": "Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
+  "title_zh": "英伟达的数十亿美元董事会赌注：随着诉讼的增加，谁得到了保护？",
+  "body": "Nvidia’s board is under investigation, and directors are already defendants in a shareholder lawsuit accusing them of failing to properly oversee the company.",
+  "summary": "英伟达的董事会正接受调查，董事们已成为股东诉讼的被告，股东指控他们未能妥善监督公司。",
+  "url": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 71.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "e73a11c1c143",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 1280676707884648493,
+  "reason": "tier=80 ent=1['nvidia'] pred=1 conv=0 combo=26 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "f08b5a8b6c65a8af",
@@ -359,6 +554,30 @@
   "pushed": false,
   "sh": 6532656905851824818,
   "reason": "tier=55 ent=1['以色列'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "6f22ce77d43656fa",
+  "ts": "2026-11-26T01:50:41+08:00",
+  "title": "Ecuador and US review joint military operations, official says",
+  "title_zh": "官员表示，厄瓜多尔和美国正在审查联合军事行动",
+  "body": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.6,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d3a354950f64",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 1909398913415540468,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=5"
  },
  {
   "id": "df6102681caa622f",
