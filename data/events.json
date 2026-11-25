@@ -1,5 +1,152 @@
 [
  {
+  "id": "1ef78076fd7bdf1c",
+  "ts": "2026-11-26T01:42:16+08:00",
+  "title": "欧洲央行：该协议为使用T2以瑞典克朗结算大额支付铺平道路",
+  "title_zh": "",
+  "body": "欧洲央行：该协议为使用T2以瑞典克朗结算大额支付铺平道路。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "64596e5aa392",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 17052670147743732213,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "23bbda2652095d4e",
+  "ts": "2026-11-26T01:39:00+08:00",
+  "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+  "title_zh": "为什么这轮股市抛售潮在好转之前可能会变得更糟",
+  "body": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+  "summary": "",
+  "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 45.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "41bc43741fc0",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 9347344868838773435,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "305fcb676f48836a",
+  "ts": "2026-11-26T01:37:10+08:00",
+  "title": "惠誉：部分大型经济体的下行风险更大，市场信心可能受到政策调整或选举的影响",
+  "title_zh": "",
+  "body": "惠誉：部分大型经济体的下行风险更大，市场信心可能受到政策调整或选举的影响。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvw8444051.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 18.6,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f2e57135f814",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3496109682042584504,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "43a4decb28d9ca11",
+  "ts": "2026-11-26T01:35:04+08:00",
+  "title": "Anthropic股价转涨，最新上涨2%，报83.50美元",
+  "title_zh": "",
+  "body": "Anthropic股价转涨，最新上涨2%，报83.50美元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvw8443036.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "78bdcc2d96fa",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5340642999094052451,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "06db534c4c6237f8",
+  "ts": "2026-11-26T01:34:53+08:00",
+  "title": "也门胡塞武装：在过去24小时内，沙特阿拉伯空军对首都萨那以及阿尔乔夫、塔伊兹、阿姆兰、哈杰、萨达、霍代达、达拉、伊布、拉",
+  "title_zh": "",
+  "body": "赫和白银等省份进行了105次空袭和导弹攻击，目标是民用设施。这些攻击使用了从哈梅斯穆谢特和塔伊夫基地起飞的“F-15”和“台风”战斗机，以及来自纳杰兰的导弹袭击，造成了平民的伤亡。自从对我国的升级行动开始以来，沙特的空袭和导弹攻击总计已达到5825次。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 54.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "dcecc76c3716",
+  "sources": [
+   "金十数据",
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 135477648364967643,
+  "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "6a5bd519e6c561c2",
+  "ts": "2026-11-26T01:34:13+08:00",
+  "title": "惠誉评级维持2027年拉美主权信用评级展望为“中性”",
+  "title_zh": "",
+  "body": "惠誉评级维持2027年拉美主权信用评级展望为“中性”。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvw8442568.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.3,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8d978bc4915e",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 35339010460173448,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=5"
+ },
+ {
   "id": "4fd7a9487c059871",
   "ts": "2026-11-26T01:32:59+08:00",
   "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
@@ -24,6 +171,31 @@
   "reason": "tier=80 ent=1['trump'] pred=1 conv=0 combo=26 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
+  "id": "9ae1028c62f3378f",
+  "ts": "2026-11-26T01:32:59+08:00",
+  "title": "欧洲央行：欧洲央行与瑞典央行达成协议，瑞典将加入T2支付系统",
+  "title_zh": "",
+  "body": "欧洲央行：欧洲央行与瑞典央行达成协议，瑞典将加入T2支付系统。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 61.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "8907b415a2f5",
+  "sources": [
+   "金十数据",
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3066266821553875316,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
   "id": "a137e0da42f41ebe",
   "ts": "2026-11-26T01:32:52+08:00",
   "title": "英伟达芯片卖家争相寻找买家",
@@ -36,16 +208,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 44.2,
+  "score": 46.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "f28e9eabb4f8",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5827486837612045696,
-  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "226f5d7782ec729b",
@@ -1162,6 +1335,30 @@
   "pushed": false,
   "sh": 13885242972621845352,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "809fec487a002dc8",
+  "ts": "2026-11-26T00:40:53+08:00",
+  "title": "Erdogan rolls out red carpet for Hifter as Turkey turns Libya page",
+  "title_zh": "土耳其翻开利比亚新篇章，埃尔多安为哈夫塔尔铺开红毯",
+  "body": "The eastern-based commander held talks earlier Wednesday with senior Turkish energy and defense officials as Ankara steps up efforts toward a unity deal in Libya.",
+  "summary": "周三早些时候，这位驻扎在东部的指挥官与土耳其高级能源和国防官员举行了会谈，此前安卡拉正加紧努力，争取达成利比亚统一协议。",
+  "url": "https://www.al-monitor.com/originals/2026/11/erdogan-rolls-out-red-carpet-hifter-turkey-turns-libya-page",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 61.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "74c9f866a18c",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 15223879121481526372,
+  "reason": "tier=80 ent=1['turkey'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "d44100805b79970a",
