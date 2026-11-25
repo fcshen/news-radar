@@ -46,6 +46,10 @@
   code{background:var(--panel2);border:1px solid var(--line);border-radius:5px;
        padding:1px 6px;font-size:12.5px;font-family:ui-monospace,Menlo,monospace;color:#c0b47f}
   .tip{font-size:12.5px;color:var(--faint);margin-top:12px;line-height:1.7}
+  .faint{color:var(--faint);font-weight:400}
+  .clr{float:right;background:none;border:none;color:var(--faint);font-size:12px;
+       cursor:pointer;padding:0 2px;min-width:auto;flex:none}
+  .clr:hover{color:var(--bad)}
 </style>
 </head>
 <body>
@@ -54,6 +58,7 @@
   <p class="sub">填一次就好。之后 L2 以上事件会推到你手机，不用一直开着网页。</p>
 
   <div class="card">
+    <h2>主通道 · Bark</h2>
     <div class="status"><span class="led off" id="led"></span><span id="state">检查中…</span></div>
     <label for="url">Bark 推送地址</label>
     <input id="url" placeholder="https://api.day.app/你的密钥" autocomplete="off"
@@ -66,17 +71,38 @@
   </div>
 
   <div class="card">
-    <h2>怎么拿到这个地址</h2>
+    <h2>备用通道 · 主通道 3 秒没成功就自动换过去</h2>
+    <p class="tip" style="margin:0 0 14px">
+      不填也能用，但那就只有一条腿。随便填一个，Bark 的服务器抽风时消息照样能到。
+    </p>
+    <label for="wecom">企业微信群机器人地址
+      <button type="button" class="clr" data-k="wecom_webhook">清除</button>
+      <span class="faint" id="wecomState"></span></label>
+    <input id="wecom" placeholder="https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=…"
+           autocomplete="off" spellcheck="false" inputmode="url">
+    <label for="ntfytopic" style="margin-top:14px">ntfy 频道名
+      <button type="button" class="clr" data-k="ntfy_topic">清除</button>
+      <span class="faint" id="ntfyState"></span></label>
+    <input id="ntfytopic" placeholder="例如 radar-fcshen-7k2" autocomplete="off" spellcheck="false">
+    <div class="row">
+      <button id="saveAlt">保存备用通道</button>
+    </div>
+    <div class="msg" id="msg3"></div>
+  </div>
+
+  <div class="card">
+    <h2>怎么拿到这些地址</h2>
     <ol>
-      <li>iPhone 在 App Store 搜 <b>Bark</b>，免费，装上打开。</li>
-      <li>首页会显示一条 <code>https://api.day.app/xxxxx</code> 的地址，点一下复制。</li>
-      <li>回到这一页，粘进上面的输入框，点保存。</li>
-      <li>点“发一条测试”，手机响了就成了。</li>
+      <li><b>Bark（主通道）</b>：iPhone 在 App Store 搜 <b>Bark</b>，免费，装上打开。首页会显示一条 <code>https://api.day.app/xxxxx</code> 的地址，点一下复制，粘到上面。</li>
+      <li><b>企业微信（备用）</b>：手机企业微信里建一个只有自己的群 → 右上角 <b>…</b> → 群机器人 → 添加 → 复制它给的 Webhook 地址，粘到上面。</li>
+      <li><b>ntfy（备用）</b>：装 <b>ntfy</b> App，在 App 里订阅一个频道名（自己起，别人猜不到就行），把同一个名字填到上面。</li>
+      <li>填完点保存，再点「发一条测试」，手机响了就成了。</li>
     </ol>
     <p class="tip">
-      安卓没有 Bark，可以装 <b>ntfy</b>（同样免费），在 App 里订阅一个频道，
-      然后把地址按 <code>https://ntfy.sh/你的频道</code> 的格式填进来也能用。<br>
-      这条地址等于你的通知钥匙，别发给别人。它只存在这台电脑上。
+      这三个通道之间是<b>串联</b>：先试 Bark，3 秒内没成功就换企业微信，再不行换 ntfy。
+      任何一条送到就算送达，不会重复轰炸。<br>
+      某条通道刚失败过会歇 90 秒，之后的消息直接走能用的那条，不浪费时间在坏通道上。<br>
+      这些地址等于你的通知钥匙，别发给别人。它们只存在这台电脑上（云端则存在仓库 Secrets 里）。
     </p>
   </div>
 
@@ -108,20 +134,46 @@
 
 <script>
 const $=id=>document.getElementById(id);
-function setState(configured, masked){
+function setState(j){
+  const bark=j.bark_configured, wc=j.wecom_configured, nt=j.ntfy_configured;
   const led=$("led");
-  led.className="led "+(configured?"on":"off");
-  $("state").textContent=configured?("已配置 "+masked):"尚未配置";
-  $("test").disabled=!configured;
+  led.className="led "+(bark?"on":"off");
+  $("state").textContent=bark?("已配置 "+j.bark_url_masked):"尚未配置";
+  $("test").disabled=!(bark||wc||nt);
+  $("wecomState").textContent=wc?("已配置 "+j.wecom_masked):"";
+  $("ntfyState").textContent=nt?("已配置 "+j.ntfy_masked):"";
 }
 async function getSettings(){
   try{
     const r=await fetch("/api/settings",{cache:"no-store"});
     const j=await r.json();
-    setState(j.bark_configured, j.bark_url_masked||"");
+    setState(j);
     if(j.browser) $("browser").value=j.browser;
   }catch(e){ $("state").textContent="读取失败"; }
 }
+document.querySelectorAll(".clr").forEach(btn=>btn.addEventListener("click",async()=>{
+  const body={}; body[btn.dataset.k]=null;
+  const r=await fetch("/api/settings",{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify(body)});
+  if(r.ok) getSettings();
+}));
+$("saveAlt").addEventListener("click",async()=>{
+  const msg=$("msg3"); msg.className="msg"; msg.textContent="保存中…";
+  const body={};
+  if($("wecom").value.trim()) body.wecom_webhook=$("wecom").value.trim();
+  if($("ntfytopic").value.trim()) body.ntfy_topic=$("ntfytopic").value.trim();
+  if(!Object.keys(body).length){
+    msg.className="msg bad"; msg.textContent="两个框都空着，没有可保存的内容"; return;
+  }
+  const r=await fetch("/api/settings",{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify(body)});
+  const j=await r.json();
+  if(r.ok){
+    msg.className="msg ok"; msg.textContent="已保存。现在点上面的「发一条测试」验证";
+    $("wecom").value=""; $("ntfytopic").value=""; getSettings();
+  }
+  else{ msg.className="msg bad"; msg.textContent=j.error||"保存失败"; }
+});
 $("saveBrowser").addEventListener("click",async()=>{
   const msg=$("msg2"); msg.className="msg"; msg.textContent="保存中…";
   const r=await fetch("/api/settings",{method:"POST",headers:{"Content-Type":"application/json"},
