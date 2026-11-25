@@ -1,5 +1,222 @@
 [
  {
+  "id": "dc7525b4e980e879",
+  "ts": "2026-11-26T06:05:49+08:00",
+  "title": "穆迪：英伟达首席执行官回归恢复了战略连续性，但一些治理问题仍未解决；评级和展望维持不变",
+  "title_zh": "",
+  "body": "穆迪：英伟达首席执行官回归恢复了战略连续性，但一些治理问题仍未解决；评级和展望维持不变。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 27.4,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9a0a22584a4e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7818817431047340319,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "5566b4248be4ed24",
+  "ts": "2026-11-26T06:05:36+08:00",
+  "title": "惠誉预计，2027年澳大利亚和新西兰的地方和地区政府将维持总体稳定的运营状况",
+  "title_zh": "",
+  "body": "惠誉预计，2027年澳大利亚和新西兰的地方和地区政府将维持总体稳定的运营状况。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzms8300474.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 18.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "dd2d499e8542",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9305829115542041808,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=1"
+ },
+ {
+  "id": "80a8f540c34eb4c0",
+  "ts": "2026-11-26T06:05:04+08:00",
+  "title": "市场消息：美国总统特朗普将于明年1月邀请参议院舒默和众议院民主党领袖杰弗里斯参加会晤",
+  "title_zh": "",
+  "body": "市场消息：美国总统特朗普将于明年1月邀请参议院舒默和众议院民主党领袖杰弗里斯参加会晤。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzms8300130.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ff3ede6aa9a2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13991002365528561048,
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "e2a3a4129442d0d8",
+  "ts": "2026-11-26T06:02:25+08:00",
+  "title": "报道：美国评估政策选项 回应其所称韩国对Coupang的歧视性待遇",
+  "title_zh": "",
+  "body": "据报道，美国国务院正在评估一系列政策选项，以回应其所认为的韩国对美国公司Coupang的歧视性待遇。美国国务院一名官员表示，韩国对待美国公司的方式正在威胁美韩两国的同盟关系。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzmv3928792.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6689b1da83ae",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2376948475475695368,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "e36250c3d3ab58dc",
+  "ts": "2026-11-26T06:00:23+08:00",
+  "title": "国际金价涨超0.7%",
+  "title_zh": "",
+  "body": "周三（11月25日）纽约尾盘，现货黄金涨0.72%，报3580.93美元/盎司，全天实现V形反转，北京时间23:19曾跌至3426.77美元，逼近2025年8月29日盘中最低位3404.41美元、当年4月9日底部2970.17美元。现货白银涨0.91%，报41.2411美元/盎司，23:17曾跌至38.2115美元。COMEX铜期货涨0.44%，报5.4770美元/磅，23:18曾跌至5.3075美元。在美股时段交易的费城金银指数收涨3.31%，原材料指数收涨2.18%，金属与矿业指数收涨2.03%。在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨2.16%，报2095.90点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzmr1520466.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "604a9ef6077e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10211262019470251882,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "e4609ced39ee29fd",
+  "ts": "2026-11-26T06:00:11+08:00",
+  "title": "As US and China battle for AI dominance, small fry figure out what works",
+  "title_zh": "在美国和中国争夺人工智能主导地位之际，小公司正在摸索哪些方法行之有效",
+  "body": "The strangers gather at a cafe in New York’s West Village neighbourhood on a recent Saturday afternoon before heading off to a pop-up, garden, art gallery, riverside walk and fast-food dinner, coordinated by start-up Yirl, short for “You in real life”. Yirl’s stated mission: to lure lonely Gen Zs out of their digital caves using, with no small amount of irony, artificial intelligence to counter AI-fuelled alienation. Launched in early 2025, Yirl employs America’s ChatGPT to match users’...",
+  "summary": "",
+  "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 34.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "38a0d4aa0628",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 14632225575700292656,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "475f0a82149474d4",
+  "ts": "2026-11-26T06:00:00+08:00",
+  "title": "Small Modular Reactors Finally Have Real Momentum in the U.S.",
+  "title_zh": "小型模块化反应堆终于在美国获得了真正的发展势头。",
+  "body": "Years of hype have been followed by years of fizzling and delay for what was supposed to have been the small modular reactor revolution. These new small versions of nuclear reactors were supposed to usher in the new nuclear era with their cheaper, safer approach, but today just a very small handful are in use around the world, and only in Russia and China. But it looks like that could finally be set to change thanks to a series of milestones achieved in the United States in recent months. Small modular reactors, commonly known as SMRs, are…",
+  "summary": "",
+  "url": "https://oilprice.com/Energy/Energy-General/Small-Modular-Reactors-Finally-Have-Real-Momentum-in-the-US.html",
+  "source": "OilPrice",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 25.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f3e80892cd53",
+  "sources": [
+   "OilPrice"
+  ],
+  "pushed": false,
+  "sh": 3694516146711768452,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "a0be066a8d52179d",
+  "ts": "2026-11-26T05:56:52+08:00",
+  "title": "Japan arcade snags world record with 600 claw machines",
+  "title_zh": "日本游艺厅以600台娃娃机创下世界纪录",
+  "body": "",
+  "summary": "",
+  "url": "https://asia.nikkei.com/business/media-entertainment/japan-arcade-snags-world-record-with-600-claw-machines",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d94acb912550",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 8540493627393497234,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "34bf7ae873314faa",
+  "ts": "2026-11-26T05:56:43+08:00",
+  "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+  "title_zh": "Liesman：为什么格林斯潘可以押注生产力——而沃什需要加息",
+  "body": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+  "summary": "众所周知，艾伦·格林斯潘（Alan Greenspan）坚持利率不变，因为他相信互联网繁荣所带来的生产力前景。为什么凯文·沃什不能这样做？",
+  "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 59.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "8eb9b6161d3d",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 12779615000994808357,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "d116c22a1c5d318c",
   "ts": "2026-11-26T05:55:07+08:00",
   "title": "巴西央行：禁止金融机构增加对无担保债务逾期超过90天客户的无担保贷款产品敞口",
@@ -12,16 +229,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 47.2,
+  "score": 49.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "44ea9d04b3fd",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 17080778714948792639,
-  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "077002d0c4149082",
@@ -3727,11 +3945,12 @@
   "impact": "",
   "cluster_id": "4dbca439622d",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 9482682084780802161,
-  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=40 sev=8 pct=12 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=40 sev=8 pct=12 op=N spread=2 burst=5",
   "engine": "template",
   "tries": 1
  },
