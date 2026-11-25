@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f1115">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<title>推送设置 · 金融事件雷达</title>
+<style>
+  :root{--bg:#0f1115;--panel:#171a21;--panel2:#1d2129;--line:#26303c;
+        --text:#e6e8eb;--dim:#9aa3ae;--faint:#6b7480;--ok:#3fb950;--warn:#f5a524;--bad:#e5484d}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+       font:15px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+       padding:calc(14px + env(safe-area-inset-top)) 16px calc(40px + env(safe-area-inset-bottom))}
+  .wrap{max-width:640px;margin:0 auto}
+  a{color:#5b8def;text-decoration:none}
+  h1{font-size:17px;margin:0 0 4px;font-weight:600}
+  .sub{color:var(--faint);font-size:12.5px;margin:0 0 22px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+        padding:16px;margin-bottom:14px}
+  .card h2{font-size:13.5px;margin:0 0 10px;color:var(--dim);font-weight:500}
+  .status{display:flex;align-items:center;gap:8px;font-size:13.5px;margin-bottom:14px}
+  .led{width:8px;height:8px;border-radius:50%;flex:0 0 auto}
+  .led.on{background:var(--ok);box-shadow:0 0 8px rgba(63,185,80,.6)}
+  .led.off{background:var(--bad)}
+  label{display:block;font-size:12.5px;color:var(--faint);margin-bottom:6px}
+  input{width:100%;background:var(--panel2);border:1px solid var(--line);border-radius:9px;
+        color:var(--text);padding:11px 12px;font-size:14px;font-family:ui-monospace,Menlo,monospace}
+  input:focus{outline:none;border-color:#3a5c8f}
+  select{width:100%;background:var(--panel2);border:1px solid var(--line);border-radius:9px;
+         color:var(--text);padding:11px 12px;font-size:14px;appearance:none}
+  select:focus{outline:none;border-color:#3a5c8f}
+  .row{display:flex;gap:9px;margin-top:12px;flex-wrap:wrap}
+  button{border-radius:9px;border:1px solid var(--line);background:var(--panel2);
+         color:var(--text);padding:10px 18px;font-size:14px;cursor:pointer;flex:1 1 auto;
+         min-width:120px}
+  button.primary{background:#2f6fd0;border-color:#2f6fd0;color:#fff}
+  button:active{transform:translateY(1px)}
+  button:disabled{opacity:.5}
+  .msg{font-size:13px;margin-top:12px;min-height:20px}
+  .msg.ok{color:var(--ok)} .msg.bad{color:var(--bad)}
+  ol{padding-left:20px;margin:8px 0 0;font-size:13.5px;color:var(--dim)}
+  ol li{margin:7px 0}
+  code{background:var(--panel2);border:1px solid var(--line);border-radius:5px;
+       padding:1px 6px;font-size:12.5px;font-family:ui-monospace,Menlo,monospace;color:#c0b47f}
+  .tip{font-size:12.5px;color:var(--faint);margin-top:12px;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>手机推送设置</h1>
+  <p class="sub">填一次就好。之后 L2 以上事件会推到你手机，不用一直开着网页。</p>
+
+  <div class="card">
+    <div class="status"><span class="led off" id="led"></span><span id="state">检查中…</span></div>
+    <label for="url">Bark 推送地址</label>
+    <input id="url" placeholder="https://api.day.app/你的密钥" autocomplete="off"
+           spellcheck="false" inputmode="url">
+    <div class="row">
+      <button class="primary" id="save">保存</button>
+      <button id="test" disabled>发一条测试</button>
+    </div>
+    <div class="msg" id="msg"></div>
+  </div>
+
+  <div class="card">
+    <h2>怎么拿到这个地址</h2>
+    <ol>
+      <li>iPhone 在 App Store 搜 <b>Bark</b>，免费，装上打开。</li>
+      <li>首页会显示一条 <code>https://api.day.app/xxxxx</code> 的地址，点一下复制。</li>
+      <li>回到这一页，粘进上面的输入框，点保存。</li>
+      <li>点“发一条测试”，手机响了就成了。</li>
+    </ol>
+    <p class="tip">
+      安卓没有 Bark，可以装 <b>ntfy</b>（同样免费），在 App 里订阅一个频道，
+      然后把地址按 <code>https://ntfy.sh/你的频道</code> 的格式填进来也能用。<br>
+      这条地址等于你的通知钥匙，别发给别人。它只存在这台电脑上。
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>双击启动时用哪个浏览器</h2>
+    <label for="browser">电脑上的浏览器</label>
+    <select id="browser">
+      <option value="auto">跟随系统默认（推荐）</option>
+      <option value="edge">Microsoft Edge</option>
+      <option value="chrome">Google Chrome</option>
+      <option value="firefox">Firefox</option>
+      <option value="360">360 浏览器</option>
+      <option value="qq">QQ 浏览器</option>
+      <option value="default">交给系统关联（老办法）</option>
+    </select>
+    <div class="row">
+      <button id="saveBrowser">保存</button>
+    </div>
+    <div class="msg" id="msg2"></div>
+    <p class="tip">
+      默认这一项就够了：程序会先按系统默认浏览器点名启动，失败再依次试
+      Edge → Chrome → Firefox → 360 → QQ。<br>
+      如果双击后还是没弹出来，就在这里<b>点名选一个</b>，下次启动直接用它。
+    </p>
+  </div>
+
+  <p class="sub" style="margin:0"><a href="index.html">← 回到看板</a></p>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+function setState(configured, masked){
+  const led=$("led");
+  led.className="led "+(configured?"on":"off");
+  $("state").textContent=configured?("已配置 "+masked):"尚未配置";
+  $("test").disabled=!configured;
+}
+async function getSettings(){
+  try{
+    const r=await fetch("/api/settings",{cache:"no-store"});
+    const j=await r.json();
+    setState(j.bark_configured, j.bark_url_masked||"");
+    if(j.browser) $("browser").value=j.browser;
+  }catch(e){ $("state").textContent="读取失败"; }
+}
+$("saveBrowser").addEventListener("click",async()=>{
+  const msg=$("msg2"); msg.className="msg"; msg.textContent="保存中…";
+  const r=await fetch("/api/settings",{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify({browser:$("browser").value})});
+  const j=await r.json();
+  if(r.ok){ msg.className="msg ok"; msg.textContent="已保存，下次双击启动就按这个来"; }
+  else{ msg.className="msg bad"; msg.textContent=j.error||"保存失败"; }
+});
+$("save").addEventListener("click",async()=>{
+  const url=$("url").value.trim();
+  const msg=$("msg"); msg.className="msg"; msg.textContent="保存中…";
+  const r=await fetch("/api/settings",{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify({bark_url:url})});
+  const j=await r.json();
+  if(r.ok){ msg.className="msg ok"; msg.textContent="已保存，点右边发一条测试试试"; $("url").value=""; getSettings(); }
+  else{ msg.className="msg bad"; msg.textContent=j.error||"保存失败"; }
+});
+$("test").addEventListener("click",async()=>{
+  const msg=$("msg"); msg.className="msg"; msg.textContent="发送中…";
+  const r=await fetch("/api/test",{method:"POST"});
+  const j=await r.json();
+  msg.className="msg "+(j.ok?"ok":"bad");
+  msg.textContent=j.message||(j.ok?"已发送":"发送失败");
+});
+getSettings();
+</script>
+</body>
+</html>

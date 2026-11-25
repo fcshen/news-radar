@@ -1,0 +1,485 @@
+# ==========================================================
+# 金融事件雷达 · 配置
+# 加一个渠道 = 在 sources 里加一条，不用改代码
+# ==========================================================
+
+runtime:
+  poll_seconds: 30          # 每轮抓取间隔（免费版下限 20 秒）
+  max_run_minutes: 350      # 单次任务最长运行 5h50m，留给 GitHub 6h 上限
+  backfill_minutes: 120     # 启动时回溯补抓的时间窗口
+  timezone: Asia/Shanghai
+
+# ----------------------------------------------------------
+# 评分阈值
+# ----------------------------------------------------------
+thresholds:
+  push: 70                  # >= 70 立即推送
+  digest: 50                # 50-69 进摘要池
+  daily_push_hint: 30       # 单日推送超过这个数，提示调阈值
+
+# ----------------------------------------------------------
+# 推送
+# ----------------------------------------------------------
+notify:
+  bark:
+    enabled: true
+    url: ""                 # 形如 https://api.day.app/xxxxxxxx
+    sound: ""               # 留空用默认
+    level3_sound: "alarm"   # L3 强提醒音
+    group: "金融雷达"
+  quiet_hours:
+    enabled: true
+    start: "23:30"
+    end: "07:00"            # 该区间内 L2 合并为一条，L3 不受限
+
+# ----------------------------------------------------------
+# AI 摘要：三层降级，任一层挂了不影响主流程
+# ----------------------------------------------------------
+ai:
+  enabled: true
+  primary:
+    provider: zhipu
+    model: glm-4-flash
+    api_key: ""             # 环境变量 ZHIPU_API_KEY 优先
+    base_url: "https://open.bigmodel.cn/api/paas/v4"
+  fallback:
+    provider: siliconflow
+    model: Qwen/Qwen2.5-7B-Instruct
+    api_key: ""             # 环境变量 SILICONFLOW_API_KEY 优先
+    base_url: "https://api.siliconflow.cn/v1"
+  max_tokens: 220
+  timeout: 20
+  translate_en: true        # 英文消息翻成中文，保留原文标题与链接
+
+# 英文消息翻译：AI 优先，无 key 时用免费接口兜底
+translate:
+  enabled: true
+  free_daily_limit: 150     # 免费接口每天最多翻多少条，防止被限流
+
+# ----------------------------------------------------------
+# 关键词
+# ----------------------------------------------------------
+keywords:
+  # 命中即判定为高相关，每命中一个 +15 分，上限 30
+  core:
+    - 降准
+    - 降息
+    - 加息
+    - LPR
+    - MLF
+    - 逆回购
+    - 公开市场操作
+    - 存款准备金
+    - 央行
+    - 证监会
+    - 银保监会
+    - 金融监管总局
+    - 国常会
+    - 国务院
+    - 政治局
+    - 发改委
+    - 财政部
+    - 关税
+    - 制裁
+    - 出口管制
+    - 实体清单
+    - 美联储
+    - FOMC
+    - 非农
+    - CPI
+    - PPI
+    - PMI
+    - 社融
+    - 外汇储备
+    - 熔断
+    - 国债收益率
+    - OPEC
+    - 减产
+    - 地缘
+    - 战争
+    - 冲突
+    - 停火
+    - 选举
+
+  # 行业与品种，每命中 +8，上限 15
+  sector:
+    - 沪指
+    - 上证指数
+    - 深证成指
+    - 创业板
+    - 科创板
+    - 沪深300
+    - 中证500
+    - 中证1000
+    - A50
+    - ETF
+    - 指数调样
+    - 融资融券
+    - 北向资金
+    - 解禁
+    - 减持
+    - 回购
+    - 业绩预告
+    - 退市
+    - 停牌
+    - 立案
+    - 重组
+    - 原油
+    - 布伦特
+    - WTI
+    - 黄金
+    - 白银
+    - 铜
+    - 铝
+    - 锌
+    - 镍
+    - 锂
+    - 碳酸锂
+    - 工业硅
+    - 螺纹钢
+    - 铁矿石
+    - 焦煤
+    - 焦炭
+    - 动力煤
+    - 甲醇
+    - PTA
+    - 纯碱
+    - 玻璃
+    - 生猪
+    - 豆粕
+    - 棕榈油
+    - 橡胶
+    - 集运指数
+    - 航运
+    - 红海
+    - 半导体
+    - 芯片
+    - 新能源
+    - 光伏
+    - 储能
+    - 房地产
+    - 地方债
+    - 城投
+    - 汇率
+    - 人民币
+    - 美元指数
+
+  # 命中且无 core/sector 命中的，直接丢弃
+  exclude:
+    - 明星
+    - 综艺
+    - 影视
+    - 演唱会
+    - 体育
+    - 足球
+    - 篮球
+    - 彩票
+    - 天气
+    - 气温
+    - 星座
+    - 美食
+    - 旅游攻略
+
+  # 例行公告噪音：标题命中即降权或丢弃
+  routine_notice:
+    - 股东大会
+    - 章程
+    - 独立董事
+    - 述职
+    - 募集资金专户
+    - 保荐总结
+    - 持续督导
+    - 会计师事务
+
+# ----------------------------------------------------------
+# 渠道清单
+#   type: rss | sina | jin10 | szse | telegram | quote
+#   tier: official | exchange | authority | media | unverified
+#   region: cn | intl   （仅用于展示与统计，不影响流程）
+# ----------------------------------------------------------
+sources:
+  # ===== 国内 · 快讯与财经媒体 =====
+  - name: 新浪财经7×24
+    type: sina
+    tier: media
+    region: cn
+    enabled: true
+    interval: 30
+
+  - name: 金十数据
+    type: jin10
+    tier: media
+    region: cn
+    enabled: true
+    interval: 30
+
+  - name: 华尔街见闻
+    type: rss
+    tier: media
+    region: cn
+    enabled: true
+    interval: 60
+    url: "https://rsshub.app/wallstreetcn/live/global"
+
+  # 财新的 RSS 仍返回 200 但内容为空（付费墙），改用中新网财经
+  - name: 中新网财经
+    type: rss
+    tier: media
+    region: cn
+    enabled: true
+    interval: 180
+    url: "https://www.chinanews.com.cn/rss/finance.xml"
+
+  # 第一财经的接口返回网页而非 RSS，解析不出条目，改用人民网财经
+  - name: 人民网财经
+    type: rss
+    tier: authority
+    region: cn
+    enabled: true
+    interval: 180
+    url: "http://www.people.com.cn/rss/finance.xml"
+
+  # ===== 国内 · 交易所与监管（一手） =====
+  - name: 深交所公告
+    type: szse
+    tier: exchange
+    region: cn
+    enabled: true
+    interval: 60
+
+  - name: 上交所公告
+    type: rss
+    tier: exchange
+    region: cn
+    enabled: false
+    interval: 60
+    url: ""
+
+  - name: 巨潮资讯
+    type: rss
+    tier: exchange
+    region: cn
+    enabled: false
+    interval: 60
+    url: ""
+
+  # ===== 国内 · 官方发布 =====
+  # 中国政府网的 pushinfo RSS 已下线（404），且全站无可用 RSS。
+  # 改用人民网时政，覆盖国常会/部委通稿；但注意这是转载而非原文，等级下调为权威媒体。
+  - name: 人民网时政
+    type: rss
+    tier: authority
+    region: cn
+    enabled: true
+    interval: 300
+    url: "http://www.people.com.cn/rss/politics.xml"
+
+  - name: 国家统计局
+    type: rss
+    tier: official
+    region: cn
+    enabled: true
+    interval: 600
+    url: "https://www.stats.gov.cn/sj/zxfb/rss.xml"
+
+  # ===== 海外 · 通讯社与主流媒体 =====
+  - name: Reuters
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 60
+    url: "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml"
+
+  - name: WSJ Markets
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 120
+    url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+
+  - name: WSJ World
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+
+  - name: CNBC Top
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 90
+    url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+
+  - name: CNBC Economy
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://www.cnbc.com/id/20910258/device/rss/rss.html"
+
+  - name: MarketWatch
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 120
+    url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+
+  - name: Financial Times
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://www.ft.com/rss/home"
+
+  - name: NYT Business
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+
+  - name: Nikkei Asia
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://asia.nikkei.com/rss/feed/nar"
+
+  - name: SCMP
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://www.scmp.com/rss/91/feed"
+
+  - name: Al Jazeera
+    type: rss
+    tier: media
+    region: intl
+    enabled: true
+    interval: 180
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+
+  - name: 矿业与金属Mining
+    type: rss
+    tier: media
+    region: intl
+    enabled: true
+    interval: 600
+    url: "https://www.mining.com/feed/"
+
+  # ===== 海外 · 官方与央行 =====
+  - name: 美联储
+    type: rss
+    tier: official
+    region: intl
+    enabled: true
+    interval: 300
+    url: "https://www.federalreserve.gov/feeds/press_all.xml"
+
+  - name: 欧洲央行
+    type: rss
+    tier: official
+    region: intl
+    enabled: true
+    interval: 600
+    url: "https://www.ecb.europa.eu/rss/press.html"
+
+  - name: 日本央行
+    type: rss
+    tier: official
+    region: intl
+    enabled: true
+    interval: 600
+    url: "https://www.boj.or.jp/en/rss/whatsnew.xml"
+
+  - name: 美国能源署EIA
+    type: rss
+    tier: official
+    region: intl
+    enabled: true
+    interval: 600
+    url: "https://www.eia.gov/rss/todayinenergy.xml"
+
+  # IMF 官网已对非浏览器请求返回 403，改用 SEC 执法公告（对中概/港股监管风险更直接）
+  - name: 美国SEC
+    type: rss
+    tier: official
+    region: intl
+    enabled: true
+    interval: 600
+    url: "https://www.sec.gov/news/pressreleases.rss"
+
+  # BIS 的 RSS 路径已下线（全部 404），改用联邦公报 OFAC 制裁公告原文
+  # 制裁是关税之后对 A股/中概/大宗最直接的官方动作
+  - name: 美国OFAC制裁
+    type: rss
+    tier: official
+    region: intl
+    enabled: true
+    interval: 300
+    url: "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=office-of-foreign-assets-control"
+
+  # ===== 海外 · 商品与地缘垂直 =====
+  - name: OilPrice
+    type: rss
+    tier: media
+    region: intl
+    enabled: true
+    interval: 300
+    url: "https://oilprice.com/rss/main"
+
+  # ISW 全站被 Cloudflare 拦（403），改用国防一号 + 中东观察
+  - name: 国防一号DefenseOne
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 900
+    url: "https://www.defenseone.com/rss/all/"
+
+  # 中东地缘：直接对应原油与航运，是 ISW 俄乌视角的补充
+  - name: 中东观察AlMonitor
+    type: rss
+    tier: authority
+    region: intl
+    enabled: true
+    interval: 900
+    url: "https://www.al-monitor.com/rss"
+
+  # ===== Telegram 公开频道 =====
+  # 频道名填在 channel 里（不带 @），走云端抓取
+  - name: Telegram频道
+    type: telegram
+    tier: media
+    region: intl
+    enabled: false
+    interval: 30
+    channel: ""
+
+  # ===== 行情异动触发 =====
+  - name: 行情异动
+    type: quote
+    tier: exchange
+    region: cn
+    enabled: true
+    interval: 30
+    codes:
+      - sh000001
+      - sz399001
+      - sz399006
+      - sh000300
+      - sh000905
+      - sh000852
+    move_threshold: 1.2      # 单次轮询涨跌幅超过该值触发提醒
