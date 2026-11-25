@@ -1,5 +1,248 @@
 [
  {
+  "id": "7ec39b2f60d04acc",
+  "ts": "2026-11-25T22:41:16+08:00",
+  "title": "巴拉圭外长：巴西总统卢拉将于12月4日会见巴拉圭新总统",
+  "title_zh": "",
+  "body": "巴拉圭外长：巴西总统卢拉将于12月4日会见巴拉圭新总统。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykpy8495690.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d3d2301402f6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2616084939244178444,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "98c4509f6409d86f",
+  "ts": "2026-11-25T22:41:04+08:00",
+  "title": "加息预期与股市抛售双重施压，金价跌破3500美元",
+  "title_zh": "",
+  "body": "金十数据11月25日讯，随着股市抛售潮持续蔓延，加之关键通胀数据进一步强化了市场对美联储继续加息的预期，现货黄金价格失守3500美元/盎司关口，最低跌至3460美元/盎司。近期黄金跌势明显加速，上周金价累计暴跌近9%，目前有望连续第三个月下跌，且月跌幅均超过6%。华侨银行策略师Christopher Wong近日表示：“目前，实际收益率居高不下以及美元保持坚挺，仍是黄金面临的主要逆风。金价若要实现更持久的反弹，可能需要更明确的通胀降温证据，同时实际收益率有所回落，市场对美联储进一步收紧货币政策的预期也需要缓和。”Public Gold Bullion SG Pte全球业务负责人Chirag Sheth表示：“市场目前已经到了任何消息都会被解读为利空的地步。眼下，市场可能正在关注新一轮关税的到来。每当市场情绪如此悲观时，金价都有存在下跌5%左右的可能。”他同时指出，金价走弱也将吸引长期投资者入场。",
+  "summary": "金十数据11月25日讯，随着股市抛售潮持续蔓延，加之关键通胀数据进一步强化了市场对美联储继续加息的预期，现货黄金价格失守3500美元/盎司关口，最低跌至3460美元/盎司。近期黄金…",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 88.2,
+  "level": "L3",
+  "impact": "",
+  "cluster_id": "2b9d56305cb8",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 13914857999700566690,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=40 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "template",
+  "tries": 1
+ },
+ {
+  "id": "b539f2ede5668d2f",
+  "ts": "2026-11-25T22:40:20+08:00",
+  "title": "博通股价跌至2025年7月以来最低水平，最新下跌6.7%",
+  "title_zh": "",
+  "body": "博通股价跌至2025年7月以来最低水平，最新下跌6.7%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykpx1718742.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "429b63573631",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9446533586534012458,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5"
+ },
+ {
+  "id": "0ba2f0025e9bdc8d",
+  "ts": "2026-11-25T22:40:00+08:00",
+  "title": "Dell sees sales more than double — but its stock falls anyway",
+  "title_zh": "戴尔的销售额翻了一番多，但其股价仍旧下跌",
+  "body": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+  "summary": "",
+  "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 28.1,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "06b0bc7f56ec",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 11878463047688013568,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "9b061cb19c6eacbf",
+  "ts": "2026-11-25T22:39:47+08:00",
+  "title": "帝斯曼-芬美意与欧盟委员会和英国竞争与市场管理局达成和解",
+  "title_zh": "",
+  "body": "帝斯曼-芬美意与欧盟委员会和英国竞争与市场管理局达成和解。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykpy8494862.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 56.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "0d00f1c7f4b2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5491859447728185752,
+  "reason": "tier=55 ent=1['欧盟'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "712e57d6da42ab63",
+  "ts": "2026-11-25T22:39:09+08:00",
+  "title": "今年“三北”工程建设任务已完成过九成",
+  "title_zh": "",
+  "body": "记者从国家林草局25日召开的“三北”工程攻坚战工作推进会获悉，截至目前，今年“三北”工程建设任务已完成过九成，工程建设取得明显成效。（新华社）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykqc4153619.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "284067379e04",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7263618600839156043,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a51157baf4e2189f",
+  "ts": "2026-11-25T22:38:50+08:00",
+  "title": "纳斯达克中国金龙指数跌超1%，诺亚财富跌13.68%，万国数据跌11.09%，阿特斯跌10.00%，虎虎科技跌9.88%",
+  "title_zh": "",
+  "body": "，360数科跌8.24%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykpv9373514.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 48.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "57d55872b062",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14493012376089093023,
+  "reason": "tier=55 ent=1['纳斯达克'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
+  "id": "c0bf504adf915e32",
+  "ts": "2026-11-25T22:38:21+08:00",
+  "title": "第三季度营收增长后，理想汽车在美上市股票上涨3.2%",
+  "title_zh": "",
+  "body": "第三季度营收增长后，理想汽车在美上市股票上涨3.2%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykpy8494162.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d798a354bb1a",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15024616027307173038,
+  "reason": "tier=55 ent=1['理想汽车'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=4 op=N spread=2 burst=5"
+ },
+ {
+  "id": "324c30c99c509ace",
+  "ts": "2026-11-25T22:37:05+08:00",
+  "title": "半导体ETF跌7.05%，在美股盘初领跌行业ETF，科技行业ETF跌4.78%，全球科技股指数ETF跌4.63%，网络股",
+  "title_zh": "",
+  "body": "指数ETF跌3.38%，感恩节出行旺季来临之际全球航空业ETF跌2.92%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizykpy8493435.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 48.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7c592240f757",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13044556432275660861,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=8 op=N spread=0 burst=5"
+ },
+ {
+  "id": "3ad101975a3814ca",
+  "ts": "2026-11-25T22:36:29+08:00",
+  "title": "纳指跌4.00%，现报22784.062点",
+  "title_zh": "",
+  "body": "道指跌1.87%，现报49082.891点；标普500指数跌2.74%，现报7003.900点。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "87b942ac906c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11004209647798804077,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
   "id": "3ec55714b468537b",
   "ts": "2026-11-25T22:36:21+08:00",
   "title": "英国央行隆巴德利表示，经济比我们预期的更强劲",
@@ -84,16 +327,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 59.2,
+  "score": 61.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "a6e53ee0c4a5",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 13265257305749715237,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "db644bcf1a1864ef",
@@ -204,16 +448,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 50.4,
+  "score": 52.1,
   "level": "L1",
   "impact": "",
   "cluster_id": "5fe254b899f5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 10820896051411419216,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=5"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=5"
  },
  {
   "id": "288fb689d5f291dc",
@@ -301,16 +546,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 59.2,
+  "score": 61.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "884d160d1535",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11964423461205511302,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "f837c66cdb253c8e",
