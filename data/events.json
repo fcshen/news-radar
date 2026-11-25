@@ -1,5 +1,150 @@
 [
  {
+  "id": "c629f6a5b8cfcdbe",
+  "ts": "2026-11-26T03:11:33+08:00",
+  "title": "现货黄金反弹130美元转涨 美股金银走出超级V型行情",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，美股、现货金银大幅反弹走出V型行情，标普500指数跌幅收窄0.1%，此前跌超3%，道指一度跌超1100点，现涨330点；纳指跌幅收窄至0.58%，此前跌4.5%。贵金属同步反弹，现货黄金较日内低点反弹约130美元转涨，最低至3426美元，现报3557美元；现货白银跌幅收窄至0.3%，此前跌超6%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c235fc68c777",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15136063661141777309,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "8ff86b54c425934a",
+  "ts": "2026-11-26T03:10:24+08:00",
+  "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+  "title_zh": "贝恩资本主导的交易如何让SK海力士成为铠侠的最大股东",
+  "body": "",
+  "summary": "",
+  "url": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e01fb22e66e5",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 252313202127279154,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9ae3cacdaf1d1307",
+  "ts": "2026-11-26T03:07:21+08:00",
+  "title": "巴基斯坦国际航空表示，挪威大西洋航空在两班英国航班即将起飞前不久，未经通知便暂停湿租运营",
+  "title_zh": "",
+  "body": "巴基斯坦国际航空表示，挪威大西洋航空在两班英国航班即将起飞前不久，未经通知便暂停湿租运营。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7ba294ce565b",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 476250721847492139,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "46eec8078e16ef71",
+  "ts": "2026-11-26T03:07:14+08:00",
+  "title": "巴基斯坦国际航空：诺斯大西洋航空暂停湿租服务后，自 11 月 26 日起，巴航将使用自有波音 777 客机执飞英国航线",
+  "title_zh": "",
+  "body": "巴基斯坦国际航空：诺斯大西洋航空暂停湿租服务后，自 11 月 26 日起，巴航将使用自有波音 777 客机执飞英国航线。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cfbde0a01dec",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 487441707957072143,
+  "reason": "tier=55 ent=1['波音'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "1fb794e86fbdc7b2",
+  "ts": "2026-11-26T03:05:40+08:00",
+  "title": "美联储褐皮书：美国经济温和增长 消费支出基本持平",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，美联储褐皮书显示，12个联储辖区中有8个报告经济活动小幅至温和增长，4个地区基本持平。消费者支出变化不大，家庭对价格更加敏感，减少非必需消费，汽车销售有所放缓，住宅房地产活动也因购房负担较重而走弱。就业方面，整体就业人数小幅增加，多数企业维持现有员工规模，招聘主要用于填补离职空缺，企业对扩大招聘仍较为谨慎。工资和福利温和上涨，较上一期有所加快。物价整体温和上涨，能源、运输、医疗、保险及关税相关成本持续推高企业支出，但企业受竞争和消费者价格敏感度限制，难以将成本完全转嫁给客户。多数地区预计未来经济仍将保持小幅至温和增长。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 66.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "82a5cfd787ec",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16209331360974460515,
+  "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "e3a36165a3acdbb3",
+  "ts": "2026-11-26T03:03:42+08:00",
+  "title": "美国投资公司协会（ICI）数据：美国货币市场基金资产规模升至7.979万亿美元",
+  "title_zh": "",
+  "body": "美国投资公司协会（ICI）数据：美国货币市场基金资产规模升至7.979万亿美元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcu8348536.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "bc224f8cc21b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3438098162273136409,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "5daa031ca4e53297",
   "ts": "2026-11-26T03:03:21+08:00",
   "title": "美国批准拟向乌克兰出售F-16战机维持保障配套服务",
@@ -12,16 +157,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "30efae024912",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 10258793683230720316,
-  "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "32b0032efa1ecef0",
@@ -36,16 +182,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 40.2,
+  "score": 41.9,
   "level": "L0",
   "impact": "",
   "cluster_id": "7e77d976e297",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 6073519606350105106,
-  "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=Y spread=0 burst=1"
+  "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=Y spread=2 burst=1"
  },
  {
   "id": "ede1a494653fc3be",
@@ -181,16 +328,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "0c9795d04963",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1675713413996675268,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "dc25d11b0e9c973c",
@@ -215,6 +363,54 @@
   "pushed": false,
   "sh": 5684229533392027745,
   "reason": "tier=55 ent=1['russia'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "86d3f78948a3231c",
+  "ts": "2026-11-26T02:59:26+08:00",
+  "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+  "title_zh": "随着美国股市暴跌，世界对特朗普的新关税做出反应",
+  "body": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
+  "summary": "新关税是在美国贸易代表办公室发起为期八个月的调查之后出台的。",
+  "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 73.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "25f2dafebf25",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 2446565239189194805,
+  "reason": "tier=55 ent=1['trump'] pred=2 conv=0 combo=31 rel=22 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "0cf3a7db9b4df80a",
+  "ts": "2026-11-26T02:55:23+08:00",
+  "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
+  "title_zh": "埃及卫生部称，车辆起火事故造成至少30人死亡",
+  "body": "An additional 15 were injured in blaze of fire after vehicle carrying petroleum products flipped on a major road.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d8e63944a34b",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 1468165444503436948,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
  },
  {
   "id": "b0e4d3b18d959f5d",
