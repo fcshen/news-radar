@@ -36,6 +36,9 @@ jobs:
       - name: 首轮采集
         env:
           BARK_URL: ${{ secrets.BARK_URL }}
+          # 备用通道，没在仓库里配 Secret 时为空，代码会自动跳过
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: python main.py --once
@@ -53,6 +56,9 @@ jobs:
       - name: 长跑采集 + 每 30 分钟提交数据
         env:
           BARK_URL: ${{ secrets.BARK_URL }}
+          # 备用通道，没在仓库里配 Secret 时为空，代码会自动跳过
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: |
