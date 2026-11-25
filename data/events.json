@@ -1,5 +1,128 @@
 [
  {
+  "id": "cae5b206cd82b81e",
+  "ts": "2026-11-26T02:51:52+08:00",
+  "title": "据Axios：据三位知情人士透露，特朗普高级顾问库什纳周二敦促以色列总理内塔尼亚胡履行他对美国总统特朗普作出的承诺，实施",
+  "title_zh": "",
+  "body": "加沙和平计划 。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "df200315a44c",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 8844646974144660542,
+  "reason": "tier=55 ent=3['以色列', '特朗普'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "211be364b08654e6",
+  "ts": "2026-11-26T02:50:00+08:00",
+  "title": "美联储将于十分钟后公布经济状况褐皮书",
+  "title_zh": "",
+  "body": "美联储将于十分钟后公布经济状况褐皮书。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a933ae517940",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13330433024206801354,
+  "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "ff7fb484adbba370",
+  "ts": "2026-11-26T02:46:26+08:00",
+  "title": "加拿大考虑向斯特兰蒂斯提供现金，以维持多伦多地区工厂的汽车生产",
+  "title_zh": "",
+  "body": "加拿大考虑向斯特兰蒂斯提供现金，以维持多伦多地区工厂的汽车生产。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcr9206547.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "57cb329857bf",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3405249316726365459,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "a5877577dbadaf5d",
+  "ts": "2026-11-26T02:44:45+08:00",
+  "title": "标普：打算与英伟达董事会和管理层会面，讨论他们解决潜在缺陷的计划（如有）",
+  "title_zh": "",
+  "body": "标普：打算与英伟达董事会和管理层会面，讨论他们解决潜在缺陷的计划（如有）。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "01a3b2ff24a1",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 652720353969054153,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "4639dd933941447d",
+  "ts": "2026-11-26T02:43:32+08:00",
+  "title": "标普：预计英伟达的潜在评级下调幅度仅限于一档，除非调查或信息披露损害公司声誉或未来业务前景",
+  "title_zh": "",
+  "body": "标普：预计英伟达的潜在评级下调幅度仅限于一档，除非调查或信息披露损害公司声誉或未来业务前景。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcr9205706.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 52.9,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "d7e42ff20c34",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 3751647515320416290,
+  "reason": "tier=55 ent=1['英伟达'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=Y spread=2 burst=1"
+ },
+ {
   "id": "5f064ecacedcfddb",
   "ts": "2026-11-26T02:41:16+08:00",
   "title": "标普：英伟达CEO的离职与复职，未能充分解答我们对董事会监督高管行为准则的疑问",
@@ -216,7 +339,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1726252926443629977,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=1"
  },
@@ -316,7 +439,7 @@
   "sources": [
    "Financial Times"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 675701342392970874,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=5 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -340,7 +463,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 36649112903131139,
   "reason": "tier=55 ent=1['上期所'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -988,16 +1111,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "4c77faff2b8e",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 14982728510535342851,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "5bb98e627c07c286",
@@ -1211,7 +1335,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3323591935794394364,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
  },
