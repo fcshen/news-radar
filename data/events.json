@@ -1,5 +1,253 @@
 [
  {
+  "id": "5f064ecacedcfddb",
+  "ts": "2026-11-26T02:41:16+08:00",
+  "title": "标普：英伟达CEO的离职与复职，未能充分解答我们对董事会监督高管行为准则的疑问",
+  "title_zh": "",
+  "body": "标普：英伟达CEO的离职与复职，未能充分解答我们对董事会监督高管行为准则的疑问。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1564385.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a38780c9cff9",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16214741534100484480,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "79dbc71863d75a3a",
+  "ts": "2026-11-26T02:41:11+08:00",
+  "title": "标普：英伟达的管理和治理框架暴露出脆弱性，尤其是在董事会结构、构成和效能方面",
+  "title_zh": "",
+  "body": "标普：英伟达的管理和治理框架暴露出脆弱性，尤其是在董事会结构、构成和效能方面。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx3985006.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b6b4adfe9ee9",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 72145022527808808,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "6401fb2692d7974d",
+  "ts": "2026-11-26T02:40:51+08:00",
+  "title": "也门胡塞武装称他们袭击了吉达和贾赞港口",
+  "title_zh": "",
+  "body": "也门胡塞武装称他们袭击了吉达和贾赞港口。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1564231.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3a21fe837aa2",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5260269391451609217,
+  "reason": "tier=55 ent=1['胡塞'] pred=0 conv=0 combo=6 rel=6 sev=8 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "bef381bfed785776",
+  "ts": "2026-11-26T02:39:53+08:00",
+  "title": "标普将英伟达“AA”评级列入负面信用观察名单",
+  "title_zh": "",
+  "body": "标普将英伟达“AA”评级列入负面信用观察名单。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcu8340310.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0e6362313fd2",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 6993017577953260073,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "bbfa46b10acafca9",
+  "ts": "2026-11-26T02:39:41+08:00",
+  "title": "美国副总统万斯：（关于艾奥瓦州爆炸事件）政府做出了正确的决定",
+  "title_zh": "",
+  "body": "美国副总统万斯：（关于艾奥瓦州爆炸事件）政府做出了正确的决定。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcr9204639.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5e0163c7ea13",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1544965113708038186,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "3df4c78e484960d4",
+  "ts": "2026-11-26T02:38:51+08:00",
+  "title": "埃及卫生部：开罗环城公路事故死亡人数升至至少30人",
+  "title_zh": "",
+  "body": "埃及卫生部：开罗环城公路事故死亡人数升至至少30人。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1563596.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0ad8c128b93e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5589710351291732209,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "66fa8953f12e7fdd",
+  "ts": "2026-11-26T02:38:17+08:00",
+  "title": "美国副总统万斯就艾奥瓦州爆炸事件表示：这是一个持续存在的问题",
+  "title_zh": "",
+  "body": "美国副总统万斯就艾奥瓦州爆炸事件表示：这是一个持续存在的问题。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1563361.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 27.4,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e7527fc1ecec",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2153880450369765822,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "4809bc36a029c9bc",
+  "ts": "2026-11-26T02:35:06+08:00",
+  "title": "Anthropic首席执行官阿莫代伊：人类应继续作为政治和治理决策的制定者",
+  "title_zh": "",
+  "body": "Anthropic首席执行官阿莫代伊：人类应继续作为政治和治理决策的制定者。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1562175.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a85edeb27ccc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16278794281475126760,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "39552c277a06a296",
+  "ts": "2026-11-26T02:33:57+08:00",
+  "title": "美国副总统万斯：黄仁勋将非常认真地对待出口管制",
+  "title_zh": "",
+  "body": "美国副总统万斯：黄仁勋将非常认真地对待出口管制。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcu8338178.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "6e69531c697f",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1726252926443629977,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "1c0050e3db93778f",
+  "ts": "2026-11-26T02:33:40+08:00",
+  "title": "美国副总统万斯谈英伟达：这是该公司遵守出口管制的一个机会",
+  "title_zh": "",
+  "body": "美国副总统万斯谈英伟达：这是该公司遵守出口管制的一个机会。",
+  "summary": "美国副总统万斯谈英伟达：这是该公司遵守出口管制的一个机会。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx3982987.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 77.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "9ff08c8c0115",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 405446579624214714,
+  "reason": "tier=55 ent=1['英伟达'] pred=1 conv=0 combo=26 rel=21 sev=8 pct=0 op=N spread=2 burst=1",
+  "engine": "template",
+  "tries": 1
+ },
+ {
   "id": "7dc2e56f2fd984e0",
   "ts": "2026-11-26T02:32:49+08:00",
   "title": "美国副总统万斯：我们被告知黄仁勋没有受到调查",
@@ -12,16 +260,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 40.2,
+  "score": 42.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "4fc78ade52d5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 4031482477236503652,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "37b873cb405c09db",
@@ -46,6 +295,30 @@
   "pushed": false,
   "sh": 11746707933882714083,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "d95c59b0f1f0fc91",
+  "ts": "2026-11-26T02:30:41+08:00",
+  "title": "US stocks sell-off deepens as AI trade cracks",
+  "title_zh": "随着人工智能板块行情破裂，美股抛售加剧",
+  "body": "Tech-heavy Nasdaq 100 tumbles with chip giant Nvidia among losers",
+  "summary": "科技股为主的纳斯达克100指数大跌，芯片巨头英伟达位列跌幅榜前列",
+  "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 50.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "4ffdc032d786",
+  "sources": [
+   "Financial Times"
+  ],
+  "pushed": false,
+  "sh": 675701342392970874,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=5 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "fd7727eb92a1d12e",
@@ -411,6 +684,30 @@
   "pushed": false,
   "sh": 11855718203645805174,
   "reason": "tier=55 ent=1['美联储'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "4962b3fcfba0fbee",
+  "ts": "2026-11-26T02:14:44+08:00",
+  "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+  "title_zh": "尼日利亚的蒂努布承诺为受叛乱影响的边境地区带来和平",
+  "body": "Tinubu is under pressure to convince voters that military operations in the country s northeast will deliver security.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "700e90dc10ff",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 2420370372750740517,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "41fbfe9a8c369689",
@@ -3312,16 +3609,17 @@
   "region": "intl",
   "lang": "en",
   "channel": "rss",
-  "score": 51.0,
+  "score": 53.0,
   "level": "L1",
   "impact": "",
   "cluster_id": "0da12d61d31d",
   "sources": [
-   "CNBC Top"
+   "CNBC Top",
+   "Financial Times"
   ],
   "pushed": true,
   "sh": 9491133373145585811,
-  "reason": "tier=80 ent=1['russia'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=80 ent=1['russia'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "45d627fcc4f20344",
