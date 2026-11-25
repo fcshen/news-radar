@@ -1,5 +1,77 @@
 [
  {
+  "id": "9e2399aa61964975",
+  "ts": "2026-11-26T04:13:30+08:00",
+  "title": "秘鲁央行行长：秘鲁11月通胀率可能高于5.25%",
+  "title_zh": "",
+  "body": "秘鲁央行行长：秘鲁11月通胀率可能高于5.25%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzmr1467911.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "2e6108fe9d98",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11673349228431713057,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=8 op=N spread=0 burst=1"
+ },
+ {
+  "id": "754393f038764982",
+  "ts": "2026-11-26T04:07:57+08:00",
+  "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+  "title_zh": "SpaceX、马斯克承诺向特朗普的活跃账户各捐赠一股",
+  "body": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+  "summary": "",
+  "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 42.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "20f1bcec625e",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 121811058912692753,
+  "reason": "tier=80 ent=1['trump'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "429d2b3cbd2141aa",
+  "ts": "2026-11-26T04:06:08+08:00",
+  "title": "Huang back at Nvidia as China builds own chip production system",
+  "title_zh": "随着中国建立自己的芯片生产体系，黄仁勋重返英伟达",
+  "body": "",
+  "summary": "",
+  "url": "https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 52.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "00d6a44aec01",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 6705280550124830431,
+  "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=17 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "5d0c0a4ab5b74a79",
   "ts": "2026-11-26T04:00:00+08:00",
   "title": "Cheaper Gasoline Won't Fix the Diesel Squeeze Hitting Freight Costs",
