@@ -7,6 +7,7 @@ config.yaml / settings.json / 源码目录一律 404，
 """
 import json
 import mimetypes
+import re
 import socket
 import threading
 import time
@@ -98,8 +99,15 @@ class Handler(BaseHTTPRequestHandler):
     def _get_settings(self):
         s = cfg_mod.read_settings()
         url = s.get("bark_url") or ""
+        hook = s.get("wecom_webhook") or ""
+        topic = s.get("ntfy_topic") or ""
         self._json({"bark_configured": bool(url),
                     "bark_url_masked": cfg_mod.mask_url(url),
+                    "wecom_configured": bool(hook),
+                    "wecom_masked": cfg_mod.mask_secret(hook, 6),
+                    "ntfy_configured": bool(topic),
+                    "ntfy_masked": cfg_mod.mask_secret(topic, 4),
+                    "ntfy_server": s.get("ntfy_server") or "",
                     "browser": s.get("browser") or "auto"})
 
     def _save_settings(self, body):
@@ -109,6 +117,21 @@ class Handler(BaseHTTPRequestHandler):
             if url and not url.startswith(("http://", "https://")):
                 return self._json({"error": "推送地址应以 http(s):// 开头"}, 400)
             patch["bark_url"] = url or None
+        if "wecom_webhook" in body:
+            hook = (body.get("wecom_webhook") or "").strip()
+            if hook and not hook.startswith("https://qyapi.weixin.qq.com/"):
+                return self._json({"error": "企业微信地址应以 https://qyapi.weixin.qq.com/ 开头"}, 400)
+            patch["wecom_webhook"] = hook or None
+        if "ntfy_topic" in body:
+            topic = (body.get("ntfy_topic") or "").strip()
+            if topic and not re.fullmatch(r"[A-Za-z0-9_-]{1,64}", topic):
+                return self._json({"error": "ntfy 频道名只能用字母、数字、下划线、短横线"}, 400)
+            patch["ntfy_topic"] = topic or None
+        if "ntfy_server" in body:
+            srv = (body.get("ntfy_server") or "").strip()
+            if srv and not srv.startswith(("http://", "https://")):
+                return self._json({"error": "服务器地址应以 http(s):// 开头"}, 400)
+            patch["ntfy_server"] = srv or None
         if "browser" in body:
             b = (body.get("browser") or "auto").strip().lower()
             if b not in cfg_mod.BROWSER_CHOICES:
@@ -121,16 +144,23 @@ class Handler(BaseHTTPRequestHandler):
         s = cfg_mod.read_settings()
         self._json({"ok": True,
                     "bark_url_masked": cfg_mod.mask_url(s.get("bark_url") or ""),
+                    "wecom_masked": cfg_mod.mask_secret(s.get("wecom_webhook") or "", 6),
+                    "ntfy_masked": cfg_mod.mask_secret(s.get("ntfy_topic") or "", 4),
                     "browser": s.get("browser") or "auto"})
 
     def _test_push(self):
         cfg = cfg_mod.load_config()
-        ok, msg = notify.bark(
-            cfg.get("notify"),
+        ok, ch, detail = notify.deliver(
+            cfg,
             "🔴 测试推送",
             "收到这条，说明手机通知已经通了。\n真实告警会带来源和时间。",
             "", "L2")
-        self._json({"ok": bool(ok), "message": "已发送，看看手机" if ok else str(msg)})
+        if ok:
+            used = notify.LABEL.get(ch, ch)
+            msg = f"已发送（{used}），看看手机" if ch != "bark" else "已发送，看看手机"
+        else:
+            msg = detail or "没有可用通道"
+        self._json({"ok": bool(ok), "channel": ch, "message": msg})
 
     # ---------------- 输出 ----------------
     def _file(self, path, ctype, nocache=False):
