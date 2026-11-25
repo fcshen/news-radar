@@ -7,6 +7,8 @@ runtime:
   poll_seconds: 30          # 每轮抓取间隔（免费版下限 20 秒）
   max_run_minutes: 350      # 单次任务最长运行 5h50m，留给 GitHub 6h 上限
   backfill_minutes: 120     # 启动时回溯补抓的时间窗口
+  retry_minutes: 90         # 补推窗口：这段时间内没送达的 L2/L3 会重试
+  retry_max: 3              # 单条最多重试几次，避免打不通时无限重试
   timezone: Asia/Shanghai
 
 # ----------------------------------------------------------
@@ -23,7 +25,7 @@ thresholds:
 notify:
   bark:
     enabled: true
-    url: ""                 # 形如 https://api.day.app/xxxxxxxx
+    url: ""                 # 形如 https://api.day.app/xxxxxxxx（真实地址放 settings.json 或环境变量 BARK_URL）
     sound: ""               # 留空用默认
     level3_sound: "alarm"   # L3 强提醒音
     group: "金融雷达"
