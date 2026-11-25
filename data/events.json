@@ -1,5 +1,53 @@
 [
  {
+  "id": "29bc57e0830ce864",
+  "ts": "2026-11-26T03:52:34+08:00",
+  "title": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
+  "title_zh": "中国称议员的台湾之行越过了“第一条红线”，哥伦比亚保持沉默",
+  "body": "A multiparty group of Colombian lawmakers visiting Taiwan has drawn a formal protest from China, while President Abelardo de la Espriella’s government has stayed silent for two days as of Wednesday, even as the pressure from Beijing has intensified. China’s embassy in Bogota demanded on Monday that both the government and Congress “publicly reiterate” their commitment to the one-China principle and “immediately take effective measures to correct the error and eliminate the negative impact”. It...",
+  "summary": "",
+  "url": "https://www.scmp.com/news/china/diplomacy/article/3375815/colombia-quiet-china-says-lawmakers-taiwan-trip-crossed-its-first-red-line",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 39.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "483617eab9c9",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 8749621215159480080,
+  "reason": "tier=80 ent=1['taiwan'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "406539ff35853d67",
+  "ts": "2026-11-26T03:43:00+08:00",
+  "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+  "title_zh": "随着股价持续低迷，英伟达正面临自2025年3月以来的首次“死亡交叉”",
+  "body": "This tape has not been kind to Nvidia.",
+  "summary": "",
+  "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 42.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "dfb0164207e4",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 1153134424461969781,
+  "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "ca5a4f9cd1c7eef7",
   "ts": "2026-11-26T03:42:17+08:00",
   "title": "美国参议员沃伦、范霍伦要求美国证券交易委员会撤销加密货币相关方案",
@@ -22,6 +70,30 @@
   "pushed": false,
   "sh": 1499287738438293426,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "5b8788d15d5cb8a2",
+  "ts": "2026-11-26T03:41:49+08:00",
+  "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
+  "title_zh": "美国陆军宣布爱荷华州叠氮化铅引爆“大获成功”",
+  "body": "Army hails Iowa s lead azide disposal operation as some experts warn of potentially hidden toxins.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "072208efbc20",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 85412824853133370,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "5f7f9b6b0fe0da2c",
@@ -91,7 +163,7 @@
   "sources": [
    "MarketWatch"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 893970627447586881,
   "reason": "tier=80 ent=1['the fed'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=Y spread=0 burst=1"
  },
@@ -165,7 +237,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4828830772701777095,
   "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=1"
  },
@@ -262,7 +334,7 @@
   "sources": [
    "矿业与金属Mining"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15227235079712199455,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -431,7 +503,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1532694622061340038,
   "reason": "tier=55 ent=1['russia'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -648,7 +720,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16209331360974460515,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -843,7 +915,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 857708354664984903,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=N spread=0 burst=1"
  },
