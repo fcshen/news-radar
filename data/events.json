@@ -1,5 +1,391 @@
 [
  {
+  "id": "69c89c13ad4b1d1d",
+  "ts": "2026-11-26T07:36:02+08:00",
+  "title": "科创债快速扩容 年内发行规模达1.7万亿元",
+  "title_zh": "",
+  "body": "作为债券市场服务科技创新的重要载体，科创债发行规模持续保持在高位水平。Wind数据显示，以发行起始日为统计口径，截至11月25日，科创债发行规模年内已达1.70万亿元，发行数量1730只。与此同时，二级市场配套机制同步完善，24只科创债ETF总规模达3364亿元，与成立之初的规模相比增长明显，不断吸引增量资金入场。业内人士指出，科创债快速扩容，标志着债市“科技板”建设取得实质性成效。但也要看到，部分硬科技细分赛道发债规模仍相对有限，后续还需进一步完善增信工具与风险分担机制，扩大债券融资对科创企业的覆盖范围。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1453562.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 43.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "56729c3ac2ac",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16584127863553388111,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "f5c013bbcdc36508",
+  "ts": "2026-11-26T07:34:54+08:00",
+  "title": "Macy’s Thanksgiving Day Parade postponed, as New York braces for huge storm",
+  "title_zh": "纽约为应对大风暴做好准备，梅西百货感恩节游行推迟举行",
+  "body": "Macy’s 100th Thanksgiving Day Parade will also be a first: organisers made an unprecedented decision to postpone the event to Saturday because of bad weather. The annual parade, originally scheduled for Thursday, has been moved “out of an abundance of caution” and following consultation with city officials about the severe weather, Macy’s said in a statement on Wednesday. “Our team is now working through the complex operational logistics required to bring the Parade to life on Saturday, and we...",
+  "summary": "",
+  "url": "https://www.scmp.com/news/world/united-states-canada/article/3375820/macys-thanksgiving-day-parade-postponed-new-york-braces-huge-storm",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9bca0b996c69",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 14109534603682097773,
+  "reason": "与市场无关"
+ },
+ {
+  "id": "06ab8165f04fd428",
+  "ts": "2026-11-26T07:34:39+08:00",
+  "title": "伯里认为，市场波动率上升已推高看跌期权成本，因此暂时减少相关空头头寸",
+  "title_zh": "",
+  "body": "他仍看空AI，并计划在英伟达接近200美元时重新建立空头仓位。点击查看...",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236113",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 19.8,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9e062b73405e",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 946820370966830959,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=4"
+ },
+ {
+  "id": "ec242ff646a31533",
+  "ts": "2026-11-26T07:33:22+08:00",
+  "title": "震荡行情拾筹码 社保基金频出手",
+  "title_zh": "",
+  "body": "在震荡调整行情中，社保基金频频出手。上市公司近期公告显示，社保基金不仅加仓了多家有色金属龙头公司，还买入了多家科技公司的股票。在部分业内人士看来，作为长线资金的代表，社保基金持仓看重长期价值，在震荡行情中主动出手，有利于提振市场信心。（上海证券报）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1451765.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "90d1fcedb119",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10630562151044773684,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "94aed16ae293aeac",
+  "ts": "2026-11-26T07:32:44+08:00",
+  "title": "上市公司回购增持升温 银行加快投放专项贷款",
+  "title_zh": "",
+  "body": "近期，金融机构明显加大对上市公司股票回购增持的支持力度。近日，震裕科技、瑞丰新材、赣锋锂业、复星医药等公告称，已取得金融机构股票回购增持专项贷款承诺函。从回购资金来源看，上市公司除了运用自有资金，还借助银行提供的专项贷款。截至11月25日，11月以来已有123家上市公司公告取得股票回购增持专项贷款承诺函，这一节奏较往月明显提速。记者了解到，银行积极投放股票回购增持专项贷款，用真金白银提振市场信心、稳定市场预期。（上海证券报）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8227727.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 63.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "5a987ec520b5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 5847850961378171579,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=24 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "d9348352dc6cf71c",
+  "ts": "2026-11-26T07:32:19+08:00",
+  "title": "新股提示：猎奇智能今日申购",
+  "title_zh": "",
+  "body": "今日可申购猎奇智能，猎奇智能发行市盈率31.3倍，申购代码301661，申购价格97.53元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8227390.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3d35bab39282",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10214592738113413147,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "7481a0757678bf86",
+  "ts": "2026-11-26T07:32:01+08:00",
+  "title": "年末“冲量”提前启动 个人养老金将迎增量资金",
+  "title_zh": "",
+  "body": "临近12月，银行的个人养老金缴存推广活动提前铺开，基金公司也在为相关产品积极拓展代销渠道。同时，记者获悉，近日有基金公司收到监管方口头通知，旗下“固收+”基金有望申请增设Y类份额，新一批产品后续有望亮相。部分业内人士认为，岁末往往是个人养老金的缴存高峰期，随着更多含权产品进入个人养老金基金池，市场或迎来新的长期增量资金。（上海证券报）",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0123a3ff993d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3662073912374545615,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "5458b585b8f66186",
+  "ts": "2026-11-26T07:31:32+08:00",
+  "title": "日经期货在新加坡交易所开盘上涨325点，报57300点",
+  "title_zh": "",
+  "body": "日经期货在新加坡交易所开盘上涨325点，报57300点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1450337.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f5b091b9e5b5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1271081143038215037,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "d37b0ecf11090515",
+  "ts": "2026-11-26T07:31:24+08:00",
+  "title": "华为对外专利许可协议累计金额超69亿美元",
+  "title_zh": "",
+  "body": "据华为披露，截至目前，华为对外专利许可协议累计金额超69亿美元，其中2025年的专利许可收入约为8亿美元。截至2025年底，超过32亿部5G设备、超过16亿台Wi-Fi消费电子终端及超过41亿台多媒体设备获得了华为的专利授权。2025年华为增加了20个被许可人，覆盖网络与通信设备、消费电子与计算、物联网、汽车、流媒体和半导体等领域。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8226618.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 43.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9da5b59da637",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17015657318152685836,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "e71a2240d138e351",
+  "ts": "2026-11-26T07:31:14+08:00",
+  "title": "刘海星会见古巴共产党干部考察团",
+  "title_zh": "",
+  "body": "11月25日，中共中央对外联络部部长刘海星在北京会见由古共中央书记处书记、中央经济与生产部部长布洛切率领的古巴共产党干部考察团。刘海星表示，中方始终从战略高度和长远角度看待和发展中古关系。近年来，在习近平总书记和迪亚斯-卡内尔第一书记亲自关心下，中古两党关系成为两国关系全面深入发展的重要基石。面对世界之变、时代之变、历史之变，中国共产党愿同古巴共产党一道，落实好两党两国最高领导人重要共识，加强高层交往，深化治党治国经验互鉴，推进干部培训等合作，密切两党职能部门间交往，推动中古特殊友好不断走深走实。刘海星介绍了中国共产党105年奋斗历程特别是领导改革开放的基本经验，表示中方坚定支持古巴走社会主义道路，并坚信在古共坚强领导下，古巴人民一定能克服当前困难，维护好国家主权、安全与稳定，不断推进社会主义事业发展。中方将一如既往提供力所能及的帮助。布洛切表示，古巴党和政府始终高度重视并优先发展同中国各领域合作关系，衷心感谢中方对古经济社会发展提供的重要支持。当前，古巴正在全力推进落实经济社会转型举措，愿学习中国改革开放各方面宝贵经验。古共珍视同中国共产党的特殊友好关系，愿继续发挥好两党关系对两国关系的战略引领作用，用好两党理论研讨会、省市干部交流等机制，深化治国理政经验交流，促进各领域务实合作，共同推进两国社会主义事业发展。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8226443.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "616c8423cb9a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11863891688759127617,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "fbbad613a5b21dd8",
+  "ts": "2026-11-26T07:30:40+08:00",
+  "title": "赫格塞斯及五角大楼官员曾提议动用战时法律重新任命英伟达CEO",
+  "title_zh": "",
+  "body": "据《华盛顿邮报》报道，在近期针对英伟达的讨论中，五角大楼领导层曾探讨过援引《国防生产法》（Defense Production Act）向该公司施压，以促使其恢复黄仁勋的首席执行官职务。据三位知情人士透露，上周末，特朗普政府高级官员就深陷争议的AI巨头英伟达举行闭门会议，五角大楼高层曾考虑采取一项大胆举措：援引一项冷战时期的法律向英伟达施压，要求其恢复黄仁勋的首席执行官职务。虽然特朗普政府最终并未正式动用该法案，但特朗普总统与万斯副总统的直接介入，仍对黄仁勋最终重返英伟达发挥了推动作用。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8225948.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "952cf491b06f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9511836771316611557,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "92b75ab8b8da7f97",
+  "ts": "2026-11-26T07:30:23+08:00",
+  "title": "US trading partners’ patience wears thin as Trump slaps on new tariffs",
+  "title_zh": "随着特朗普加征新关税，美国贸易伙伴的耐心正在消磨殆尽",
+  "body": "Major US trading partners and companies on the economic front lines decried US President Donald Trump’s latest tariff salvo on Wednesday, even as they expressed resignation, as his playbook has become more predictable and better telegraphed with repeated use. This followed the White House’s proposal of fresh tariffs a few hours earlier on 14 major economies, including China, a week after Trump met Chinese President Xi Jinping in Shenzhen. The new levies, subject to a public comment period, would...",
+  "summary": "周三，美国的主要贸易伙伴和处于经济前线的公司对美国总统唐纳德·特朗普最近的关税攻势表示谴责，尽管他们也表示无奈，因为随着特朗普的策略被反复使用，其套路已变得更加可预测，也更容易被看穿。",
+  "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375819/us-trading-partners-patience-wears-thin-trump-slaps-new-tariffs",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 85.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "665462f34ff5",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": true,
+  "sh": 7972449249344935997,
+  "reason": "tier=80 ent=1['trump'] pred=1 conv=0 combo=26 rel=27 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "template",
+  "tries": 1
+ },
+ {
+  "id": "53688c7899b0f205",
+  "ts": "2026-11-26T07:28:10+08:00",
+  "title": "氢氧化锂期货期权上市 锂产业再添风险管理工具",
+  "title_zh": "",
+  "body": "11月26日、27日，广州期货交易所（简称“广期所”）氢氧化锂期货和期权将相继挂牌上市。氢氧化锂期货将成为广期所挂牌交易的第六个品种，这意味着磷酸铁锂、高镍三元两大正极材料路线被完整纳入期货定价与避险框架，产业链套期保值链条就此形成闭环。记者近日采访了中国有色金属工业协会锂业分会、贸易企业、期货公司及产业企业代表。部分业内人士认为，氢氧化锂期货和期权上市，将与碳酸锂期货和期权形成协同，进一步丰富锂产业风险管理工具，为新能源产业链稳链保供和高质量发展提供金融支撑。（上海证券报）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftm9063011.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "d1ddb4576fc2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 2634676984142332310,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "f94320d15d0d00ca",
+  "ts": "2026-11-26T07:27:33+08:00",
+  "title": "波斯湾石油出口持续承压 原油市场重新计入地缘风险",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，油价连续两个交易日上涨后在周四盘初企稳，中东地区持续不断的军事冲突威胁到该地区原油出口复苏，令市场担忧供应可能受到干扰。WTI期货价格徘徊在每桶84美元附近，此前两个交易日累计上涨逾4%。布伦特原油收于每桶95美元下方。胡塞武装持续袭击沙特，包括其主要石油出口枢纽拉斯塔努拉港。伊朗还声称，11月25日有两艘途经霍尔木兹海峡的油轮触雷。道明证券高级大宗商品策略师Ryan McKay表示：“只要冲突尚未结束，原油价格就应继续包含一定的风险溢价。”他补充称，在伊朗多次发动袭击后，波斯湾地区的石油出口量一直在下降。由于周四适逢感恩节假期，预计市场交投将较为清淡。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 63.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "cabd6242940e",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 9331573672889863180,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "a2134ba4cfd1496c",
+  "ts": "2026-11-26T07:27:19+08:00",
+  "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日保持不变，当前持仓量为1027.31吨",
+  "title_zh": "",
+  "body": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日保持不变，当前持仓量为1027.31吨。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 39.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "96d1b4a0d504",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13127601223999178264,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "d1b19000f15b6043",
+  "ts": "2026-11-26T07:26:52+08:00",
+  "title": "铝价下行侵蚀电解铝利润 加工企业“锁价”避险",
+  "title_zh": "",
+  "body": "受美元加息预期及海外流动性收紧影响，国际铝价近期出现明显下跌。Wind数据显示，截至11月25日19时，11月以来，LME铝累计跌幅已超过10%。记者多方采访了解到，国际铝价下跌对产业链上市公司影响不一。电解铝锭加工及销售企业首当其冲，利润会受到侵蚀。对于中游铝型材加工企业来说，一般会在签订合同时和下游锁定铝锭价格，因此铝锭价格波动对加工企业影响有限。（中国证券报）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3842339.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 46.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f294f1c75acc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8818929334419280129,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "16fecebb21a81e6b",
   "ts": "2026-11-26T07:26:07+08:00",
   "title": "高端PCB排单延至2028年 算力赛道带动产业链扩产",
@@ -235,7 +621,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15238600207851448640,
   "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -307,9 +693,33 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5544280179938108856,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=32 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "c0a459252f960502",
+  "ts": "2026-11-26T07:20:03+08:00",
+  "title": "King tides and big waves batter coastal California",
+  "title_zh": "加利福尼亚州沿海遭受超级潮汐和大浪的袭击",
+  "body": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6e6e15f37396",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 10554187211013315592,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
  },
  {
   "id": "10f25432bc43af4b",
@@ -355,7 +765,7 @@
   "sources": [
    "Financial Times"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10536247195021228694,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=20 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -523,7 +933,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 746609209601708271,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=24 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -596,7 +1006,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3196899298337681484,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=4"
  },
