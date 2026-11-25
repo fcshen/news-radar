@@ -1,5 +1,221 @@
 [
  {
+  "id": "d116c22a1c5d318c",
+  "ts": "2026-11-26T05:55:07+08:00",
+  "title": "巴西央行：禁止金融机构增加对无担保债务逾期超过90天客户的无担保贷款产品敞口",
+  "title_zh": "",
+  "body": "巴西央行：禁止金融机构增加对无担保债务逾期超过90天客户的无担保贷款产品敞口。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzms8293844.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "44ea9d04b3fd",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17080778714948792639,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "077002d0c4149082",
+  "ts": "2026-11-26T05:54:28+08:00",
+  "title": "美国汽车零售企业America's Car-Mart因提交破产申请，将从纳斯达克退市，相关文件已提交美国证券交易委员会备",
+  "title_zh": "",
+  "body": "案。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzms8293526.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 80.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "f383dc33ff61",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13118215507334399635,
+  "reason": "tier=55 ent=1['纳斯达克'] pred=2 conv=0 combo=31 rel=14 sev=15 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "be5f6f00dd2af911",
+  "ts": "2026-11-26T05:53:18+08:00",
+  "title": "网红券商Robinhood没能在体彩集体诉讼中实现强迫仲裁",
+  "title_zh": "",
+  "body": "网红券商Robinhood没能在体彩集体诉讼中实现强迫仲裁。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzms8292884.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f505cbd5e392",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2999403854598392237,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "c4ea653bd1555f67",
+  "ts": "2026-11-26T05:52:25+08:00",
+  "title": "美强化金融制裁 伊警告海峡通航风险 双方陷消耗战",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，当地时间25日，霍尔木兹海峡连续发生多起船只触雷起火事件。近日公布的统计数据显示，在该海峡遭袭的船舶数量正处于美以伊冲突爆发以来的最高位置。此外，美国继续加强对伊朗的金融制裁，伊朗则回应称不惧怕美国封锁。分析指出，未来一段时间，美伊大概率将继续维持“不战不和”的高消耗状态，双方将在避免发生全面战争的前提下，寻找对方的结构性弱点。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 80.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "83a8b4e95114",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4648918486165157042,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=40 sev=8 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9c09a8b9b8ed13ff",
+  "ts": "2026-11-26T05:50:38+08:00",
+  "title": "巴西央行：信用卡发行机构将被要求逐步降低未全额还款客户的信用额度",
+  "title_zh": "",
+  "body": "巴西央行：信用卡发行机构将被要求逐步降低未全额还款客户的信用额度。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzmp9143377.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 67.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "f978add1c742",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12367688792403945261,
+  "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "eea833bd75a260d4",
+  "ts": "2026-11-26T05:50:07+08:00",
+  "title": "哥伦比亚对内特・莫里斯获批准出任美国驻该国大使表示欢迎",
+  "title_zh": "",
+  "body": "哥伦比亚对内特・莫里斯获批准出任美国驻该国大使表示欢迎。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzmp9143160.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ad59f18b887f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7938123261254712288,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "82b419a45bbff5eb",
+  "ts": "2026-11-26T05:50:00+08:00",
+  "title": "Nvidia’s stock has given back more than half of Monday’s rally as dip buyers cash in",
+  "title_zh": "随着逢低买入者获利了结，英伟达的股价已回吐周一涨幅的一半以上",
+  "body": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
+  "summary": "",
+  "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 42.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a0970d4a9375",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 10649183713214378017,
+  "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "f02aae0b686e9874",
+  "ts": "2026-11-26T05:48:30+08:00",
+  "title": "同一家机构给出相反评级 Anthropic成华尔街多空分歧焦点",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，华尔街同一家研究机构的两名股票分析师罕见地对当前市场最热门的股票之一——Anthropi，给出了截然相反的前景判断。一方面，Hedgeye Risk Management的通信与软件分析师Andrew Freedman周三在接受采访时表示，目前该股股价处于对长期投资者具有吸引力的水平。另一方面，他的同事、全球科技分析师Felix Wang周二向客户发送报告，建议做空该股。Wang的悲观看法主要基于两方面：Anthropic赖以获取算力的数据中心融资难度日益增加，以及市场对其人工智能模型长期商业需求的担忧。相比之下，Freedman看好Anthropic成为商业世界全新操作系统的潜力，同时认为短期需求表现强劲。Wang预计该股将跌至59美元，而Freedman给出的合理估值目标为92美元。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d56b10356ec3",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 17743555476637392643,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "a0ab459a4853e817",
+  "ts": "2026-11-26T05:47:05+08:00",
+  "title": "巴西央行批准了一项旨在防止频繁使用循环信用卡债务的规则",
+  "title_zh": "",
+  "body": "巴西央行批准了一项旨在防止频繁使用循环信用卡债务的规则。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "df4fadf5b9d9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2422665402490425428,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "a1bd803d50e248c0",
   "ts": "2026-11-26T05:45:22+08:00",
   "title": "巴西中央银行与国家货币委员会批准有关信贷发放相关风险审慎处理的措施",
@@ -1559,16 +1775,17 @@
   "region": "intl",
   "lang": "en",
   "channel": "rss",
-  "score": 42.0,
+  "score": 44.0,
   "level": "L0",
   "impact": "",
   "cluster_id": "20f1bcec625e",
   "sources": [
-   "CNBC Top"
+   "CNBC Top",
+   "MarketWatch"
   ],
   "pushed": false,
   "sh": 121811058912692753,
-  "reason": "tier=80 ent=1['trump'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=80 ent=1['trump'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "429d2b3cbd2141aa",
@@ -2769,16 +2986,17 @@
   "region": "intl",
   "lang": "en",
   "channel": "rss",
-  "score": 17.2,
+  "score": 18.9,
   "level": "L0",
   "impact": "",
   "cluster_id": "d8e63944a34b",
   "sources": [
-   "Al Jazeera"
+   "Al Jazeera",
+   "中东观察AlMonitor"
   ],
   "pushed": false,
   "sh": 1468165444503436948,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=1"
  },
  {
   "id": "b0e4d3b18d959f5d",
