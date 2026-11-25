@@ -189,27 +189,54 @@ function paintMeta(){
     : `库内 ${ALL.length} 条`;
 }
 
+// 主站与 CDN 镜像（jsDelivr 直接读同一仓库同一分支，内容一致）
+const PAGES="data/feed.json";
+const CDN="https://cdn.jsdelivr.net/gh/fcshen/news-radar@main/data/feed.json";
+
+function grab(u, signal){
+  return fetch(u,{cache:"no-cache",signal})
+    .then(r=>{ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+    .then(j=>{
+      const ev = Array.isArray(j) ? j : (j.events||[]);
+      if(!ev.length) throw new Error("空数据");
+      return j;
+    });
+}
+
 async function load(manual){
   const btn=$("refresh");
   if(manual) btn.classList.add("spin");
   const ctl=new AbortController();
   const kill=setTimeout(()=>ctl.abort(),20000);
   try{
-    // 精简版优先（约 55KB，全量归档约 240KB）；no-cache 走 ETag 校验，
-    // 数据没变时服务器回 304，几乎不耗流量。
-    let r=await fetch("data/feed.json",{cache:"no-cache",signal:ctl.signal});
-    if(!r.ok) r=await fetch("data/events.json",{cache:"no-cache",signal:ctl.signal});
-    if(!r.ok) throw new Error("HTTP "+r.status);
-    const j=await r.json();
+    // 主站与 CDN 镜像并发请求，谁先给出完整数据就用谁：
+    // 国内网络到 GitHub Pages 时快时慢（实测 0.6s ~ 60s+），单线路容易卡死。
+    // 但 CDN 可能命中旧缓存，故对返回数据的 generated 时间做校验，
+    // 偏旧时再等另一路，取较新的那份。
+    const tag = u => grab(u, ctl.signal)
+      .then(j => ({j, g: Date.parse((j && j.generated) || "") || 0}));
+    const reqs = [tag(PAGES), tag(CDN)];
+    let j = null;
+    try{
+      let win = await Promise.any(reqs);
+      if(Date.now() - win.g > 45*60000){
+        const all = (await Promise.allSettled(reqs))
+          .filter(r => r.status === "fulfilled").map(r => r.value);
+        win = all.reduce((a,b) => (b.g > a.g ? b : a), win);
+      }
+      j = win.j;
+    }catch(_){
+      j = await grab("data/events.json", ctl.signal);   // 最后的兜底：全量归档
+    }
     ALL = Array.isArray(j) ? j : (j.events||[]);
     if(!Array.isArray(j) && j.total) TOTAL=j.total;
     ALL.sort((a,b)=>tsNum(b)-tsNum(a));
     paintMeta(); render();
   }catch(err){
     if(!ALL.length){
-      const why = err.name==="AbortError"
+      const why = err && err.name==="AbortError"
         ? "网络太慢，20 秒没下完"
-        : "读不到数据（"+err.message+"）";
+        : "读不到数据（"+((err&&err.message)||"网络异常")+"）";
       $("list").innerHTML=`<div class="empty"><b>${why}</b><br>
         点右上角刷新可重试，也会每分钟自动重试<br>
         <small>国内网络访问 GitHub 时常有波动，开 VPN 会快很多</small></div>`;
