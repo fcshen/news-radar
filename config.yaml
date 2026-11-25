@@ -23,12 +23,22 @@ thresholds:
 # 推送
 # ----------------------------------------------------------
 notify:
+  # 通道链：按顺序尝试，前一个失败才用下一个。改这个列表即改优先级。
+  order: ["bark", "wecom", "ntfy"]
+  timeout: 3                # 单通道最多等这么多秒，超时立刻换下一个
   bark:
     enabled: true
     url: ""                 # 形如 https://api.day.app/xxxxxxxx（真实地址放 settings.json 或环境变量 BARK_URL）
     sound: ""               # 留空用默认
     level3_sound: "alarm"   # L3 强提醒音
     group: "金融雷达"
+  wecom:
+    enabled: false
+    webhook: ""             # 企业微信群机器人地址（真实值放 settings.json 或环境变量 WECOM_WEBHOOK）
+  ntfy:
+    enabled: false
+    server: "https://ntfy.sh"
+    topic: ""               # 频道名（真实值放 settings.json 或环境变量 NTFY_TOPIC）
   quiet_hours:
     enabled: true
     start: "23:30"
