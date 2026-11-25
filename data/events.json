@@ -1,5 +1,342 @@
 [
  {
+  "id": "a991e75d9a555d8c",
+  "ts": "2026-11-25T23:52:36+08:00",
+  "title": "北约秘书长吕特：俄罗斯从未攻击过任何北约国家，但俄罗斯过去曾攻击过阿富汗、格鲁吉亚和乌克兰",
+  "title_zh": "",
+  "body": "北约极其强大。这是以实力求和平。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvv1620962.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "1d58eef98c60",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8881019287426806352,
+  "reason": "tier=55 ent=3['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "5584393d22463fb8",
+  "ts": "2026-11-25T23:52:05+08:00",
+  "title": "伊朗总统：伊朗政府正寻求在行政、财政和政治等一系列事务中，将更大的决策权下放给省级当局和地方机构",
+  "title_zh": "",
+  "body": "伊朗总统：伊朗政府正寻求在行政、财政和政治等一系列事务中，将更大的决策权下放给省级当局和地方机构。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvt9270318.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "47a9adf2fc37",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10750780843671776732,
+  "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "1d6d6f36e7816d29",
+  "ts": "2026-11-25T23:47:57+08:00",
+  "title": "乌克兰：星盾技术协助拦截俄罗斯无人机",
+  "title_zh": "",
+  "body": "乌克兰：星盾技术协助拦截俄罗斯无人机。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvw8395570.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "09a4917dca7c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1316974830405847655,
+  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "b3456df2ba2dcf34",
+  "ts": "2026-11-25T23:47:49+08:00",
+  "title": "北约秘书长吕特：美国总统特朗普正在试探俄罗斯总统普京",
+  "title_zh": "",
+  "body": "北约秘书长吕特：美国总统特朗普正在试探俄罗斯总统普京。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvv1619141.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d3bfbb0a9426",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14986914025019891210,
+  "reason": "tier=55 ent=4['俄罗斯', '普京'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "bd79ca88acb1c1c5",
+  "ts": "2026-11-25T23:47:12+08:00",
+  "title": "DoubleLine科恩转而看好AI债务，称价格已反映潜在风险",
+  "title_zh": "",
+  "body": "金十数据11月25日讯，人工智能债务价格已跌至足以吸引DoubleLine Capital的罗伯特·科恩（Robert Cohen）的水平。此前，他曾警告称，该领域可能存在泡沫。这家公司的企业信贷主管表示：“我已经从对所有相关资产都持看空态度，转变为认为目前的价格和收益率已经反映了其潜在风险。我看好这些资产，而且我们一直在买入。”",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3c8fe53ed8ae",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 2774680754237989272,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e748d66bd35cad92",
+  "ts": "2026-11-25T23:47:07+08:00",
+  "title": "鼎智科技：公司及前任董事长遭证监会立案",
+  "title_zh": "",
+  "body": "金十数据11月25日讯，鼎智科技公告，公司于2026年11月25日收到中国证监会《立案告知书》，因公司涉嫌信息披露违法违规，证监会决定对公司立案。同时，前任董事长华荣伟因涉嫌信息披露、减持违法违规被立案。此前，公司实际控制人、董事苏达已因同类事项被立案。目前公司生产经营正常，上述事项不会产生重大影响。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 95.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "8ab617d3833d",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7783890409961627245,
+  "reason": "tier=55 ent=1['证监会'] pred=1 conv=0 combo=26 rel=37 sev=8 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "780ea48549f76992",
+  "ts": "2026-11-25T23:46:36+08:00",
+  "title": "乌克兰：无法澄清是谁施加了这些限制",
+  "title_zh": "",
+  "body": "乌克兰：无法澄清是谁施加了这些限制。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvt9268452.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "09284b773408",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11349188740203063735,
+  "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "f2f27693456af892",
+  "ts": "2026-11-25T23:46:02+08:00",
+  "title": "乌克兰：星盾限制措施一个多星期前就已实施",
+  "title_zh": "",
+  "body": "乌克兰：星盾限制措施一个多星期前就已实施。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvv1618417.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a5ce7a235420",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9377071397686120576,
+  "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "74d81358dc560cd1",
+  "ts": "2026-11-25T23:45:54+08:00",
+  "title": "知情人士：欧洲央行暂无意提高银行最低存款准备金率",
+  "title_zh": "",
+  "body": "金十数据11月25日讯，据知情人士透露，即使欧洲央行内部已有多名官员倾向于提高银行最低准备金要求，欧洲央行官员也不太可能立即调整欧元区银行必须存放在央行的资金规模。知情人士表示，虽然“将最低存款准备金率从1%提高至2%”这一方案已被提上议程，但内部仍存在分歧；且鉴于讨论内容保密，相关决策完全可以推迟至2027年再做定夺。上述消息人士在周三于法兰克福举行的一场欧洲央行管理委员会研讨会后透露了这些信息。本周早些时候，欧洲央行管委西姆库斯表示，他支持提高存款准备金率，并称将其上调至2%是一个“合理的选择”。这位立陶宛央行行长在维也纳接受采访时说：“我个人对此持支持态度，但具体上调至什么水平、在什么条件下进行，仍需进一步讨论。我不认为此举会与我们‘以可预测且渐进的方式减少过剩流动性’的承诺相冲突。”欧洲央行发言人对此拒绝置评。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 72.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "d30ebb637461",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 873495441109551580,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "9a982fec8856f323",
+  "ts": "2026-11-25T23:45:50+08:00",
+  "title": "美国柴油期货持稳，上涨0.39%，EIA库存报告显示柴油库存增幅小于预期.",
+  "title_zh": "",
+  "body": "美国柴油期货持稳，上涨0.39%，EIA库存报告显示柴油库存增幅小于预期.",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvv1618328.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ee184a0b41e1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10258571583813299024,
+  "reason": "tier=55 ent=2['EIA', 'eia'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "d7328afd3c50d2c6",
+  "ts": "2026-11-25T23:45:47+08:00",
+  "title": "美国墨西哥湾沿岸炼厂最新一周开工率升至2018年12月以来最高水平",
+  "title_zh": "",
+  "body": "美国墨西哥湾沿岸炼厂最新一周开工率升至2018年12月以来最高水平。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c3ff1e04007f",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9392919763869025805,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a9f689a3c563a3f9",
+  "ts": "2026-11-25T23:43:55+08:00",
+  "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+  "title_zh": "",
+  "body": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
+  "summary": "",
+  "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 33.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e913c66506c1",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 15026614399777692019,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "0ccc8e0f08d4e9ff",
+  "ts": "2026-11-25T23:43:37+08:00",
+  "title": "钯金期货日内跌4%，现报819.66美元/盎司",
+  "title_zh": "",
+  "body": "钯金期货日内跌4%，现报819.66美元/盎司。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-25/detail-inizyqvt9267466.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8f2f104456f8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 170976753378192077,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "46984f2f7cb42252",
+  "ts": "2026-11-25T23:42:56+08:00",
+  "title": "Oil Inventories Continue to Rise in the US",
+  "title_zh": "",
+  "body": "Crude oil inventories in the United States saw an increase of 1.1 million barrels during the week ending November 20, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The increase brings commercial stockpiles to 418.9 million barrels, according to government data, which is now 3% below the five-year average for this time of year. The EIA’s data release follows API’s figures that were released a day earlier, which reported that crude oil inventories had risen by 126,000 barrels in the…",
+  "summary": "",
+  "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Inventories-Continue-to-Rise-in-the-US.html",
+  "source": "OilPrice",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "461c7b1f2080",
+  "sources": [
+   "OilPrice"
+  ],
+  "pushed": false,
+  "sh": 118927856024183873,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=10 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "2dccdcb986a86487",
   "ts": "2026-11-25T23:41:16+08:00",
   "title": "美股在假日来临前波动剧烈",
@@ -22,6 +359,30 @@
   "pushed": false,
   "sh": 9292968913121246561,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "d8022d1a4925838b",
+  "ts": "2026-11-25T23:41:00+08:00",
+  "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+  "title_zh": "",
+  "body": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
+  "summary": "",
+  "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 33.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d17852085019",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 2522180325175674198,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "fca446748910cda6",
@@ -69,7 +430,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5600413831146930854,
   "reason": "tier=55 ent=1['俄罗斯'] pred=2 conv=0 combo=31 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -142,7 +503,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11532654035354981828,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=5"
  },
@@ -359,7 +720,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 593428557918799257,
   "reason": "tier=55 ent=2['EIA', 'eia'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -407,7 +768,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1393045250954424133,
   "reason": "tier=80 ent=1['turkey'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -455,7 +816,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9562923739252738440,
   "reason": "tier=55 ent=2['伊朗', '霍尔木兹'] pred=1 conv=0 combo=32 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -599,7 +960,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13778467462204355980,
   "reason": "tier=55 ent=1['特朗普'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -695,7 +1056,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10280632763930616712,
   "reason": "tier=55 ent=2['EIA', 'eia'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -744,7 +1105,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17255019590849951507,
   "reason": "tier=55 ent=1['英伟达'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -912,7 +1273,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10723502271766343944,
   "reason": "tier=55 ent=0[] pred=3 conv=0 combo=20 rel=15 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -953,16 +1314,17 @@
   "region": "intl",
   "lang": "en",
   "channel": "rss",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "645c90409f4c",
   "sources": [
-   "Al Jazeera"
+   "Al Jazeera",
+   "SCMP"
   ],
   "pushed": false,
   "sh": 1373943169129125904,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "14f1a8ba7419954f",
@@ -1008,7 +1370,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10706446596119103585,
   "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=15 pct=0 op=N spread=0 burst=5"
  },
@@ -1056,7 +1418,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10780221209815529465,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5"
  },
@@ -1594,7 +1956,7 @@
   "sources": [
    "OilPrice"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5756245660869328952,
   "reason": "tier=55 ent=1['iran'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=12 op=N spread=0 burst=5"
  },
@@ -1618,7 +1980,7 @@
   "sources": [
    "国防一号DefenseOne"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1843895302447969330,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -1691,7 +2053,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4009859213618776140,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=5"
  },
@@ -1716,7 +2078,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1449454014621529972,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -1791,7 +2153,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2953494933030860050,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=Y spread=0 burst=5"
  },
@@ -1863,7 +2225,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7471803720962338017,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -1935,7 +2297,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15609886248676541061,
   "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=5"
  },
@@ -2036,7 +2398,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12073327428392919942,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -2087,7 +2449,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1779404641709066112,
   "reason": "tier=55 ent=1['纳斯达克'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=2 burst=5"
  },
@@ -2187,7 +2549,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7479240319515374304,
   "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=0 op=Y spread=0 burst=5"
  },
@@ -2286,7 +2648,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17090944953747707551,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=5"
  },
@@ -2383,7 +2745,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15179705796465327206,
   "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=12 op=N spread=0 burst=5"
  },
@@ -2580,7 +2942,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5491859447728185752,
   "reason": "tier=55 ent=1['欧盟'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -2725,7 +3087,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7695248489093582224,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=5"
  },
@@ -2749,7 +3111,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9983928677440039964,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -2773,7 +3135,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11750681292780397236,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -2798,7 +3160,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13265257305749715237,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -2847,7 +3209,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12129470038424269681,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=8 op=Y spread=2 burst=5"
  },
@@ -2920,7 +3282,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10820896051411419216,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=5"
  },
@@ -2993,7 +3355,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 903054790737016529,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -3018,7 +3380,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11964423461205511302,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -3091,7 +3453,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 338097595091687253,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -3307,7 +3669,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 114333500965821403,
   "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=12 op=N spread=0 burst=5"
  },
@@ -3430,7 +3792,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7352022783141711877,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=12 op=N spread=0 burst=5"
  },
@@ -3646,7 +4008,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1182049825009048779,
   "reason": "tier=55 ent=2['英伟达', '美联储'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -3840,7 +4202,7 @@
   "sources": [
    "美国SEC"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6161357575221946425,
   "reason": "tier=100 ent=2['SEC', 'sec '] pred=0 conv=0 combo=8 rel=14 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -3961,7 +4323,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13569102531583620843,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -4133,7 +4495,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3437944393369652312,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=8 pct=12 op=N spread=2 burst=5"
  },
@@ -4181,7 +4543,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15209065841220796956,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -4205,7 +4567,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11203041322861422523,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -4397,7 +4759,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17244793793867185986,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=12 op=N spread=0 burst=5"
  },
@@ -4421,7 +4783,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3227545175636783539,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -4469,7 +4831,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9441017759271620422,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=5 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -4517,7 +4879,7 @@
   "sources": [
    "美国能源署EIA"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 34692938793789492,
   "reason": "tier=100 ent=0[] pred=0 conv=0 combo=0 rel=10 sev=0 pct=12 op=N spread=0 burst=5"
  },
@@ -4565,7 +4927,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5747602916723003122,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=4 op=N spread=0 burst=5"
  },
@@ -4759,7 +5121,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 18155532428106507783,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -5025,7 +5387,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1472222686434507100,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -5074,7 +5436,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7474745719576140549,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=5"
  },
@@ -5366,7 +5728,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13373811505814946909,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=8 pct=0 op=N spread=0 burst=5"
  },
@@ -5538,7 +5900,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9953266761141407299,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=20 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -5636,7 +5998,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14732266840750422305,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=5"
  },
@@ -5735,7 +6097,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12411874311078388217,
   "reason": "tier=55 ent=2['财政部', '美国财政部'] pred=1 conv=0 combo=32 rel=27 sev=8 pct=0 op=Y spread=0 burst=5"
  },
@@ -5882,7 +6244,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17463800289329310502,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=5"
  },
@@ -5906,7 +6268,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2482577140373769015,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=Y spread=0 burst=5"
  },
@@ -6735,7 +7097,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16950224660908657961,
   "reason": "tier=80 ent=1['ustr'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -7160,7 +7522,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6501688981517526335,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=38 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -7185,7 +7547,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7413226828382570016,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=8 pct=0 op=N spread=2 burst=5"
  },
@@ -7540,7 +7902,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1351104980904871747,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5"
  },
@@ -7736,7 +8098,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3054874503953861197,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=20 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -7834,7 +8196,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 908552600578139392,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=8 pct=0 op=N spread=0 burst=5"
  },
@@ -7937,7 +8299,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 927059748857481984,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=5"
  },
@@ -8156,7 +8518,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 310799090596854741,
   "reason": "tier=55 ent=1['印度'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -8542,7 +8904,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14519756157599976667,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -8614,7 +8976,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9566895766146482491,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -8639,7 +9001,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2460633217885571453,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -8884,7 +9246,7 @@
    "MarketWatch",
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1300472043687188169,
   "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=6 burst=1"
  },
@@ -8956,7 +9318,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2905951078628141624,
   "reason": "tier=55 ent=2['高通', '美联储'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -9028,7 +9390,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16536531387178537186,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=16 sev=15 pct=0 op=N spread=0 burst=1"
  },
@@ -9100,7 +9462,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10075859041499221692,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -9221,7 +9583,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14483875695194593976,
   "reason": "tier=55 ent=2['央行', '印度'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -9487,7 +9849,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16153145759186087484,
   "reason": "tier=55 ent=2['央行', '印度'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -9827,7 +10189,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7620519985928775317,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=38 sev=15 pct=0 op=Y spread=0 burst=1"
  },
@@ -9875,7 +10237,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4185836308570077088,
   "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -9899,7 +10261,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3532998554373339140,
   "reason": "tier=55 ent=2['央行', '印度'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -9923,7 +10285,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 18090778817467447753,
   "reason": "tier=55 ent=2['央行', '印度'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -9971,7 +10333,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4943316534358641113,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=12 op=N spread=0 burst=1"
  },
@@ -10526,7 +10888,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3471144908468615424,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=4 op=N spread=0 burst=1"
  },
@@ -10673,7 +11035,7 @@
    "新浪财经7×24",
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17395007943681731245,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=8 pct=0 op=N spread=2 burst=1"
  },
@@ -10721,7 +11083,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2396110879704990016,
   "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=Y spread=0 burst=1"
  },
@@ -10988,7 +11350,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4557609543014401755,
   "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=37 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -11060,7 +11422,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 99655626585213972,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=10 sev=0 pct=12 op=N spread=0 burst=1"
  },
@@ -11758,7 +12120,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6562619273577040236,
   "reason": "tier=55 ent=2['白宫', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -11879,7 +12241,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5026117715583143883,
   "reason": "tier=55 ent=1['俄罗斯'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -12048,7 +12410,7 @@
   "sources": [
    "OilPrice"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6067239033180205404,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -12168,7 +12530,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6577003302189795360,
   "reason": "tier=55 ent=0[] pred=3 conv=0 combo=20 rel=15 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -12192,7 +12554,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10423898504846694597,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -12313,7 +12675,7 @@
   "sources": [
    "Financial Times"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1879791188711990752,
   "reason": "tier=80 ent=1['russia'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -12531,7 +12893,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15046598408056884753,
   "reason": "tier=55 ent=0[] pred=1 conv=1 combo=20 rel=15 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -12726,7 +13088,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11613312439888192906,
   "reason": "tier=55 ent=1['宁德时代'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -12823,7 +13185,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10874043968798188970,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -12896,7 +13258,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5449627647297670604,
   "reason": "tier=55 ent=3['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=28 sev=0 pct=0 op=Y spread=2 burst=3"
  },
@@ -13040,7 +13402,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7363191198601823575,
   "reason": "tier=55 ent=1['ustr'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -13065,7 +13427,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4082237412823555060,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -13138,7 +13500,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11901167762107085314,
   "reason": "tier=55 ent=1['宁德时代'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -13574,7 +13936,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5016142899242210995,
   "reason": "tier=55 ent=1['三星'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -13719,7 +14081,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10177067033764912915,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -13935,7 +14297,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 141281947891496386,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -14104,7 +14466,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4102962000348255806,
   "reason": "tier=55 ent=1['伊朗'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=N spread=2 burst=3"
  },
@@ -14320,7 +14682,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12157862072324804047,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -15071,7 +15433,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6226295757099161140,
   "reason": "tier=55 ent=2['乌克兰', '北约'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -15267,7 +15629,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4856799607823103562,
   "reason": "tier=55 ent=2['台积电', '特朗普'] pred=0 conv=0 combo=8 rel=28 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -15867,7 +16229,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3359255453445288260,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -15892,7 +16254,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4611044322475135261,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=3"
  },
@@ -15940,7 +16302,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9142154742774781701,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -16037,7 +16399,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6032058298605873258,
   "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=3"
  },
@@ -16421,7 +16783,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1899292358824489546,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -16590,7 +16952,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11234103573419161352,
   "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -16614,7 +16976,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11941501002707653660,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=8 pct=12 op=N spread=0 burst=3"
  },
@@ -16830,7 +17192,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4836629930627705157,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=31 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -16976,7 +17338,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7198150669979691071,
   "reason": "tier=55 ent=1['以色列'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -17073,7 +17435,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15899406566398049024,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -17121,7 +17483,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 574860070088122471,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -17145,7 +17507,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14789254078818291065,
   "reason": "tier=80 ent=2['huawei', 'nvidia'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -17218,7 +17580,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10770582505427892864,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -17242,7 +17604,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3612031797070415320,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -17314,7 +17676,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7029542213929642017,
   "reason": "tier=55 ent=3['iran', 'israel'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -17411,7 +17773,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 188774308879354209,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -17894,7 +18256,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4675860454858508839,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -17918,7 +18280,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5187024936415569938,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=31 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -18255,7 +18617,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1466952397277434253,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -18761,7 +19123,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9458589734187267566,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=8 op=N spread=0 burst=3"
  },
@@ -19271,7 +19633,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16801263475599789028,
   "reason": "tier=55 ent=2['russia', 'ukraine'] pred=1 conv=0 combo=32 rel=14 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -19440,7 +19802,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7927321626666408453,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -19536,7 +19898,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7857595427513029124,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -19584,7 +19946,7 @@
   "sources": [
    "中新网财经"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5197929820594157967,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -19633,7 +19995,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14246349501010960497,
   "reason": "tier=55 ent=2['以色列', '哈马斯'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -20019,7 +20381,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7704530003603973508,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -20214,7 +20576,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2036970366940762319,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -20479,7 +20841,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5372931405869626859,
   "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=12 op=N spread=0 burst=3"
  },
@@ -20600,7 +20962,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11623119578741145036,
   "reason": "tier=55 ent=1['上交所'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -20746,7 +21108,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5161281861983944899,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -20819,7 +21181,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9880787785172489110,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -20892,7 +21254,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14482309660562633607,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -21015,7 +21377,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10071531298432002761,
   "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -21331,7 +21693,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10269955080578643134,
   "reason": "tier=55 ent=2['财政部', '俄罗斯'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -21647,7 +22009,7 @@
    "深交所公告",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9298158435513229192,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -21719,7 +22081,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 270626939145868505,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=15 pct=0 op=N spread=0 burst=3"
  },
@@ -21767,7 +22129,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1744237656445745286,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=16 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -21892,7 +22254,7 @@
    "深交所公告",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3182135733218276677,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=12 op=N spread=2 burst=3"
  },
@@ -22232,7 +22594,7 @@
    "新浪财经7×24",
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2735091521068816775,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -22257,7 +22619,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7350672571766572670,
   "reason": "tier=55 ent=1['广期所'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -22305,7 +22667,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6708833175029541429,
   "reason": "tier=55 ent=2['俄罗斯', '印度'] pred=1 conv=0 combo=32 rel=12 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -22522,7 +22884,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 415045468866924485,
   "reason": "tier=55 ent=1['深交所'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -22546,7 +22908,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4941056848454183648,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -22619,7 +22981,7 @@
    "深交所公告",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7345844789915024050,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -22765,7 +23127,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13850440391621434052,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -23007,7 +23369,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5919362690434917487,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=12 op=N spread=2 burst=3"
  },
@@ -23031,7 +23393,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 312763261947429120,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -23055,7 +23417,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14217206274587381930,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -23249,7 +23611,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2932961033940605207,
   "reason": "tier=55 ent=0[] pred=0 conv=1 combo=8 rel=23 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -23756,7 +24118,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2348395476341756033,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -23877,7 +24239,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2563456579224767508,
   "reason": "tier=80 ent=2['congress', 'india'] pred=0 conv=0 combo=8 rel=14 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -24046,7 +24408,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1717701852345306117,
   "reason": "tier=55 ent=1['israel'] pred=1 conv=0 combo=26 rel=22 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -24167,7 +24529,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15465004500032463044,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -24192,7 +24554,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1620444665967812066,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -24267,7 +24629,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 107993390121780461,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=16 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -24589,7 +24951,7 @@
    "Nikkei Asia",
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12245527803891351187,
   "reason": "tier=80 ent=1['taiwan'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -24877,7 +25239,7 @@
   "sources": [
    "Nikkei Asia"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16930967224213581557,
   "reason": "tier=80 ent=1['trump'] pred=2 conv=0 combo=31 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -25071,7 +25433,7 @@
   "sources": [
    "Nikkei Asia"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 117610705993335927,
   "reason": "tier=80 ent=1['nvidia'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -25120,7 +25482,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16623407886115778114,
   "reason": "tier=55 ent=2['LME', 'lme'] pred=0 conv=0 combo=8 rel=36 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -25581,7 +25943,7 @@
    "新浪财经7×24",
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7443014614635803639,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -25629,7 +25991,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 118413099904486419,
   "reason": "tier=80 ent=1['iran'] pred=2 conv=0 combo=31 rel=37 sev=0 pct=0 op=Y spread=0 burst=1"
  },
@@ -25653,7 +26015,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4128726474453030998,
   "reason": "tier=80 ent=0[] pred=2 conv=1 combo=24 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -25726,7 +26088,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 601135611305021576,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -26187,7 +26549,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6239079243600197637,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -26235,7 +26597,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1719012803904653609,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -26331,7 +26693,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6382711146336514964,
   "reason": "tier=55 ent=2['俄罗斯', '印度'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -26764,7 +27126,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9909019825129943170,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -26788,7 +27150,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3027940570657038,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -26957,7 +27319,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5600830772618636628,
   "reason": "tier=80 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -27053,7 +27415,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 325250405496006668,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -27077,7 +27439,7 @@
   "sources": [
    "日本央行"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10336470664617472022,
   "reason": "tier=100 ent=1['bank of japan'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -27101,7 +27463,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1156762884654086442,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -27270,7 +27632,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4524339410728412893,
   "reason": "tier=55 ent=1['israel'] pred=1 conv=1 combo=34 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -27318,7 +27680,7 @@
   "sources": [
    "中新网财经"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16289973441662049294,
   "reason": "tier=55 ent=1['发改委'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=N spread=0 burst=1"
  },
