@@ -1,5 +1,151 @@
 [
  {
+  "id": "22aeceff9b6f0aac",
+  "ts": "2026-11-26T01:22:07+08:00",
+  "title": "印度：正与美国就双边贸易协定进行谈判",
+  "title_zh": "",
+  "body": "印度：正与美国就双边贸易协定进行谈判。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvv1661523.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "925bedd4883f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2186799044751642939,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "ca98664b2bfb6438",
+  "ts": "2026-11-26T01:21:40+08:00",
+  "title": "印度：美国称印度不存在行业性结构性产能过剩",
+  "title_zh": "",
+  "body": "印度：美国称印度不存在行业性结构性产能过剩。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvz4085377.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "000363f6f339",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6023484032056711680,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "503fc8dd1003bf48",
+  "ts": "2026-11-26T01:16:27+08:00",
+  "title": "特朗普：美股大幅下跌，根源在于11月3日的选举结果",
+  "title_zh": "",
+  "body": "这次选票上没有我的名字，但如果我参选，选举结果会和此前三次一样大不一样，股市以及大家的401(k)退休金账户都会一片红火。我早就跟你们说过。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvv1659074.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 53.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "de404f9c1736",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 18221548041001612910,
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "364cd0173a9c4adf",
+  "ts": "2026-11-26T01:14:58+08:00",
+  "title": "美元兑加元USD/CAD回落至1.42下方，日内跌0.48%",
+  "title_zh": "",
+  "body": "美元兑加元USD/CAD回落至1.42下方，日内跌0.48%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "da970c2385fd",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4934646259962372515,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "9ed067f80db71696",
+  "ts": "2026-11-26T01:14:56+08:00",
+  "title": "US deploys F-15EX jets to Okinawa in fighter-drone warfare push",
+  "title_zh": "美国为推进战斗机-无人机作战而向冲绳部署F-15EX战斗机",
+  "body": "",
+  "summary": "",
+  "url": "https://asia.nikkei.com/politics/defense/us-deploys-f-15ex-jets-to-okinawa-in-fighter-drone-warfare-push",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 60.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "9c79b5d155f6",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 230096900295886868,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "5f0de32b42681b75",
+  "ts": "2026-11-26T01:14:06+08:00",
+  "title": "OpenAI首席执行官奥特曼：正在与一小部分客户测试私有推理服务，这是OpenAI私有智能产品的最新服务",
+  "title_zh": "",
+  "body": "OpenAI首席执行官奥特曼：正在与一小部分客户测试私有推理服务，这是OpenAI私有智能产品的最新服务。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvv1657782.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 46.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4fd80c84cde9",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 8018383554662979900,
+  "reason": "tier=55 ent=2['OpenAI', 'openai'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
   "id": "2b1d763fafbb2e0e",
   "ts": "2026-11-26T01:11:30+08:00",
   "title": "巴西航空工业公司：目前正在评估美国的新关税提案",
@@ -12,16 +158,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 59.2,
+  "score": 61.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "3685185a0829",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 10302198081998615043,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "0d324997bce9ab7f",
@@ -46,6 +193,30 @@
   "pushed": false,
   "sh": 15325749774782064218,
   "reason": "tier=55 ent=2['理想汽车', '纳斯达克'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
+  "id": "4207fcb5b4e5b724",
+  "ts": "2026-11-26T01:10:17+08:00",
+  "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+  "title_zh": "随着黄仁勋回归后的涨势消退以及对人工智能的担忧重现，英伟达领跌科技股",
+  "body": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+  "summary": "随着投资者权衡人工智能支出、通胀和利率走高风险，英伟达和其他与人工智能相关的股票均出现下跌。",
+  "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 81.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "332095846d3f",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 15719063884371645544,
+  "reason": "tier=80 ent=1['nvidia'] pred=1 conv=0 combo=26 rel=22 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "ba817b022c9ef718",
