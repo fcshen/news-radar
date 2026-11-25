@@ -71,7 +71,7 @@ jobs:
             git push || echo "推送失败，稍后重试"
           fi
 
-      - name: 长跑采集 + 每 30 分钟提交数据
+      - name: 长跑采集 + 每 10 分钟提交数据
         env:
           BARK_URL: ${{ secrets.BARK_URL }}
           # 备用通道，没在仓库里配 Secret 时为空，代码会自动跳过
@@ -80,10 +80,12 @@ jobs:
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: |
-          # 后台：每 30 分钟把 data/ 提交一次，Pages 随之重建
+          # 后台：每 10 分钟把 data/ 提交一次，Pages 随之重建。
+          # 间隔不能更短：GitHub Pages 软限制约 10 次构建/小时，600 秒 = 6 次/小时最稳。
+          # 手机网页看到的事件，延迟 ≈ 这个间隔 + Pages 重建 1 分钟；要"零延迟"靠 Bark 推送。
           (
             while true; do
-              sleep 1800
+              sleep 600
               git add data/ 2>/dev/null || true
               if ! git diff --cached --quiet; then
                 git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)" || true
