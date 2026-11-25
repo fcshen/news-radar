@@ -1,5 +1,249 @@
 [
  {
+  "id": "4fd7a9487c059871",
+  "ts": "2026-11-26T01:32:59+08:00",
+  "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
+  "title_zh": "特朗普对中国、日本和其他国家征收新关税，重建关税壁垒",
+  "body": "",
+  "summary": "",
+  "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 86.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "e8797ea26548",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 3030307428455041468,
+  "reason": "tier=80 ent=1['trump'] pred=1 conv=0 combo=26 rel=27 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a137e0da42f41ebe",
+  "ts": "2026-11-26T01:32:52+08:00",
+  "title": "英伟达芯片卖家争相寻找买家",
+  "title_zh": "",
+  "body": "英伟达GPU卖家正为数千枚先进的B300芯片寻找新买家。大量英伟达GPU涌入转售市场，卖家试图将硬件转售他处。这些限制可能扰乱人工智能基础设施需求，并迫使高端GPU产能重新洗牌，尽管英伟达坚称整体需求仍超过供应。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvw8441888.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f28e9eabb4f8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5827486837612045696,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "226f5d7782ec729b",
+  "ts": "2026-11-26T01:30:00+08:00",
+  "title": "Kazakhstan Joins Iraq in Pushing OPEC+ for a Higher Capacity Rating",
+  "title_zh": "哈萨克斯坦与伊拉克一道敦促OPEC+提高产能配额",
+  "body": "Kazakhstan has joined Iraq in asking OPEC+ to raise its estimate of the country's crude production capacity, Reuters reported Wednesday, citing people familiar with the matter. The request comes four days before the group meets to set its output policy for 2027. The review is OPEC's first, and will assess how much oil each member can produce sustainably, and its findings will help set production targets for next year. One of the sources told Reuters that OPEC+ is holding talks this week with the members that dispute their assessments. US consultancy…",
+  "summary": "路透社周三援引知情人士的话报道称，哈萨克斯坦已与伊拉克一道，要求OPEC+上调对该国原油生产能力的估算。该请求是在该组织召开会议以确定其2027年产量政策的四天前提出的。",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Joins-Iraq-in-Pushing-OPEC-for-a-Higher-Capacity-Rating.html",
+  "source": "OilPrice",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 71.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "74f44ffd13d6",
+  "sources": [
+   "OilPrice"
+  ],
+  "pushed": false,
+  "sh": 17375253101378713317,
+  "reason": "tier=55 ent=2['OPEC', 'opec'] pred=0 conv=0 combo=8 rel=39 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "d75c7c6cddf6bab3",
+  "ts": "2026-11-26T01:30:00+08:00",
+  "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+  "title_zh": "欧洲央行与瑞典央行达成协议，瑞典将加入T2系统",
+  "body": "",
+  "summary": "",
+  "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+  "source": "欧洲央行",
+  "tier": "official",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 73.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "4625ea80fd16",
+  "sources": [
+   "欧洲央行"
+  ],
+  "pushed": false,
+  "sh": 2010627582883187385,
+  "reason": "tier=100 ent=1['ecb'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "b9d56b5bb8963a5d",
+  "ts": "2026-11-26T01:29:00+08:00",
+  "title": "俄罗斯总统普京解除摩尔曼斯克州州长奇比斯职务",
+  "title_zh": "",
+  "body": "俄罗斯总统普京解除摩尔曼斯克州州长奇比斯职务。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvz4087452.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c724a691273c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 18273408901668605687,
+  "reason": "tier=55 ent=2['俄罗斯', '普京'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "bdd7578f1e231653",
+  "ts": "2026-11-26T01:26:22+08:00",
+  "title": "印度政府：印方一贯立场是，任何与贸易相关的关切都应在双边谈判框架内加以解决",
+  "title_zh": "",
+  "body": "印度政府：印方一贯立场是，任何与贸易相关的关切都应在双边谈判框架内加以解决。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d9947a594baa",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5911962983279782219,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "eebc96cc4525033e",
+  "ts": "2026-11-26T01:26:13+08:00",
+  "title": "Copper price sinks to 2026 low as mining stocks brace for further losses",
+  "title_zh": "随着矿业股准备迎接进一步的亏损，铜价跌至2026年低点",
+  "body": "In every copper bear market since 1970, prices gave back the vast majority of the bull market's gains, a new analysis shows.",
+  "summary": "",
+  "url": "https://www.mining.com/copper-price-sinks-to-2026-low-as-mining-stocks-brace-for-further-losses/",
+  "source": "矿业与金属Mining",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "64c9bf2af10a",
+  "sources": [
+   "矿业与金属Mining"
+  ],
+  "pushed": false,
+  "sh": 15970584524652186218,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "8e919b9c624cc292",
+  "ts": "2026-11-26T01:24:15+08:00",
+  "title": "印度政府就美国贸易代表办公室301条款裁定表态：在整个调查过程中进行了建设性接触",
+  "title_zh": "",
+  "body": "印度政府就美国贸易代表办公室301条款裁定表态：在整个调查过程中进行了建设性接触。",
+  "summary": "印度政府就美国贸易代表办公室301条款裁定表态：在整个调查过程中进行了建设性接触。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvw8438766.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 79.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "1e1a10205bb0",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 8371945501027948657,
+  "reason": "tier=55 ent=1['印度'] pred=2 conv=1 combo=39 rel=6 sev=8 pct=0 op=N spread=2 burst=5",
+  "engine": "template",
+  "tries": 1
+ },
+ {
+  "id": "0bd9d58d0503ea6f",
+  "ts": "2026-11-26T01:24:06+08:00",
+  "title": "CoreWeave的合作银行将于下周出售一笔规模45亿美元、依托Meta合同的贷款",
+  "title_zh": "",
+  "body": "CoreWeave的合作银行将于下周出售一笔规模45亿美元、依托Meta合同的贷款。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyqvt9306122.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4c57de6a5e70",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 17396118849010855799,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "d42381f66aa14f73",
+  "ts": "2026-11-26T01:24:00+08:00",
+  "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
+  "title_zh": "在科技股大跌之际，惠普的股价表现出色，因为业绩超预期仍然至关重要",
+  "body": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
+  "summary": "",
+  "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 45.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f81c30b319cb",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 10084721942103117409,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "22aeceff9b6f0aac",
   "ts": "2026-11-26T01:22:07+08:00",
   "title": "印度：正与美国就双边贸易协定进行谈判",
@@ -12,16 +256,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "925bedd4883f",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2186799044751642939,
-  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "ca98664b2bfb6438",
@@ -36,16 +281,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "000363f6f339",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 6023484032056711680,
-  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "503fc8dd1003bf48",
@@ -217,6 +463,30 @@
   "pushed": false,
   "sh": 15719063884371645544,
   "reason": "tier=80 ent=1['nvidia'] pred=1 conv=0 combo=26 rel=22 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "fffdea595ee39809",
+  "ts": "2026-11-26T01:08:03+08:00",
+  "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+  "title_zh": "预测市场将OpenAI的IPO预期推迟至2027年下半年",
+  "body": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
+  "summary": "随着人工智能股票和相关市场的走弱，Kalshi的交易员下调了OpenAI在2027年6月前确认IPO的赔率。",
+  "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 55.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "29e734ecc125",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 12244084806684533625,
+  "reason": "tier=80 ent=2['OpenAI', 'openai'] pred=0 conv=0 combo=8 rel=14 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "ba817b022c9ef718",
