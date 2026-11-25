@@ -1,5 +1,296 @@
 [
  {
+  "id": "9154bb9f6528e07d",
+  "ts": "2026-11-26T07:05:38+08:00",
+  "title": "马尔科·查拉迪亚当选马达加斯加国民议会新议长",
+  "title_zh": "",
+  "body": "马达加斯加国民议会25日发布消息称，马尔科·查拉迪亚当选新一任国民议会议长。马尔科·查拉迪亚表示，他将致力于推动国民议会发展，确保各项工作顺利开展。马尔科·查拉迪亚此前担任国民议会副议长。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8205240.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2dd6b42ee613",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2504638359061224864,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "8ad9789ea0281564",
+  "ts": "2026-11-26T07:05:00+08:00",
+  "title": "国泰海通：Lonza收购默克美国CDMO工厂 全球CDMO产能整合有望提速",
+  "title_zh": "",
+  "body": "国泰海通发布研报称，Lonza宣布收购德国默克(Merck KGaA)旗下CDMO业务，交易有望补强其在生物药及CGT领域的一体化服务能力。随着新分子逐渐进入商业化阶段，该行看好中国公司全球竞争优势下渗透率的快速提升。多肽/小分子GLP-1相关产业链带来结构性增量。同时，随着多肽在更多适应症领域的拓展及ADC、小核酸等等更多新模态药物逐步进入商业化阶段，临床阶段项目向商业化项目转换，看好后续外需CDMO的业绩持续兑现。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "bf2d933b4cc6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6829362496267886720,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=Y spread=0 burst=4"
+ },
+ {
+  "id": "68383fd720a7515b",
+  "ts": "2026-11-26T07:04:40+08:00",
+  "title": "法医学专家称爱泼斯坦或是被勒死",
+  "title_zh": "",
+  "body": "当法医学专家迈克尔·弗里曼第一次看到杰弗里·爱泼斯坦的尸检照片时，一个疑问立刻浮现在他的脑海中：这看起来并不像是上吊自杀留下的痕迹。 作为《法医学与法律医学杂志》主编，弗里曼拥有瑞典于默奥大学医学博士学位及美国俄勒冈州立大学流行病学博士学位，长期从事法医学研究与司法咨询，尤其关注羁押期间发生的非正常死亡案件。 “当我把发现遗体时的现场情况、看守将他从悬吊状态取下时的描述，与尸检中记录的伤势进行比对时，发现这些信息根本无法吻合。”弗里曼说。 2019年7月6日，美国金融家杰弗里·爱泼斯坦因涉嫌性贩运未成年人被捕；一个多月后，他被发现死于纽约大都会惩教中心的牢房内。纽约市首席法医办公室随后认定，爱泼斯坦系自缢身亡。 然而，据英国广播公司（BBC）近日报道，弗里曼在接受《新闻之夜》节目采访时公开表示，爱泼斯坦的伤情更符合他杀，而非上吊自杀。 弗里曼近期在伦敦公布的研究模型分析显示，爱泼斯坦颈部的部分擦伤虽可用自缢解释，但颈部及身体其他部位的多处伤痕却难以用这一方式合理说明。弗里曼认为，爱泼斯坦更可能是遭人勒颈致死，且极有可能是从背后被勒死的。 “我可以肯定地说，自杀式上吊不会造成这样的伤痕。”弗里曼在采访中强调。（中国新闻周刊）",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0ef8bb5ffb83",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11819636350689817480,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "98a2c482398f1436",
+  "ts": "2026-11-26T07:02:05+08:00",
+  "title": "钯金期货日内涨2%，现报863.00美元/盎司",
+  "title_zh": "",
+  "body": "钯金期货日内涨2%，现报863.00美元/盎司。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1425792.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4b59776ff948",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4939998771145911011,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "43486066c6f00196",
+  "ts": "2026-11-26T07:01:53+08:00",
+  "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少21.05吨，当前持仓量为15643.82吨",
+  "title_zh": "",
+  "body": "欢迎点击查看数据中心……",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 39.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "acbd34989054",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13076643262521172554,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "5b2e94b8ca449456",
+  "ts": "2026-11-26T07:00:56+08:00",
+  "title": "今年以来逾2300家上市公司披露并购重组进展",
+  "title_zh": "",
+  "body": "艾为电子拟收购钰泰半导体，加速模拟芯片平台化布局；朗特智能拟以6.63亿元收购成都奥捷51%股权，切入光互联赛道；纳芯微拟以4.87亿元收购隔空智能78%股权，补齐毫米波雷达版图……近期，A股上市公司并购重组动作密集，市场热度持续攀升，交易的“科技成色”明显提升。以首次披露日期为口径，今年以来A股市场2300余家上市公司披露并购重组进展。并购标的聚焦半导体、人工智能、高端装备、生物医药、新能源等战略性新兴产业，与新质生产力发展方向高度契合。（中证报）",
+  "summary": "艾为电子拟收购钰泰半导体，加速模拟芯片平台化布局；朗特智能拟以6.63亿元收购成都奥捷51%股权，切入光互联赛道；纳芯微拟以4.87亿元收购隔空智能78%股权，补齐毫米波雷达版图……",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3824655.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 71.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "c028d5e9e2c3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 5007385564095449292,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=32 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "template",
+  "tries": 1
+ },
+ {
+  "id": "4025a6a5ffcf59f2",
+  "ts": "2026-11-26T07:00:16+08:00",
+  "title": "英国海上贸易行动办公室：船员安全且全部下落已确认，油轮未报告受损，也未对环境造成影响",
+  "title_zh": "",
+  "body": "英国海上贸易行动办公室：船员安全且全部下落已确认，油轮未报告受损，也未对环境造成影响。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "79f907eeb632",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8386443089636297937,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "79fd70de11c25966",
+  "ts": "2026-11-26T07:00:00+08:00",
+  "title": "Oil Traders Ignore Growing Threat to Persian Gulf Supply",
+  "title_zh": "石油交易商忽视波斯湾供应面临的日益严峻的威胁",
+  "body": "Crude oil prices are down this week, extending a losing streak prompted by predictions of a supply glut. The ones doing the predictions are citing the rebound in export flows out of the Persian Gulf, but they seem to be forgetting something. These export flows were up in September and October. Now, they’re down. The war is not over, and neither is the risk to global oil supply. One recent indication of that was the news that Chinese refiners, state-owned and independent, have ramped up their buying from abroad—and not only from the…",
+  "summary": "",
+  "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Traders-Ignore-Growing-Threat-to-Persian-Gulf-Supply.html",
+  "source": "OilPrice",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 48.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b7b2645060fc",
+  "sources": [
+   "OilPrice"
+  ],
+  "pushed": false,
+  "sh": 5547101589023462673,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=25 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "4aebe44c081d24c8",
+  "ts": "2026-11-26T06:59:50+08:00",
+  "title": "英国海上贸易行动办公室：一艘油轮的船长报告称，油轮附近发生由不明发射物引发的爆炸",
+  "title_zh": "",
+  "body": "英国海上贸易行动办公室：一艘油轮的船长报告称，油轮附近发生由不明发射物引发的爆炸。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3823978.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "41589bde8f40",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4779415310136583522,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "c48ee82be501cc59",
+  "ts": "2026-11-26T06:59:30+08:00",
+  "title": "英国海上贸易行动办公室表示，已收到一份关于阿联酋迪拜以西50海里处发生事件的报告",
+  "title_zh": "",
+  "body": "英国海上贸易行动办公室表示，已收到一份关于阿联酋迪拜以西50海里处发生事件的报告。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 18.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2ae575cf870e",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1501919340300806595,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=1"
+ },
+ {
+  "id": "34ce1f462b7bbe24",
+  "ts": "2026-11-26T06:58:32+08:00",
+  "title": "点心债市场扩容，人民币资产更受青睐",
+  "title_zh": "",
+  "body": "今年以来，离岸人民币债券（点心债）市场持续扩容提质。Wind数据显示，截至11月25日，年内全市场共发行2432只点心债，发行总额达20530.18亿元，同比增长73.96%。专家表示，在人民币低利率、离岸流动性充裕的背景下，点心债凭借成本优势持续扩容提质，发行人从以中资为主加速走向多元化，市场定价基准与投资生态同步完善，正由区域性融资工具转变为全球人民币资产配置的重要载体。（中证报）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftm9043468.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e006a468d3c5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2172306890470509848,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "8097d45f49a3e1ab",
+  "ts": "2026-11-26T06:55:24+08:00",
+  "title": "从囤商品到囤服务 小小购物车装着消费大趋势",
+  "title_zh": "",
+  "body": "从以旧换新到以旧换优，从囤商品到囤服务",
+  "summary": "",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737860.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f9f0532f1b3f",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 9855118197005968816,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "e55386f3d3aeb10b",
   "ts": "2026-11-26T06:52:32+08:00",
   "title": "俄称打击乌能源设施 乌称打击俄军用机场",
@@ -25,6 +316,30 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
+  "id": "411cbb474ff5a16b",
+  "ts": "2026-11-26T06:48:47+08:00",
+  "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+  "title_zh": "致命卡车火灾是埃及最新发生的交通灾难",
+  "body": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "abe91b092b5e",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 2433493024672648192,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "31d3109d6a9f645d",
   "ts": "2026-11-26T06:42:13+08:00",
   "title": "据巴西通讯社25日报道，巴西政府决定不再派遣已召回的巴西驻阿根廷大使儒利奥·比特利返阿履职",
@@ -47,6 +362,30 @@
   "pushed": false,
   "sh": 14334329080455051291,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "a5b0b9c08c03e5cb",
+  "ts": "2026-11-26T06:41:46+08:00",
+  "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+  "title_zh": "马伦和罗马在欧冠抽签中击败了伤兵满营的巴黎圣日耳曼",
+  "body": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8812bb596390",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 3602757502992334581,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "0d14aa8fd20a4817",
@@ -288,9 +627,10 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8195969189850270481,
-  "reason": "tier=80 ent=2['saudi', 'houthi'] pred=1 conv=0 combo=32 rel=24 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=80 ent=2['saudi', 'houthi'] pred=1 conv=0 combo=32 rel=24 sev=0 pct=0 op=N spread=0 burst=1",
+  "tries": 1
  },
  {
   "id": "9400c1a46c8c934c",
@@ -945,9 +1285,10 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13118215507334399635,
-  "reason": "tier=55 ent=1['纳斯达克'] pred=2 conv=0 combo=31 rel=14 sev=15 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['纳斯达克'] pred=2 conv=0 combo=31 rel=14 sev=15 pct=0 op=N spread=0 burst=1",
+  "tries": 1
  },
  {
   "id": "be5f6f00dd2af911",
@@ -993,9 +1334,10 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4648918486165157042,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=40 sev=8 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=40 sev=8 pct=0 op=N spread=0 burst=1",
+  "tries": 1
  },
  {
   "id": "9c09a8b9b8ed13ff",
@@ -2461,16 +2803,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "9457d71a0756",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5282653810355332092,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "5374d57c5df458b0",
