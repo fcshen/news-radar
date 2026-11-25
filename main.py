@@ -21,7 +21,7 @@ from radar import collectors, notify, translate
 from radar.config import load_config
 from radar.dedupe import fingerprint, simhash, find_cluster_by_title
 from radar.score import apply_score
-from radar.store import Store, make_event, now
+from radar.store import Store, make_event, now, iso
 
 ROOT = Path(__file__).resolve().parent
 STOP = False
@@ -129,6 +129,7 @@ def run_round(cfg, store, dry_run=False, verbose=True):
     backfill = int(cfg.get("runtime", {}).get("backfill_minutes", 120))
     cutoff = now() - timedelta(minutes=backfill)
     new_events, push_queue = [], []
+    queued = set()          # 本轮已排队的 id，防止同一事件重复入队
     skipped_old = 0
 
     for src, items, _ in results:
@@ -165,9 +166,10 @@ def run_round(cfg, store, dry_run=False, verbose=True):
                         host["sources"].append(ev["source"])
                     apply_score(host, cfg, source_count=len(host["sources"]))
                     if (not host.get("pushed") and host["level"] in ("L2", "L3")
-                            and host["score"] >= cfg["thresholds"]["push"]):
+                            and host["score"] >= cfg["thresholds"]["push"]
+                            and host["id"] not in queued):
+                        queued.add(host["id"])
                         push_queue.append(host)
-                        host["pushed"] = True
                 continue
 
             ev["cluster_id"] = fp[:12]
@@ -189,9 +191,10 @@ def run_round(cfg, store, dry_run=False, verbose=True):
 
             if ev["level"] in ("L2", "L3"):
                 if in_quiet_hours(cfg) and ev["level"] == "L2":
-                    continue           # 静默时段并入摘要
-                push_queue.append(ev)
-                ev["pushed"] = True
+                    continue           # 静默时段暂不推；静默结束后由补推兜住
+                if ev["id"] not in queued:
+                    queued.add(ev["id"])
+                    push_queue.append(ev)
 
     # 进入摘要池以上的英文事件，入库时就补中文摘要。
     # 否则你在看板上点开一条英文新闻，看到的是整段英文。
@@ -221,10 +224,48 @@ def run_round(cfg, store, dry_run=False, verbose=True):
         if summary:
             ev["summary"] = summary
         ev["impact"] = impact
+        ev["tries"] = int(ev.get("tries", 0)) + 1
         if notify.push_event(cfg, ev, dry_run=dry_run):
+            ev["pushed"] = True      # 只有真的送达才置位；失败留给下一轮补推
             pushed += 1
 
+    pushed += sweep_unpushed(cfg, store, dry_run=dry_run)
+
     return added, pushed, results, skipped_old
+
+
+def sweep_unpushed(cfg, store, dry_run=False, limit=6):
+    """补推兜底：把「推送失败」和「静默时段压住」的 L2/L3 再送一次。
+
+    没有这一步，一次网络抖动就会让一条重大事件永久静默——这是「不漏」的洞。
+    """
+    if in_quiet_hours(cfg):
+        return 0
+    rt = cfg.get("runtime") or {}
+    win = int(rt.get("retry_minutes", 90))
+    max_tries = int(rt.get("retry_max", 3))
+    cutoff = iso(now() - timedelta(minutes=win))
+
+    cand = [e for e in store.recent(win)
+            if e.get("level") in ("L2", "L3")
+            and not e.get("pushed")
+            and e.get("ts", "") >= cutoff
+            and int(e.get("tries", 0)) < max_tries]
+    if not cand:
+        return 0
+    cand.sort(key=lambda x: x["ts"])
+
+    sent = 0
+    for ev in cand[:limit]:
+        ev["tries"] = int(ev.get("tries", 0)) + 1
+        if notify.push_event(cfg, ev, dry_run=dry_run):
+            ev["pushed"] = True
+            sent += 1
+        else:
+            break                    # 通道整体不通，这一轮别再硬打
+    if sent:
+        print(f"  → 补推 {sent} 条（此前未送达）")
+    return sent
 
 
 def send_digest(cfg, store, dry_run=False, verbose=True):
