@@ -1,5 +1,53 @@
 [
  {
+  "id": "1977567133923349",
+  "ts": "2026-11-26T03:30:55+08:00",
+  "title": "美国原油期货结算价为每桶83.68美元，上涨1.63美元，涨幅1.99%",
+  "title_zh": "",
+  "body": "美国原油期货结算价为每桶83.68美元，上涨1.63美元，涨幅1.99%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1582458.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d026762a7fae",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5687627078446932327,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "7830adb197b9084a",
+  "ts": "2026-11-26T03:30:11+08:00",
+  "title": "市场消息：特朗普在出生公民权问题上再次败诉",
+  "title_zh": "",
+  "body": "市场消息：特朗普在出生公民权问题上再次败诉。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcx4001509.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "638250d8dac4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15603859659154781268,
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "cd091cbe1af0a90d",
   "ts": "2026-11-26T03:21:20+08:00",
   "title": "加拿大卫生部：目前正在评估其余所有 GLP‑1 受体激动剂类药物引发非动脉炎性前部缺血性视神经病变（NAION）的风险",
@@ -132,16 +180,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "d4d877a81edf",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 9855686654864728994,
-  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "407d9af58a72ef00",
@@ -190,6 +239,30 @@
   "pushed": false,
   "sh": 14805408060020711424,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9f42a361dc09e9a2",
+  "ts": "2026-11-26T03:12:45+08:00",
+  "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+  "title_zh": "随着交易员押注VIX将走高，看涨希望正在萌生：《期权行动直播》",
+  "body": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+  "summary": "",
+  "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3367046a7ee4",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 11239103514574956272,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "c629f6a5b8cfcdbe",
@@ -1572,16 +1645,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 44.2,
+  "score": 46.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "c33dd5e6fcfe",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 7987677805666593469,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=4 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=4 op=N spread=2 burst=5"
  },
  {
   "id": "0742cd4c80c84409",
