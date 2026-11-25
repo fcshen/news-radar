@@ -2,11 +2,10 @@ name: radar
 
 on:
   schedule:
-    # 每 6 小时拉起一次，单次跑 5h50m，中间空档靠回溯补齐
+    # 每 6 小时拉起一次，单次跑 5h50m，中间空档靠启动回溯补齐
     - cron: "5 */6 * * *"
   workflow_dispatch:
 
-# 同一时间只允许一个任务，避免重叠推送
 concurrency:
   group: radar
   cancel-in-progress: false
@@ -29,23 +28,44 @@ jobs:
       - name: 安装依赖
         run: pip install -r requirements.txt
 
-      - name: 采集与推送
+      - name: 配置 git
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+
+      - name: 首轮采集
         env:
           BARK_URL: ${{ secrets.BARK_URL }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
-        run: python main.py --minutes 350
+        run: python main.py --once
 
-      - name: 提交数据
-        if: always()
+      - name: 提交首轮数据
         run: |
-          git config user.name "radar-bot"
-          git config user.email "radar-bot@users.noreply.github.com"
-          git add data/
+          git add data/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "无变更"
           else
-            git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase --autostash || true
-            git push || echo "推送失败，下次重试"
+            git commit -m "data: 首轮 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push || echo "推送失败，稍后重试"
           fi
+
+      - name: 长跑采集 + 每 30 分钟提交数据
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        run: |
+          # 后台：每 30 分钟把 data/ 提交一次，Pages 随之重建
+          (
+            while true; do
+              sleep 1800
+              git add data/ 2>/dev/null || true
+              if ! git diff --cached --quiet; then
+                git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)" || true
+                git pull --rebase --autostash -q || true
+                git push -q || echo "push 失败，下一轮重试"
+              fi
+            done
+          ) &
+          python main.py --minutes 350
