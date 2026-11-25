@@ -18,13 +18,16 @@ def iso(dt: datetime) -> str:
     return dt.astimezone(TZ).isoformat(timespec="seconds")
 
 
-def atomic_write(path: Path, data) -> None:
+def atomic_write(path: Path, data, compact: bool = False) -> None:
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     fd, tmp = tempfile.mkstemp(dir=str(path.parent), suffix=".tmp")
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1)
+            if compact:
+                json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
+            else:
+                json.dump(data, f, ensure_ascii=False, indent=1)
         os.replace(tmp, path)
     except Exception:
         if os.path.exists(tmp):
@@ -45,6 +48,7 @@ class Store:
         self.dir = Path(data_dir)
         self.dir.mkdir(parents=True, exist_ok=True)
         self.events_path = self.dir / "events.json"
+        self.feed_path = self.dir / "feed.json"
         self.seen_path = self.dir / "seen.json"
         self.keep_days = keep_days
         self.events = read_json(self.events_path, [])
@@ -75,6 +79,33 @@ class Store:
 
     def save_events(self):
         atomic_write(self.events_path, self.events)
+        self.save_feed()
+
+    # ---------- 前端轻量数据 ----------
+    # 手机端首屏只需要最近若干条 + 展示必需的字段。events.json 是全量归档
+    # （900+ 条、约 900KB），在移动网络下首屏要等十几秒，故另出一份精简版。
+    FEED_FIELDS = ("id", "ts", "title", "title_zh", "summary", "url", "source",
+                   "tier", "region", "lang", "level", "impact", "alts")
+    FEED_LIMIT = 300
+    BODY_CAP = 220
+
+    def build_feed(self, limit=None):
+        limit = limit or self.FEED_LIMIT
+        out = []
+        for e in self.events[:limit]:
+            item = {k: e[k] for k in self.FEED_FIELDS
+                    if e.get(k) not in (None, "", [])}
+            body = (e.get("body") or "").strip()
+            if body:
+                item["body"] = body[: self.BODY_CAP]
+            srcs = e.get("sources") or []
+            if len(srcs) > 1:          # 只有一个来源时不重复写
+                item["sources"] = srcs
+            out.append(item)
+        return {"total": len(self.events), "generated": iso(now()), "events": out}
+
+    def save_feed(self):
+        atomic_write(self.feed_path, self.build_feed(), compact=True)
 
     # ---------- 指纹 ----------
     def has_seen(self, fp):

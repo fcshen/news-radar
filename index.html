@@ -120,8 +120,8 @@
 <script>
 const TL={official:"官方",exchange:"交易所",authority:"权威媒体",media:"媒体",unverified:"未证实"};
 const LV={L3:"强提醒",L2:"即时",L1:"摘要",L0:"归档"};
-const POLL=20000;
-let ALL=[], FILTER="rec", LAST_SEEN=Number(localStorage.getItem("lastSeen")||0);
+const POLL=60000;
+let ALL=[], TOTAL=0, FILTER="rec", LAST_SEEN=Number(localStorage.getItem("lastSeen")||0);
 
 const $=id=>document.getElementById(id);
 const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -184,24 +184,38 @@ function paintMeta(){
   const t=ALL.filter(e=>(e.ts||"").slice(0,10)===today).length;
   const hot=ALL.filter(e=>e.level==="L2"||e.level==="L3").length;
   $("meta").textContent=`今日 ${t} · 待看 ${hot}`;
-  $("stat").textContent=`库内 ${ALL.length} 条`;
+  $("stat").textContent = (TOTAL>ALL.length)
+    ? `近 ${ALL.length} / 共 ${TOTAL} 条`
+    : `库内 ${ALL.length} 条`;
 }
 
 async function load(manual){
   const btn=$("refresh");
   if(manual) btn.classList.add("spin");
+  const ctl=new AbortController();
+  const kill=setTimeout(()=>ctl.abort(),20000);
   try{
-    const r=await fetch("data/events.json?t="+Date.now(),{cache:"no-store"});
+    // 精简版优先（约 55KB，全量归档约 240KB）；no-cache 走 ETag 校验，
+    // 数据没变时服务器回 304，几乎不耗流量。
+    let r=await fetch("data/feed.json",{cache:"no-cache",signal:ctl.signal});
+    if(!r.ok) r=await fetch("data/events.json",{cache:"no-cache",signal:ctl.signal});
     if(!r.ok) throw new Error("HTTP "+r.status);
-    ALL=await r.json();
+    const j=await r.json();
+    ALL = Array.isArray(j) ? j : (j.events||[]);
+    if(!Array.isArray(j) && j.total) TOTAL=j.total;
     ALL.sort((a,b)=>tsNum(b)-tsNum(a));
     paintMeta(); render();
   }catch(err){
     if(!ALL.length){
-      $("list").innerHTML=`<div class="empty"><b>读不到数据</b><br>
-        请确认电脑端的采集窗口还开着<br><small>${esc(err.message)}</small></div>`;
+      const why = err.name==="AbortError"
+        ? "网络太慢，20 秒没下完"
+        : "读不到数据（"+err.message+"）";
+      $("list").innerHTML=`<div class="empty"><b>${why}</b><br>
+        点右上角刷新可重试，也会每分钟自动重试<br>
+        <small>国内网络访问 GitHub 时常有波动，开 VPN 会快很多</small></div>`;
     }
   }finally{
+    clearTimeout(kill);
     if(manual) setTimeout(()=>btn.classList.remove("spin"),400);
   }
 }

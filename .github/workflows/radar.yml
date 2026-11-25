@@ -5,6 +5,21 @@ on:
     # 每 6 小时拉起一次，单次跑 5h50m，中间空档靠启动回溯补齐
     - cron: "5 */6 * * *"
   workflow_dispatch:
+  # 代码类改动推送后自动重启，不必再去 Actions 页点按钮。
+  # 这里只列代码文件，data/ 的定时提交不会命中，避免自我循环触发。
+  push:
+    branches: [main]
+    paths:
+      - "radar/**"
+      - "main.py"
+      - "app.py"
+      - "index.html"
+      - "setup.html"
+      - "sw.js"
+      - "manifest.webmanifest"
+      - "config.yaml"
+      - "requirements.txt"
+      - ".github/workflows/radar.yml"
 
 concurrency:
   group: radar
