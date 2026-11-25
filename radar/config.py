@@ -51,21 +51,42 @@ def save_settings(patch):
 
 def _apply_settings(cfg):
     s = read_settings()
+    n = cfg.setdefault("notify", {})
     url = s.get("bark_url")
     if url:
-        bark = cfg.setdefault("notify", {}).setdefault("bark", {})
+        bark = n.setdefault("bark", {})
         bark["url"] = url
         bark["enabled"] = True
     if s.get("bark_group"):
-        cfg.setdefault("notify", {}).setdefault("bark", {})["group"] = s["bark_group"]
+        n.setdefault("bark", {})["group"] = s["bark_group"]
+    hook = s.get("wecom_webhook")
+    if hook:
+        wecom = n.setdefault("wecom", {})
+        wecom["webhook"] = hook
+        wecom["enabled"] = True
+    topic = s.get("ntfy_topic")
+    if topic:
+        ntfy = n.setdefault("ntfy", {})
+        ntfy["topic"] = topic
+        ntfy["enabled"] = True
+    if s.get("ntfy_server"):
+        n.setdefault("ntfy", {})["server"] = s["ntfy_server"]
 
 
 def _apply_env(cfg):
-    url = os.environ.get("BARK_URL")
-    if url:
-        bark = cfg.setdefault("notify", {}).setdefault("bark", {})
-        bark["url"] = url
-        bark["enabled"] = True
+    n = cfg.setdefault("notify", {})
+    # 环境变量给云端 Secrets 用，优先级最高
+    for env, ch, key in (("BARK_URL", "bark", "url"),
+                         ("WECOM_WEBHOOK", "wecom", "webhook"),
+                         ("NTFY_TOPIC", "ntfy", "topic"),
+                         ("NTFY_SERVER", "ntfy", "server")):
+        val = (os.environ.get(env) or "").strip()
+        if not val:
+            continue
+        conf = n.setdefault(ch, {})
+        conf[key] = val
+        if key != "server":          # 只有 server 填了不算通道可用
+            conf["enabled"] = True
 
 
 def mask_url(url):
@@ -79,3 +100,11 @@ def mask_url(url):
     host = f"{p.scheme}://{p.netloc}" if p.netloc else ""
     tail = (p.path or "").rstrip("/")[-6:]
     return f"{host}/…{tail}" if tail else f"{host}/…"
+
+
+def mask_secret(val, keep=4):
+    """给 webhook / 频道名这类短密钥用：只留尾巴几个字符。"""
+    val = (val or "").strip()
+    if not val:
+        return ""
+    return "…" + val[-keep:] if len(val) > keep else "…"
