@@ -1,5 +1,318 @@
 [
  {
+  "id": "cc65b7960e1015da",
+  "ts": "2026-11-26T06:35:00+08:00",
+  "title": "爱奇艺：收到纳斯达克不合规通知，暂不停牌，180日内整改",
+  "title_zh": "",
+  "body": "爱奇艺发文称，已收到纳斯达克的书面通知。该通知属于纳斯达克上市规则下的常规程序性沟通，仅为不合规通知，不会导致公司的美国存托票据（ADS）被立即退市或暂停交易。公司的ADS目前将继续以现有股票代码在纳斯达克保持上市和交易。公司收到该通知不会影响公司的业务运营，公司向美国证券交易委员会履行的信息披露义务保持不变。公司目前正在评估各种可行方案，以在180个自然日内重新符合纳斯达克的持续上市要求，维持上市地位。 后续相关进展请以官方公告为准。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 76.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "227d7a446158",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4746845826744078633,
+  "reason": "tier=55 ent=1['纳斯达克'] pred=1 conv=0 combo=26 rel=22 sev=8 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "0fdef9e70b28f085",
+  "ts": "2026-11-26T06:34:35+08:00",
+  "title": "韩国将推出电动汽车电池租赁计划",
+  "title_zh": "",
+  "body": "韩国将推出电动汽车电池租赁计划。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6b717cce0f72",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 606861291200230795,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "220cad706b1f4388",
+  "ts": "2026-11-26T06:33:12+08:00",
+  "title": "制订实施方案，着手技术准备，券商启动创业板做市筹备",
+  "title_zh": "",
+  "body": "创业板引入做市商制度渐行渐近。近日，从部分券商处获悉，交易所加速推进创业板引入做市商相关工作，已取得证券做市交易业务资格的证券公司正在积极筹备创业板做市交易业务。有大型券商做市业务人士向记者表示，正根据《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》做好相关业务和技术准备。“目前主要先明确做市业务牵头负责人和联络人，制订做市交易业务实施方案，并着手技术系统改造与联调测试准备，等待交易所后续规则落地后申请备案。”上述人士表示，券商参与做市需要设置交易岗、风险控制岗、技术运维岗等岗位，并且安排合规、清算、信息技术等部门支持做市交易业务。（上证报）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8186698.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "888c2b863938",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2606710454221024168,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "bef65bbd197eac85",
+  "ts": "2026-11-26T06:33:03+08:00",
+  "title": "沙特领导的联军称，其在沙特东部地区上空摧毁了两架无人机",
+  "title_zh": "",
+  "body": "沙特领导的联军称，其在沙特东部地区上空摧毁了两架无人机。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1410230.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "08c060754723",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3504349518438426822,
+  "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=8 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "6271fe91b99f3c3a",
+  "ts": "2026-11-26T06:32:41+08:00",
+  "title": "周四重要财经信息提醒（以下均为北京时间）",
+  "title_zh": "",
+  "body": "① 全天 美股感恩节休市； ② 时间待定 韩国央行7天回购利率； ③ 09:00 日本央行审议委员田村直树发表讲话； ④ 15:00 德国12月GfK消费者信心指数； ⑤ 时间待定 国内成品油将开启新一轮调价窗口； ⑥ 20:30 欧洲央行发布10月28-29日货币政策会议的纪要文件。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftm9033828.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 43.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cab97ddc7505",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6865505534513280274,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "c450b60cef90d35e",
+  "ts": "2026-11-26T06:31:31+08:00",
+  "title": "安大略省教师退休金CEO：漫长的AI基础设施建设危及投资",
+  "title_zh": "",
+  "body": "安大略省教师退休金计划首席执行官Jo Taylor表示，人工智能(AI)能否成功，将取决于建设AI相关基础设施需要多长时间。AI将取决于“为支撑其技术模型而进行的这一漫长的基础设施建设还会持续多久,”65岁的Taylor在采访中表示，“时间越长，成本越高，商业模式能否成立就越不确定。”Taylor表示，决定成败的另一个因素是以何种方式获得AI敞口。安大略省教师退休金计划通过Anthropic PBC等所谓的前端公司投资AI领域，同时也投资数据中心。Taylor表示，这些数据中心的技术密集程度低于那种“非常昂贵、配置大量英伟达芯片”的数据中心。Compass Datacenters就是其中一项投资。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8185655.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "12e01a26aeaa",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6499672221260231996,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "6151c770fd09125b",
+  "ts": "2026-11-26T06:31:20+08:00",
+  "title": "国内新闻1. 中美贸易理事会项下农业工作组首次会议在京举行",
+  "title_zh": "",
+  "body": "2. 美国计划对包括中国在内的有关国家加征关税，外交部：关税战、贸易战不符合任何一方的利益。国际新闻1. 美联储褐皮书：美国经济温和增长，消费支出基本持平。2. 英媒：特朗普政府搁置以商业交易推动结束俄乌冲突的计划。3. 大空“大空头”伯里平仓纳指看跌期权，称当前几乎全面做多头。4. 消息人士称，欧洲央行周三讨论了提高最低准备金率的可能性。5. 韩国拟扩大股市稳定基金规模，摸底25家金融机构追加出资能力。6. 标普：因并购风险上升，英伟达的“AA”评级被列入负面信用观察名单。7. 美国10月核心PCE物价指数年率录得略高于预期的3.3%。美国第三季度GDP增速大幅上修至4.3%。8. 美国宣布拟向14个主要贸易伙伴商品征新关税，但美国官员称，新增关税不会超过贸易协议规定的上限。9. 隔夜行情—美股金银走出超级V型行情，黄金较低点反弹160美元，道指跌超千点后转涨、布油一度涨4%。10. 中东局势—①也门胡塞武装称打击沙特炼油厂、首都金融区、吉达港和吉赞港。②库什纳敦促内塔尼亚胡兑现加沙和平计划承诺。①伊朗副总统：政府计划在至少三个月内确保基本生活物资价格稳定。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 60.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "4111ec175477",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 2636788572468833121,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "ae2446b111b9ef01",
+  "ts": "2026-11-26T06:30:27+08:00",
+  "title": "Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize",
+  "title_zh": "在加沙被以色列杀害的巴勒斯坦记者荣获久负盛名的罗里·佩克奖",
+  "body": "Palestinian w",
+  "summary": "",
+  "url": "https://www.al-monitor.com/originals/2026/11/palestinian-journalist-killed-israel-gaza-wins-prestigious-rory-peck-prize",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 42.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8cc872ac475d",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 1048494942817879238,
+  "reason": "tier=80 ent=1['israel'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "8703b84e7bda1f66",
+  "ts": "2026-11-26T06:30:27+08:00",
+  "title": "Houthis say hit two Saudi ports in response to coalition strikes",
+  "title_zh": "胡塞武装称，为回应联军的空袭，他们袭击了沙特的两座港口",
+  "body": "Yemen's Houthis said Wednesday they had targeted the Saudi ports of Jeddah and Jazan in response to Saudi strikes on a Yemeni port controlled by the Iran-backed group as their conflict further escalated. The attacks came after the Saudi-led military coalition fighting the Houthis said it had struck Yemen's Red Sea port city of Hodeida, drawing threats of retaliation from the Yemeni fighters. \"Both operations resulted in damage to the targeted sites,\" Houthi military spokesman Yahya Saree said.",
+  "summary": "也门胡塞武装周三表示，针对沙特对该组织控制的也门港口发动空袭，他们对沙特的吉达港和吉赞港发动了袭击，双方冲突进一步升级。",
+  "url": "https://www.al-monitor.com/originals/2026/11/houthis-say-hit-two-saudi-ports-response-coalition-strikes",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 85.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "da26b06970ae",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 8195969189850270481,
+  "reason": "tier=80 ent=2['saudi', 'houthi'] pred=1 conv=0 combo=32 rel=24 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9400c1a46c8c934c",
+  "ts": "2026-11-26T06:29:20+08:00",
+  "title": "11月26日隔夜要闻一览",
+  "title_zh": "",
+  "body": "1、美股三大股指低开后反弹，道指翻红。道指涨0.33%，标普跌0.25%，纳指跌0.62%。Meta涨3.39%，苹果涨0.37%，特斯拉跌1.18%，微软跌1.26%，谷歌跌2.13%，亚马逊跌3.14%，英伟达跌近4%。 2、美国副总统万斯力挺黄仁勋：没有受到调查，也不需要赦免。 3、也门胡塞武装称袭击沙特吉达港和吉赞港。WTI 1月原油期货收涨1.63美元，涨幅1.99%，报83.68美元/桶。布伦特原油期货结算价为每桶94.61美元，上涨3.21美元，涨幅3.51%。 4、美联储褐皮书显示，近几周多数辖区经济实现轻微至温和增长，企业则反映薪资压力上升。 5、美国商务部周三公布，10月个人消费支出（PCE）价格指数环比上涨0.3%，同比上涨3.8%。央行决策者正在权衡下月是否加息。 6、城堡证券拟向客户返还约35亿美元，旗舰基金今年累计上涨15.3%。 7、标普将英伟达评级由稳定展望调整为负面信用观察，称近期事件动摇了对英伟达管理与治理框架的判断。有关首席执行官的消息，以及潜在出口管制违规相关疑问，暴露出英伟达管理与治理体系存在薄弱环节。 8、亚洲12月美国原油采购量降至2018年低位，约1600万至1800万桶。 9、俄罗斯外交部副部长里亚布科夫表示，俄方愿继续以俄美乌三方模式就乌克兰问题举行会谈。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3812109.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 60.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "6fb471e8a9a0",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 11219861462307820,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "3b523e9d2c69d9b1",
+  "ts": "2026-11-26T06:29:10+08:00",
+  "title": "美股尾盘收复失地 亚洲市场有望跟随反弹",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，亚洲股市期货显示，周四开盘有望小幅上涨。此前华尔街尾盘反弹，使纳斯达克100指数暂时避免跌入熊市，而市场对人工智能投资热潮可持续性的担忧仍挥之不去，推动美国国债走高。近几周，投资者对人工智能基础设施建设的风险、成本及盈利前景产生疑虑，导致全球股市剧烈震荡。不过，周三逢低买盘的出现表明，尽管市场疑虑仍然存在，投资者依然相信人工智能能够成为经济增长引擎。衡量市场波动程度的一项重要指标VIX指数一度升至28，显示市场压力正在加剧。StoneX Trading及Forex.com分析师Fawad Razaqzada表示：“投资者仍在解除杠杆化风险头寸，并转向债券及其他避险资产，市场高波动性目前仍看不到结束的迹象。”",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0998951b2638",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 18085918958120842738,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "5365294866761b85",
+  "ts": "2026-11-26T06:27:57+08:00",
+  "title": "Anthropic股票引发华尔街同一家机构内部罕见分歧",
+  "title_zh": "",
+  "body": "Hedgeye Risk Management的两名股票分析师——Andrew Freedman和Felix Wang——对Anthropic PBC新上市股票的前景发表了相互矛盾的看法。Freedman认为该股对长期投资者具有吸引力，而Wang则因担忧数据中心融资问题及长期商业需求而建议做空该股。这种对立的观点反映出，市场在如何评估人工智能的颠覆性潜力以及Anthropic在其中的作用方面，存在更广泛的分歧。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1407369.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d961490ff6b3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10479177744048169472,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9eea8b86abc0a5d4",
+  "ts": "2026-11-26T06:27:19+08:00",
+  "title": "美国参议院民主党成员Warren呼吁证券交易委员会（SEC）撤销关于“监管加密资产”的制度",
+  "title_zh": "",
+  "body": "美国参议院民主党成员Warren呼吁证券交易委员会（SEC）撤销关于“监管加密资产”的制度。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftm9031252.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "626d63bb2f6a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1786973076659156050,
+  "reason": "tier=55 ent=1['SEC'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "d3694b01ee52aaeb",
   "ts": "2026-11-26T06:22:35+08:00",
   "title": "委内瑞拉财政部长：委内瑞拉正与美洲开发银行进行深入谈判",
@@ -19,7 +332,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 18086951755297037290,
   "reason": "tier=55 ent=2['财政部', '委内瑞拉'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -163,7 +476,7 @@
   "sources": [
    "Nikkei Asia"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 951612917137084492,
   "reason": "tier=80 ent=2['nvidia', 'ustr'] pred=0 conv=0 combo=8 rel=24 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -180,16 +493,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "572a872c530e",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 17339156326020049506,
-  "reason": "tier=55 ent=1['委内瑞拉'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['委内瑞拉'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "6e0ae3f6ed114977",
@@ -287,7 +601,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8474910204019114491,
   "reason": "tier=55 ent=1['英伟达'] pred=1 conv=0 combo=26 rel=29 sev=8 pct=0 op=Y spread=2 burst=1"
  },
@@ -354,16 +668,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "ff3ede6aa9a2",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 13991002365528561048,
-  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "e2a3a4129442d0d8",
@@ -505,7 +820,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12779615000994808357,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -626,7 +941,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12367688792403945261,
   "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -1060,7 +1375,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14990761716617413,
   "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=1"
  },
@@ -1328,7 +1643,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7360156551520493722,
   "reason": "tier=55 ent=2['财政部', '美国财政部'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -1352,7 +1667,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15346717323804012013,
   "reason": "tier=55 ent=1['沙特'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -1642,7 +1957,7 @@
   "sources": [
    "NYT Business"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1027173282603171877,
   "reason": "tier=80 ent=1['nvidia'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -1741,7 +2056,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7154833585760018544,
   "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=0 op=Y spread=2 burst=1"
  },
@@ -1885,7 +2200,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8014688804608701793,
   "reason": "tier=80 ent=2['israel', 'netanyahu'] pred=0 conv=0 combo=8 rel=14 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -2173,7 +2488,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17446802882869182832,
   "reason": "tier=55 ent=2['乌克兰', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=8 pct=0 op=N spread=0 burst=1"
  },
@@ -2269,7 +2584,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11673349228431713057,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=8 op=N spread=0 burst=1"
  },
@@ -2318,7 +2633,7 @@
   "sources": [
    "Nikkei Asia"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6705280550124830431,
   "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=17 sev=0 pct=0 op=N spread=0 burst=1"
  },
