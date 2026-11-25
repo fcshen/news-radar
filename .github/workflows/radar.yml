@@ -8,6 +8,9 @@ on:
 
 concurrency:
   group: radar
+  # 新任务直接顶掉正在跑的旧任务：永远只有一个实例在跑，
+  # 改了代码或补了 secret 后无需手动去 Actions 页取消。
+  # 数据靠启动回溯 120 分钟 + 每 30 分钟提交补偿，被顶掉不丢事件。
   cancel-in-progress: true
 
 permissions:
