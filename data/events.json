@@ -1,5 +1,175 @@
 [
  {
+  "id": "ca5a4f9cd1c7eef7",
+  "ts": "2026-11-26T03:42:17+08:00",
+  "title": "美国参议员沃伦、范霍伦要求美国证券交易委员会撤销加密货币相关方案",
+  "title_zh": "",
+  "body": "美国参议员沃伦、范霍伦要求美国证券交易委员会撤销加密货币相关方案。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1586401.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "19dfe1b15612",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1499287738438293426,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "5f7f9b6b0fe0da2c",
+  "ts": "2026-11-26T03:41:27+08:00",
+  "title": "Massive blaze kills at least 30 in Cairo, Egypt, after fuel truck overturns",
+  "title_zh": "埃及开罗发生油罐车侧翻引发大火，造成至少30人死亡",
+  "body": "A fire erupted in a densely populated area of the Egyptian capital Cairo on Wednesday, killing at least 30 people, according to a toll released by the health ministry. Footage shot by passers-by showed a massive blaze and huge clouds of smoke rising from the site. The fire broke out when a truck loaded with fuel overturned on a crowded highway, state media reported. The health ministry said 39 ambulances were sent to the scene and 15 people were taken to hospital with injuries.",
+  "summary": "",
+  "url": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d85688092899",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 8689054470819771527,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "6c6e863b28f8660b",
+  "ts": "2026-11-26T03:39:49+08:00",
+  "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+  "title_zh": "投资者对人工智能、关税和通胀感到担忧，股市再次暴跌",
+  "body": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
+  "summary": "英伟达和其他科技公司股价下跌，原因是投资者权衡了全球贸易的发展和利率走势。",
+  "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 81.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "17bdf6853a6c",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 7987204541179806753,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "3a4c102ef741534c",
+  "ts": "2026-11-26T03:39:00+08:00",
+  "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+  "title_zh": "美联储表示，在12月加息的关键投票之前，通胀情况并未得到任何改善",
+  "body": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.",
+  "summary": "在12月加息的关键投票前夕，美联储周三表示，顽固的通胀仍是经济扩张的眼中钉。",
+  "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 62,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "ea167d16f01f",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 893970627447586881,
+  "reason": "tier=80 ent=1['the fed'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "ef1178e71caa36db",
+  "ts": "2026-11-26T03:36:42+08:00",
+  "title": "北约盟友预计美国将推迟作出削减驻欧美军的决定",
+  "title_zh": "",
+  "body": "知情人士称，相关方案预计 12 月下旬或明年出炉。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvcr9223420.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 29.1,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6dda8dbaa9c7",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1021939053480896401,
+  "reason": "tier=55 ent=1['北约'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=Y spread=2 burst=1"
+ },
+ {
+  "id": "fd8079612be5e885",
+  "ts": "2026-11-26T03:34:39+08:00",
+  "title": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
+  "title_zh": "2026年游不丹：柴烧披萨和用手机的僧侣",
+  "body": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
+  "summary": "",
+  "url": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 44.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c168c9ea282a",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 258254335957082592,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "5b45d50b7c934ce9",
+  "ts": "2026-11-26T03:33:45+08:00",
+  "title": "沙特领导的联军：在吉达港附近拦截胡塞武装无人机后，碎片未造成平民伤亡",
+  "title_zh": "",
+  "body": "沙特领导的联军：在吉达港附近拦截胡塞武装无人机后，碎片未造成平民伤亡。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyvct1583597.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 50.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "ca6a59e26075",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4828830772701777095,
+  "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=1"
+ },
+ {
   "id": "1977567133923349",
   "ts": "2026-11-26T03:30:55+08:00",
   "title": "美国原油期货结算价为每桶83.68美元，上涨1.63美元，涨幅1.99%",
@@ -12,16 +182,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 28.2,
+  "score": 30.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "d026762a7fae",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5687627078446932327,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "7830adb197b9084a",
@@ -46,6 +217,54 @@
   "pushed": false,
   "sh": 15603859659154781268,
   "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "074e1306967187b7",
+  "ts": "2026-11-26T03:27:56+08:00",
+  "title": "Bellingham’s wondergoal sparks Zidane comparisons",
+  "title_zh": "贝林厄姆的精彩进球引发与齐达内的比较",
+  "body": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "20857afcc443",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 16195120647142425157,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "d9586bac0e5e3fa3",
+  "ts": "2026-11-26T03:25:57+08:00",
+  "title": "Gold at $8,000 could signal dollar crisis: economist",
+  "title_zh": "经济学家：黄金价格达到8000美元可能预示着美元危机",
+  "body": "Alasdair Macleod warns that the Federal Reserve may have to sacrifice the currency’s purchasing power to protect markets.",
+  "summary": "阿拉斯戴尔·麦克劳德（Alasdair Macleod）警告称，美联储可能不得不牺牲货币的购买力来保护市场。",
+  "url": "https://www.mining.com/gold-at-8000-could-signal-dollar-crisis-economist/",
+  "source": "矿业与金属Mining",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 60.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "26c5fd57cf82",
+  "sources": [
+   "矿业与金属Mining"
+  ],
+  "pushed": false,
+  "sh": 15227235079712199455,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "cd091cbe1af0a90d",
@@ -193,6 +412,30 @@
   "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
+  "id": "860729986c84ada6",
+  "ts": "2026-11-26T03:16:15+08:00",
+  "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+  "title_zh": "乌克兰激光武器首次击落俄罗斯喷气式无人机",
+  "body": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+  "summary": "乌克兰称，其Blysk激光系统首次在战斗中拦截了一架俄罗斯喷气式无人机。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 53.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "6ceb4e82c17e",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 1532694622061340038,
+  "reason": "tier=55 ent=1['russia'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "407d9af58a72ef00",
   "ts": "2026-11-26T03:16:00+08:00",
   "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
@@ -215,6 +458,30 @@
   "pushed": false,
   "sh": 15192442157913761779,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "4d08cf21d18c0470",
+  "ts": "2026-11-26T03:15:52+08:00",
+  "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+  "title_zh": "对荷台达港的再次袭击是否会加剧也门的人道主义危机？",
+  "body": "Disruptions at Yemen s largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
+  "summary": "",
+  "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "809f0e945c50",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 17374631007147704847,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "20f87da90af288ea",
