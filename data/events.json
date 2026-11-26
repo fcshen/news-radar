@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "043f3f82d15fb7ac",
+  "ts": "2026-11-26T16:52:55+08:00",
+  "title": "联合国维和人员助埃博拉防疫人员撤离刚果（金）战火",
+  "title_zh": "联合国维和人员助埃博拉防疫人员撤离刚果（金）战火",
+  "body": "在联合国维和人员协助下，10名被战火困在刚果（金）东部一家医院的埃博拉防疫人员近日成功撤离。联合国刚果（金）稳定特派团（联刚稳定团）25日在一份声明中说，于24日帮助撤离10名被困的医护人员。为应对伊图里省朱古地区武装冲突，该团22日在当地部署移动基地，以加强平民保护。（新华社）",
+  "summary": "联合国维和人员协助刚果（金）10名埃博拉防疫人员撤离战火。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ac38b41dfa04",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8829362173966380762,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "39acf58c7759dbdf",
+  "ts": "2026-11-26T16:52:50+08:00",
+  "title": "天津：持续营造市场化、法治化、国际化一流营商环境，深化与亚太经合组织成员经济体在经贸、投资等领域务实合作",
+  "title_zh": "天津：持续营造市场化、法治化、国际化一流营商环境，深化与亚太经合组织成员经济体在经贸、投资等领域务实合作",
+  "body": "11月26日，市委常委会召开会议。会议指出，要与时俱进深学细悟习近平外交思想，准确把握科学内涵和实践要求，转化为推进我市高水平对外开放的实际成效，打造我国北方地区联通国内国际双循环的重要战略支点。要继续发挥区位、港口、产业、科教人才等优势，建好开放平台载体，持续营造市场化、法治化、国际化一流营商环境，深化与亚太经合组织成员经济体在经贸、投资等领域务实合作，为推动亚太共同体建设贡献天津力量。",
+  "summary": "天津市委常委会会议强调深化与亚太经合组织成员经济体经贸投资合作。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8201617.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "天津营商环境改善可能吸引外资，对相关行业和板块构成正面影响。",
+  "cluster_id": "2fb302825b65",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8284913473338860279,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "36fb2c379fcee10f",
   "ts": "2026-11-26T16:51:27+08:00",
   "title": "巴克莱策略师认为回购将支撑欧洲股市",
@@ -613,16 +663,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "rss",
-  "score": 62.2,
+  "score": 64.2,
   "level": "L1",
   "impact": "中美贸易关系影响市场情绪，可能影响相关行业和板块表现。",
   "cluster_id": "0741f9c93ec7",
   "sources": [
-   "中新网财经"
+   "中新网财经",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 326780575943851309,
-  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -2215,6 +2266,31 @@
   "pushed": false,
   "sh": 657332860484152028,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "d8947aff60d3246b",
+  "ts": "2026-11-26T16:29:53+08:00",
+  "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+  "title_zh": "Rachel 呼吁名人反对加沙地带大屠杀",
+  "body": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
+  "summary": "美国内容创作者 Rachel 呼吁更多名人反对加沙地带大屠杀。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "959f840ce8f5",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 14714109910226665472,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
