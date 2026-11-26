@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "18daaab6e454cf35",
+  "ts": "2026-11-26T17:57:53+08:00",
+  "title": "香港特区政府数据显示，10月香港对中国内地黄金总出口量为95.646吨，9月为94.096吨",
+  "title_zh": "香港特区政府：10月香港对中国内地黄金出口95.646吨",
+  "body": "香港特区政府数据显示，10月香港对中国内地黄金总出口量为95.646吨，9月为94.096吨。",
+  "summary": "10月香港对中国内地黄金出口量较9月增加1.55吨。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "或影响黄金价格及相关ETF表现。",
+  "cluster_id": "14c10dfd91f2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9632042402490289819,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "5e49ce84e971d276",
   "ts": "2026-11-26T17:54:32+08:00",
   "title": "容百科技：子公司仙桃容百完成3亿元增资扩股工商变更，交银投资持股15.9811%",
@@ -598,6 +623,32 @@
   "pushed": false,
   "sh": 18253511840717090670,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=12 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "4778c50ffde74bc4",
+  "ts": "2026-11-26T17:54:10+08:00",
+  "title": "泽宇智能(301179)：泽宇智能：关于现金收购智联新能电力科技有限公司51%股权进展暨交易对方完成增持公司股份的公告",
+  "title_zh": "泽宇智能(301179)：泽宇智能：关于现金收购智联新能电力科技有限公司51%股权进展暨交易对方完成增持公司股份的公告",
+  "body": "泽宇智能(301179)：泽宇智能：关于现金收购智联新能电力科技有限公司51%股权进展暨交易对方完成增持公司股份的公告",
+  "summary": "泽宇智能拟现金收购智联新能电力科技51%股权，交易对方已增持公司股份。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/9cfb4fc8-74a4-45a0-8bff-6c2a37a9a25b.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 66.6,
+  "level": "L1",
+  "impact": "可能影响相关公司股价及行业板块表现",
+  "cluster_id": "15e3f34ba367",
+  "sources": [
+   "深交所公告",
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11531339895425757356,
+  "reason": "tier=96 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
