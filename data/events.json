@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "85790f28021968be",
+  "ts": "2026-11-26T18:11:21+08:00",
+  "title": "商务部：将构建政策矩阵培育“中国服务”品牌",
+  "title_zh": "商务部：将构建政策矩阵培育“中国服务”品牌",
+  "body": "在商务部今天举行的例行新闻发布会上，新闻发言人表示，我国服务贸易规模已突破万亿美元，在这个新起点上，商务部会同有关部门编制了《服务贸易发展“十五五”规划》，以“培育发展新动能”为主线，谋划重点任务，构建政策矩阵，培育“中国服务”品牌。商务部新闻发言人何亚东：《规划》打破原有的统计分类，提出从生产性服务和生活性服务两个维度，拓展服务贸易新空间，强调贸易与产业的结合、与投资的联动、与消费的协同。聚焦新业态发展和要素跨境流动管理。提出发展绿色服务贸易、人工智能服务贸易新业态，激发内生动能。我们将扩大高水平对外开放，助力“中国服务”扬帆出海，与世界各国共享服务业发展机遇。（央视新闻）",
+  "summary": "商务部发布《服务贸易发展“十五五”规划》，强调服务贸易新空间拓展，聚焦新业态发展和要素跨境流动管理。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3656071.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "可能促进服务行业相关企业表现",
+  "cluster_id": "2b4a7f66d7f8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5888239676520491145,
+  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "21dac3862b575172",
+  "ts": "2026-11-26T18:10:51+08:00",
+  "title": "中国银行：完成发行360亿元总损失吸收能力非资本债券",
+  "title_zh": "中国银行：完成发行360亿元总损失吸收能力非资本债券",
+  "body": "中国银行公告称，经股东大会及监管机构批准，公司2026年总损失吸收能力非资本债券（第三期）（债券通）于2026年11月26日发行完毕，发行总规模360亿元。其中品种一规模240亿元，为4年期固定利率债券，票面利率1.65%，第3年末附发行人有条件赎回权；品种二规模120亿元，为6年期固定利率债券，票面利率1.75%，第5年末附发行人有条件赎回权。募集资金扣除发行费用后将用于提升本行总损失吸收能力。",
+  "summary": "中国银行发行360亿元总损失吸收能力非资本债券，期限4-6年。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8138673.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "可能影响银行股估值及流动性管理。",
+  "cluster_id": "36455a050066",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4754903077306509768,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "6c79cd5b0b66c98d",
   "ts": "2026-11-26T18:09:31+08:00",
   "title": "俄罗斯斯塔夫罗波尔边疆区行政长官称，“涅温诺梅斯克氮肥厂”遭到无人机袭击",
@@ -588,16 +638,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 49.2,
-  "level": "L0",
+  "score": 51.2,
+  "level": "L1",
   "impact": "",
   "cluster_id": "8b14872851ef",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 10780828732824051332,
-  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=15 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=15 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "119474afa51fac88",
@@ -660,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 59.7,
+  "score": 61.4,
   "level": "L1",
   "impact": "",
   "cluster_id": "92942a286ca4",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11539668345837076191,
-  "reason": "tier=55 ent=3['央行', '美联储'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=Y spread=0 burst=3"
+  "reason": "tier=55 ent=3['央行', '美联储'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=Y spread=2 burst=3"
  },
  {
   "id": "e6b805973b11c175",
