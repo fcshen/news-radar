@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "15b9b3398d6252af",
+  "ts": "2026-11-27T07:33:21+08:00",
+  "title": "华为HarmonyOS五大技术品牌公开",
+  "title_zh": "华为HarmonyOS五大技术品牌公开",
+  "body": "在 2026 HarmonyOS 创新技术沟通会上，华为 HarmonyOS 五大技术品牌正式公开，含鸿蒙星河互联、鸿蒙星盾安全、方舟引擎、鸿蒙智能 & 小艺、鸿蒙空间计算。",
+  "summary": "华为在2026年HarmonyOS创新技术沟通会上公布五大技术品牌。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1036599.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "科技股可能受关注",
+  "cluster_id": "0d6cf22e1f01",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9383487319703636641,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "bca413e6aafe3316",
   "ts": "2026-11-27T07:31:45+08:00",
   "title": "人民日报刊文：鼓吹“产能过剩论”，解不开全球经济失衡症结",
