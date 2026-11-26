@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "6f9e5f540d4f5fc6",
+  "ts": "2026-11-27T06:18:39+08:00",
+  "title": "巴西政府对法国总统马克龙称巴西肉类为“掺杂”的言论表示遗憾",
+  "title_zh": "",
+  "body": "巴西政府对法国总统马克龙称巴西肉类为“掺杂”的言论表示遗憾。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2f6ec5f06932",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9631081476294060570,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
   "id": "e7ba22aa776a5aeb",
   "ts": "2026-11-27T06:16:29+08:00",
   "title": "固态冲刺量产，场景抢先卡位，锂电产业寻找新增长极",
@@ -734,16 +758,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "fccfb651d59b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 16684113192293198026,
-  "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "60f74692366e611e",
