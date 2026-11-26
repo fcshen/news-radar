@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "e673ad199ff74a68",
+  "ts": "2026-11-27T07:57:36+08:00",
+  "title": "今起电视不能播放开机广告",
+  "title_zh": "今起电视不能播放开机广告",
+  "body": "今天（11月27日）起，国家广播电视总局第17号令《有线广播电视运营服务管理规定》与第18号令《交互式网络电视运营服务管理暂行规定》正式施行。 为维护用户合法权益，方便用户看电视，新规对有线广播电视运营服务和交互式网络电视运营服务，提出以下要求：实现开机看全屏直播功能 不得播放开机广告应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视应支持优先呈现直播频道功能，提供便捷设置入口。",
+  "summary": "自11月27日起，国家广播电视总局新规禁止电视播放开机广告。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1050609.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "可能影响电视广告市场，间接影响相关广告公司业绩。",
+  "cluster_id": "df6ff671b8a0",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4096461809791703226,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "2d4549634751aa1c",
+  "ts": "2026-11-27T07:56:36+08:00",
+  "title": "美国总统特朗普：曾对早前的市场下跌感到担忧",
+  "title_zh": "",
+  "body": "美国总统特朗普：曾对早前的市场下跌感到担忧。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1049999.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 37.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c7caaef7bbe7",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15491317164716084248,
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=4"
+ },
+ {
   "id": "6d87f6bf778edb91",
   "ts": "2026-11-27T07:56:11+08:00",
   "title": "特朗普谈黄之锋：我为美国和世界做了件伟大的事",
@@ -720,6 +770,31 @@
   "pushed": false,
   "sh": 11500927131420818561,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "f4daf79b15c877bc",
+  "ts": "2026-11-27T07:51:53+08:00",
+  "title": "Op-Ed: US midterms won’t change mining policy. They’ll change who gets subpoenaed",
+  "title_zh": "Op-Ed: 美国中期选举不会改变矿业政策。但会改变被传唤对象",
+  "body": "Over the next two years, committees will intensify scrutiny around several core pressures facing the industry, writes Jonathan Drimmer.",
+  "summary": "美国中期选举后，委员会将加强对矿业核心压力的审查。",
+  "url": "https://www.mining.com/op-ed-us-midterms-wont-change-mining-policy-theyll-change-who-gets-subpoenaed/",
+  "source": "矿业与金属Mining",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 19.8,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e61a5f266b2c",
+  "sources": [
+   "矿业与金属Mining"
+  ],
+  "pushed": false,
+  "sh": 7778231036747017416,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=4",
   "engine": "primary"
  },
  {
@@ -3638,16 +3713,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "1ba57328a3c7",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 4797666474994256580,
-  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "dec30365fb235167",
