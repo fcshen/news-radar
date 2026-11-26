@@ -576,6 +576,80 @@
   "engine": "primary"
  },
  {
+  "id": "a42575e7654581fd",
+  "ts": "2026-11-26T18:48:04+08:00",
+  "title": "香港金融管理局通过贴现窗口向银行提供20亿港元贷款",
+  "title_zh": "",
+  "body": "香港金融管理局通过贴现窗口向银行提供20亿港元贷款。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8167353.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2124b978bacc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16783051007160944548,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "a07b45e7580e5618",
+  "ts": "2026-11-26T18:47:54+08:00",
+  "title": "华兰股份：拟使用不超12亿元闲置资金进行现金管理",
+  "title_zh": "华兰股份：拟使用不超12亿元闲置资金进行现金管理",
+  "body": "华兰股份公告称，公司董事会审议通过议案，拟由公司及子公司使用不超过12.00亿元的闲置募集资金和自有资金进行现金管理，其中募集资金不超过8.00亿元、自有资金不超过4.00亿元。现金管理有效期为股东会审议通过之日起12个月内，额度在有效期内可循环滚动使用，投资品种为安全性高、流动性好的低风险产品。该事项尚需提交公司2026年第四次临时股东会审议。",
+  "summary": "华兰股份拟用不超12亿元闲置资金进行现金管理，期限12个月。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8167240.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "公司资金运用变化或影响短期流动性预期。",
+  "cluster_id": "ed307dd0783e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4935653045217685440,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "aeb10180820165d3",
+  "ts": "2026-11-26T18:47:43+08:00",
+  "title": "重庆银行完成13.3亿元金融债券发行",
+  "title_zh": "重庆银行完成13.3亿元金融债券发行",
+  "body": "11月26日晚间，重庆银行公告，经中国人民银行批准，该行2026年金融债券（第三期）于2026年11月24日报价发行，并于2026年11月25日完成缴款。本期债券为3年期固定利率债券，发行规模为人民币13.3亿元，票面利率为1.56%。",
+  "summary": "重庆银行完成13.3亿元3年期固定利率金融债券发行。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1390732.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "银行间市场流动性影响",
+  "cluster_id": "cd064abacd06",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16497223252159773550,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "2f4de2f484b2e547",
   "ts": "2026-11-26T18:46:32+08:00",
   "title": "现货黄金日内跌1%，现报3552.09美元/盎司",
@@ -612,16 +686,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 18.9,
+  "score": 20.6,
   "level": "L0",
   "impact": "可能影响投资者对A股结构性行情的关注和配置策略。",
   "cluster_id": "a780151b9e28",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1733074808896283788,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -647,6 +722,56 @@
   "pushed": false,
   "sh": 8381490380350557556,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "8f7c00ba48b51028",
+  "ts": "2026-11-26T18:46:16+08:00",
+  "title": "雀巢客服回应奶粉检出呕吐毒素",
+  "title_zh": "雀巢客服回应奶粉检出呕吐毒素",
+  "body": "据南方都市报，11月26日，记者从海关总署进出口食品安全局获悉，近日海关总署从一批标称为瑞士生产的雀巢澳版“Alfamino”氨基酸全水解婴幼儿配方奶粉1+段样品中，检出蜡样芽胞杆菌呕吐毒素。 11月26日晚，以消费者身份咨询雀巢母婴官方旗舰店客服，对方称“Alfamino”即海外版“恩敏舒”，其店铺售卖的都是国内版“恩敏舒”。该客服表示，涉事产品是平行进口的澳洲跨境产品，非雀巢官方渠道售卖产品，并未进入中国市场。（中新经纬）",
+  "summary": "海关总署从雀巢澳版奶粉中检出呕吐毒素，客服称非官方渠道产品。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1389731.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响婴幼儿配方奶粉相关上市公司股价。",
+  "cluster_id": "999bce712fb0",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2553212807138228208,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "9ba793d0c8f66969",
+  "ts": "2026-11-26T18:45:50+08:00",
+  "title": "李运到光明区调研走访企业和科研机构时强调 大力推动科技创新和产业创新深度融合",
+  "title_zh": "李运到光明区调研强调科技与产业深度融合",
+  "body": "11月25日，深圳市委副书记、市长李运到光明区调研，走访企业和科研机构。调研中，李运对今年以来光明区经济社会发展取得的新成效给予肯定。他强调，要深入学习贯彻习近平总书记视察广东和出席亚太经合组织第三十三次领导人非正式会议及相关活动重要讲话重要指示精神，与学习贯彻党的二十届五中全会精神和习近平总书记对广东、深圳系列重要讲话重要指示精神贯通起来，切实把学习成效转化为高质量发展和现代化建设的实干实绩。要以主阵地作为推进大湾区综合性国家科学中心建设，大力推动科技创新和产业创新深度融合，因地制宜发展人工智能和机器人、超高清视频显示、生物医药等新兴产业，培育壮大新质生产力，加快打造世界一流科学城。要统筹做好岁末年初各项工作，加力强生产、扩投资、促消费、稳外贸，巩固经济运行向新向优向好态势，持续保障和改善民生，努力完成全年发展目标任务，实现“十五五”良好开局。（深圳发布）",
+  "summary": "深圳市委副书记、市长李运调研光明区，强调推动科技创新与产业深度融合，发展新兴产业。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3679718.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "深圳科技创新政策或影响相关产业板块表现",
+  "cluster_id": "8af00717c8a5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11704102845427040258,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -722,6 +847,31 @@
   "pushed": false,
   "sh": 4620971542300398656,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "88759ef37ebb670a",
+  "ts": "2026-11-26T18:43:59+08:00",
+  "title": "肯尼亚高等法院：政府批准美支持的埃博拉隔离设施项目程序违宪",
+  "title_zh": "肯尼亚高等法院：政府批准美支持的埃博拉隔离设施项目程序违宪",
+  "body": "据央视新闻，当地时间26日，肯尼亚高等法院裁定，肯尼亚政府在批准建设一处由美国支持的埃博拉隔离设施过程中，违反了宪法相关规定。肯尼亚高等法院法官帕特里夏·尼奥翁迪表示，政府在与美国签署有关设施建设的协议前，应公开协议具体内容，并征求公众意见。她指出，肯尼亚民众，尤其是莱基皮亚郡居民，在涉及当地社区利益的决策过程中，未能获得充分的信息，也没有得到有意义的知情和参与机会。",
+  "summary": "肯尼亚高等法院裁定政府批准美支持埃博拉隔离设施项目程序违宪。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8164694.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "acb81a3669f2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8531250527000437212,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -2606,11 +2756,12 @@
   "impact": "",
   "cluster_id": "552ebb603c77",
   "sources": [
-   "深交所公告"
+   "深交所公告",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 3155228969523789018,
-  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "c513acb35ca55098",
