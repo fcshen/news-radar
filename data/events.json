@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "2a0c7e7a9eaadc05",
+  "ts": "2026-11-26T21:52:10+08:00",
+  "title": "中国儒意称董事会已通过授权公司进行股份回购，金额最高为5亿港元",
+  "title_zh": "",
+  "body": "中国儒意称董事会已通过授权公司进行股份回购，金额最高为5亿港元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1386034.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c9c1d5494ef9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13904984260107153870,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "42cdb3823d55026d",
   "ts": "2026-11-26T21:50:52+08:00",
   "title": "摩根大通上调理想汽车评级至“中性”，目标价升至40港元",
