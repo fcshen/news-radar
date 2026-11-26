@@ -576,6 +576,80 @@
   "engine": "primary"
  },
  {
+  "id": "aab3762b09e41186",
+  "ts": "2026-11-26T21:03:28+08:00",
+  "title": "波罗的海海岬型运价指数上涨1.85%，至每日42747美元",
+  "title_zh": "",
+  "body": "波罗的海海岬型运价指数上涨1.85%，至每日42747美元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8848372.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f388c7c6a052",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7449306114928247321,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "4a77f1a05509dc05",
+  "ts": "2026-11-26T21:02:33+08:00",
+  "title": "英国皇家海军总部遭疑似炸弹威胁",
+  "title_zh": "英国皇家海军总部遭疑似炸弹威胁",
+  "body": "今天（11月26日），位于英国南部港口城市朴次茅斯的英国皇家海军总部遭遇疑似炸弹威胁，警方紧急赶赴现场。英国皇家海军发言人证实，警方及英国国防部人员正在处理一起安全事件，并呼吁公众暂时避开事发区域。目前安全警报据信已经解除，初步消息显示，现场未发现危险物品，相关调查仍在进行。事发军事基地设有英国皇家海军司令部及多个军事训练设施。（CCTV国际时讯）",
+  "summary": "英国皇家海军总部遭遇疑似炸弹威胁，警方紧急处理。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1350687.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响英国国防股表现。",
+  "cluster_id": "624edaa4d0cb",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6927506033079032529,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "bb760e7fcb98eed7",
+  "ts": "2026-11-26T21:02:27+08:00",
+  "title": "水利部部长李国英主持召开水利部部务会议",
+  "title_zh": "水利部部长李国英主持召开水利部部务会议",
+  "body": "11月26日，水利部党组书记、部长李国英主持召开部务会议，审议《用水定额管理办法》，研究青藏高原冰湖监测预警及风险防范有关工作。会议强调，要严格落实生态环境法典、水法等法律要求，加快构建覆盖农业、工业、城镇生活等主要用水领域的用水定额管理体系，建立定额实施定期评估和动态更新机制，强化定额刚性约束作用，以用水定额管理制度落实促进用水方式改进优化，提升水资源集约安全利用水平。",
+  "summary": "水利部审议《用水定额管理办法》，研究青藏高原冰湖监测预警。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8126982.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "水资源管理政策变动可能影响相关行业用水需求。",
+  "cluster_id": "f128e47ad750",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9956895900544647978,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "3f16c5718afc0cb0",
   "ts": "2026-11-26T21:01:54+08:00",
   "title": "永太科技：控股股东王莺妹补充质押1044万股股份",
@@ -7679,16 +7753,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 18.9,
+  "score": 20.6,
   "level": "L0",
   "impact": "",
   "cluster_id": "6b95e8d34ce6",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 16747727891019978607,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=3"
  },
  {
   "id": "fc4d1038ecbce379",
