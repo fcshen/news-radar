@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "5b6c896e3cf111e2",
+  "ts": "2026-11-27T06:02:22+08:00",
+  "title": "巴西航空工业公司：美国对巴产飞机征收新关税或推高机票价格",
+  "title_zh": "巴西航空工业公司：美国对巴产飞机征收新关税或推高机票价格",
+  "body": "11月26日，巴西航空工业公司首席执行官弗朗西斯科·戈麦斯·内托表示，美国对巴西产飞机征收10%的从价关税的提议可能会推高机票价格，并给美国通胀带来压力。巴航产E175飞机是目前美国运营最广泛的机型之一，对该机型征收关税将对航司产生影响，需要为飞机支付更多费用。这最终会体现在机票价格上，甚至可能影响通胀。11月25日，美国贸易代表办公室发布一项提议，要求对从巴西进口的糖征收特定额外关税；取消对巴西成品飞机的关税豁免，征收10%从价关税。（央视）",
+  "summary": "巴西航空工业公司CEO表示，美国对巴西产飞机征收10%关税可能推高机票价格。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksp1109692.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "航空股可能受影响",
+  "cluster_id": "e3bba9189191",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4533887329845441343,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "1fa694107792a2e1",
+  "ts": "2026-11-27T06:01:54+08:00",
+  "title": "Parex获准在哥伦比亚证券交易所上市股票",
+  "title_zh": "",
+  "body": "Parex获准在哥伦比亚证券交易所上市股票。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksp1109473.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "def844ec84d7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13881642370261191748,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "de81f59dd57e8a1f",
   "ts": "2026-11-27T06:00:00+08:00",
   "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
