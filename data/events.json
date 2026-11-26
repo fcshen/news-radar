@@ -1,5 +1,105 @@
 [
  {
+  "id": "0bad04430e2f5e8d",
+  "ts": "2026-11-26T12:30:03+08:00",
+  "title": "比亚迪汽车：海洋网重磅旗舰MPV 11月27日广州车展，全球首秀",
+  "title_zh": "比亚迪汽车：海洋网重磅旗舰MPV 11月27日广州车展，全球首秀",
+  "body": "比亚迪汽车：海洋网重磅旗舰MPV 11月27日广州车展，全球首秀。",
+  "summary": "比亚迪海洋网旗舰MPV将于11月27日在广州车展全球首秀。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsik8234955.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "比亚迪汽车概念股可能受关注",
+  "cluster_id": "95f7c72c8727",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2541733649184477729,
+  "reason": "tier=55 ent=1['比亚迪'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "6c7f7869076fe706",
+  "ts": "2026-11-26T12:27:56+08:00",
+  "title": "美国务院批准对乌克兰6亿多美元军售",
+  "title_zh": "美国务院批准对乌克兰6亿多美元军售",
+  "body": "美国国务院25日发表声明说，已决定批准一项价值6.219亿美元的军售计划，用于向乌克兰出售F－16战机保障维护设备及相关服务。声明说，乌克兰将利用来自比利时、丹麦、荷兰和挪威的援助资金来完成此次采购，不涉及美国政府资金。此次军售将加强乌克兰防空能力，从而提升其应对当前和未来威胁的能力。美国国务院10月30日批准向乌克兰出售500枚“爱国者”导弹及相关设备，总价值21亿美元，费用由加拿大、德国和挪威提供的捐款以及欧盟相关贷款支付，不涉及任何美国政府资金。（新华社）",
+  "summary": "美国国务院批准向乌克兰出售F-16战机保障维护设备及相关服务，总价值6.219亿美元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsip3804155.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "可能影响军工板块及地缘政治相关投资情绪。",
+  "cluster_id": "77599d05ca4a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 1309350781902295979,
+  "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "47e7ae9046c3c5af",
+  "ts": "2026-11-26T12:25:20+08:00",
+  "title": "大晓机器人发布第一人称4D手部运动重建模型ACE-ViDiHand2",
+  "title_zh": "大晓机器人发布第一人称4D手部运动重建模型ACE-ViDiHand2",
+  "body": "11月26日，界面新闻获悉，大晓机器人发布第一人称4D手部运动重建模型ACE-ViDiHand2，可从第一人称视频中恢复双手在真实尺度下的三维位置及连续运动轨迹，为机器人模仿学习与策略训练提供动作监督信号。据公司披露，该模型在七个公开测试集的评测中取得领先成绩。",
+  "summary": "大晓机器人发布4D手部运动重建模型，可从视频中恢复双手三维位置及运动轨迹。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsif9022635.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "579b6d941818",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10891735312330944025,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "7662b06470c55f68",
+  "ts": "2026-11-26T12:25:13+08:00",
+  "title": "联合化学：上海微电子不是控股子公司启辰半导体客户",
+  "title_zh": "联合化学：上海微电子不是控股子公司启辰半导体客户",
+  "body": "联合化学(301209)11月26日在互动平台表示，公司控股子公司启辰半导体新材料（盘锦）有限公司生产的苯乙烯类光刻胶单体主要用于KrF光刻胶树脂。上海微电子不是启辰半导体的客户。",
+  "summary": "联合化学控股子公司启辰半导体生产的苯乙烯类光刻胶单体非上海微电子客户。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsii1455721.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能影响相关半导体产业链公司股价。",
+  "cluster_id": "06469c0d8f4d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12974671842351367598,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "a5c53039a5b80e8c",
   "ts": "2026-11-26T12:24:15+08:00",
   "title": "147只银行理财“折戟”超去年近三成 有产品仅募集2万元",
@@ -44,7 +144,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3033597258029637144,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -277,6 +377,31 @@
   "engine": "primary"
  },
  {
+  "id": "0d458d4a46772fb1",
+  "ts": "2026-11-26T12:17:31+08:00",
+  "title": "Racecourse office blown away in Brazil",
+  "title_zh": "巴西赛马场办公室遭风暴摧毁",
+  "body": "A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.",
+  "summary": "巴西一赛马场办公室被强风暴摧毁，窗户破碎，杂物飞散。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a36618ba99f1",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 2488133283035752868,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "fb42bfd209f5b378",
   "ts": "2026-11-26T12:17:14+08:00",
   "title": "新加坡10月电子产业产值同比增长6.6%，工业产出同比增长6.1%",
@@ -346,7 +471,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4239440980236470047,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -372,7 +497,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3375861093215106304,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -397,7 +522,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13152154987069637718,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -751,7 +876,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5837885172369525409,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -776,7 +901,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11041390433543819381,
   "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=17 sev=0 pct=12 op=Y spread=0 burst=5",
   "engine": "primary"
@@ -851,7 +976,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6474394395553945119,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -927,7 +1052,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5335640536898500262,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -1078,7 +1203,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11073674767879763650,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1103,7 +1228,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1930419493657920391,
   "reason": "tier=55 ent=1['碧桂园'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1480,7 +1605,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12870394772895169696,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1581,7 +1706,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11812050027585424708,
   "reason": "tier=80 ent=1['ustr'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1632,7 +1757,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4924267829050760286,
   "reason": "tier=96 ent=0[] pred=3 conv=0 combo=20 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
