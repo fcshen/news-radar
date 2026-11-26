@@ -1,5 +1,925 @@
 [
  {
+  "id": "c263f4bdb0f276d1",
+  "ts": "2026-11-26T09:36:00+08:00",
+  "title": "A股渔业板块异动拉升",
+  "title_zh": "",
+  "body": "中水渔业触及涨停，好当家、国联水产、开创国际、大湖股份、獐子岛跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "647fab13a24a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12188409417885131945,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "18d5b771dd3a077a",
+  "ts": "2026-11-26T09:35:31+08:00",
+  "title": "零售板块局部走高，杭州解百4连板",
+  "title_zh": "",
+  "body": "零售板块局部走高，杭州解百、珠免集团、新世界、中央商场涨停，家家悦、新华百货、银座股份跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "27c41e21c5a3",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7950958236701584784,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "fbab97c410614af7",
+  "ts": "2026-11-26T09:35:24+08:00",
+  "title": "韩国央行：委员黄坤日以及李树炯对周四的利率决议持异议",
+  "title_zh": "",
+  "body": "韩国央行：委员黄坤日以及李树炯对周四的利率决议持异议。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "1260cbe7291d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 368571683344577743,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a41f2164ec3fedc2",
+  "ts": "2026-11-26T09:34:58+08:00",
+  "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+  "title_zh": "市场可能最容易对风险定价失误的领域：人工智能热潮、波动性、高收益债券",
+  "body": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+  "summary": "",
+  "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 48.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d537617dee95",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 14285700731320472226,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "82702644e10f2c0e",
+  "ts": "2026-11-26T09:34:56+08:00",
+  "title": "零钱往哪放？理财收益率跟踪",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，腾讯理财通活期+7日年化收益率最高为1.1050%，最低为0.6790%，微信零钱通7日年化收益率最高为0.9970%，最低为0.8710%，支付宝余额宝7日年化收益率最高为1.0560%，最低为0.9000%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "49a3e9efbd81",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11036944739824440140,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "aaeaf26b7b94ca65",
+  "ts": "2026-11-26T09:34:53+08:00",
+  "title": "韩国央行：需求侧价格压力将逐步增强",
+  "title_zh": "",
+  "body": "韩国央行：需求侧价格压力将逐步增强。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "066bd2d45a3d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 7529485509939287515,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "c573fb2d6f732f79",
+  "ts": "2026-11-26T09:34:47+08:00",
+  "title": "A股农林牧渔板块短线拉升，宏辉果蔬、中水渔业双双涨停，东方海洋涨超9%，好当家、国联水产、大湖股份、百洋股份、金健米业等",
+  "title_zh": "",
+  "body": "个股跟涨。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cee1ff083931",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 495083702058426832,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
+  "id": "21cfe05b5593f635",
+  "ts": "2026-11-26T09:34:43+08:00",
+  "title": "韩国央行：芯片热潮与国内溢出效应令增长前景不确定",
+  "title_zh": "",
+  "body": "韩国央行：芯片热潮与国内溢出效应令增长前景不确定。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzm1429289.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "7aff76a62133",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 2312607889951870564,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a2b02aa9f67d9917",
+  "ts": "2026-11-26T09:34:38+08:00",
+  "title": "Malaysia says arrested air force pilot main conduit in interstate drug ring",
+  "title_zh": "马来西亚称，被捕的空军飞行员是州际贩毒集团的主要渠道",
+  "body": "A Royal Malaysian Air Force pilot detained as part of a drug smuggling syndicate case involving the use of military assets has been identified as playing the role of transporting drugs from the Klang Valley to Sabah state. Bukit Aman Narcotics Crime Investigation Department director Commissioner Hussein Omar Khan said the individual was among syndicate members assigned specific operational roles. “He is one of the members. Apart from his role as the coordinator, he also served as a transporter,...",
+  "summary": "",
+  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375826/malaysia-says-arrested-air-force-pilot-main-conduit-interstate-drug-ring",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 28.1,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "97b3fc370908",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 10323591220862641,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "cc95bf09b6c77ebe",
+  "ts": "2026-11-26T09:33:54+08:00",
+  "title": "优步任命拉凯什·兰詹为印度和南亚地区总裁",
+  "title_zh": "",
+  "body": "优步任命拉凯什·兰詹为印度和南亚地区总裁。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzi9021104.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8070919dd634",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1771007708242722708,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f06fcfb4ee85bf3f",
+  "ts": "2026-11-26T09:33:45+08:00",
+  "title": "韩国央行：出口和投资将维持高增长",
+  "title_zh": "",
+  "body": "韩国央行：出口和投资将维持高增长。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "046b2e6b0980",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 9229051347813446787,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f7b34ee1a664823c",
+  "ts": "2026-11-26T09:33:45+08:00",
+  "title": "港股石油股回升，中国海洋石油(00883.HK)、中国石油股份(00857.HK)双双涨超3%，中国石油化工股份(003",
+  "title_zh": "",
+  "body": "86.HK)涨近2%；据美国媒体24日援引消息人士的话报道，美国政府内部就可能在打击行动中将伊朗政权高层领导人列为目标重新展开讨论，以清除“强硬派人物”，从而结束战事。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "19bc86075466",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16753885288006445732,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "65d57a3dd0c02f07",
+  "ts": "2026-11-26T09:32:59+08:00",
+  "title": "韩国央行：家庭贷款增长加快",
+  "title_zh": "",
+  "body": "韩国央行：家庭贷款增长加快。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "86fca258c30c",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 2810679358489190397,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "8a144bb61695b325",
+  "ts": "2026-11-26T09:32:55+08:00",
+  "title": "PCB概念震荡反弹 骏亚科技涨停",
+  "title_zh": "",
+  "body": "早盘PCB概念震荡反弹，骏亚科技涨停，埃科光电、超颖电子、世运电路、宏和科技等跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "96d28210b5e2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12970944222013427021,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "b4002f3e90d75cb4",
+  "ts": "2026-11-26T09:32:30+08:00",
+  "title": "韩国央行：半导体行业扩张程度如何，未来经济增长路径仍存在不确定性",
+  "title_zh": "",
+  "body": "韩国央行：半导体行业扩张程度如何，未来经济增长路径仍存在不确定性。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "8608905e6053",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 9015853846029106425,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "4ad99776947810dc",
+  "ts": "2026-11-26T09:32:17+08:00",
+  "title": "韩国央行：对房价上涨的预期仍然很高",
+  "title_zh": "",
+  "body": "韩国央行：对房价上涨的预期仍然很高。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 53.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "31d736b3bc66",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 12391983315726017023,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "bca24248e55ccfed",
+  "ts": "2026-11-26T09:31:54+08:00",
+  "title": "A股金属钴概念回升，寒锐钴业涨超5%，腾远钴业、华友钴业、鹏欣资源、洛阳钼业等个股跟涨",
+  "title_zh": "",
+  "body": "消息面上，消息面上，全球最大钴生产国刚果(金)将从11月30日起再次全面暂停钴出口。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "49d99a7422c7",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13584061736429355801,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5"
+ },
+ {
+  "id": "54422c5022b9db28",
+  "ts": "2026-11-26T09:31:49+08:00",
+  "title": "韩国央行：有必要继续关注与房地产市场、家庭债务相关的金融失衡风险",
+  "title_zh": "",
+  "body": "韩国央行：有必要继续关注与房地产市场、家庭债务相关的金融失衡风险。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzn8201253.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "fbf1a2146c80",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 7191767674429140976,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e4b0c1c9e27411ea",
+  "ts": "2026-11-26T09:31:43+08:00",
+  "title": "韩国央行：委员会成员对未来六个月政策利率的21项预测中有8项为3.50%",
+  "title_zh": "",
+  "body": "韩国央行：委员会成员对未来六个月政策利率的21项预测中有8项为3.50%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "6769f12de472",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 3191269502064539069,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "481400e74ec9cb40",
+  "ts": "2026-11-26T09:31:36+08:00",
+  "title": "韩国央行六个月点阵图显示，21个点中有8个位于3.5%",
+  "title_zh": "",
+  "body": "韩国央行六个月点阵图显示，21个点中有8个位于3.5%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzr3798606.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "4a0160d8a19e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 17032218777113618276,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "22fe06f2698e7cb2",
+  "ts": "2026-11-26T09:31:02+08:00",
+  "title": "韩国央行：7名委员中有2人投票支持维持利率不变",
+  "title_zh": "",
+  "body": "韩国央行：7名委员中有2人投票支持维持利率不变。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzm1423646.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "89fd4c858bae",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 8636131646273340,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "8c0e9bb856082ff2",
+  "ts": "2026-11-26T09:30:50+08:00",
+  "title": "韩国央行：今天的利率决定并非一致通过",
+  "title_zh": "",
+  "body": "韩国央行：今天的利率决定并非一致通过。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzr3797833.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 53.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "3e2ce8083a56",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 2386321857304444511,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "2c85fb8739834458",
+  "ts": "2026-11-26T09:30:26+08:00",
+  "title": "2026全球系统重要性银行公布！五家大行入围，名次与上年一致",
+  "title_zh": "",
+  "body": "11月26日金融一线消息，金融稳定理事会（FSB）公布2026全球系统重要性银行（G-SIB）名单，共计29家机构进入名单，数量与上年保持一致。其中，此次共有5家中资银行进入名单，与上年保持一致，分别是工商银行、农业银行、中国银行、建设银行和交通银行。具体来看，工商银行仍在第三组别，农业银行、中国银行、建设银行均在第二组别，交通银行在第一组别，均与上年保持一致。（金融一线）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzr3797408.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f007ff1e87d8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11654896949829853164,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "54eaa08a8a36a8d4",
+  "ts": "2026-11-26T09:30:26+08:00",
+  "title": "日本财务省将于12月3日拍卖2.6万亿日元10年期政府债券",
+  "title_zh": "",
+  "body": "日本财务省将于12月3日拍卖2.6万亿日元10年期政府债券。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "dd744aa280ba",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14153301247668812617,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "ba96a724562a0344",
+  "ts": "2026-11-26T09:30:14+08:00",
+  "title": "中证1000 +1.23% 报 5609.76",
+  "title_zh": "",
+  "body": "中证1000（sh000852）当前 5609.76，涨跌幅 +1.23%，触及 ±1.2% 档位。",
+  "summary": "中证1000（sh000852）当前 5609.76，涨跌幅 +1.23%，触及 ±1.2% 档位。",
+  "url": "https://finance.sina.com.cn/realstock/company/sh000852/nc.shtml",
+  "source": "行情异动",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "quote",
+  "score": 74.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "quote:sh0008",
+  "sources": [
+   "行情异动"
+  ],
+  "pushed": true,
+  "sh": 12389182931174884342,
+  "reason": "行情触发",
+  "engine": "template",
+  "tries": 1
+ },
+ {
+  "id": "cb828ae410d0ae28",
+  "ts": "2026-11-26T09:30:11+08:00",
+  "title": "商业航天板块高开，西部材料、上海沪工涨停",
+  "title_zh": "",
+  "body": "商业航天板块高开，西部材料、上海沪工、利君股份、顺灏股份涨停，信维通信涨超15%，天力复合、电科蓝天等跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8809adb50a77",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11418687686629153997,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "fe8178e5c6fc7e73",
+  "ts": "2026-11-26T09:30:11+08:00",
+  "title": "Why Japan’s Takaichi cannot afford to lose another minister",
+  "title_zh": "为什么日本的高市早苗输不起另一位大臣",
+  "body": "Japanese Prime Minister Sanae Takaichi is standing by her education minister amid a widening financial scandal, with analysts saying she intends to “ride out the storm” because losing another cabinet member could seriously undermine her leadership. In a worst-case scenario, they warn, the media could sense political blood in the water and an emboldened opposition could put more of her cabinet under the microscope, triggering a “domino effect” of firings or resignations. Six opposition parties...",
+  "summary": "",
+  "url": "https://www.scmp.com/week-asia/politics/article/3375767/why-japans-takaichi-cannot-afford-lose-another-minister",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 48.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6e39e36b9963",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 1407058251691297025,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "936fe139f1ee8f00",
+  "ts": "2026-11-26T09:30:08+08:00",
+  "title": "A股6G概念走强，信科移动-U涨超6%，天银机电、陕西华达、创远信科、武汉凡谷等个股跟涨",
+  "title_zh": "",
+  "body": "《新一代通信网建设实施方案》提出，积极推进5G-A网络规模覆盖，适时开展6G网络建设。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0950111d0df9",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3925180048476540361,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5"
+ },
+ {
+  "id": "b4af524f5e19be08",
+  "ts": "2026-11-26T09:30:04+08:00",
+  "title": "北证50日内涨幅达1.33%，成分股中，天力复合涨12.82%，硅烷科技涨5.59%，星图测控涨5.05%，同惠电子涨4",
+  "title_zh": "",
+  "body": ".85%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzr3797023.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5b8d2607ba09",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4668742752533218128,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
+  "id": "147270e6e3fba7de",
+  "ts": "2026-11-26T09:30:04+08:00",
+  "title": "科创50日内涨幅达1.26%，成分股中，盛合晶微涨7.61%，中科星图涨4.84%，华丰科技涨4.08%，拓荆科技涨2.",
+  "title_zh": "",
+  "body": "86%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzi9017004.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a1878e362573",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7560390163935264857,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f7e0af56c329acbb",
+  "ts": "2026-11-26T09:30:03+08:00",
+  "title": "深证成指涨1.01%，现报10187.829点",
+  "title_zh": "",
+  "body": "上证指数涨0.39%，现报3490.145点；创业板指涨1.35%，现报2213.053点。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 48.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2140bf4cb408",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6697647156679477791,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "50b3663e7455d206",
+  "ts": "2026-11-26T09:29:36+08:00",
+  "title": "阿尔及利亚南部发生交通事故致12人死亡",
+  "title_zh": "",
+  "body": "阿尔及利亚民防部门25日发布声明说，该国南部塔曼拉塞特省当天发生一起道路交通事故，造成12人死亡、15人受伤。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzn8198402.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3a4f6a0a6b64",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5479867433460409531,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "7256baec3c30fa08",
+  "ts": "2026-11-26T09:29:30+08:00",
+  "title": "A股开盘：超4400只个股飘红，三大指数集体高开",
+  "title_zh": "",
+  "body": "A股开盘：超4400只个股飘红，三大指数集体高开；贵金属、通信设备、半导体、航天军工上涨；教育、酒类、银行下跌",
+  "summary": "",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737915.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8e5051dcfe50",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 4333330226460326088,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "60d96592d4626e39",
+  "ts": "2026-11-26T09:29:19+08:00",
+  "title": "泽石科技启动IPO辅导",
+  "title_zh": "",
+  "body": "证监会网站披露，北京泽石科技股份有限公司（以下简称“泽石科技”）于2026年11月25日在北京证监局办理辅导备案登记，拟首次公开发行股票并在深交所创业板上市，辅导券商为国泰海通证券。泽石科技官网显示，其成立于2017年，是中科院微电子所和团队共同发起成立的高科技存储公司，致力于打造存储国产化的完整产业链。公司在北京、武汉、深圳等地均设有研发团队，聚焦控制器芯片、NAND特性及SSD产品的核心技术创新。股东方面，泽石科技控股股东为北京珅江科技中心（有限合伙），持股比例为29.5898%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzm1421763.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "e362a6a59071",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 884541414431416647,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=31 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "6a2874181d48a0f2",
+  "ts": "2026-11-26T09:28:27+08:00",
+  "title": "Fall of Shanghai party chief clouds China's leadership reset in 2027",
+  "title_zh": "上海市委书记落马给2027年中国领导层换届蒙上阴影",
+  "body": "",
+  "summary": "",
+  "url": "https://asia.nikkei.com/politics/fall-of-shanghai-party-chief-clouds-china-s-leadership-reset-in-2027",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 38.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c7bdc6e32e31",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 9436072978597021696,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "68e0db198d3779b0",
+  "ts": "2026-11-26T09:28:20+08:00",
+  "title": "A股卫星互联网板块高开，《新一代通信网建设实施方案》印发",
+  "title_zh": "",
+  "body": "A股卫星互联网板块高开，信维通信涨超15％，上海沪工竞价涨停，盛洋科技涨超9％，电科蓝天、乾照光电、通宇通讯、中国卫星等个股跟涨。工业和信息化部等三部委印发《新一代通信网建设实施方案》。其中提出，推动高中低轨卫星系统协同发展，加快低轨卫星互联网系统建设，提升高轨高通量宽带通信卫星系统容量。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ac524d4a2128",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13019033614651267108,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "8c495554ef349673",
+  "ts": "2026-11-26T09:27:34+08:00",
+  "title": "贵金属板块高开，晓程科技高开超5%",
+  "title_zh": "",
+  "body": "贵金属板块高开，晓程科技高开超5%，兴业银锡、四川黄金、湖南白银、山金国际跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzmzn8196805.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 50.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "475e554c6fac",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 12643326730263219588,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=8 op=N spread=2 burst=5"
+ },
+ {
+  "id": "52e11206ae5c79b7",
+  "ts": "2026-11-26T09:27:23+08:00",
+  "title": "中国上证综指11月26日（周四）开盘上涨13.67点，涨幅：0.39%，报3490.14点",
+  "title_zh": "",
+  "body": "中国深证成指11月26日（周四）开盘上涨98.58点，涨幅：0.98%，报10184.94点；中国沪深300指数11月26日（周四）开盘上涨19.79点，涨幅：0.51%，报3918.02点；中国创业板指数11月26日（周四）开盘上涨29.54点，涨幅：1.35%，报2213.12点；中国科创50指数11月26日（周四）开盘上涨14.92点，涨幅：1.26%，报1201.06点。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 48.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "13a57c3aa068",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7166265514744905820,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "40e9bfbb7ad56718",
   "ts": "2026-11-26T09:26:53+08:00",
   "title": "ETF开盘：卫星ETF涨3.83%，中证2000ETF领跌3.37%",
@@ -336,17 +1256,18 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 97.2,
+  "score": 99.2,
   "level": "L2",
   "impact": "",
   "cluster_id": "0483abf467b9",
   "sources": [
    "新浪财经7×24",
-   "金十数据"
+   "金十数据",
+   "中新网财经"
   ],
   "pushed": true,
   "sh": 12532374956208112166,
-  "reason": "tier=55 ent=1['央行'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=2 burst=5",
+  "reason": "tier=55 ent=1['央行'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=4 burst=5",
   "engine": "template",
   "tries": 1
  },
@@ -412,16 +1333,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "61f93677fa95",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 5346318122304006689,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "f88485d7cf1dff8e",
@@ -467,7 +1389,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10458957086231660984,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=38 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -736,7 +1658,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1053454693806061990,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=1 conv=0 combo=32 rel=40 sev=8 pct=0 op=Y spread=0 burst=4"
  },
@@ -761,7 +1683,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2235635267250714884,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=4"
  },
@@ -809,7 +1731,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4604721249113372212,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=4"
  },
@@ -858,7 +1780,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16789308010912365940,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4"
  },
@@ -882,7 +1804,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6904317280429281972,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1195,16 +2117,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 63.2,
+  "score": 65.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "adbee36b70cc",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3096018529057555245,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=8 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=8 op=N spread=2 burst=4"
  },
  {
   "id": "b3588603d4e98316",
@@ -1418,7 +2341,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7338282396170131322,
   "reason": "tier=55 ent=1['英伟达'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1564,7 +2487,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7915577992619930226,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=4 op=N spread=2 burst=4"
  },
@@ -1614,7 +2537,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16436954632447911674,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=4 op=N spread=0 burst=4"
  },
@@ -1687,7 +2610,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3269397351008901563,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1760,7 +2683,7 @@
   "sources": [
    "Financial Times"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1968028700765015273,
   "reason": "tier=80 ent=2['nvidia', 'taiwan'] pred=0 conv=0 combo=8 rel=19 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1856,7 +2779,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15129733729237633890,
   "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=27 sev=8 pct=0 op=N spread=0 burst=4"
  },
@@ -1904,7 +2827,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14398675427886664965,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=39 sev=0 pct=0 op=Y spread=0 burst=4"
  },
