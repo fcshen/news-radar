@@ -576,6 +576,80 @@
   "engine": "primary"
  },
  {
+  "id": "4f6d0d65db21ae26",
+  "ts": "2026-11-26T18:13:30+08:00",
+  "title": "中国人民银行行长潘功胜会见汇丰集团行政总裁艾桥智",
+  "title_zh": "中国人民银行行长潘功胜会见汇丰集团行政总裁艾桥智",
+  "body": "2026年11月26日，中国人民银行行长潘功胜会见了汇丰集团行政总裁艾桥智。双方围绕中国金融业对外开放、汇丰集团在华发展等议题进行了交流。",
+  "summary": "中国人民银行行长潘功胜与汇丰集团行政总裁艾桥智会面，讨论金融业对外开放及汇丰在华发展。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3658041.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "可能影响外资银行在华业务及人民币国际化进程。",
+  "cluster_id": "3f92332d7cbc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17408490547730188485,
+  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "47a49f67fbe2ed53",
+  "ts": "2026-11-26T18:13:07+08:00",
+  "title": "鸿蒙智行：尊界S800、尊界V800、尊界V680即将亮相广州车展",
+  "title_zh": "",
+  "body": "鸿蒙智行：尊界S800、尊界V800、尊界V680即将亮相广州车展。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1364417.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "70d8b97cf216",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8296233983607084960,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "c513acb35ca55098",
+  "ts": "2026-11-26T18:12:02+08:00",
+  "title": "伊朗和韩国外长通电话",
+  "title_zh": "伊朗和韩国外长通电话",
+  "body": "金十数据11月26日讯，韩国外交部长今天上午与伊朗外交部长阿巴斯·阿拉格齐通电话，就双边关系及地区最新局势交换意见。伊朗外长在通话中警告称，任何外国军队在该地区的存在都值得警惕。他强调，外国势力驻留不仅无助于维护地区稳定与安全，反而会加剧紧张局势，扩大冲突范围。",
+  "summary": "韩国外长与伊朗外长通话，讨论双边关系及地区局势，伊朗外长警告外国军队存在。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 49.2,
+  "level": "L0",
+  "impact": "中东地区局势影响能源市场，可能影响相关ETF表现。",
+  "cluster_id": "139199153706",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4202094396590469115,
+  "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "85790f28021968be",
   "ts": "2026-11-26T18:11:21+08:00",
   "title": "商务部：将构建政策矩阵培育“中国服务”品牌",
@@ -598,6 +672,31 @@
   "pushed": false,
   "sh": 5888239676520491145,
   "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "d57d59f472eefa8e",
+  "ts": "2026-11-26T18:11:00+08:00",
+  "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+  "title_zh": "德意志银行：科技股调整将触底，预计 S&P 500 将上涨 25%",
+  "body": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+  "summary": "德意志银行预计 S&P 500 指数将在 2027 年底达到 9000 点，关注点从资本支出转向人工智能变现。",
+  "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 50.1,
+  "level": "L1",
+  "impact": "科技股投资者关注德意志银行对 S&P 500 的展望。",
+  "cluster_id": "1c53540b5c29",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 9639145856688047283,
+  "reason": "tier=80 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=Y spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -624,6 +723,30 @@
   "sh": 4754903077306509768,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
+ },
+ {
+  "id": "37a8b50b7915258c",
+  "ts": "2026-11-26T18:10:10+08:00",
+  "title": "惠城环保(300779)：惠城环保：可转换公司债券交易异常波动公告",
+  "title_zh": "",
+  "body": "惠城环保(300779)：惠城环保：可转换公司债券交易异常波动公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/654c6ab1-6550-4b9d-9bbf-993ed20d8459.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8417cc2da2c0",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 2990471394631712109,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "6c79cd5b0b66c98d",
