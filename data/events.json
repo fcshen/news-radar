@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "a400fb6fad54e78a",
+  "ts": "2026-11-27T07:46:17+08:00",
+  "title": "AI板块风险推动美元有望录得2024年以来最长连涨周期",
+  "title_zh": "AI板块风险推动美元有望录得2024年以来最长连涨周期",
+  "body": "受AI交易行情崩塌、利率上行影响，美元有望创下两年内持续时间最长的月度连涨行情。彭博美元现货指数11月上涨1.8%，有望实现连续三个月收涨，美元兑全部G10货币走强。部分华尔街策略师预计美元涨势将延续至2027年，支撑因素为美国经济增长，以及海外投资者兑换本币买入美国科技企业股票带来的资金流入。",
+  "summary": "AI交易行情崩塌、利率上行，美元指数11月上涨1.8%，预计连续三个月收涨。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3258946.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 19.8,
+  "level": "L0",
+  "impact": "美元走强可能影响外资流入，对A股、ETF、期货市场构成压力。",
+  "cluster_id": "01427a83c95b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5116184154818150408,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "7c25290412daf7ab",
+  "ts": "2026-11-27T07:45:54+08:00",
+  "title": "特朗普：我相信普京希望结束俄乌冲突",
+  "title_zh": "",
+  "body": "特朗普：我相信普京希望结束俄乌冲突。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1044342.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 58.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "587fb1e8583a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13539817081166910798,
+  "reason": "tier=55 ent=2['普京', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "f296e4658aae13e9",
   "ts": "2026-11-27T07:45:41+08:00",
   "title": "基准10年期日本国债期货在早盘交易中下跌0.01点",
