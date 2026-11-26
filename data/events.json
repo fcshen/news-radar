@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "f37581ebb79f07ec",
+  "ts": "2026-11-27T07:04:57+08:00",
+  "title": "美国总统特朗普在感恩节与美军士兵通话时表示：我们在伊朗的胜利已近在咫尺",
+  "title_zh": "美国总统特朗普在感恩节与美军士兵通话时表示：我们在伊朗的胜利已近在咫尺",
+  "body": "何时实现胜利完全由我决定。我们正试图保持善意，给予他们达成协议的充分机会以挽救众多生命，但我不确定他们是否会抓住这个机会。许多人质疑原因——他们疯了吗？也许是的。",
+  "summary": "特朗普感恩节通话称伊朗胜利在即，对达成协议持怀疑态度。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksp1144105.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.8,
+  "level": "L0",
+  "impact": "中东局势影响原油价格，可能影响相关ETF表现。",
+  "cluster_id": "8592683c866d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2295836211277114843,
+  "reason": "tier=55 ent=2['伊朗', '特朗普'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=Y spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "e425135774b59e47",
+  "ts": "2026-11-27T07:03:49+08:00",
+  "title": "现货白银下跌逾4%，至41.47美元/盎司",
+  "title_zh": "",
+  "body": "现货白银下跌逾4%，至41.47美元/盎司。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksp1143120.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0766657ca9a1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 22455813750816904,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=4 op=N spread=0 burst=4"
+ },
+ {
   "id": "7c5d6764d3ff27c1",
   "ts": "2026-11-27T07:01:29+08:00",
   "title": "特朗普质疑GDP数据为何不在中期选举前上修并拟调查",
