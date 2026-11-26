@@ -576,6 +576,103 @@
   "engine": "primary"
  },
  {
+  "id": "6d87f6bf778edb91",
+  "ts": "2026-11-27T07:56:11+08:00",
+  "title": "特朗普谈黄之锋：我为美国和世界做了件伟大的事",
+  "title_zh": "",
+  "body": "特朗普谈黄之锋：我为美国和世界做了件伟大的事。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1049776.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "153266808da8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1334352611970796003,
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "54ba4185d421d6e8",
+  "ts": "2026-11-27T07:55:59+08:00",
+  "title": "也门胡塞武装称沙特空袭致19死25伤",
+  "title_zh": "",
+  "body": "也门胡塞武装26日说，过去48小时内，也门多个省份遭沙特阿拉伯空袭，造成19人死亡、25人受伤，死伤者中包括妇女和儿童。（新华社）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7826018.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "5a703419eb92",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14376467667466146629,
+  "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "1512a33007be1ee3",
+  "ts": "2026-11-27T07:55:02+08:00",
+  "title": "特朗普：可能很快会与英伟达的黄仁勋对话",
+  "title_zh": "",
+  "body": "特朗普：可能很快会与英伟达的黄仁勋对话。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7825446.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 45.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4e31d389cbf3",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9454873922076182890,
+  "reason": "tier=55 ent=2['英伟达', '特朗普'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=2 burst=4"
+ },
+ {
+  "id": "aa206adf2249c59d",
+  "ts": "2026-11-27T07:54:42+08:00",
+  "title": "美国总统特朗普：我已就美国在欧洲的兵力部署态势与北约秘书长吕特进行了交谈",
+  "title_zh": "",
+  "body": "美国总统特朗普：我已就美国在欧洲的兵力部署态势与北约秘书长吕特进行了交谈。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 43.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "204d50c0ed70",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3079370900359942232,
+  "reason": "tier=55 ent=2['北约', '特朗普'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "f16fa069117e107f",
   "ts": "2026-11-27T07:52:05+08:00",
   "title": "欧盟委员会主席冯德莱恩：新欧盟预算仍有大量工作有待完成",
@@ -588,16 +685,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 35.2,
+  "score": 37.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "e7af6e6f9514",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11466015606210044192,
-  "reason": "tier=55 ent=1['欧盟'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=1['欧盟'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "0b59514cb7b21ce7",
