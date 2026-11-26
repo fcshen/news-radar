@@ -576,6 +576,54 @@
   "engine": "primary"
  },
  {
+  "id": "0689ef92e2c1f450",
+  "ts": "2026-11-27T06:10:34+08:00",
+  "title": "袁记食品拟在港交所IPO发行1600万股",
+  "title_zh": "",
+  "body": "袁记食品拟在港交所IPO发行1600万股。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkackst3340001.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "06aff8fee215",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14030982313416910690,
+  "reason": "tier=55 ent=1['港交所'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "e87f78c314c98cee",
+  "ts": "2026-11-27T06:10:02+08:00",
+  "title": "中国神华：H股配售价为每股38.10港元",
+  "title_zh": "",
+  "body": "中国神华：H股配售价为每股38.10港元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkackst3339723.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c2cc42e9244c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 386718692558282328,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "d2dce25af91a1519",
   "ts": "2026-11-27T06:02:54+08:00",
   "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（11月27日）",
