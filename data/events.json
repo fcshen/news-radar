@@ -576,6 +576,154 @@
   "engine": "primary"
  },
  {
+  "id": "8afcbe8cb9331d64",
+  "ts": "2026-11-26T21:20:58+08:00",
+  "title": "以色列国防军：约旦河西岸北部数十人实施暴力犯罪",
+  "title_zh": "",
+  "body": "以色列国防军：约旦河西岸北部数十人实施暴力犯罪。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1363877.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "313806f542b4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17475829780580339462,
+  "reason": "tier=55 ent=1['以色列'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "66160b148cb8ed56",
+  "ts": "2026-11-26T21:20:24+08:00",
+  "title": "贸易商称，泰国进口商集团在本周招标中购买了约 60,000 公吨饲料小麦",
+  "title_zh": "",
+  "body": "贸易商称，泰国进口商集团在本周招标中购买了约 60,000 公吨饲料小麦。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8858380.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6c964e1aecae",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5017016763032053672,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "21db0815a51b1d3a",
+  "ts": "2026-11-26T21:20:02+08:00",
+  "title": "China busts cross-border blood smuggling ring over biosecurity fears",
+  "title_zh": "中国打击跨境血液走私团伙 生物安全担忧加剧",
+  "body": "China has cracked down on the smuggling of blood samples from pregnant women, highlighting what authorities describe as a threat to national biosecurity. State broadcaster CCTV reported on Wednesday that Shenzhen Customs anti-smuggling officers had dismantled an underground network that illegally collected and transported the blood out of mainland China. The samples were used for fetal sex determination, a practice banned on the mainland for non-medical purposes. Following a nearly year-long...",
+  "summary": "深圳海关查获非法跨境血液走私团伙，血液用于胎儿性别鉴定。",
+  "url": "https://www.scmp.com/news/china/politics/article/3375953/china-busts-cross-border-blood-smuggling-ring-over-biosecurity-fears",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 38.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7a30671c4760",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 731124219537000532,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "4107fba42ce5b311",
+  "ts": "2026-11-26T21:19:54+08:00",
+  "title": "北京发布大风蓝色预警信号",
+  "title_zh": "北京发布大风蓝色预警信号",
+  "body": "北京市气象台11月26日14时40分发布大风蓝色预警信号：预计27日2时至20时，北京市大部分地区有3级至4级偏北风，阵风7级左右，山区局地阵风可达9级以上，请注意防范。（新华社）",
+  "summary": "北京市发布大风蓝色预警，预计27日有3-4级偏北风，山区局地阵风达9级以上。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8139497.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响交通运输及户外活动，间接影响相关行业表现。",
+  "cluster_id": "12f1f472d631",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14857254771995240999,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "31bee365bf46cf1e",
+  "ts": "2026-11-26T21:19:28+08:00",
+  "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
+  "title_zh": "英国净移民人数降至7.7万，近30年最低",
+  "body": "Net migration to the UK fell to 77,000 for the year to June, the lowest annual figure since 1997 excluding the Covid years, statistics showed on Thursday. The net migration figures – the difference between the numbers of people arriving in and leaving Britain – are a boost for the UK’s centre-left Labour government, which has been under pressure from the hard right anti-immigration Reform UK party on the issue. However, some economists have questioned whether low net migration is compatible with...",
+  "summary": "英国截至6月净移民人数降至77,000，为近30年最低水平。",
+  "url": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 33.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "da9d6d0987bf",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 68179106499663910,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "30be867f44a8a7bd",
+  "ts": "2026-11-26T21:19:27+08:00",
+  "title": "MiniMax创始人：加快采用华为和阿里AI芯片，减少对英伟达依赖",
+  "title_zh": "MiniMax创始人：加快采用华为和阿里AI芯片，减少对英伟达依赖",
+  "body": "据美科技媒体The Information 11月25日报道，一名参加MiniMax全员会的员工透露，11月20日，MiniMax创始人兼CEO闫俊杰在会上表示，公司将加快采用华为和阿里巴巴的AI芯片，以减少对英伟达的依赖。 这名员工说，闫俊杰当时正在回答有关美国限制远程使用先进芯片新规的提问。该新规于全员会前一天正式生效。 按照规定，此前已向总部或最终母公司总部位于中国等受限地区的企业提供达到规定规模算力的境外数据中心，若要继续提供相关服务，须在新规生效之日起90天内取得许可。 另据The Information援引两名知情人士的说法，MiniMax现有的英伟达芯片集群大多位于国内，公司也通过云计算方式远程使用数千颗英伟达Blackwell芯片。（观察者网）",
+  "summary": "MiniMax计划加快使用华为和阿里AI芯片，减少对英伟达依赖。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3637839.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "AI芯片供应商变化可能影响相关产业链公司股价。",
+  "cluster_id": "cc4d2df9a0f5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17318720888748007914,
+  "reason": "tier=55 ent=3['华为', '阿里'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "cde8aef7cbcb444f",
   "ts": "2026-11-26T21:19:02+08:00",
   "title": "宁家服务12城直营体验中心开业",
@@ -863,11 +1011,12 @@
   "impact": "",
   "cluster_id": "fc0b6c4c7249",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 17180198880873501619,
-  "reason": "tier=55 ent=1['财政部'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=0 op=Y spread=0 burst=5"
+  "reason": "tier=55 ent=1['财政部'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=0 op=Y spread=2 burst=5"
  },
  {
   "id": "f2069de888325e9b",
