@@ -576,6 +576,78 @@
   "engine": "primary"
  },
  {
+  "id": "6c79cd5b0b66c98d",
+  "ts": "2026-11-26T18:09:31+08:00",
+  "title": "俄罗斯斯塔夫罗波尔边疆区行政长官称，“涅温诺梅斯克氮肥厂”遭到无人机袭击",
+  "title_zh": "",
+  "body": "俄罗斯斯塔夫罗波尔边疆区行政长官称，“涅温诺梅斯克氮肥厂”遭到无人机袭击。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 49.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8b14872851ef",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10780828732824051332,
+  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=15 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "119474afa51fac88",
+  "ts": "2026-11-26T18:08:15+08:00",
+  "title": "金十图示：2026年11月26日（周四）中国香港对内地黄金出口量",
+  "title_zh": "",
+  "body": "金十图示：2026年11月26日（周四）中国香港对内地黄金出口量",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "01241d11e141",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4701666206791926655,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "7f03a3038b878dbe",
+  "ts": "2026-11-26T18:08:11+08:00",
+  "title": "印度尼西亚央行行长：鉴于印尼央行“持续入市”的情况，卢比汇率周五有望于“回归正常”",
+  "title_zh": "",
+  "body": "印度尼西亚央行行长：鉴于印尼央行“持续入市”的情况，卢比汇率周五有望于“回归正常”。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8136534.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.5,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "c2cbbff338a8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11031304994175351360,
+  "reason": "tier=55 ent=2['央行', '印度'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
   "id": "3fb7e5343d30ffc1",
   "ts": "2026-11-26T18:07:28+08:00",
   "title": "印度尼西亚央行行长表示，受季节性美元需求以及美联储和MSCI相关情绪影响，印尼盾面临压力",
@@ -637,16 +709,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "关联交易可能影响公司财务状况。",
   "cluster_id": "2bf40468ea24",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 16748224416682437761,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -3674,16 +3747,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 38.2,
+  "score": 40.2,
   "level": "L0",
   "impact": "关注相关股票风险，警惕退市风险",
   "cluster_id": "d568ba7ada0b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "深交所公告"
   ],
   "pushed": false,
   "sh": 5176117701208997207,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
