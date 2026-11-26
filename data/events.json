@@ -1,5 +1,269 @@
 [
  {
+  "id": "01010ad6bda6e0cf",
+  "ts": "2026-11-26T08:24:59+08:00",
+  "title": "期货盯盘神器专属文章",
+  "title_zh": "",
+  "body": "农产品市场分析：美豆价格四连阳！12月临近南美天气隐患浮现，美豆会否开启新一轮上涨？点击阅读。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "96b3d9ddcc03",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15981601159892452195,
+  "reason": "与市场无关"
+ },
+ {
+  "id": "0d3a2c37a9fc0019",
+  "ts": "2026-11-26T08:24:20+08:00",
+  "title": "韩国综指涨幅扩大至2%",
+  "title_zh": "",
+  "body": "韩国综指涨幅扩大至2%，现报4791.49点。个股方面，SK海力士涨超5%，三星电子涨超2%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3879488.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "683501f663c2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9977186231412860155,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "637b3963524fb4e7",
+  "ts": "2026-11-26T08:24:13+08:00",
+  "title": "韩国KOSPI指数日内涨幅达2.00%",
+  "title_zh": "",
+  "body": "韩国KOSPI指数日内涨幅达2.00%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "657bda7d7434",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5405452762069231737,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "ab02a3983371aee4",
+  "ts": "2026-11-26T08:24:07+08:00",
+  "title": "民航局局长宋志勇率团访问比利时和摩洛哥",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，11月23日至26日，中国民用航空局局长宋志勇率团访问比利时和摩洛哥。宋志勇分别与欧盟委员会运输与移动总司总司长科普钦斯卡、欧盟航空安全局局长叶飞扬举行会谈，围绕促进《中欧民用航空安全协定》有效实施、为双方航空产品双向流动营造良好环境及深化民航领域全方位务实合作等议题深入交换意见。与摩洛哥交通与物流部部长康尤赫就加强中摩民航合作、提升两国航空互联互通水平举行会谈。访问期间，并与欧方和摩方分别签署了《第三期中欧民航合作项目意向书》和《中华人民共和国政府和摩洛哥王国政府民用航空运输协定》。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fdb8923fc4e3",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14608841682435877637,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "370856baa56c81b2",
+  "ts": "2026-11-26T08:23:15+08:00",
+  "title": "中信证券：海外啤酒需求延续分化，成本压力仍存",
+  "title_zh": "",
+  "body": "中信证券研报表示，3Q26海外啤酒需求延续分化，价格及产品结构仍是收入增长的重要支撑。百威英博/喜力/嘉士伯收入分别有机增长4.9%/4.6%/3.0%，欧美大众啤酒需求仍弱，中美洲、越南、印度等市场贡献增量。核心品牌、无醇产品及软饮业务保持增长，但成本方面，能源、包装及运输压力有所上升，我们预计整体影响将延续至2027年。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8f98d3e97172",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15555317057977872210,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "f74052b04faaae0f",
+  "ts": "2026-11-26T08:22:42+08:00",
+  "title": "三部委：强化新一代通信网产业生态支撑和政策要素保障支撑",
+  "title_zh": "",
+  "body": "工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。 “2”即强化新一代通信网产业生态支撑和政策要素保障支撑 一是强化新一代通信网产业生态支撑。加强标准引领。统筹推进空天地海多类型网络标准协同。深化标准应用，打通技术创新、试验示范与标准转化通道，促进跨行业跨网络标准衔接。加强核心技术创新突破应用。统筹推进6G、超高速光通信、卫星通信等核心技术攻关突破。加强6G基站和核心网设备、高速光网络设备、卫星设备等研制。加快新一代智能终端普及推广。推动人工智能手机和电脑、智能穿戴设备、卫星互联网终端等普及应用。加强新应用新场景培育。深化5G/5G-A、千兆/万兆光网、物联网在工业、交通、农业、能源、文旅、医疗、应急等重点行业的融合应用，赋能水网、新型电网、算力网、城市地下管网、物流网智能化发展。 二是强化新一代通信网政策要素保障支撑。加强政策支撑。加强对基础电信企业服务国家战略、建设网络强国等情况的考核激励。鼓励民营企业依法依规参与建设。加强国际合作。优化要素保障。各地和有关部门强化对新一代通信网的国家战略性公共基础设施属性的认识，加大用地、用林、用草、用海和频谱等要素保障力度。将新一代通信网建设项目纳入各级国土空间总体规划、详细规划及自然资源管理和国土空间规划“一张图”。严格执行建筑物光纤到户和建筑物移动通信基础设施国家标准。完善高铁槽道、高速公路管道、交通隧道等资源开放利用政策，强化引电用电保障。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1492139.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d7cb483e94e8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4357093288622862386,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "7b29149be05b8352",
+  "ts": "2026-11-26T08:22:09+08:00",
+  "title": "三部委：全面提升全域智能、安全韧性、绿色低碳能力",
+  "title_zh": "",
+  "body": "工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。 “3”即全面提升全域智能、安全韧性、绿色低碳能力 一是提升新一代通信网适应和赋能人工智能创新发展能力。强化智能业务承载。推动通信网架构向以支持人工智能应用为中心演进，提升算内、算间、入算的网络性能。研究布局智能互联网。强化算网协同服务。构建高质量算力传输通道，探索开展智能体互联网络、算力网络等技术验证和场景试点。强化全环节智能运营。逐步建成高等级自智网络，强化算力设施智能运维能力。 二是提升新一代通信网安全韧性能力。筑牢网络安全防线。加强网络重要节点和关键信息基础设施安全防护，健全行业关键信息基础设施安全保护制度。增强网络运行安全韧性。加强信息通信领域重大基础设施分类分级管理，推进安全风险评估。强化应急通信保障。推动卫星互联网在应急场景应用。按需推进超级基站和全网通应急基站建设。建设应急通信综合保障区域中心。 三是提升新一代通信网绿色低碳发展能力。深化绿色低碳发展。加强人工智能技术在通信设备节能节水领域应用，推动通信机房、算力设施节能节水改造，有序推进高耗能老旧设备退网。推广新型供配电技术，鼓励绿电直供。深化跨行业共建共享。深化管道、杆路和机房等设施共建共享。推进新一代通信网与水网、新型电网、算力网、城市地下管网、物流网等协同规划建设。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3877270.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7375f7b187b9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10778679571542543459,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "d7ab7398ad872257",
+  "ts": "2026-11-26T08:20:40+08:00",
+  "title": "三部委：统筹推进基础网络、空间网络、国际网络、融合网络建设",
+  "title_zh": "",
+  "body": "工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。 “4”即统筹推进基础网络、空间网络、国际网络、融合网络建设 一是加快基础网络提质升级。实施基础网络提质升级工程，积极推进5G-A网络规模覆盖，适时开展6G网络建设。开展万兆城市全域试点，扩大万兆光网覆盖范围。推进新型城域网建设，建设国家超高速骨干网络。合理增设互联网骨干直联点和新型互联网交换中心。 二是加快空间网络协同突破。实施空间网络协同突破工程，推动高中低轨卫星系统协同发展，加快低轨卫星互联网系统建设，提升高轨高通量宽带通信卫星系统容量。推动卫星互联网与北斗、地面移动通信网、人工智能等深度融合。 三是加强国际网络优化布局。实施国际网络多元化布局工程，积极推进国际信息通道建设，优化国际海陆缆网络布局。按需增设国际通信出入口局，持续扩容国际互联网出入口带宽。完善海外网络接入点布局，统筹部署海外数据中心和云服务节点。 四是推进融合网络创新发展。实施融合网络强基赋能工程，推动移动物联网“万物智联”发展，打造控网算一体、开放智能的新型工业网络，推进车联网在重点城市和高速公路规模部署，按需打造通感导融合的低空通信网络，开展城市全域数字化转型试点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1489535.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "07cc18b95f95",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8501566106230267994,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "241de56113abf93e",
+  "ts": "2026-11-26T08:19:57+08:00",
+  "title": "越南工贸部：正与美方合作，力争尽快完成贸易协议",
+  "title_zh": "",
+  "body": "越南工贸部：正与美方合作，力争尽快完成贸易协议。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3f7d23ada08d",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11820000708213952785,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "89762d6916462e8a",
+  "ts": "2026-11-26T08:19:56+08:00",
+  "title": "越南工贸部：将在公开听证会上陈述观点并回应美方提问",
+  "title_zh": "",
+  "body": "越南工贸部：将在公开听证会上陈述观点并回应美方提问。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 19.8,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cf06cc1da1fa",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1335765098347532800,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=4"
+ },
+ {
+  "id": "b76a8a3df61ac03b",
+  "ts": "2026-11-26T08:19:02+08:00",
+  "title": "南方雨后转晴多地将暖如小阳春 北方气温波动回升",
+  "title_zh": "",
+  "body": "今天（11月26日）起至11月底，南方大部将陆续转晴并持续升温。同时，北方大部仍以晴为主，雨雪主要集中在新疆、黑龙江等偏北地区，虽然今后三天冷空气会带来短暂降温，但之后气温会快速回升。本月底到下月初，南北方气温都会升至近期高点，长江中下游等地将暖如小阳春。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftq8263985.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "03feacaaba1e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 451424555145914589,
+  "reason": "与市场无关"
+ },
+ {
   "id": "4259720e38658a6b",
   "ts": "2026-11-26T08:16:18+08:00",
   "title": "据Politico记者在X平台上发布的消息，法官已禁止美国联邦通信委员会（FCC）继续采取威胁美国广播公司（ABC）广播",
@@ -41,11 +305,12 @@
   "impact": "",
   "cluster_id": "1f6fe99d32be",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1825050795215409497,
-  "reason": "tier=55 ent=2['USTR', 'ustr'] pred=1 conv=0 combo=32 rel=12 sev=8 pct=0 op=Y spread=0 burst=4"
+  "reason": "tier=55 ent=2['USTR', 'ustr'] pred=1 conv=0 combo=32 rel=12 sev=8 pct=0 op=Y spread=2 burst=4"
  },
  {
   "id": "0ac13d5b6899d61a",
@@ -84,16 +349,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 43.2,
+  "score": 45.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "7453eb472551",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 213181668807498871,
-  "reason": "tier=55 ent=1['能源局'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=1['能源局'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "c12d97412446b2b9",
@@ -349,16 +615,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 39.2,
+  "score": 41.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "9645864d4444",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 8550360961291921823,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=8 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=8 op=N spread=2 burst=4"
  },
  {
   "id": "21bdbe772979e331",
