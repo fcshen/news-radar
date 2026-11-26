@@ -576,6 +576,54 @@
   "engine": "primary"
  },
  {
+  "id": "06786303f1f8df67",
+  "ts": "2026-11-27T06:54:40+08:00",
+  "title": "亚历山大·格吕赫尔有望出任巴西银行董事长",
+  "title_zh": "",
+  "body": "亚历山大·格吕赫尔有望出任巴西银行董事长。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7913548.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ee64c214cea6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5875082194286449608,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "4cee999f9195c854",
+  "ts": "2026-11-27T06:53:55+08:00",
+  "title": "澳大利亚本财年至今基础现金赤字为264亿澳元",
+  "title_zh": "",
+  "body": "澳大利亚本财年至今基础现金赤字为264亿澳元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7913159.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9a9acfd2e417",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15380589658855833010,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "132fcb64d8f047bd",
   "ts": "2026-11-27T06:51:05+08:00",
   "title": "厄瓜多尔一工业船疑似发生氨气泄漏事故致4人死亡",
