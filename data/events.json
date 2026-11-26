@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "e572c50931e2e33f",
+  "ts": "2026-11-26T20:36:31+08:00",
+  "title": "欧洲央行官员讨论了自9月以来欧元走弱的情况",
+  "title_zh": "",
+  "body": "欧洲央行官员讨论了自9月以来欧元走弱的情况。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "e608223167e2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1489875005226122748,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "807beefa29d1f298",
+  "ts": "2026-11-26T20:36:25+08:00",
+  "title": "香港10月出口同比上升65.6%",
+  "title_zh": "香港10月出口同比上升65.6%",
+  "body": "今年前10月，香港商品整体出口货值同比上升47.4%，进口货值同比增长46.2%，有形贸易逆差为4385亿港元，相当于商品进口货值的6.5%。特区政府发言人表示，10月香港对大部分主要市场的出口均录得显著上升。展望未来，全球人工智能投资和相关需求将继续助力香港的商品贸易。然而，国际贸易与科技政策走向、全球人工智能投资快速扩张的相关风险，以及地缘政治局势变化等外部不确定因素，仍需密切关注。（新华社）",
+  "summary": "香港10月出口同比上升65.6%，前10月整体出口货值同比上升47.4%，有形贸易逆差为4385亿港元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3614078.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 62.2,
+  "level": "L1",
+  "impact": "香港出口增长，或影响相关出口行业股票表现。",
+  "cluster_id": "2235f1957b74",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4035592401551922996,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=12 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "9790e1d83777932c",
+  "ts": "2026-11-26T20:35:54+08:00",
+  "title": "欧洲央行官员：市场关注焦点集中于财政与人工智能",
+  "title_zh": "",
+  "body": "欧洲央行官员：市场关注焦点集中于财政与人工智能。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8109708.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "23695aac12ba",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11105611147597904996,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "c896d5d207c20e00",
+  "ts": "2026-11-26T20:35:35+08:00",
+  "title": "欧洲央行官员担心，2%的通胀目标可能要到2028年之后才能实现",
+  "title_zh": "",
+  "body": "欧洲央行官员担心，2%的通胀目标可能要到2028年之后才能实现。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8109483.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "ed1f42dcec51",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4369869224492541349,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
   "id": "1c80ecef8e7a2ce0",
   "ts": "2026-11-26T20:34:02+08:00",
   "title": "欧洲央行会议纪要：除非通胀前景“显著”改善，否则仍需加息",
@@ -613,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 55.2,
+  "score": 57.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "8ded4f7e19cd",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3929378021929406537,
-  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "4dc7b54908e20979",
