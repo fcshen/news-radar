@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "bc580529a5a18ce6",
+  "ts": "2026-11-26T15:36:59+08:00",
+  "title": "金十期货图示",
+  "title_zh": "",
+  "body": "金十期货APP独家整理：11月26日国内期货基差数据已更新，点击查看。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "1fe036a2af25",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5146467380957317475,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "18f419dee08963b0",
+  "ts": "2026-11-26T15:36:49+08:00",
+  "title": "7月因高杠杆押注AI险些崩盘，大量仓位被迫贱卖；Q3又录得65%的净亏损",
+  "title_zh": "",
+  "body": "曾凭AI投资一战成名的“硅谷金童”承认，市场对犯错者毫不留情，但他对AI行情仍然乐观。",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236200",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "655e6ddc6c92",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15636942761157878398,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=1"
+ },
+ {
+  "id": "de26e59a67fd11df",
+  "ts": "2026-11-26T15:35:24+08:00",
+  "title": "空军33型主战装备参加中国航展",
+  "title_zh": "空军33型主战装备参加中国航展",
+  "body": "第十六届中国国际航空航天博览会将于12月7日至13日在珠海举办，空军采取“飞行展示+地面静态展示”相结合方式，选派33型60余件装备参展。飞行展示方面，中国空军“八一”飞行表演队将与俄罗斯联邦空天军“勇士”飞行表演队、阿联酋空军“骑士”飞行表演队一起炫舞蓝天。（央视军事）",
+  "summary": "中国航展将于12月7日至13日在珠海举办，空军33型装备参展，包括飞行表演队。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3668382.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d50d79ff9e5b",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14486337385975282666,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "3b8eeb12ca7e970e",
+  "ts": "2026-11-26T15:34:49+08:00",
+  "title": "广电电气：控股股东旻杰投资拟向实控人赵淑文协议转让0.59%股份",
+  "title_zh": "广电电气：控股股东旻杰投资拟向实控人赵淑文协议转让0.59%股份",
+  "body": "广电电气公告，公司控股股东新余旻杰投资管理有限公司拟将其持有的公司500万股股份通过协议转让方式转让给公司实际控制人ZHAO SHUWEN（赵淑文）女士，占公司总股本的0.59%，转让价格为2.79元/股，转让价款总额为1395万元。本次协议转让不涉及公司控制权变更，不会导致公司实际控制人发生变化。本次权益变动事项尚需取得上海证券交易所合规性审查确认意见，并在中国证券登记结算有限责任公司上海分公司办理股份转让过户登记手续。",
+  "summary": "广电电气控股股东拟向实控人转让0.59%股份，转让价格2.79元/股。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3667793.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "可能影响公司股权结构，需关注后续监管审批结果。",
+  "cluster_id": "d3290d0b8077",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15720251752356010830,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "b271354cdf44d587",
   "ts": "2026-11-26T15:34:23+08:00",
   "title": "丹斯克银行：美元仍受美联储加息押注提振",
@@ -974,6 +1073,31 @@
   "engine": "primary"
  },
  {
+  "id": "5967de43f9adb709",
+  "ts": "2026-11-26T15:30:11+08:00",
+  "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+  "title_zh": "小鹏汽车：1-2年内机器人可能完成家务",
+  "body": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+  "summary": "小鹏汽车联合创始人郭宇翔预测，1-2年内机器人可能完成家务。",
+  "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.6,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6f2dd8de7f0d",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 10713001029500218146,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "67d619d3320869e4",
   "ts": "2026-11-26T15:29:23+08:00",
   "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
@@ -1207,16 +1331,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 60.2,
+  "score": 62.2,
   "level": "L1",
   "impact": "可能影响相关金属类ETF及期货价格。",
   "cluster_id": "04bb266956e6",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14310188872449803456,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -2579,16 +2704,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "300d067ec98e",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 15290847368399584706,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "aa1824e936eae0d9",
