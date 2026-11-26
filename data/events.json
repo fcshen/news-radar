@@ -576,6 +576,106 @@
   "engine": "primary"
  },
  {
+  "id": "73373953fbfc42a6",
+  "ts": "2026-11-26T14:54:46+08:00",
+  "title": "曝苹果下架MiniMax AI聊天应用Talkie",
+  "title_zh": "苹果下架MiniMax AI聊天应用Talkie",
+  "body": "据报道，MINIMAX-W旗下Talkie因涉及未成年人安全问题，遭苹果在全球范围内将其应用商店中Talkie下架。该产品是一款AI角色扮演与陪伴应用，可让用户与AI角色进行沉浸式对话和故事互动，支持多语言，在美国、菲律宾和墨西哥等地尤为流行。截至发稿，MiniMax方面未对遭苹果下架事宜进行回应。（新浪科技）",
+  "summary": "苹果因安全问题下架MiniMax的AI聊天应用Talkie。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "bd8b660045eb",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15069384805907343007,
+  "reason": "tier=55 ent=1['苹果'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "56f7231f56817577",
+  "ts": "2026-11-26T14:54:23+08:00",
+  "title": "李乐成王东伟与杨元庆举行工作会谈",
+  "title_zh": "李乐成王东伟与杨元庆举行工作会谈",
+  "body": "据安徽日报，11月25日下午，安徽省委书记李乐成、代省长王东伟在合肥与联想集团董事长兼首席执行官杨元庆举行工作会谈。李乐成说，希望联想集团充分发挥优势，进一步提升价值创造能力，与我们深化人工智能等领域合作，联合培养高层次人才，携手实现互利共赢。我们将优化服务保障，为企业发展营造良好环境。杨元庆表示，对投资安徽充满信心，将顺应产业变革趋势，优化在皖发展战略，加大投资布局力度，更好助力安徽高质量发展。",
+  "summary": "安徽省委书记、代省长与联想集团董事长会谈，探讨深化合作。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrf1428383.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "联想集团投资布局或影响相关产业链公司股价。",
+  "cluster_id": "d594518180fa",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2145220661786118221,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "2dcc72b0548b2113",
+  "ts": "2026-11-26T14:53:49+08:00",
+  "title": "外媒：以色列袭击加沙地带，哈马斯一名高官及其妻子丧生",
+  "title_zh": "外媒：以色列袭击加沙地带，哈马斯一名高官及其妻子丧生",
+  "body": "据《以色列时报》、沙特《中东报》等媒体报道，以色列于11月25日至26日夜间对加沙地带中部代尔拜拉赫发动空袭，致巴勒斯坦伊斯兰抵抗运动（哈马斯）官员哈立德·阿布·纳达及其妻子丧生。稍早前，以色列军方表示，此次行动针对的是一名哈马斯“高级成员”，但没有提供更多细节。《中东报》援引消息称，以色列飞机夜间向哈立德·阿布·纳达及其妻子在代尔拜拉赫居住的公寓发射了两枚导弹。两人随后被送往医院，哈马斯方面确认了其身份。报道还提到，哈立德除担任教育领域官员外，还是哈马斯政治局成员，但这一点并不为外界所知。截至发稿前，暂未看到哈马斯方面对此作出回应。（环球网）",
+  "summary": "以色列空袭加沙地带，哈马斯高官及其妻丧生。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrf1427951.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 67.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "2f779365d133",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13915939988803742965,
+  "reason": "tier=55 ent=2['以色列', '哈马斯'] pred=0 conv=0 combo=8 rel=27 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "ccfb93de17008443",
+  "ts": "2026-11-26T14:53:36+08:00",
+  "title": "荷兰国际：美债收益率下行或过度 市场忽视收益率上行理由",
+  "title_zh": "荷兰国际：美债收益率下行或过度 市场忽视收益率上行理由",
+  "body": "金十数据11月26日讯，荷兰国际集团利率策略师在报告中表示，长周末效应也可能正在发挥作用，持有债券或许不失为一个不错的选择，但本周美债市场一直在“忽视收益率理应上升的合理理由”。策略师表示，周一英伟达股价反转下跌后，周二公布的消费者信心数据表现稳健，周三又出现“一系列进一步印证经济韧性的因素”，这些因素本应推动收益率走高。“当然，我们必须尊重市场价格走势，但考虑到上述所有因素，目前的市场表现看起来仍有些过度。”周三美债收益率收盘走低。美债市场周四因感恩节假期休市，周五则将提前收市。",
+  "summary": "荷兰国际集团策略师认为美债收益率下行可能过度，市场忽视收益率上行理由。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "美债收益率变动可能影响全球资金流向，间接影响A股、ETF及期货市场。",
+  "cluster_id": "e01d78688855",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15761719777590450954,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "5c7048bebebaf914",
   "ts": "2026-11-26T14:52:53+08:00",
   "title": "百事集团投资3.1亿元启动山东生产基地二期项目",
@@ -613,16 +713,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "beeaa80cadc7",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 579017739835277388,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "d07c7ad62999d9e6",
@@ -1413,6 +1514,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5"
  },
  {
+  "id": "86b1577d61a332fb",
+  "ts": "2026-11-26T14:36:25+08:00",
+  "title": "Who really wants Pedro Sanchez out of power?",
+  "title_zh": "西班牙选举：桑切斯政权面临威胁，非来自莫斯科而是华盛顿",
+  "body": "As Spain heads to the polls, the biggest threat to Sanchez’s international agenda comes not from Moscow, but Washington.",
+  "summary": "西班牙选举临近，桑切斯政权面临来自华盛顿的威胁。",
+  "url": "https://www.aljazeera.com/opinions/2026/11/26/who-really-wants-pedro-sanchez-out-of-power?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "西班牙政治不确定性可能影响欧元区经济前景。",
+  "cluster_id": "1984fb065e5b",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 14035505319499662897,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "14741944013b20cf",
   "ts": "2026-11-26T14:36:07+08:00",
   "title": "中东紧张局势搅动市场，油价继续上涨",
@@ -1798,16 +1924,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "b58cb9f6e8c9",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5424040798563412602,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "a665dd0433010733",
