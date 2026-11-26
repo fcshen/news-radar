@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "6fc29f43616e51c3",
+  "ts": "2026-11-26T18:19:20+08:00",
+  "title": "*ST尔雅：公司股票可能被终止上市",
+  "title_zh": "*ST尔雅：公司股票可能被终止上市",
+  "body": "*ST尔雅公告称，公司2025年度归母净利润为-8909.26万元，扣非归母净利润为-9288.57万元；2025年营业收入2.36亿元，扣除无关收入后为2.33亿元，低于3亿元；且2024、2025连续两年财务报告内控被出具否定意见审计报告，公司股票已于2026年5月6日被实施退市风险警示。若公司2026年度未满足撤销退市风险警示的条件，公司股票将被上交所决定终止上市。公司将每月披露一次可能被终止上市的风险提示公告。",
+  "summary": "*ST尔雅2025年亏损，连续两年财务报告被出具否定意见，股票被实施退市风险警示。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8883044.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "关注相关股票波动，可能影响相关ETF和期货合约价格。",
+  "cluster_id": "39d4828fd950",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13866545439031489910,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "14a30f5363e4dfd8",
   "ts": "2026-11-26T18:16:43+08:00",
   "title": "泰晶科技：拟定增募资不超过10.11亿元用于高精度石英频率元器件扩产等项目",
@@ -623,6 +648,55 @@
   "pushed": false,
   "sh": 12630576527144137730,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "e3708ee9988ccd1b",
+  "ts": "2026-11-26T18:16:27+08:00",
+  "title": "怡达股份(300721)：怡达股份：关于股份继承非交易过户完成的公告",
+  "title_zh": "",
+  "body": "怡达股份(300721)：怡达股份：关于股份继承非交易过户完成的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/51d90013-efed-473e-a653-5a340265f717.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "da075f6a0a62",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 6669444458253387809,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "762d67b8c905b2b7",
+  "ts": "2026-11-26T18:16:27+08:00",
+  "title": "国科天成(301571)：国科天成：国科天成科技股份有限公司关于控股股东、实际控制人增持计划实施的进展公告",
+  "title_zh": "国科天成(301571)：国科天成科技股份有限公司关于控股股东、实际控制人增持计划实施的进展公告",
+  "body": "国科天成(301571)：国科天成：国科天成科技股份有限公司关于控股股东、实际控制人增持计划实施的进展公告",
+  "summary": "国科天成控股股东、实际控制人增持计划实施进展公告发布。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/3efcd034-296a-4ade-bfe2-eebbf9101ee4.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 52,
+  "level": "L1",
+  "impact": "可能影响公司股价及投资者信心",
+  "cluster_id": "6e434d419986",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 1512062805435372551,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -1207,16 +1281,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "可能影响航天、国防相关板块表现。",
   "cluster_id": "77b6129585b8",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1594079853939031182,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
