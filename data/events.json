@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "b8e9369eedfc7b85",
+  "ts": "2026-11-26T21:32:41+08:00",
+  "title": "巴西财政部长杜里甘：我们已安排在2027年对税收优惠进行另一轮审查",
+  "title_zh": "",
+  "body": "巴西财政部长杜里甘：我们已安排在2027年对税收优惠进行另一轮审查。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8147756.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 53.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "62b933845d97",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 2017842579702616680,
+  "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
   "id": "5841d446cf35ab02",
   "ts": "2026-11-26T21:31:22+08:00",
   "title": "韩国投资者抛售金融资产 10万亿韩元变现涌入楼市",
@@ -712,16 +737,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 83.2,
+  "score": 85.2,
   "level": "L2",
   "impact": "",
   "cluster_id": "6b2399e672c2",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 10095469787699785888,
-  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=1 conv=0 combo=32 rel=27 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=1 conv=0 combo=32 rel=27 sev=0 pct=0 op=N spread=2 burst=5",
   "tries": 1
  },
  {
