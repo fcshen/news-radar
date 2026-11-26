@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "e3577165b1838aeb",
+  "ts": "2026-11-26T20:56:04+08:00",
+  "title": "荷兰将支持欧盟就欧洲央行执委会职位达成共识",
+  "title_zh": "",
+  "body": "荷兰将支持欧盟就欧洲央行执委会职位达成共识。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8123213.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "ff770cd921e1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 297018144724153284,
+  "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "19ea7d42aecde580",
+  "ts": "2026-11-26T20:55:14+08:00",
+  "title": "深南电路：FC-BGA封装基板26层及以下产品已具备批量生产能力",
+  "title_zh": "深南电路：FC-BGA封装基板26层及以下产品已具备批量生产能力",
+  "body": "深南电路在投资者关系活动记录表中表示，公司FC-BGA类封装基板已具备26层及以下产品批量生产能力，30层及以上产品的技术研发及打样工作按期推进中。",
+  "summary": "深南电路FC-BGA封装基板26层以下产品实现批量生产，30层以上产品研发按期推进。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1346512.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "公司技术实力提升，或影响相关产业链公司股价。",
+  "cluster_id": "6e377369bb4a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2908065265618761423,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "865f17b64b79c647",
+  "ts": "2026-11-26T20:55:02+08:00",
+  "title": "俄罗斯图拉州州长签署法律，禁止在2027年3月1日至2032年3月1日期间销售电子烟产品",
+  "title_zh": "",
+  "body": "俄罗斯图拉州州长签署法律，禁止在2027年3月1日至2032年3月1日期间销售电子烟产品。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1346396.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "dc12815f9eb7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11839766017225622200,
+  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "607a6ff0a3a3ffe4",
   "ts": "2026-11-26T20:53:48+08:00",
   "title": "北京“十五五”期间将支持更多“全球新”药械研发上市",
@@ -663,16 +736,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "a0e2be1d53c0",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 7889916688160363076,
-  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "28164507885e9cde",
@@ -1515,6 +1589,31 @@
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
+  "id": "c8a352954fd9075c",
+  "ts": "2026-11-26T20:34:10+08:00",
+  "title": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+  "title_zh": "埃及致命车辆火灾目击者描述场景",
+  "body": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+  "summary": "埃及发生致命车辆火灾，目击者描述现场情况。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "508e8a31a5c9",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 4852602295223420181,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "1c80ecef8e7a2ce0",
   "ts": "2026-11-26T20:34:02+08:00",
   "title": "欧洲央行会议纪要：除非通胀前景“显著”改善，否则仍需加息",
@@ -1740,6 +1839,31 @@
   "pushed": false,
   "sh": 10924970975129465981,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=1"
+ },
+ {
+  "id": "f3552fdfa3ce6857",
+  "ts": "2026-11-26T20:31:46+08:00",
+  "title": "FIFA says personal and business information stolen in cyberattack",
+  "title_zh": "FIFA称个人信息和商业信息遭网络攻击",
+  "body": "No files from the abandoned FIFA Forward Enterprise project were accessed, according to media reports.",
+  "summary": "国际足联表示，个人和商业信息在网络安全攻击中被窃取，但FIFA Forward Enterprise项目废弃文件未被访问。",
+  "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9ef8270aab3e",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 2116034420688252133,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=Y spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "df0d1d6c67ea3403",
