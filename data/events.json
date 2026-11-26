@@ -576,6 +576,179 @@
   "engine": "primary"
  },
  {
+  "id": "dcad98ece4fa6036",
+  "ts": "2026-11-26T20:04:59+08:00",
+  "title": "精测电子：控股子公司签订近2亿元销售合同",
+  "title_zh": "精测电子：控股子公司签订近2亿元销售合同",
+  "body": "精测电子11月26日公告，控股子公司上海精测半导体技术有限公司近日与客户签订了销售合同，拟向客户出售半导体前道量检测设备，合同总计金额近2亿元。",
+  "summary": "精测电子控股子公司签订约2亿元半导体检测设备销售合同。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1310858.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "精测电子股价可能受此合同影响，关注公司业绩及订单情况。",
+  "cluster_id": "015271f71a77",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16175929189861774702,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "1a4fc2ac9f6909db",
+  "ts": "2026-11-26T20:04:49+08:00",
+  "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
+  "title_zh": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
+  "body": "11月26日，据“北京人社”公众号发布消息，北京市对符合条件的重点行业招用的重点群体，给予个人扩大社会保险范围补贴。政策申请期限截至2026年12月31日。收到短信的重点群体人员，注意及时申请。（央视新闻）",
+  "summary": "北京市对重点行业招用的重点群体给予社保补贴，个人缴费享25%补贴，申请期限至2026年12月31日。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8087128.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能影响社保相关行业公司成本和盈利预期。",
+  "cluster_id": "ce7edbf32457",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2253657269867892,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "b238a08634474cb2",
+  "ts": "2026-11-26T20:04:36+08:00",
+  "title": "中俄两军举行战略磋商",
+  "title_zh": "中俄两军举行战略磋商",
+  "body": "11月26日，中俄两军以视频会议方式举行战略磋商。双方围绕落实两国元首共识、推动两军关系持续深化拓展进行交流，就国际和地区形势深入交换意见，表示两军将进一步加强沟通协作，共同维护国际和地区安全稳定。（国防部发布）",
+  "summary": "中俄两军视频会议举行战略磋商，讨论国际形势及安全稳定。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1310573.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9c6bbc16e09e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4408116684098514814,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "42319b238001e067",
+  "ts": "2026-11-26T20:04:15+08:00",
+  "title": "招商蛇口：拟以现金向全资子公司深圳市南油（集团）有限公司增资190亿元，增资前后南油公司股权结构及注册资本不变，不会导致",
+  "title_zh": "",
+  "body": "公司合并报表范围变动。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3593785.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "35322e40df07",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7093604896375410371,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "22bab4252fd0d8c3",
+  "ts": "2026-11-26T20:04:10+08:00",
+  "title": "巴西雷亚尔上涨0.8%；卢拉试探特拉布科的意愿，寻求组建政府",
+  "title_zh": "",
+  "body": "巴西雷亚尔上涨0.8%；卢拉试探特拉布科的意愿，寻求组建政府。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "082a94d2d040",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14340696534735943732,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "e2bb37f8f9d88221",
+  "ts": "2026-11-26T20:04:01+08:00",
+  "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+  "title_zh": "英伟达暂停东南亚销售，美收紧对华限制",
+  "body": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+  "summary": "英伟达因美国新规暂停向四国销售，需许可证购买先进AI芯片。",
+  "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 92.0,
+  "level": "L2",
+  "impact": "半导体行业受影响，相关A股、ETF可能波动。",
+  "cluster_id": "bdcbe81a0423",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": true,
+  "sh": 9904509269322275909,
+  "reason": "tier=80 ent=1['nvidia'] pred=1 conv=0 combo=26 rel=37 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
+  "id": "4c7ae064fd4358fc",
+  "ts": "2026-11-26T20:03:59+08:00",
+  "title": "迪拜金融管理局（DFSA）与中非金融市场管理局（COSUMAF）签署谅解备忘录，扩大与非洲的资本市场联系，协议支持更紧密",
+  "title_zh": "",
+  "body": "的监管合作以及非洲和中东之间日益增长的资本市场互联互通。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "617b2b2dc38a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17874796439745128468,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "80fba781f5cbd677",
   "ts": "2026-11-26T20:02:51+08:00",
   "title": "襄阳轴承：存在市场情绪过热、非理性炒作及短期快速回落风险",
@@ -676,6 +849,31 @@
   "engine": "primary"
  },
  {
+  "id": "21b8bef5744d1251",
+  "ts": "2026-11-26T20:01:16+08:00",
+  "title": "河南“十五五”打造更高水平“中原粮仓”",
+  "title_zh": "河南“十五五”打造更高水平“中原粮仓”",
+  "body": "中新社郑州11月26日电 (记者 王宇)河南省农业农村厅厅长孙巍峰26日在河南省政府新闻办召开的《河南省加快农业农村现代化“十五五”规划》新闻发布会上通报，“十五五”期间，该省将打造更高水平“中原粮仓”。",
+  "summary": "河南省计划在“十五五”期间提升粮食储备能力。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738345.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "粮食储备政策可能影响相关农业股表现。",
+  "cluster_id": "c20e45ed9c85",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 6205540213113259525,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "66cf9be4272e66c4",
   "ts": "2026-11-26T20:01:00+08:00",
   "title": "上海黄金交易所黄金T+D 11月26日（周四）晚盘盘初上涨0.55%报765.8元/克",
@@ -748,6 +946,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
+  "id": "e94a28d60f35e6ad",
+  "ts": "2026-11-26T20:00:36+08:00",
+  "title": "广州跨境电商进出口规模十年增长近14倍",
+  "title_zh": "广州跨境电商进出口规模十年增长近14倍",
+  "body": "中新社广州11月26日电 (王华 潘俊林)由广州市政府主办的2026跨境电商大会26日在广州举行。其间，广州市商务局公布的数据显示，广州跨境电商实现跨越式发展，进出口规模十年增长近14倍。",
+  "summary": "广州市商务局公布，广州跨境电商进出口规模十年增长近14倍。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738342.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "跨境电商行业相关公司业绩可能受益",
+  "cluster_id": "9157646c3e55",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 2467421225340431577,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "cd8cace676483027",
   "ts": "2026-11-26T20:00:28+08:00",
   "title": "中科电气(300035)：中科电气：关于公司与子公司间提供担保的进展公告",
@@ -816,7 +1039,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1324082617389239588,
   "reason": "tier=80 ent=1['ustr'] pred=0 conv=0 combo=6 rel=27 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -988,7 +1211,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17607972502396589394,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=8 pct=12 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1113,7 +1336,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11847688472649390912,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -1485,7 +1708,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2483495907199323328,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
@@ -1510,7 +1733,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17812425750844296750,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1685,7 +1908,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12065759731230218880,
   "reason": "tier=55 ent=1['宁德时代'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -1735,7 +1958,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2758133410028654612,
   "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=3"
  },
@@ -1833,7 +2056,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15840660104480575823,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=24 sev=8 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1958,7 +2181,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9568994083213244176,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
@@ -2330,7 +2553,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2786369982638081346,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -2428,7 +2651,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15263101911584759380,
   "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -2526,7 +2749,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12069571731353224646,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -2552,7 +2775,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 36197672114786672,
   "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=3"
  },
@@ -3144,7 +3367,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6078581203734098260,
   "reason": "tier=55 ent=2['俄罗斯', '泽连斯基'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3170,7 +3393,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11388409378191488561,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -3365,7 +3588,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6163316429515280951,
   "reason": "tier=55 ent=2['华为', '三星'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3391,7 +3614,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3943752137769750848,
   "reason": "tier=55 ent=3['英伟达', '央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -3465,7 +3688,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2963748095038718300,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3490,7 +3713,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14575744812345975784,
   "reason": "tier=55 ent=1['hamas'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3515,7 +3738,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12464670122197287143,
   "reason": "tier=55 ent=1['霍尔木兹'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3590,7 +3813,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2059497177637586511,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -3838,7 +4061,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5081091452394611176,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3888,7 +4111,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 692401080448746256,
   "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -4064,7 +4287,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6235105055824030280,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=N spread=2 burst=3",
   "engine": "primary"
@@ -4314,7 +4537,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 369267749651301028,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
