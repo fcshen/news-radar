@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "b3ded6687f4c49ea",
+  "ts": "2026-11-26T19:35:21+08:00",
+  "title": "武汉大学通报教师曾某某违规使用科研经费被免职",
+  "title_zh": "",
+  "body": "武汉大学通报教师曾某某违规使用科研经费被免职。（央视新闻）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8199254.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f1ba4a074c2b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4984965471489097857,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "c919cf6bf0efa116",
+  "ts": "2026-11-26T19:35:02+08:00",
+  "title": "英国央行行长贝利：当我们关注人工智能风险时，不能忘记量子计算即将带来的风险",
+  "title_zh": "",
+  "body": "英国央行行长贝利：当我们关注人工智能风险时，不能忘记量子计算即将带来的风险。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8929398.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "7aa11464da27",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2786369982638081346,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "bfb9ba438c1b8bf9",
+  "ts": "2026-11-26T19:34:31+08:00",
+  "title": "Oppenheimer分析师将Marvell目标价从425美元下调至325美元，但维持“跑赢大盘”评级",
+  "title_zh": "Oppenheimer分析师下调Marvell目标价",
+  "body": "Oppenheimer分析师将Marvell目标价从425美元下调至325美元，但维持“跑赢大盘”评级。",
+  "summary": "Oppenheimer分析师将Marvell目标价从425美元下调至325美元，维持“跑赢大盘”评级。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 18.9,
+  "level": "L0",
+  "impact": "Marvell股价可能受影响，相关ETF和期货产品可能波动。",
+  "cluster_id": "88746e7a7d26",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15943935893984805,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "4d5f7a5d19bdd935",
   "ts": "2026-11-26T19:33:16+08:00",
   "title": "巴西10月经常账户赤字为40亿美元，9月为51亿美元",
@@ -675,6 +748,79 @@
   "engine": "primary"
  },
  {
+  "id": "d35d40f3dc9d9f65",
+  "ts": "2026-11-26T19:32:27+08:00",
+  "title": "科德教育(300192)：科德教育：关于放弃参股公司优先认购权暨关联交易的公告",
+  "title_zh": "",
+  "body": "科德教育(300192)：科德教育：关于放弃参股公司优先认购权暨关联交易的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/2d47da5d-f45a-4914-be5e-e89f4cc6f013.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2cd19c8b1277",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 15299546620474187002,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "bca0425b30fa47a2",
+  "ts": "2026-11-26T19:32:27+08:00",
+  "title": "科德教育(300192)：科德教育：关于“跃迁者”第一期员工持股计划实施进展的公告",
+  "title_zh": "",
+  "body": "科德教育(300192)：科德教育：关于“跃迁者”第一期员工持股计划实施进展的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/02162b0b-0b59-47c6-bae8-95dc37ad58f9.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "39ef00b388b5",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 11309366627146010363,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "fc137552cda0828a",
+  "ts": "2026-11-26T19:32:27+08:00",
+  "title": "翔楼新材(301160)：翔楼新材：苏州翔楼新材料股份有限公司股权激励计划限制性股票归属结果暨股份上市公告",
+  "title_zh": "翔楼新材(301160)：苏州翔楼新材料股份有限公司股权激励计划限制性股票归属结果暨股份上市公告",
+  "body": "翔楼新材(301160)：翔楼新材：苏州翔楼新材料股份有限公司股权激励计划限制性股票归属结果暨股份上市公告",
+  "summary": "翔楼新材发布股权激励计划限制性股票归属结果及股份上市公告。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/22c1b00c-fcbf-49b4-b64a-b70cb9bc6cb3.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 52,
+  "level": "L1",
+  "impact": "可能影响公司股价及投资者对公司未来业绩的预期。",
+  "cluster_id": "743920cb2dda",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 12069571731353224646,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "6ecbd698f6b2fda1",
   "ts": "2026-11-26T19:31:58+08:00",
   "title": "乌克兰军方称，其袭击了巴什科尔托斯坦的俄罗斯石油储存设施",
@@ -687,16 +833,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 50.2,
+  "score": 52.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "285cd22b9824",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 36197672114786672,
-  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "790879c4a048f94b",
