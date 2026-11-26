@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "de81f59dd57e8a1f",
+  "ts": "2026-11-27T06:00:00+08:00",
+  "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
+  "title_zh": "人工智能热潮推动清洁能源投资，借鉴石油钻探技术",
+  "body": "The artificial intelligence boom is putting unprecedented pressure on global energy grids. The energy needs of planned data centers outstrip planned energy additions in many places where hyperscalers are developing massive campuses. As a result, the private and public sector alike are increasingly and urgently adopting an all-of-the-above approach to energy development, increasing the scale and lifespan of fossil fuels and renewable energies alike, while also pouring funding into the research and development of next-gen energy alternatives. One…",
+  "summary": "人工智能发展对能源需求增加，推动清洁能源投资，包括化石燃料和可再生能源。",
+  "url": "https://oilprice.com/Energy/Energy-General/The-Next-Big-Clean-Energy-Bet-Borrows-Its-Drilling-Tech-From-Big-Oil.html",
+  "source": "OilPrice",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 25.2,
+  "level": "L0",
+  "impact": "清洁能源相关企业可能受益",
+  "cluster_id": "38a1eab4aeb1",
+  "sources": [
+   "OilPrice"
+  ],
+  "pushed": false,
+  "sh": 15702230464689465160,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "88ba9c6ca3ae3b0d",
   "ts": "2026-11-27T05:56:14+08:00",
   "title": "JERA GLOBAL首席执行官兼董事长表示，该能源集团也在与亚马逊、微软和谷歌进行讨论",
