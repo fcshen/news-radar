@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "38f0c74b884da834",
+  "ts": "2026-11-26T20:18:01+08:00",
+  "title": "罗马尼亚外交部长表示，已要求德国在罗马尼亚保持“持续”的国防存在",
+  "title_zh": "",
+  "body": "罗马尼亚外交部长表示，已要求德国在罗马尼亚保持“持续”的国防存在。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1319820.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "81819d217f47",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6711519927404075803,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "5337de6730898bab",
+  "ts": "2026-11-26T20:17:45+08:00",
+  "title": "罗马尼亚外交部长表示，黑海必须继续是欧盟和北约议程的优先事项",
+  "title_zh": "",
+  "body": "罗马尼亚外交部长表示，黑海必须继续是欧盟和北约议程的优先事项。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3602341.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4a1c0db97f4b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13721608526591961876,
+  "reason": "tier=55 ent=2['欧盟', '北约'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "02d8daef2f9f6382",
+  "ts": "2026-11-26T20:16:48+08:00",
+  "title": "Russian court jails Colombian fighter for 20 years over Ukraine war role",
+  "title_zh": "俄罗斯法院判处哥伦比亚人20年监禁，指控其在乌克兰战争中充当雇佣兵",
+  "body": "A court in Ukraine’s Moscow-annexed Donetsk region jailed a Colombian for 20 years, saying he was a mercenary fighting for Kyiv, Russia said on Thursday. The Russian Prosecutor General’s Office said the court “has handed down a verdict in the criminal case against 33-year-old Colombian national Cristian Morales Mendoza”, adding he was “a mercenary in an armed conflict”. Both Moscow and Kyiv have recruited thousands of foreigners in their armies since Russia launched its offensive in Ukraine...",
+  "summary": "俄罗斯法院判处33岁哥伦比亚人20年监禁，指控其在乌克兰战争中充当雇佣兵。",
+  "url": "https://www.scmp.com/news/world/europe/article/3375944/russian-court-jails-colombian-fighter-20-years-over-ukraine-war-role",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 66.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "8401dcae0192",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 5883710505776944150,
+  "reason": "tier=80 ent=2['russia', 'ukraine'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "75be7dbe1d189562",
   "ts": "2026-11-26T20:16:05+08:00",
   "title": "欧洲投资银行与南非计划签署3亿欧元矿产协议",
@@ -624,6 +697,30 @@
   "sh": 2353202317049796033,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=12 op=N spread=2 burst=1",
   "engine": "primary"
+ },
+ {
+  "id": "211915ca893e4063",
+  "ts": "2026-11-26T20:15:37+08:00",
+  "title": "国际金惊险深V，寻底之旅结束了吗",
+  "title_zh": "",
+  "body": "点击观看高阳，文成双导师直播分析>",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "07b519c7256d",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9238361271435416166,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "63554ec4f5df111e",
