@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "3b2963e856b1b628",
+  "ts": "2026-11-26T19:51:23+08:00",
+  "title": "欧洲议会支持推迟进口甲烷法规",
+  "title_zh": "",
+  "body": "欧洲议会支持推迟进口甲烷法规。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8209956.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b2e3aae5ab2a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11570882283562377965,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "0382eb251e58cbf8",
+  "ts": "2026-11-26T19:50:32+08:00",
+  "title": "美感恩节假期前，风险资产抛售暂歇，困境反转了吗",
+  "title_zh": "",
+  "body": "金十研究员高阳、文成正在直播分析，点击进入直播间>",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "869abfd99fa4",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5981520116576256706,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "de05946bed79ee71",
+  "ts": "2026-11-26T19:49:00+08:00",
+  "title": "小农户参与探索气候适应型农业 两年建17个示范点",
+  "title_zh": "小农户参与探索气候适应型农业 两年建17个示范点",
+  "body": "中新网福州11月26日电 (钟欣)“助力中国农食系统应对气候变化”(CRAFSN)项目结项活动26日至27日在福建福州举行。该项目在福建、云南、四川、广西建立17个试验示范点，累计开展保护性耕作农民培训51次，覆盖906户农村家庭，探索出一条小农户参与气候适应的可行路径。",
+  "summary": "CRAFSN项目在四地建立17个示范点，培训农民，探索气候适应路径。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738332.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响农业相关ETF和期货价格，需关注政策导向。",
+  "cluster_id": "4b319f901e6c",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 18225785438989017135,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "ee4e9ea5f92f991b",
   "ts": "2026-11-26T19:48:46+08:00",
   "title": "英国央行布拉德克：人工智能泡沫风险是我们监管方法中非常重要的一部分，投资组合管理已有所改善",
@@ -588,16 +661,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 57.2,
+  "score": 59.2,
   "level": "L1",
   "impact": "人工智能监管加强可能影响相关行业投资。",
   "cluster_id": "bc2a303e51a5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2483495907199323328,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -623,6 +697,31 @@
   "pushed": false,
   "sh": 17812425750844296750,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "b26e686a6867ba97",
+  "ts": "2026-11-26T19:47:51+08:00",
+  "title": "第二届全球技术创新大赛收官 浙江开启赛后“陪跑”",
+  "title_zh": "第二届全球技术创新大赛收官 浙江开启赛后“陪跑”",
+  "body": "中新网杭州11月26日电(蓝伊旎)11月26日，第二届全球技术创新大赛颁奖仪式暨项目对接活动在杭州举办。经过层层角逐，人工智能、生物制造、AI+光电融合、石墨烯新材料、AI+医疗、眼脑健康、具身智能、航空航天八大赛道最终共决出一等奖8项、二等奖16项、三等奖24项。",
+  "summary": "第二届全球技术创新大赛在杭州颁奖，决出一等奖8项、二等奖16项、三等奖24项。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738330.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "addf4265be62",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 9273421536114619873,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -1035,16 +1134,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 57.2,
+  "score": 59.2,
   "level": "L1",
   "impact": "大型云厂商风险可能影响相关股票和ETF表现。",
   "cluster_id": "399c7a2ac548",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 9568994083213244176,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
