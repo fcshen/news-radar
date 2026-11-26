@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "90e6ba8a5e163d47",
+  "ts": "2026-11-27T05:47:18+08:00",
+  "title": "BETASHARES全球金属与矿业ETF获准上市并开始交易",
+  "title_zh": "",
+  "body": "BETASHARES全球金属与矿业ETF获准上市并开始交易。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7879990.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8b2120625746",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11594377126502783027,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "d280b1bea510f6a5",
+  "ts": "2026-11-27T05:45:00+08:00",
+  "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+  "title_zh": "MarketWatch：我害怕市场崩溃。我应该将40万美元的退休储蓄投入年金吗？",
+  "body": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+  "summary": "投资者担忧市场崩溃，考虑将部分退休储蓄投入年金。",
+  "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 44.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e80d3c614c32",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 10302078472753849386,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "891ebb6f914f9b47",
   "ts": "2026-11-27T05:42:04+08:00",
   "title": "消息人士称，沙特阿拉伯南部多个地区传出数声爆炸",
