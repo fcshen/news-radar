@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "52824219bbcf481f",
+  "ts": "2026-11-26T19:21:16+08:00",
+  "title": "英国大臣斯特里廷表示：我们的核威慑力量是国家安全的基石，今天我们正以80亿英镑的重大投资予以支持",
+  "title_zh": "",
+  "body": "这将提高潜艇的可用性，增强皇家海军实力，并创造数千个新就业岗位和学徒机会。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8190517.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 18.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "94d7bcfb072b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13220606554514450115,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
+  "id": "0fc0c912f0668f8a",
+  "ts": "2026-11-26T19:20:28+08:00",
+  "title": "因供应充足，亚洲汽油裂解价差转为负值，跌至2020年4月以来最低水平",
+  "title_zh": "",
+  "body": "因供应充足，亚洲汽油裂解价差转为负值，跌至2020年4月以来最低水平。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3701474.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fb6cfd6854b7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1180314739987711299,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "03b76a0bca37ae84",
+  "ts": "2026-11-26T19:19:43+08:00",
+  "title": "泰胜风能：拟8.43亿元投建泰胜国际海工基地项目",
+  "title_zh": "泰胜风能：拟8.43亿元投建泰胜国际海工基地项目",
+  "body": "泰胜风能公告，公司第六届董事会第十五次会议审议通过，同意使用自有资金对全资子公司泰胜扬州基地增资1.2亿元，并由泰胜扬州基地出资2.5亿元设立泰胜江苏海工，以其为主要实施主体投资泰胜国际海工基地项目，投资总金额不超过8.43亿元。项目分两期建设，一期投资6.21亿元，建设周期十四个月，预计2027年底具备使用条件、2028年初启动试生产；二期投资2.22亿元。项目一期设计产能约15万吨/年，二期完成后总设计产能约30万吨/年。",
+  "summary": "泰胜风能拟投资8.43亿元建设海工基地，分两期建设，设计产能约30万吨/年。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1413112.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "泰胜风能投资计划可能影响公司股价及行业板块表现。",
+  "cluster_id": "2cb3a25fea90",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 142280518073631203,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "35dd693eb1de06ea",
+  "ts": "2026-11-26T19:19:13+08:00",
+  "title": "凯中精密：精密连接器及组件在手订单充足，新项目陆续量产并处于爬坡阶段",
+  "title_zh": "凯中精密：精密连接器及组件在手订单充足，新项目陆续量产并处于爬坡阶段",
+  "body": "凯中精密在投资者关系活动记录表中表示，公司精密连接器及组件在手订单充足，定点新项目陆续量产并处于爬坡阶段，且持续获得行业知名新、老客户定点项目。",
+  "summary": "凯中精密精密连接器订单充足，新项目量产中。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8189106.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "精密连接器行业相关股票可能受益",
+  "cluster_id": "ab0b1d4a959e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13355797750741642912,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "c1494a214000f8fd",
   "ts": "2026-11-26T19:18:47+08:00",
   "title": "华为、长鑫，硬刚三星、SK海力士",
@@ -613,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 57.2,
+  "score": 59.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "19b39764c5d7",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3943752137769750848,
-  "reason": "tier=55 ent=3['英伟达', '央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=3['英伟达', '央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "7854e19be3936e4f",
