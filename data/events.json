@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "209faf19d259c587",
+  "ts": "2026-11-26T17:39:59+08:00",
+  "title": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员、副组长（兼）郑梦英被开除党籍和公职",
+  "title_zh": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员、副组长（兼）郑梦英被开除党籍和公职",
+  "body": "新华社贵阳11月26日电 据贵州省纪委监委26日通报，经贵州省委批准，贵州省纪委监委对贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员、副组长（兼）郑梦英严重违纪违法问题进行了立案审查调查。",
+  "summary": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员郑梦英被开除党籍和公职。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8244281.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "be77f6f9c42c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10206967825730443713,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "621ae2fb082baf6d",
   "ts": "2026-11-26T17:39:21+08:00",
   "title": "奔图科技：为子公司奔图打印提供8000万元担保",
@@ -1149,16 +1174,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "港股通资金流向或影响相关股票表现。",
   "cluster_id": "bf57688cb753",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 9761910781586208967,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
