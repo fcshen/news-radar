@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "1b9bda9956730547",
+  "ts": "2026-11-26T17:08:13+08:00",
+  "title": "德国总理默茨表示，欧洲和乌克兰必须有能力自卫",
+  "title_zh": "",
+  "body": "德国总理默茨表示，欧洲和乌克兰必须有能力自卫。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaawz8961140.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.8,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c6eba529494d",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 18025252367098347976,
+  "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=Y spread=2 burst=3"
+ },
+ {
+  "id": "ddc69440aee27f65",
+  "ts": "2026-11-26T17:07:34+08:00",
+  "title": "德国总理默茨：当前欧盟预算提案不构成决策基础",
+  "title_zh": "",
+  "body": "德国总理默茨：当前欧盟预算提案不构成决策基础。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1437493.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2f2442144a00",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1104551341187204488,
+  "reason": "tier=55 ent=1['欧盟'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3"
+ },
+ {
+  "id": "7e191bbdbd198568",
+  "ts": "2026-11-26T17:07:04+08:00",
+  "title": "新加坡：不同意美国关税调查结果的理由",
+  "title_zh": "",
+  "body": "新加坡：不同意美国关税调查结果的理由。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3740396.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 68.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "c8aad48ef489",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4374826509213798166,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=15 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "ead0a083240ce52b",
+  "ts": "2026-11-26T17:06:52+08:00",
+  "title": "Nepal starts legal process to declare 4,000 dead 3 months after fatal floods",
+  "title_zh": "尼泊尔开始法律程序宣布4000人遇难",
+  "body": "Nepal had begun a process to legally declare dead thousands of people still missing after its catastrophic summer floods, authorities said on Thursday, three months after the disaster. A high-altitude glacier on the Nepal-China border collapsed on August 26, unleashing a torrent of water, ice, rock and debris. In Nepal, the floods killed more than 1,400 people and left over 5,500 missing. “We have started the process to declare the missing dead by verifying their details,” said Ram Bahadur KC,...",
+  "summary": "尼泊尔启动程序宣布失踪者死亡，洪水已致1400人死亡，5500人失踪。",
+  "url": "https://www.scmp.com/news/asia/south-asia/article/3375910/nepal-starts-legal-process-declare-4000-dead-3-months-after-fatal-floods",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 36.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b2e1f6c6452a",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 4842711485196331068,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "d50a1bae5a5575c1",
   "ts": "2026-11-26T17:05:45+08:00",
   "title": "商务部：将进一步扩大二手商品流通",
@@ -588,16 +687,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 49.2,
-  "level": "L0",
+  "score": 51.2,
+  "level": "L1",
   "impact": "可能促进二手商品相关产业链发展",
   "cluster_id": "84caec633c54",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1194248869074990594,
-  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -623,6 +723,31 @@
   "pushed": false,
   "sh": 11678383060187297825,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "dca40cfa03895b96",
+  "ts": "2026-11-26T17:05:39+08:00",
+  "title": "从大促冲量到品牌沉淀 国货美妆借双11开启高质量转型",
+  "title_zh": "从大促冲量到品牌沉淀 国货美妆借双11开启高质量转型",
+  "body": "在商务部部署品质电商“五优”行动、引导电商行业由规模扩张转向质量提升，国民消费持续从满足数量需求转向追求品质价值的大背景下，双11成为洞察美妆产业变迁的重要窗口。消费理性化成为主流趋势，美妆行业逐步告别粗放的流量竞争，竞争重心转向产品力、用户复购与长期品牌价值，消费者愈发看重护肤功效、科研实力以及产品与自身肤质的适配度。今年双11美妆市场呈现“大盘平稳、结构分化”的特征，国际品牌、国货头部、新锐细分品牌走出差异化发展路径。海尼集团旗下 KAZOO可逐、BUV笔薇，正是新锐国货坚持长期主义、跳出低价内卷的典型样本。",
+  "summary": "双11美妆市场大盘平稳，国货品牌差异化发展，新锐品牌崛起。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738200.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "国货美妆股可能受益于品牌升级和消费升级趋势。",
+  "cluster_id": "d613a0250a09",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 3042451925216761513,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "932bb02193b99a83",
@@ -734,16 +859,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "szse",
-  "score": 56.6,
+  "score": 58.6,
   "level": "L1",
   "impact": "可能提振投资者信心，影响股价短期表现。",
   "cluster_id": "99bcfe2b7ad4",
   "sources": [
-   "深交所公告"
+   "深交所公告",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 4671267554174644352,
-  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -869,6 +995,31 @@
   "pushed": false,
   "sh": 17570523476039687884,
   "reason": "tier=55 ent=1['恒大'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "7405f6581e21236e",
+  "ts": "2026-11-26T17:03:29+08:00",
+  "title": "美美与共，天下大美——白云山“美小伴”旅护套装闪亮APEC新闻中心“亚太朋友之家”",
+  "title_zh": "美美与共，天下大美——白云山“美小伴”旅护套装闪亮APEC新闻中心“亚太朋友之家”",
+  "body": "APEC2026新闻中心外景(深圳) 2026年11月11日至20日，APEC领导人会议周在深圳举行。深圳会展中心里，由广东省委宣传部IP GUANGDONG打造的 APEC新闻中心“亚太朋友之家”正式开放——这是为全球来深采访的媒体工作者与参会嘉宾打造的配套服务平台，兼具办公服务、素材供给与广货展示功能，也为远道而来的客人准备了一份广东心意。",
+  "summary": "白云山“美小伴”旅护套装亮相APEC新闻中心，为参会嘉宾提供广东心意。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738199.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "37ad64708b3f",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 77877982803982431,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
