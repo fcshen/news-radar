@@ -576,6 +576,32 @@
   "engine": "primary"
  },
  {
+  "id": "aee0280470e09ad9",
+  "ts": "2026-11-26T14:56:43+08:00",
+  "title": "越南首批核电站可能被迫推迟至2035年以后投运，这将使该国加强能源安全、推动经济增长的努力面临更大挑战",
+  "title_zh": "越南首批核电站可能推迟至2035年投运",
+  "body": "越南首批核电站可能被迫推迟至2035年以后投运，这将使该国加强能源安全、推动经济增长的努力面临更大挑战。",
+  "summary": "越南首批核电站投运时间可能推迟至2035年以后。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrh8206662.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "能源板块或受影响",
+  "cluster_id": "60ef8e266608",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16586431760563994673,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "73373953fbfc42a6",
   "ts": "2026-11-26T14:54:46+08:00",
   "title": "曝苹果下架MiniMax AI聊天应用Talkie",
