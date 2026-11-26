@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "bf8fa6d8a8436420",
+  "ts": "2026-11-26T19:41:13+08:00",
+  "title": "土耳其计划降低里拉存款税率以支撑货币汇率",
+  "title_zh": "",
+  "body": "土耳其计划降低里拉存款税率以支撑货币汇率。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3712643.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "744a79398717",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 449505667468228911,
+  "reason": "tier=55 ent=1['土耳其'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "6f14a6f5b7bfd8ca",
+  "ts": "2026-11-26T19:41:09+08:00",
+  "title": "英国央行：大型云厂商相关风险敞口已突破4万亿美元",
+  "title_zh": "英国央行：大型云厂商相关风险敞口已突破4万亿美元",
+  "body": "英国央行称，流向人工智能领域的资金规模正在放大各类市场风险，大型云厂商的相关风险敞口已突破4万亿美元。英国央行在周四发布的金融稳定报告中写道：“AI融资快速扩张、覆盖范围持续拓宽，融资结构日趋复杂、循环且不透明，这也加剧了全球金融体系内部的关联性。”报告指出，大型云厂商依赖债务以及表外承诺，一旦市场遭遇压力，或是市场下调对AI未来营收的预期，这类融资安排就可能承压。数据显示，运营大型数据中心基础设施的头部云厂商，今年已在九个币种发行合计超3000亿美元债券。",
+  "summary": "英国央行报告称，大型云厂商风险敞口超4万亿美元，AI领域融资扩张。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8203033.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "大型云厂商风险可能影响相关股票和ETF表现。",
+  "cluster_id": "399c7a2ac548",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9568994083213244176,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "50a464b4e7c69bbc",
+  "ts": "2026-11-26T19:40:15+08:00",
+  "title": "可川科技：股东屠施恩及一致行动人合计持股比例降至4.99997%",
+  "title_zh": "可川科技：股东屠施恩及一致行动人合计持股比例降至4.99997%",
+  "body": "可川科技公告，持股5%以上股东屠施恩及其一致行动人屠文斌、施玉庆合计持有公司股份比例由5.00492%降至4.99997%，权益变动触及1%、5%刻度且持股比例低于5%。2026年11月26日，屠施恩通过集中竞价方式减持9300股，占公司总股本的0.00495%。本次变动后，屠施恩及其一致行动人合计持有公司股份939.48万股，占总股本比例4.99997%。本次权益变动不会导致公司控股股东、实际控制人发生变化。",
+  "summary": "可川科技股东屠施恩及其一致行动人持股比例降至4.99997%，减持9300股。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1426170.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "股东减持或影响市场对公司控制权预期。",
+  "cluster_id": "4b29ddd938b4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10379907847779836327,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=4 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "1671647e9867a0c6",
+  "ts": "2026-11-26T19:40:00+08:00",
+  "title": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline",
+  "title_zh": "土库曼斯坦接近10亿美元TAPI天然气管道重大里程碑",
+  "body": "Turkmenistan expects a key section of a pipeline to begin supplying gas to Afghanistan’s third-largest city in early 2027, despite years of delays and hurdles in the $10-billion Turkmenistan–Afghanistan–Pakistan–India (TAPI) project, Turkmen officials have told Reuters. Turkmenistan is estimated to be the world’s fifth-largest holder of natural gas reserves, after Russia, Iran, Qatar, and the United States. The Central Asian country holds an estimated 5.3% of global gas reserves, with 146 years of production at current…",
+  "summary": "土库曼斯坦官员称，TAPI天然气管道关键部分预计2027年初开始向阿富汗第三大城市供气。",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkmenistan-Nears-Major-Milestone-in-10-Billion-TAPI-Gas-Pipeline.html",
+  "source": "OilPrice",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 27.2,
+  "level": "L0",
+  "impact": "天然气供应变化可能影响相关能源股票和期货价格。",
+  "cluster_id": "0223ab2b9c9a",
+  "sources": [
+   "OilPrice"
+  ],
+  "pushed": false,
+  "sh": 11020973389800809193,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "467075bd9824de8e",
   "ts": "2026-11-26T19:38:40+08:00",
   "title": "阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才",
@@ -2496,16 +2595,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 50.2,
+  "score": 52.2,
   "level": "L1",
   "impact": "可能影响观想科技股价及辽晶电子相关产品期货价格。",
   "cluster_id": "a7b46db25245",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 6235105055824030280,
-  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
