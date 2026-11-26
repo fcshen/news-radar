@@ -576,6 +576,54 @@
   "engine": "primary"
  },
  {
+  "id": "746391ebf7bfc7c7",
+  "ts": "2026-11-26T17:52:04+08:00",
+  "title": "北京市规划和自然资源委员会 北京市住房和城乡建设委员会关于进一步完善我市建设工程施工图全过程数字化管理工作的通知",
+  "title_zh": "",
+  "body": "（北京市人民政府）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1346929.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8e429fe73f47",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8128095191317938368,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "4192b72c5d09e502",
+  "ts": "2026-11-26T17:51:58+08:00",
+  "title": "美股周一急涨被判定为空头回补与量化资金驱动，并非见底信号",
+  "title_zh": "",
+  "body": "在新任美联储主席上台、加息周期以及政治和财政环境形似的情况下，投资者开始比照2018年行情。点击查看",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236221",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "3098b9b12aa8",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 447704072603879762,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
   "id": "6cbf1ceddc78cc63",
   "ts": "2026-11-26T17:49:59+08:00",
   "title": "克里姆林宫：欧盟向乌克兰追加拨款无助于推动和平进程",
@@ -4552,6 +4600,31 @@
   "pushed": false,
   "sh": 4674724420799288318,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "1ceddf77ee4bf34d",
+  "ts": "2026-11-26T16:59:11+08:00",
+  "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+  "title_zh": "拉美铜、能源或受益于AI需求增长，基础设施是关键",
+  "body": "Latin America’s copper, oil, gas and rare earths could benefit from rising AI energy demand, if infrastructure and fiscal policy attract investment.",
+  "summary": "拉美铜、油、气及稀土可能因AI能源需求增长而受益，若基础设施和财政政策吸引投资。",
+  "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 44.0,
+  "level": "L0",
+  "impact": "拉美资源类股票可能受关注",
+  "cluster_id": "53e9de7a7766",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 12069648856066402003,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
