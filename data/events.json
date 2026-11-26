@@ -576,6 +576,78 @@
   "engine": "primary"
  },
  {
+  "id": "078a0d2d2be49513",
+  "ts": "2026-11-26T20:09:04+08:00",
+  "title": "德国外交部长：欧洲必须为自身安全承担更大责任，还必须加强支撑必要投资所需的经济支柱",
+  "title_zh": "",
+  "body": "德国外交部长：欧洲必须为自身安全承担更大责任，还必须加强支撑必要投资所需的经济支柱。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "590d18e2eee2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12838836249010602627,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "ba575a869b4b4b0b",
+  "ts": "2026-11-26T20:08:52+08:00",
+  "title": "帝国品牌股价上涨6.4%",
+  "title_zh": "",
+  "body": "帝国品牌股价上涨6.4%",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1313394.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "524d3d1da8af",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1313359596101561245,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=1"
+ },
+ {
+  "id": "1b84e043df0a5a56",
+  "ts": "2026-11-26T20:07:52+08:00",
+  "title": "根据最新经纪商挂单数据，国际现货黄金横盘震荡，现价下方多单挂单密集",
+  "title_zh": "",
+  "body": "镑美徘徊在1.31关口附近，警惕现价附近空单集中区……点击查看最新报告...",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236230",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4ac7da4542a8",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16020149762613533351,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "adcb10cc7e436fb8",
   "ts": "2026-11-26T20:07:49+08:00",
   "title": "伦锌日内涨超2.00%，现报3500.00美元/吨",
