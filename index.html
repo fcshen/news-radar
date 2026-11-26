@@ -271,26 +271,28 @@ function applyDeepLink(){
   setTimeout(()=>el.classList.remove("flash"),2800);
 }
 
+let GEN="";              // 数据的生成时刻，直接摆在标题下，一眼看出是不是最新
 function paintMeta(){
   const today=new Date().toLocaleDateString("sv");
   const t=ALL.filter(e=>(e.ts||"").slice(0,10)===today).length;
   const hot=ALL.filter(e=>e.level==="L2"||e.level==="L3").length;
-  $("meta").textContent=`今日 ${t} · 待看 ${hot}`;
+  const hm=GEN? " · 更新 "+GEN.slice(11,16) : "";
+  $("meta").textContent=`今日 ${t} · 待看 ${hot}${hm}`;
   $("stat").textContent = (TOTAL>ALL.length)
     ? `近 ${ALL.length} / 共 ${TOTAL} 条`
     : `库内 ${ALL.length} 条`;
 }
 
-// 三条数据通道，并发请求、谁最新用谁：
-//   RAW    raw.githubusercontent.com —— commit 后几秒即可读，完全不受 Pages 构建
-//          和边缘缓存影响，是最快的一条（国内网络可能不通，所以要有兜底）
-//   PAGES  自有域名，国内最稳，但受边缘缓存 max-age=600 和 Pages 构建队列影响
-//   CDN    jsDelivr 镜像，国内通常可通，缓存偏旧，只作第三层
+// 两条数据通道，并发的目的是防单线路卡死，不是抢快：
+//   PAGES  自有域名，带上秒级 ?t= 会真正回源，能拿到 2 分钟内的数据（实测滞后 ~120s）
+//   RAW    raw.githubusercontent.com，缓存被 Fastly 锁死在 300 秒，?t= 穿不透
+//          （实测带参数仍滞后 470 秒），只在 Pages 构建排队/不通时接住
+//   CDN    jsDelivr 缓存约 12 小时，只在上面两条全挂时兜底，不参与常规竞速
 const PAGES="data/feed.json";
 const RAW="https://raw.githubusercontent.com/fcshen/news-radar/main/data/feed.json";
 const CDN="https://cdn.jsdelivr.net/gh/fcshen/news-radar@main/data/feed.json";
 
-// 缓存键必须每轮都变，否则 CDN/浏览器会把 10 分钟前的副本原样发回来——
+// 缓存键必须每轮都变，否则 CDN 会把 10 分钟前的副本原样发回来——
 // 这正是"刚推来的通知点开却找不到"的根因。用秒级参数，一次轮询一个键。
 function bust(u){
   return u + (u.indexOf("?")>=0?"&":"?") + "t=" + Math.floor(Date.now()/1000)
@@ -315,28 +317,32 @@ async function load(manual){
   const ctl=new AbortController();
   const kill=setTimeout(()=>ctl.abort(),20000);
   try{
-    // 三路并发，谁先给出完整数据就用谁；但若先到的那份本身是旧的
-    // （CDN 缓存 / Pages 还没构建完），再等最多 6 秒取较新的一份。
+    // 两条并发，谁先给出完整数据就用谁；若先到的那份本身是旧的（raw 恒定旧 5 分钟），
+    // 再等最多 5 秒取较新的一份。90 秒是判新旧的分界线：数据侧 2 分钟一提交，
+    // 正常滞后应在 3 分钟以内，超过 90 秒就说明拿到的是缓存副本。
     const tag = u => grab(bust(u), ctl.signal)
       .then(j => ({j, g: Date.parse((j && j.generated) || "") || 0}));
-    const reqs = [tag(RAW), tag(PAGES), tag(CDN)];
+    const reqs = [tag(PAGES), tag(RAW)];
     let j = null;
     try{
       let win = await Promise.any(reqs);
-      if(Date.now() - win.g > 5*60000){
+      if(Date.now() - win.g > 90*1000){
         const settled = await Promise.race([
           Promise.allSettled(reqs),
-          new Promise(r=>setTimeout(()=>r(null),6000))
+          new Promise(r=>setTimeout(()=>r(null),5000))
         ]);
         const all = (settled||[]).filter(r => r.status === "fulfilled").map(r => r.value);
         if(all.length) win = all.reduce((a,b) => (b.g > a.g ? b : a), win);
       }
       j = win.j;
     }catch(_){
-      j = await grab("data/events.json", ctl.signal);   // 最后的兜底：全量归档
+      // 上面两条都不通才轮到镜像和全量归档
+      try{ j = await grab(bust(CDN), ctl.signal); }
+      catch(__){ j = await grab("data/events.json", ctl.signal); }
     }
     ALL = Array.isArray(j) ? j : (j.events||[]);
     if(!Array.isArray(j) && j.total) TOTAL=j.total;
+    if(!Array.isArray(j) && j.generated) GEN=j.generated;
     ALL.sort((a,b)=>tsNum(b)-tsNum(a));
     paintMeta(); render();
   }catch(err){
