@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "bccf0801dede11ac",
+  "ts": "2026-11-27T07:12:40+08:00",
+  "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+  "title_zh": "特朗普敦促普京与乌克兰达成协议",
+  "body": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。 特朗普说，他坚信“这很有可能实现”，并称“若能达成协议，那将是对所有人的一大贡献”。 特朗普还说，他25日晚在佛罗里达州海湖庄园会见北约秘书长吕特时，通报了他与普京的谈话内容。 当天早些时候，特朗普发文说，他在同吕特会见时重点讨论了俄乌冲突及伊朗战事，强调俄乌双方应避免采取任何可能导致冲突升级的行动，同时应尽快通过和平方式解决这场冲突。（新华社）",
+  "summary": "特朗普在与普京会谈中敦促尽快结束俄乌冲突，称达成协议可能实现。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 58.2,
+  "level": "L1",
+  "impact": "国际局势影响全球金融市场，需关注相关地缘政治动态。",
+  "cluster_id": "ded9c90f9d74",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1817355577368135160,
+  "reason": "tier=55 ent=3['乌克兰', '普京'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "4713ab42c7931815",
+  "ts": "2026-11-27T07:11:49+08:00",
+  "title": "中国驻尼泊尔大使馆提醒中国公民切实防范电诈风险",
+  "title_zh": "中国驻尼泊尔大使馆提醒中国公民切实防范电诈风险",
+  "body": "11月17日至18日，尼泊尔警方在加德满都附近两家山间度假村突袭抓获76名涉嫌电信诈骗的外籍人员，其中包括41名中国公民。近期，我馆接到多名中国公民求助，称本人被胁迫从事电诈、亲属在尼泊尔失联等，已协助1名受害人回国。中国驻尼泊尔大使馆提醒广大中国公民：提高安全防范意识，务必高度警惕网络“高薪招聘”等各类诈骗陷阱，谨防上当受骗。电诈园区从事违法活动，且普遍存在非法拘禁、暴力胁迫甚至残害人身安全等犯罪现象，切勿为贪图钱财而以生命安全为代价到园区铤而走险。如发现自身或周围人员可能在尼泊尔卷入电诈、非法拘禁等异常情况，请尽快向中尼两国警方报警，并及时向中国驻尼泊尔大使馆寻求协助。",
+  "summary": "尼泊尔警方抓获76名涉嫌电信诈骗的外籍人员，其中41名中国公民。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7926002.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "可能影响中国公民海外投资安全，需关注相关风险。",
+  "cluster_id": "a8cd192b5556",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5779740854529819265,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "925397b675468907",
   "ts": "2026-11-27T07:11:18+08:00",
   "title": "日经期货报57,835，现货收盘报57,499",
@@ -895,6 +945,31 @@
   "pushed": false,
   "sh": 6662362408749120383,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "5d64b1fcdbe83301",
+  "ts": "2026-11-27T07:07:36+08:00",
+  "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+  "title_zh": "以色列定居者破坏西岸巴勒斯坦家庭房屋",
+  "body": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+  "summary": "图巴西家庭被迫搬离，遭定居者拒绝返回，尽管有以色列法庭命令。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 66.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "cd702e695c0c",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 15663414477071931264,
+  "reason": "tier=55 ent=1['israel'] pred=3 conv=0 combo=36 rel=7 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
  },
  {
