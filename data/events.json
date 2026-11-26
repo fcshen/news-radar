@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "96630d00ce94ec80",
+  "ts": "2026-11-26T21:06:48+08:00",
+  "title": "吕武钦已任公安部副部长",
+  "title_zh": "吕武钦已任公安部副部长",
+  "body": "11月26日从公安部网站“机构设置”栏目获悉：吕武钦已任公安部副部长。吕武钦，男，汉族，1967年9月生，大学学历，中共党员，现任公安部党委委员、副部长，副总警监警衔。",
+  "summary": "吕武钦被任命为公安部副部长。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e6075cf745f1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9710131428707889157,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "9c6c7e6c3045a40b",
+  "ts": "2026-11-26T21:06:00+08:00",
+  "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+  "title_zh": "《周六夜现场》‘Sister’片段：美国家庭笑与泪",
+  "body": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+  "summary": "《周六夜现场》的‘Sister’片段让美国女性护理者感到被看见。",
+  "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 33.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d9cf936c9970",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 10618864214821122919,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "aab3762b09e41186",
   "ts": "2026-11-26T21:03:28+08:00",
   "title": "波罗的海海岬型运价指数上涨1.85%，至每日42747美元",
@@ -914,7 +964,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13278375539917226556,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=4 op=N spread=0 burst=5"
  },
@@ -1091,6 +1141,31 @@
   "engine": "primary"
  },
  {
+  "id": "b126acbd4200520a",
+  "ts": "2026-11-26T20:56:10+08:00",
+  "title": "Nvidia’s ‘great man theory’ is flawed",
+  "title_zh": "英伟达的‘伟大人物理论’存在缺陷",
+  "body": "Some Big Tech companies have made a striking success of switching from founder mode to manager mode",
+  "summary": "一些大型科技公司成功从创始人模式转变为管理者模式。",
+  "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 42.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9d84d00fb419",
+  "sources": [
+   "Financial Times"
+  ],
+  "pushed": false,
+  "sh": 3136009155341786386,
+  "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "e3577165b1838aeb",
   "ts": "2026-11-26T20:56:04+08:00",
   "title": "荷兰将支持欧盟就欧洲央行执委会职位达成共识",
@@ -1110,7 +1185,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 297018144724153284,
   "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -1332,7 +1407,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10003735834085069372,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=Y spread=0 burst=1",
   "engine": "primary"
@@ -1481,7 +1556,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 881728907916863343,
   "reason": "tier=55 ent=1['阿斯麦'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -1506,7 +1581,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3717141677854601186,
   "reason": "tier=80 ent=2['israel', 'hamas'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -1531,7 +1606,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5922671563615140212,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -1629,7 +1704,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5981793661204703566,
   "reason": "tier=55 ent=0[] pred=3 conv=0 combo=20 rel=0 sev=0 pct=12 op=N spread=0 burst=1",
   "engine": "primary"
@@ -1778,7 +1853,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16325340787502822906,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -2075,7 +2150,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1489875005226122748,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -2099,7 +2174,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4035592401551922996,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=12 op=N spread=0 burst=1",
   "engine": "primary"
@@ -2124,7 +2199,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11105611147597904996,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
  },
@@ -2149,7 +2224,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4369869224492541349,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -2224,7 +2299,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3929378021929406537,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -2273,7 +2348,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13878552752370152233,
   "reason": "tier=55 ent=2['OPEC', 'opec'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -2350,7 +2425,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2783180853617524608,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -2500,7 +2575,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12330690037563762356,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -2599,7 +2674,7 @@
   "sources": [
    "OilPrice"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10757518252750264861,
   "reason": "tier=55 ent=2['iran', 'hormuz'] pred=1 conv=0 combo=32 rel=14 sev=0 pct=0 op=Y spread=0 burst=1",
   "engine": "primary"
@@ -2976,7 +3051,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8745343401885023112,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
@@ -3024,7 +3099,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2163779190559093580,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -3173,7 +3248,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5883710505776944150,
   "reason": "tier=80 ent=2['russia', 'ukraine'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -3273,7 +3348,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9461389545563026630,
   "reason": "tier=55 ent=1['上交所'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -7036,7 +7111,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 845503385197873236,
   "reason": "tier=80 ent=2['congress', 'turkey'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
