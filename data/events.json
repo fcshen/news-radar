@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "4bc4bcaf9f3f9303",
+  "ts": "2026-11-26T15:40:52+08:00",
+  "title": "片仔癀诉自媒体案开庭，另有消费者计划起诉其“销售假药”",
+  "title_zh": "片仔癀诉自媒体案开庭，另有消费者计划起诉其“销售假药”",
+  "body": "11月24日，片仔癀诉自媒体韩某某名誉侵权一案已在福建省芗城区人民法院线上开庭审理。 11月25日，与当事人被告韩某某相关的人士介绍，当日庭审主要围绕起诉书及代理词的内容展开，双方没有发生太激烈的辩论。 同日，片仔癀法务部相关工作人员回应称，公司是按照法院的开庭通知参加庭审，案件于11月24日下午开庭。目前，律师仍在与法官跟进案件，尚未有审理结果。案件具体进展不方便作出答复。 片仔癀出庭律师则向界面新闻表示，对于侵权文章，公司起诉的是发布相关内容的账号主体。就公司是否仍按照起诉状中的内容主张权利，该律师表示，其无法代表当事人回应相关案件情况。（界面）",
+  "summary": "片仔癀与自媒体名誉侵权案开庭，消费者亦计划起诉。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8133357.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能影响片仔癀声誉及市场表现。",
+  "cluster_id": "5721924c5dc1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3881476094879003808,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "f6948727e7581ecf",
+  "ts": "2026-11-26T15:40:49+08:00",
+  "title": "中国国防部长访问意大利、英国深化战略互信",
+  "title_zh": "中国国防部长访问意大利、英国深化战略互信",
+  "body": "11月26日下午，国防部举行例行记者会，国防部新闻发言人陈曦大校答记者问。记者：据报道，国防部长董军近期访问了意大利、英国，与两国防务部门领导举行了会谈。请进一步介绍有关情况。陈曦：11月15日至21日，国防部长董军应邀访问意大利、英国，这是落实中意、中英领导人重要共识，深化双方战略互信的实际举措。其间，董军部长分别与意大利国防部长克罗塞托、英国国防大臣斯特里廷举行会谈，就推动中意、中英两军关系健康稳定发展以及共同关心的国际和地区问题坦诚深入交换意见，达成积极共识和成果。中意、中英双方同意在两国领导人的战略引领下，以长远眼光看待两军关系，以共赢思维尊重彼此发展，以积极姿态深化务实合作，继续加强高层交往、国际维和、院校交流等，为维护地区和全球安全稳定注入更多正能量。（央视新闻）",
+  "summary": "国防部长董军访问意大利、英国，与两国国防部长会谈，推动两军关系发展。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1356927.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "国际关系稳定可能对相关军工企业有利。",
+  "cluster_id": "e7267bb80fc9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10825528286624645782,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "8d46609558ea4a47",
+  "ts": "2026-11-26T15:40:33+08:00",
+  "title": "德国商业银行：裕信银行在德国商业银行的持股比例将升至 46.29%，投票权将升至 47.64%",
+  "title_zh": "",
+  "body": "拟提名安德里亚·奥塞尔为监事会主席，需经评估；一名现任监事会股东代表将获连任。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5f28e63238ee",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 380937937799369720,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=1"
+ },
+ {
+  "id": "bc1c1c6cefac463c",
+  "ts": "2026-11-26T15:39:38+08:00",
+  "title": "外交部：愿同非方继续加强互学互鉴 增进相知相亲",
+  "title_zh": "外交部：愿同非方继续加强互学互鉴 增进相知相亲",
+  "body": "郭嘉昆表示，中非青年大联欢是中非合作论坛框架下的机制性活动，已经连续举办十届，深受中非青年欢迎和喜爱。日前，第十届大联欢在北京、陕西两地成功举办，60多名非方青年在中国共产党历史展览馆、延安革命纪念馆等了解中国共产党伟大奋斗历程，走进全国政协了解中国社会主义协商民主，在故宫等感受中华文明底蕴，还参观高新技术企业，实地感受中国经济活力。双方青年在丰富多彩的活动中开展有深度、有温度的交流互动，有力促进心相通、情共融、力同聚。今年是中非开启外交关系70周年，也是“中非人文交流年”。我们愿同非方继续加强互学互鉴、增进相知相亲，携手推动中非现代化事业，共筑人类命运共同体。（央视新闻）",
+  "summary": "外交部表示，中非青年大联欢成功举办，双方青年交流互动，促进中非关系。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3672752.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f4deeff78945",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8739312737009069318,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "c98a1a198dad0353",
   "ts": "2026-11-26T15:38:31+08:00",
   "title": "高盛：预计沪深300明年上涨10% 上调港股至高配",
@@ -598,6 +697,31 @@
   "pushed": false,
   "sh": 261247675760239657,
   "reason": "tier=55 ent=1['高盛'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=12 op=Y spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "beb508280620693e",
+  "ts": "2026-11-26T15:38:00+08:00",
+  "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+  "title_zh": "印尼金矿洪水至少13死 救援行动加剧",
+  "body": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
+  "summary": "印尼金矿发生洪水，至少13人死亡，救援工作在困难条件下进行。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 25.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9c26026dda76",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 17662732708950086550,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
@@ -5367,16 +5491,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "rss",
-  "score": 74.2,
+  "score": 76.2,
   "level": "L2",
   "impact": "可能提振相关企业股价，需关注后续政策变化。",
   "cluster_id": "5e710882d7af",
   "sources": [
-   "中新网财经"
+   "中新网财经",
+   "新浪财经7×24"
   ],
   "pushed": true,
   "sh": 5208914533769066132,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=30 sev=8 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=30 sev=8 pct=0 op=N spread=2 burst=5",
   "engine": "primary",
   "tries": 1
  },
