@@ -576,6 +576,130 @@
   "engine": "primary"
  },
  {
+  "id": "f8661d0ef6b929c4",
+  "ts": "2026-11-26T18:28:08+08:00",
+  "title": "三星推进半导体工厂无人化，组建机器人专项团队",
+  "title_zh": "三星推进半导体工厂无人化，组建机器人专项团队",
+  "body": "三星电子设备解决方案（DS）部门在全球制造与基础设施总管之下，已经新设并启动机器人团队，任命李锡元副社长担任团队负责人。该机器人团队负责研发适配半导体工厂的机器人技术，并落地导入实际产线。据悉，三星将以该机器人团队为核心，和外部专业机器人企业合作推进技术验证与现场落地。规划路线图：年内选定合作厂商，明年开展技术评估，2028年起正式在产线投入机器人。",
+  "summary": "三星电子新设机器人团队，研发适配半导体工厂机器人技术，计划2028年投入产线。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8152621.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "半导体设备供应商或受影响",
+  "cluster_id": "99c68931c798",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6203507596793236600,
+  "reason": "tier=55 ent=1['三星'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "ab5514dfad354a9f",
+  "ts": "2026-11-26T18:26:44+08:00",
+  "title": "黄仁勋被曝辞职后曾邀请好友骑摩托横穿美国",
+  "title_zh": "黄仁勋被曝辞职后曾邀请好友骑摩托横穿美国",
+  "body": "金十数据11月26日讯，美国播客主持人莱克斯·弗里德曼（Lex Fridman）透露，在黄仁勋上周短暂离开英伟达(NVDA.O)期间，黄仁勋曾邀请他一起骑摩托车横穿美国。弗里德曼在社交媒体上发文称，黄仁勋在辞去英伟达职务后曾给他发消息，询问他是否愿意一起，一人骑一辆摩托车穿越美国。弗里德曼婉拒了这一邀请，而英伟达董事会本周早些时候已恢复黄仁勋的职务。弗里德曼写道：“我真后悔当时没有接受他的邀请。现在他又忙起来了。”他表示，尽管自己当时是以开玩笑的方式回应这一邀请，但黄仁勋很可能是认真的。除此之外，弗里德曼还力挺黄仁勋的领导能力，称他是“少数真正值得尊敬的人之一”。弗里德曼还呼应了马斯克近期对黄仁勋的声援。",
+  "summary": "黄仁勋短暂离开英伟达期间，曾邀请好友骑摩托车横穿美国。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 10.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "375633d4e345",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15851688377371126129,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "0f37c377c371125d",
+  "ts": "2026-11-26T18:26:38+08:00",
+  "title": "英国大臣正探索由国民医疗服务体系（NHS）自主开发的Palantir软件替代方案",
+  "title_zh": "",
+  "body": "英国大臣正探索由国民医疗服务体系（NHS）自主开发的Palantir软件替代方案",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3668339.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "10c9f6837449",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7102679573204643139,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "712f329ed2ae893b",
+  "ts": "2026-11-26T18:26:01+08:00",
+  "title": "申达股份：子公司涉清算责任诉讼一审被判连带清偿",
+  "title_zh": "申达股份：子公司涉清算责任诉讼一审被判连带清偿",
+  "body": "申达股份公告称，公司全资子公司上海八达纺织印染服装有限公司近日收到上海市浦东新区人民法院一审民事判决书，原告许国伟基于对已注销的八达誉缘公司的债权，提起清算义务人责任之诉。一审判令八达公司与誉缘公司对八达誉缘公司所负原告的295.73万元本金及相应利息、迟延履行债务利息、公告费560元承担连带清偿责任，案件受理费3.11万元由三方被告共同负担。目前判决尚在上诉期内未生效，对公司利润影响存在不确定性。",
+  "summary": "申达股份子公司被判决承担连带清偿责任，涉及295.73万元本金及利息。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8887923.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "子公司诉讼可能影响申达股份财务状况。",
+  "cluster_id": "c660809216df",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1254038811235939689,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "7e6b593de5356287",
+  "ts": "2026-11-26T18:25:54+08:00",
+  "title": "克来机电：股票连续5日涨停 提示交易及经营风险",
+  "title_zh": "克莱机电：股票连续5日涨停 提示交易及经营风险",
+  "body": "克来机电公告称，公司股票已连续5个交易日涨停，累计涨幅61.10%，2026年11月26日单日换手率24.76%，最新静态市盈率176.81、市净率4.37，均显著高于行业水平，股价上涨脱离基本面，存在非理性炒作及随时下跌风险。公司工业机器人相关产品2024、2025年销售占营收比重均不超1%，在手订单无显著增长，不涉及人形机器人相关产品。2026年前三季度公司归母净亏损544.91万元，扣非归母净亏损736.30万元，未来业绩存在较大不确定性。",
+  "summary": "克莱机电股票连续5日涨停，累计涨幅61.10%，提示交易及经营风险。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1374939.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "关注克莱机电及相关概念股波动。",
+  "cluster_id": "096766a6b858",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3661860363256602692,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "139a6827def78fe3",
   "ts": "2026-11-26T18:25:33+08:00",
   "title": "*ST沐邦：撤销退市风险警示 继续实施其他风险警示",
@@ -687,16 +811,42 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "克来机电股价波动受关注。",
   "cluster_id": "aec6b636ca67",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 4849323611670103744,
-  "reason": "tier=55 ent=1['上交所'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=1['上交所'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "1ab01dea109b0940",
+  "ts": "2026-11-26T18:23:25+08:00",
+  "title": "变“包袱”为资源 宁夏探寻固废循环利用新路径",
+  "title_zh": "变“包袱”为资源 宁夏探寻固废循环利用新路径",
+  "body": "中新网银川11月26日电 (杨迪 李琪梁)一边是煤矸石、粉煤灰等传统大宗工业固废持续产生，一边是光伏板、风机、动力电池组成的固废“新三样”陆续迎来退役潮，新旧固废叠加，成为宁夏绿色发展绕不开的现实考题。",
+  "summary": "宁夏面临传统和新型工业固废叠加问题，寻求循环利用新路径。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738258.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "环保板块可能受关注",
+  "cluster_id": "ce3a255ef198",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 8483657640603338223,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -737,16 +887,42 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "20b42fc6aebd",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14356098845753817577,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
+ },
+ {
+  "id": "95fdec8a621d7ed7",
+  "ts": "2026-11-26T18:22:53+08:00",
+  "title": "今年以来广州市共有39家上市公司新增披露股份回购计划",
+  "title_zh": "今年以来广州市共有39家上市公司新增披露股份回购计划",
+  "body": "中新网广州11月26日电 (记者 许青青)据广州市委金融办26日介绍，据统计，2026年以来，广州市共有39家上市公司新增披露47单40.71亿元股份回购计划，35家上市公司实施回购17.22亿元；9家上市公司新增披露16单主要股东、董事高管增持计划，合计拟增持金额5.33亿元；17家上市公司获得股票回购增持贷款25.98亿元。",
+  "summary": "广州市39家上市公司披露47单股份回购计划，35家实施，9家披露增持计划。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738254.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "可能提振市场信心，关注相关股票动态。",
+  "cluster_id": "3b10c3d2a92f",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 6196292344201216348,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "361dcf8b60e1bc01",
@@ -899,6 +1075,31 @@
   "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
+  "id": "8d1ddebf75468927",
+  "ts": "2026-11-26T18:20:05+08:00",
+  "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+  "title_zh": "肯尼亚政府因埃博拉隔离设施违宪，法院下令暂停施工",
+  "body": "Kenya s High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
+  "summary": "肯尼亚高等法院下令暂停隔离设施建设，直至与美国协议细节公开。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 18.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ae19c5ebf87d",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 6029721823722973525,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "6fc29f43616e51c3",
   "ts": "2026-11-26T18:19:20+08:00",
   "title": "*ST尔雅：公司股票可能被终止上市",
@@ -961,16 +1162,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "公司增资可能影响股价及行业板块表现。",
   "cluster_id": "aa77724d8210",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 12630576527144137730,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
