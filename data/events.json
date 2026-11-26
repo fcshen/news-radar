@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "bca6b301829ee448",
+  "ts": "2026-11-26T19:47:12+08:00",
+  "title": "摩根大通证券股份有限公司将贵州茅台评级上调至超配",
+  "title_zh": "",
+  "body": "摩根大通证券股份有限公司将贵州茅台评级上调至超配。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8207137.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f0fc8d9e1461",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8384201465232087736,
+  "reason": "tier=55 ent=1['贵州茅台'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "3749500ae457a7b2",
+  "ts": "2026-11-26T19:46:47+08:00",
+  "title": "Hong Kong clears route to ride-hailing licences for private car owners",
+  "title_zh": "香港批准私家车主申请网约车牌照",
+  "body": "Hong Kong private car owners can apply for one of 10,000 ride-hailing vehicle permits under the quota system opening early next year, with priority given to those who have passed a combined driving test, already hold a driving permit, or have owned a private car for a designated period, according to transport authorities. Commissioner for Transport Winnie Tse Wing-yee said on Thursday that applications for ride-hailing driving permits would open at 10am on Monday, November 30, with applications...",
+  "summary": "香港将于明年年初开放10,000个网约车牌照申请，优先考虑通过综合驾驶测试、持有驾照或拥有私家车一定期限的司机。",
+  "url": "https://www.scmp.com/news/hong-kong/transport/article/3375943/hong-kong-clears-route-ride-hailing-licences-private-car-owners",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 43.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ae62067776c9",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 366585982409334309,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "0debf303a6314f5c",
+  "ts": "2026-11-26T19:45:34+08:00",
+  "title": "Malaysian police close in on mastermind in air force drug-smuggling case",
+  "title_zh": "马来西亚警方接近空军毒品走私案主谋",
+  "body": "Malaysian police are closing in on the suspected ringleader of a drug-trafficking syndicate accused of using military assets to smuggle three tonnes of methamphetamine over more than two years, with a minister saying further arrests are expected “in the coming days”. Seven air force personnel were among 13 people arrested after police discovered nearly 97kg of methamphetamine on November 17 during a routine luggage check at the Subang Air Force Base, about 30km from the capital city of Kuala...",
+  "summary": "马来西亚警方调查一毒品走私团伙，涉嫌使用军事资产走私3吨甲基苯丙胺，已逮捕13人，包括7名空军人员。",
+  "url": "https://www.scmp.com/week-asia/health-environment/article/3375942/malaysian-police-close-mastermind-air-force-drug-smuggling-case",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 31.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "bf3db14cdfc4",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 370853320416035460,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "c84c25b1fb851641",
+  "ts": "2026-11-26T19:45:29+08:00",
+  "title": "11月26日《新闻联播》主要内容",
+  "title_zh": "11月26日《新闻联播》主要内容",
+  "body": "今天《新闻联播》主要内容有： 1.【新思想引领新征程】开放合作推动航天事业造福全人类； 2.李强会见亚洲开发银行行长； 3.【学习贯彻五中全会精神在基层】安徽合肥：一小区一网格一支部 基层治理解民忧 湖南邵阳：把养老服务向精细化推进； 4.我国将加快培育服务贸易发展新动能； 5.我国发布《新一代通信网建设实施方案》； 6.我国加速推进“人工智能+制造”专项行动； 7.东风着陆场准备就绪 迎接神舟二十三号飞船返回； 8.中央宣传部原副部长 原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍； 9.国内联播快讯： （1）我国首次开展省间省内绿电联合交易； （2）全国统一医保信息平台上线“连续用药管理”功能； （3）最高法最高检联合发布司法解释 依法严惩各类兴奋剂犯罪； （4）雄安卫星总装、集成与测试中心正式投入运行； （5）海太长江隧道首线成功穿越长江； （6）内蒙古呼和浩特盛乐国际机场正式通航； （7）“2026世界市长对话·乌鲁木齐”活动在新疆举行； 10.巴基斯坦各界庆祝巴中航天员携手叩问苍穹； 11.国际人士：中国航天国际合作前景广阔； 12.国际联播快讯： （1）世贸总干事高度评价中国入世25年贡献； （2）中方敦促日本尽快销毁在华遗弃化学武器； （3）沙特港口及炼油厂等遭胡塞武装袭击； （4）西班牙一岛因非法移民进入二级紧急状态。",
+  "summary": "新闻联播报道了航天合作、李强会见亚洲开发银行行长、基层治理、服务贸易发展、新一代通信网建设、人工智能制造、神舟二十三号飞船返回、蔡赴朝被开除党籍、省间绿电联合交易、医保信息平台功能上线、兴奋剂犯罪司法解释、雄安卫星中心投入运行、海太长江隧道穿越长江、内蒙古呼和浩特机场通航、世界市长对话活动、巴基斯坦庆祝航天员合作、国际人士评价中国航天合作、世贸总干事评价中国入世贡献、敦促日本销毁化学武器、沙特港口袭击、西班牙岛屿紧急状态等新闻。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8205892.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响相关行业政策及市场情绪",
+  "cluster_id": "7711938538f3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7914673708496198187,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "dd16ca16da42500e",
   "ts": "2026-11-26T19:45:14+08:00",
   "title": "宁德时代称26日回购14.8万股A股股份，耗资约2999万元",
@@ -638,16 +737,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 48.7,
-  "level": "L0",
+  "score": 50.4,
+  "level": "L1",
   "impact": "",
   "cluster_id": "00555cd2b444",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2758133410028654612,
-  "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=3"
+  "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=3"
  },
  {
   "id": "0c88a1770bf91b83",
