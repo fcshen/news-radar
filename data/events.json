@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "f2dcd63633e519a1",
+  "ts": "2026-11-26T21:43:22+08:00",
+  "title": "巴西航空工业公司首席执行官表示：征收关税会对航空公司造成不利影响，最终将导致航空公司购买飞机的成本增加，而这一成本甚至可",
+  "title_zh": "",
+  "body": "能进一步加剧通货膨胀。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8156433.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 50.4,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "a23721324eef",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11061247736143973055,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "1ed92c145289f42b",
+  "ts": "2026-11-26T21:43:17+08:00",
+  "title": "汇丰银行：股市持续疲软，黄金面临跌破下一主要支撑位（每盎司3400美元）的风险",
+  "title_zh": "",
+  "body": "汇丰银行：股市持续疲软，黄金面临跌破下一主要支撑位（每盎司3400美元）的风险。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1379969.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "93a04132c5d8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15098610399125091996,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "0f05d4ce18f5c6cc",
+  "ts": "2026-11-26T21:43:06+08:00",
+  "title": "巴西航空工业公司首席执行官：美国关税目前仍只是一项提案；我们是美国的优质合作伙伴，我们将继续强调我们的经济论点",
+  "title_zh": "巴西航空工业公司CEO：美关税提案；优质合作伙伴",
+  "body": "巴西航空工业公司首席执行官：美国关税目前仍只是一项提案；我们是美国的优质合作伙伴，我们将继续强调我们的经济论点。",
+  "summary": "巴西航空工业公司CEO称美国关税提案，强调经济合作论点。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "美巴贸易关系影响航空业，可能影响相关A股、ETF表现。",
+  "cluster_id": "81b06a3b6805",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12563590330980295555,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "1e51ed959f19ac4f",
+  "ts": "2026-11-26T21:41:48+08:00",
+  "title": "英债扩大跌幅；两年期收益率上涨8个基点至4.86%",
+  "title_zh": "",
+  "body": "英债扩大跌幅；两年期收益率上涨8个基点至4.86%。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4e68c73a1ed1",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14046928215765330236,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=2 burst=5"
+ },
+ {
   "id": "8023b45212d50085",
   "ts": "2026-11-26T21:40:39+08:00",
   "title": "两位消息人士称，欧佩克+在周日的会议上可能至少将石油产量目标维持至2027年第一季度",
@@ -588,16 +686,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "1a6ccd3146a5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 13836489909160174128,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "543ab09a81fbfac1",
@@ -744,6 +843,31 @@
   "pushed": false,
   "sh": 6274721554585556160,
   "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "e15d23d91c1328ad",
+  "ts": "2026-11-26T21:34:51+08:00",
+  "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
+  "title_zh": "‘口感最大化’：社交媒体上流行的食品趋势",
+  "body": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
+  "summary": "社交媒体上兴起‘口感最大化’食品趋势，消费者追求视觉和味觉体验。",
+  "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 33.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "62cce08cf1ef",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 3269658877826551541,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
