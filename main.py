@@ -199,7 +199,18 @@ def run_round(cfg, store, dry_run=False, verbose=True):
     # 所有新事件统一做 AI 中文摘要（智谱 glm-4-flash 免费线路，三层降级）。
     # 看板、摘要、推送共用同一份结果，避免各写各的。
     # 并发调用，避免一轮几十条串行拖垮采集节奏；并发上限保守，防止触发限流。
+    #
+    # 但中文短快讯不摘要：新浪7×24、金十这类快讯本身只有二三十字，
+    # 标题就是完整消息。再让 AI 压一遍只会丢信源（"据英国金融时报"）
+    # 和限定词（"加密货币DeFi" → "DeFi"），是净损失。
+    # 英文短消息仍要走 AI —— 那里要的是翻译，不是压缩。
+    SHORT_MSG_CHARS = 90
+
     def _summarize_one(ev):
+        is_en = ev.get("lang") == "en"
+        full_len = len(ev.get("title") or "") + len(ev.get("body") or "")
+        if not is_en and full_len < SHORT_MSG_CHARS:
+            return ev          # 中文短快讯：原文即最精确表述，跳过 AI
         title_zh, summary, impact, engine = ai_mod.summarize(ev, cfg)
         if engine and engine not in ("off",):
             ev["engine"] = engine

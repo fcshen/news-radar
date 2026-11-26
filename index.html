@@ -63,6 +63,12 @@
   .item.open .orig{-webkit-line-clamp:unset;overflow:visible}
   .sum.raw{color:#6b7280;font-style:italic}
   .sum.raw::before{content:"原文 ";font-style:normal;color:#4b5563;font-size:11px}
+  /* 摘要下方的原文：默认 2 行，点开卡片看全文，用于核对被摘要丢掉的细节 */
+  .rawbody{font-size:12.5px;color:#7b8493;margin:0 0 8px;padding-left:9px;
+           border-left:2px solid var(--line);line-height:1.55;word-break:break-word;
+           display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .item.open .rawbody{display:block;-webkit-line-clamp:unset;overflow:visible}
+  .rawbody::before{content:"原文　";color:#5c6470;font-size:11px}
   .foot{display:flex;flex-wrap:wrap;gap:7px;align-items:center;font-size:12px;color:var(--faint)}
   .badge{padding:1px 7px;border-radius:5px;background:var(--panel2);
          border:1px solid var(--line);color:var(--dim)}
@@ -178,10 +184,15 @@ function render(){
     const zh=e.title_zh||"";
     const head=zh||e.title||"";
     const orig=(zh&&e.title)?`<p class="orig">${esc(e.title)}</p>`:"";
-    const text=(e.summary||"").trim()||((e.body||"").trim()!==e.title?(e.body||"").trim():"");
+    const bodyTxt=(e.body||"").trim();
+    const hasSum=!!(e.summary||"").trim();
+    const text=hasSum?e.summary.trim():(bodyTxt!==e.title?bodyTxt:"");
     // 英文事件没有中文摘要时，正文照原文展示但要标明，别让人以为是中文摘要
-    const isRawEn=!e.summary&&e.lang==="en"&&text;
+    const isRawEn=!hasSum&&e.lang==="en"&&text;
     const sum=text?`<p class="${isRawEn?'raw':''} sum">${esc(text)}</p>`:"";
+    // 摘要下方补原文：摘要会丢信源和限定词，展开卡片时要能核对原话
+    const rawBody=(hasSum&&bodyTxt&&bodyTxt!==e.title)
+      ?`<p class="rawbody">${esc(bodyTxt)}</p>`:"";
     const imp=e.impact?`<p class="imp"><b>影响（推断）</b>　${esc(e.impact)}</p>`:"";
     const wait=(e.alts&&e.alts.length)?`<span class="badge">同组 ${e.alts.length}</span>`:"";
     const more=(e.sources&&e.sources.length>1)?`<span class="badge">${e.sources.length} 源</span>`:"";
@@ -192,7 +203,7 @@ function render(){
         <div class="dot" style="background:var(--${lv.toLowerCase()})"></div></div>
       <div class="body">
         <p class="ttl">${fresh}${esc(head)}</p>
-        ${orig}${sum}${imp}
+        ${orig}${sum}${rawBody}${imp}
         <div class="foot">
           <span class="src">${esc(e.source)}</span>
           <span class="badge t-${esc(e.tier)}">${TL[e.tier]||e.tier||"媒体"}</span>
