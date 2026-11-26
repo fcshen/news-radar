@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "36fb2c379fcee10f",
+  "ts": "2026-11-26T16:51:27+08:00",
+  "title": "巴克莱策略师认为回购将支撑欧洲股市",
+  "title_zh": "巴克莱策略师认为回购将支撑欧洲股市",
+  "body": "巴克莱策略师表示，欧洲股票回购将成为更持久的市场支撑来源，深厚的执行储备和现金支持的派息为投资者提供了缓冲，以应对更加嘈杂的股市环境。包括Emmanuel Makonga在内的团队写道，计划于2027年到期的回购计划中有71%尚未执行，这为相关交易提供了更多空间。自10月初以来，该行的欧洲回购一篮子股票跑赢斯托克600指数约130个基点，其中包括近期防御性板块轮动期间。金融板块拥有最强的企业买盘。他们补充称，挪威和葡萄牙在欧洲市场中领先，总股东回报率超过7%，而在行业层面，汽车、银行和电信排名最高。",
+  "summary": "巴克莱策略师称欧洲股票回购将成市场支撑，71%回购计划未执行。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8200519.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "欧洲股市回购可能影响全球市场情绪，间接影响相关投资产品表现。",
+  "cluster_id": "f281a7478173",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6818319100877036196,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=Y spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "aa4d735c6cd97a9a",
+  "ts": "2026-11-26T16:51:06+08:00",
+  "title": "商务部：望美中推动对等降税安排尽快落地实施",
+  "title_zh": "商务部：望美中推动对等降税安排尽快落地实施",
+  "body": "中新网11月26日电 11月26日，商务部召开11月第4次例行新闻发布会。会上，有记者提问，中美去年在吉隆坡达成的贸易共识延迟到27年一月。请问上周中美是否讨论再延迟此贸易共识，或是计划在下个月有相关讨论？一月份前预计是否会增加关税或是加强稀土出口管制？何时落实300亿降关税？",
+  "summary": "商务部表示希望中美尽快实施对等降税安排。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738193.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 62.2,
+  "level": "L1",
+  "impact": "中美贸易关系影响市场情绪，可能影响相关行业和板块表现。",
+  "cluster_id": "0741f9c93ec7",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 326780575943851309,
+  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "087c383dd8cdcf36",
+  "ts": "2026-11-26T16:50:19+08:00",
+  "title": "白银期货与ETF资金流向出现明显分化，瑞银预计今年白银市场接近供需平衡，但随着明年美国通胀放缓，银价有望逐步回升至65美",
+  "title_zh": "",
+  "body": "元。点击查看…",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236214",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 30.8,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "892df578eb49",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13336614132285448332,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "d6a51f1b48243c90",
+  "ts": "2026-11-26T16:50:02+08:00",
+  "title": "中国人民银行上海总部：10月末，长三角地区本外币各项存款余额92.89万亿元，同比增长8%",
+  "title_zh": "中国人民银行上海总部：10月末，长三角地区本外币各项存款余额92.89万亿元，同比增长8%",
+  "body": "10月末，长三角地区本外币各项存款余额92.89万亿元，同比增长8%。其中，人民币存款余额89.78万亿元，同比增长8%；外币存款余额4630亿美元，同比增长14.3%。10月，长三角地区人民币存款增加3464亿元，同比多增3059亿元。其中，住户部门存款减少3105亿元，同比少减2069亿元；非金融企业存款减少3158亿元，同比多减601亿元；财政性存款增加2278亿元，同比多增983亿元；非银行业金融机构存款增加6805亿元，同比多增1874亿元。10月，长三角地区外币存款增加63亿美元，同比少增30亿美元。",
+  "summary": "长三角地区10月末存款余额92.89万亿元，同比增长8%，人民币存款增长8%，外币存款增长14.3%",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8199372.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "存款增长或反映经济活动活跃，可能影响市场流动性预期",
+  "cluster_id": "9949cbf43799",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14122495860740782289,
+  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=12 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "a9a49bc9718e3eb5",
   "ts": "2026-11-26T16:49:34+08:00",
   "title": "国星光电：可折叠产品主要采用OLED柔性屏 公司暂不涉及OLED产品",
@@ -1779,16 +1878,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 28.2,
+  "score": 30.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "91267be88a81",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 8223750596069526547,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "6eaf92b0eb9efa28",
