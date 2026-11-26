@@ -48,6 +48,13 @@
         border:1px solid transparent;cursor:pointer}
   .item:hover{background:var(--panel)}
   .item.open{background:var(--panel)}
+  /* 从推送通知跳进来时，把目标那条高亮闪一下，方便一眼找到 */
+  .item.flash{animation:flash 2.6s ease-out 1;border-color:#3d5a8a}
+  @keyframes flash{
+    0%{background:#1b2a44;box-shadow:0 0 0 3px rgba(91,141,239,.35)}
+    70%{background:#1b2a44;box-shadow:0 0 0 3px rgba(91,141,239,.20)}
+    100%{background:var(--panel);box-shadow:0 0 0 0 rgba(91,141,239,0)}
+  }
   .rail{flex:0 0 auto;width:46px;text-align:right;padding-top:1px}
   .time{font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums}
   .dot{width:6px;height:6px;border-radius:50%;margin:6px 0 0 auto}
@@ -152,6 +159,9 @@ const TL={official:"官方",exchange:"交易所",authority:"权威媒体",media:
 const LV={L3:"强提醒",L2:"即时",L1:"摘要",L0:"归档"};
 const POLL=60000;
 let ALL=[], TOTAL=0, FILTER="rec", LAST_SEEN=Number(localStorage.getItem("lastSeen")||0);
+// 展开状态与列表分离：列表每 60 秒重建一次，靠这个集合保住已展开的卡片
+const OPEN=new Set();
+let DEEP=false;          // 推送里的 ?e=<id> 只处理一次
 
 const $=id=>document.getElementById(id);
 const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -173,6 +183,7 @@ function render(){
     list.innerHTML=ALL.length
       ? '<div class="empty">这个筛选下暂时没有内容</div>'
       : '<div class="empty"><b>还没有收到消息</b><br>采集刚启动时需要 30 秒左右<br>拉完会显示在这里</div>';
+    applyDeepLink();
     return;
   }
   list.innerHTML=rows.map(e=>{
@@ -198,7 +209,7 @@ function render(){
     const more=(e.sources&&e.sources.length>1)?`<span class="badge">${e.sources.length} 源</span>`:"";
     const link=e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener"
        onclick="event.stopPropagation()">原文 ↗</a>`:"";
-    return `<article class="item ${cls}" data-id="${esc(e.id)}">
+    return `<article class="item ${cls}${OPEN.has(e.id)?" open":""}" data-id="${esc(e.id)}">
       <div class="rail"><div class="time">${hm}</div>
         <div class="dot" style="background:var(--${lv.toLowerCase()})"></div></div>
       <div class="body">
@@ -212,6 +223,36 @@ function render(){
       </div>
     </article>`;
   }).join("");
+  applyDeepLink();
+}
+
+// 推送通知点进来时带 ?e=<id>：自动切到「全部」、展开那条并滚到屏幕中间
+// 为什么这么绕：通知里放原站链接的话，英文源（Reuters/FT）在国内常打不开；
+// 先落到看板至少一定能看到中文摘要，想看原文再点卡片里的「原文 ↗」。
+function applyDeepLink(){
+  if(DEEP) return;
+  const id=new URLSearchParams(location.search).get("e");
+  if(!id){ DEEP=true; return; }
+  if(!ALL.length) return;                  // 数据还没到，等下一次 render 再试
+  if(!ALL.some(e=>e.id===id)){ DEEP=true; return; }   // 已不在最近 300 条里，静默忽略
+  DEEP=true;
+  OPEN.add(id);
+  if(FILTER!=="all"){
+    FILTER="all";
+    document.querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",c.dataset.f==="all"));
+    render();
+  }
+  const el=document.querySelector('.item[data-id="'+CSS.escape(id)+'"]');
+  if(!el) return;
+  el.classList.add("open","flash");
+  // 直接调，不要放 requestAnimationFrame 里：页面不可见时 rAF 不执行，会一直不滚动
+  try{ el.scrollIntoView({block:"center"}); }catch(_){ el.scrollIntoView(); }
+  // 展开后高度会变（摘要/原文铺开），隔一帧再校正一次位置
+  setTimeout(()=>{
+    try{ el.scrollIntoView({block:"center",behavior:"smooth"}); }
+    catch(_){ el.scrollIntoView(); }
+  },150);
+  setTimeout(()=>el.classList.remove("flash"),2800);
 }
 
 function paintMeta(){
@@ -291,7 +332,8 @@ $("filters").addEventListener("click",e=>{
 $("list").addEventListener("click",e=>{
   if(e.target.closest("a")) return;
   const it=e.target.closest(".item"); if(!it) return;
-  it.classList.toggle("open");
+  const open=it.classList.toggle("open");
+  if(it.dataset.id){ open?OPEN.add(it.dataset.id):OPEN.delete(it.dataset.id); }
 });
 
 $("refresh").addEventListener("click",()=>load(true));

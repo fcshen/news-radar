@@ -26,6 +26,10 @@ notify:
   # 通道链：按顺序尝试，前一个失败才用下一个。改这个列表即改优先级。
   order: ["bark", "wecom", "ntfy"]
   timeout: 3                # 单通道最多等这么多秒，超时立刻换下一个
+  # 通知点开落到看板并自动展开那一条（而不是跳外媒原站）。
+  # 英文源在国内不开 VPN 常打不开，落看板至少能看到中文摘要。
+  # 留空则退回旧行为：直接打开新闻原文。
+  site: "https://fcshen.github.io/news-radar"
   bark:
     enabled: true
     url: ""                 # 形如 https://api.day.app/xxxxxxxx（真实地址放 settings.json 或环境变量 BARK_URL）

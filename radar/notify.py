@@ -11,6 +11,7 @@
 """
 import base64
 import time
+from urllib.parse import quote
 
 import requests
 
@@ -59,6 +60,26 @@ def _rfc2047(s):
 
 
 # ---------------------------------------------------------------- 消息正文
+def board_root(cfg):
+    """看板根地址（notify.site）。没配就返回空串。"""
+    site = ((cfg.get("notify") or {}).get("site") or "").strip()
+    return site.rstrip("/") + "/" if site else ""
+
+
+def board_link(cfg, ev):
+    """通知点开落到看板并展开该条，而不是直接跳外媒。
+
+    原因：英文源（Reuters/FT/日经）在国内不开 VPN 常打不开，
+    点通知一片空白等于消息白推。落看板至少能看到中文摘要，
+    要看原文再点卡片里的「原文 ↗」，多一步但一定打得通。
+    """
+    base = board_root(cfg)
+    eid = str(ev.get("id") or "").strip()
+    if base and eid:
+        return base + "?e=" + quote(eid, safe="")
+    return ev.get("url", "")
+
+
 def _text(ev):
     """正文优先用中文摘要，没有才退回原文。"""
     s = (ev.get("summary") or "").strip()
@@ -209,9 +230,10 @@ def push_event(cfg, ev, dry_run=False):
         print("\n--- [DRY-RUN 推送] ---")
         print(title)
         print(body)
-        print(f"链接：{ev.get('url', '')}")
+        print(f"点开：{board_link(cfg, ev)}")
+        print(f"原文：{ev.get('url', '')}")
         return True
-    ok, ch, detail = deliver(cfg, title, body, ev.get("url", ""), ev["level"])
+    ok, ch, detail = deliver(cfg, title, body, board_link(cfg, ev), ev["level"])
     if not ok:
         print(f"[推送失败] {detail}")
     elif ch != "bark":
@@ -232,7 +254,8 @@ def push_digest(cfg, events, dry_run=False):
         print("\n--- [DRY-RUN 摘要] ---")
         print(body)
         return True
-    ok, ch, detail = deliver(cfg, f"📋 摘要 {len(events)} 条", body, "", "L1")
+    ok, ch, detail = deliver(cfg, f"📋 摘要 {len(events)} 条", body,
+                             board_root(cfg), "L1")
     if not ok:
         print(f"[摘要失败] {detail}")
     elif ch != "bark":
