@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "8456e138ff77e3dc",
+  "ts": "2026-11-26T21:12:38+08:00",
+  "title": "我国发布全球首个高效灵活燃煤发电技术",
+  "title_zh": "我国发布全球首个高效灵活燃煤发电技术",
+  "body": "今天，我国自主研发的全球首个新型高效灵活燃煤发电技术成功发布，多项核心指标达到国际领先水平。项目是我国重大技术装备示范项目。应用这一新技术后，相较传统机组，新机组最低可降至额定负荷15%稳定运行，全程无需烧油助燃；可精准跟随电网峰谷波动，适配大规模新能源并网消纳需求。（央视新闻）",
+  "summary": "我国发布全球首个新型高效灵活燃煤发电技术，核心指标达国际领先。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1358307.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "能源板块或受技术进步影响",
+  "cluster_id": "3e7011adf33c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13775774784593964483,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "22bea7d0dd4ebcc7",
+  "ts": "2026-11-26T21:11:15+08:00",
+  "title": "宏安集团上半年收入为6900万港元",
+  "title_zh": "",
+  "body": "宏安集团上半年收入为6900万港元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8853176.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a535925a9da9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15279743774586349420,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "7041567ae232c1f4",
   "ts": "2026-11-26T21:10:30+08:00",
   "title": "菱电电控：58.43万股股权激励股份将于12月2日上市",
@@ -598,6 +647,31 @@
   "pushed": false,
   "sh": 7074787021784647267,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "cddb98c5dfc0f3c3",
+  "ts": "2026-11-26T21:08:44+08:00",
+  "title": "上海将促进专利产业化与国际化落地",
+  "title_zh": "上海将促进专利产业化与国际化落地",
+  "body": "中新网上海11月26日电 (记者 陈静)上海市知识产权局党组成员、副局长卫岚26日指出，新兴领域知识产权保护要靠制度供给跟上技术迭代。据悉，后续上海将健全新兴领域保护制度，强化跨部门与涉外知识产权保护，促进专利产业化与国际化落地。",
+  "summary": "上海市知识产权局将健全新兴领域保护制度，强化跨部门与涉外知识产权保护。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738404.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能促进创新型企业专利价值提升，影响相关板块表现。",
+  "cluster_id": "5b56f414f5a4",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 14534013008333108239,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
@@ -769,6 +843,31 @@
   "pushed": false,
   "sh": 4815134436947984282,
   "reason": "tier=55 ent=1['以色列'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "9e4f5f5cd97905fd",
+  "ts": "2026-11-26T21:07:26+08:00",
+  "title": "粤港澳大湾区首批用水器具水效标准亮相鹏城",
+  "title_zh": "粤港澳大湾区首批用水器具水效标准亮相鹏城",
+  "body": "中新网深圳11月26日电 (记者 王坚)粤港澳大湾区首批用水器具水效“湾区标准”26日在深圳举行的第三届节水产业创新发展成果展上面向公众及媒体宣传推介。",
+  "summary": "粤港澳大湾区首批用水器具水效“湾区标准”在深圳推介。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738408.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4989f8df6a3e",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 16502106887503415029,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
