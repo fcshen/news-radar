@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "655e5a769a8cfc63",
+  "ts": "2026-11-26T21:49:24+08:00",
+  "title": "标普将乌兹别克斯坦石油天然气公司评级上调至“BB”；展望稳定",
+  "title_zh": "",
+  "body": "标普将乌兹别克斯坦石油天然气公司评级上调至“BB”；展望稳定。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.6,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "636aedd0e298",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2412098597537274556,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "89ec7c57d78ad6f5",
+  "ts": "2026-11-26T21:48:37+08:00",
+  "title": "伊朗据报正在两处重要核设施之间建设一座大型加固地下综合设施，且施工速度异常迅速",
+  "title_zh": "",
+  "body": "美国智库提示存在导弹、武器系统或核用途多种可能性。点击查看...",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236236",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fb8d842a1ba4",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12710183132392747912,
+  "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "7fd0a9360b28df68",
+  "ts": "2026-11-26T21:48:10+08:00",
+  "title": "中疾控发布提示：全国流感处于中流行水平，检测阳性率上升",
+  "title_zh": "中疾控发布提示：全国流感处于中流行水平，检测阳性率上升",
+  "body": "中国疾控中心今天（11月26日）发布的11月16日—11月22日全国急性呼吸道传染病哨点监测情况显示，当前，全国流感活动整体处于中流行水平，南、北方省份流感病毒检测阳性率上升。全国检出流感阳性样本中，A（H1N1）pdm09占比65.0%、A（H3N2）占比9.7%，B（Victoria）系占比25.3%。5—14岁病例组检测阳性率高于其他年龄组。",
+  "summary": "全国流感活动处于中流行水平，阳性率上升，A（H1N1）pdm09为主。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8874381.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响医疗相关板块表现",
+  "cluster_id": "07448fa07b63",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5679083567446029617,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "4fbadea6f171926a",
+  "ts": "2026-11-26T21:47:35+08:00",
+  "title": "朱忠明主持召开经济领域工作思路座谈会",
+  "title_zh": "朱忠明主持召开经济领域工作思路座谈会",
+  "body": "上海市委副书记、市长朱忠明今天（11月26日）主持召开经济领域工作思路座谈会，深入谋划明年全市经济发展举措。朱忠明指出，要聚焦重点领域，把握关键抓手，加力形成上海经济高质量发展的有效支撑。着力扩大消费，推动商品消费扩容升级，拓展服务消费增长新空间，促进文商旅体展深度融合，打造更多服务消费新场景，吸引更多入境消费。着力提振投资，进一步挖掘工业投资潜力，谋划一批投资大、带动强、成长好的重大项目，强化基础设施投资支撑作用。着力稳住外贸，主动培育更多出口赛道，增强外贸韧性，推动外贸结构转型，不断提升贸易主体竞争力。着力培育壮大新产业，巩固提升三大先导产业竞争优势，不断壮大新兴支柱产业集群，加快建设未来产业应用场景，集聚更多行业龙头、链主企业和“独角兽”企业。着力推进新一轮改革开放举措，聚焦“五个中心”建设和重大战略载体，进一步提高对战略新兴领域国际规则的引领和建构能力。同时，要尽早做好今明两年目标衔接、项目衔接、政策衔接，为明年经济高质量发展奠定坚实工作基础。（上海发布）",
+  "summary": "上海市委副书记、市长朱忠明主持召开座谈会，讨论明年经济发展举措。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8874121.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响上海相关行业投资和外贸企业业绩预期。",
+  "cluster_id": "35a39480f1b9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5237384724901803312,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "a108ac157206acc2",
   "ts": "2026-11-26T21:47:07+08:00",
   "title": "11月25日，自8月26日澳门国际机场横琴前置货站航空打板业务“首单首飞”以来，累计完成航空打板货物超200吨",
@@ -598,6 +696,31 @@
   "pushed": false,
   "sh": 6815126458848043950,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "facd2d7c3ec56bb7",
+  "ts": "2026-11-26T21:46:41+08:00",
+  "title": "市场消息：以色列组阁牵头人埃森科特阵营的亚沙尔党与民主党达成组阁协议",
+  "title_zh": "",
+  "body": "市场消息：以色列组阁牵头人埃森科特阵营的亚沙尔党与民主党达成组阁协议。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ce8fe9a973b1",
+  "sources": [
+   "金十数据",
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10451038410840738608,
+  "reason": "tier=55 ent=1['以色列'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "24c0cf7b4d4c4b76",
@@ -809,16 +932,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "ca9b83e21569",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14324815097167626586,
-  "reason": "tier=55 ent=1['以色列'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['以色列'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "3edef17c5f09a359",
