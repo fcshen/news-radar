@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "8552d69b8f03c6e2",
+  "ts": "2026-11-26T21:25:01+08:00",
+  "title": "小米人事调整：王晓雁分管生态链部与大家电部",
+  "title_zh": "小米人事调整：王晓雁分管生态链部与大家电部",
+  "body": "小米集团发布最新人事任命，集团高级副总裁王晓雁分管生态链部、大家电部，向集团总裁卢伟冰汇报，同时继续兼任中国区总裁。任命张雷担任生态链部总经理，向王晓雁汇报；张雷同时兼任武汉区域总部总经理，向集团副总裁刘伟汇报。任命陈波担任可穿戴部总经理，向集团总裁、手机部总裁卢伟冰汇报。",
+  "summary": "小米集团调整人事，王晓雁分管生态链部、大家电部，张雷任生态链部总经理，陈波任可穿戴部总经理。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3641255.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "小米高管变动可能影响公司战略方向及执行力。",
+  "cluster_id": "4d0a0aa65695",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4136224721720306585,
+  "reason": "tier=55 ent=1['小米'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "22d67d2c1facdb32",
   "ts": "2026-11-26T21:23:06+08:00",
   "title": "王晓晖、施小琳会见中国华电集团董事长叶向东总经理徐树彪",
@@ -842,6 +867,31 @@
   ],
   "pushed": false,
   "sh": 14007844456304043128,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "51e6bd823e0b84b9",
+  "ts": "2026-11-26T21:18:38+08:00",
+  "title": "第十四届“东升杯”国际创业大赛全球总决赛在京举行",
+  "title_zh": "第十四届“东升杯”国际创业大赛全球总决赛在京举行",
+  "body": "中新网北京11月26日电 (记者 吕少威)2026东升全球创业者峰会暨第十四届“东升杯”国际创业大赛全球总决赛26日在中关村东升科技园举办。本届大赛提供价值千万的奖金奖励，面向全球征集创新项目共2038个，创参赛项目数量新高，项目团队呈现“高学历、年轻化”的鲜明特征。",
+  "summary": "第十四届“东升杯”国际创业大赛全球总决赛在中关村东升科技园举办，奖金千万，征集创新项目2038个。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738414.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b4ac2c6f2d1d",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 2528147603090852714,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
