@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "5c7048bebebaf914",
+  "ts": "2026-11-26T14:52:53+08:00",
+  "title": "百事集团投资3.1亿元启动山东生产基地二期项目",
+  "title_zh": "百事集团投资3.1亿元启动山东生产基地二期项目",
+  "body": "11月26日，百事集团宣布投资3.1亿元启动百事食品山东生产基地二期项目建设，新增现代化薯片生产线，并配套建设智能仓储、包装车间、原料储存等相关设施，进一步提升基地产能、智能制造与供应链能力。该项目预计于2027年10月建成投产，将进一步强化对华北、华东市场的服务能力。",
+  "summary": "百事集团投资3.1亿元，启动山东生产基地二期建设，新增薯片生产线及配套设施。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrf1427199.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "食品饮料行业可能受益",
+  "cluster_id": "04154a4fd93b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12602692417420282822,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "9051567a237bcde6",
+  "ts": "2026-11-26T14:52:32+08:00",
+  "title": "北纬科技上演“地天板”",
+  "title_zh": "",
+  "body": "北纬科技盘中涨停，上演“地天板”，现报11.30元，成交额23.76亿元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrh8203323.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "beeaa80cadc7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 579017739835277388,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "d07c7ad62999d9e6",
   "ts": "2026-11-26T14:51:02+08:00",
   "title": "博力威：海外换电业务增速显著提升",
@@ -588,16 +637,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "博力威业绩或受海外换电业务增长影响",
   "cluster_id": "1f42545cb956",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 9376884198978203397,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
