@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "b2654003389ffcff",
+  "ts": "2026-11-26T18:42:10+08:00",
+  "title": "新加坡航空在注资前要求加强对印度航空的监管",
+  "title_zh": "",
+  "body": "新加坡航空在注资前要求加强对印度航空的监管。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1386979.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fba5e4d13ca8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3531000956122333989,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "8e5582a5676e534a",
+  "ts": "2026-11-26T18:41:35+08:00",
+  "title": "本月十家 A 股公司被立案，七成遭跌停，波及 60 万户股东",
+  "title_zh": "本月十家A股公司被立案，七成遭跌停，波及60万户股东",
+  "body": "2026年11月，A股市场监管节奏明显加快。不到二十个交易日，就有晶华微、ST龙大、科力远、三星新材等十家公司相继公告收到证监会《立案告知书》，其中有七家在发布立案公告后遭遇过跌停，逾 60 万户股东受损。密集立案的背后，是监管部门对证券市场违法违规行为持续保持高压的明确信号，也意味着因相关公司违法行为而亏损的股民，其依法挽回损失的窗口已经同步打开。（21财经）",
+  "summary": "11月，十家A股公司被证监会立案，七成公司股价跌停，60万户股东受损。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8162975.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 65.2,
+  "level": "L1",
+  "impact": "监管加强，投资者需关注公司合规风险。",
+  "cluster_id": "50a5ead1e1b9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10480172337743076184,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=8 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "91e3165014df7173",
   "ts": "2026-11-26T18:39:00+08:00",
   "title": "国家数据局：建立人工智能企业输出的风险防控机制",
@@ -2126,16 +2175,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 49.2,
-  "level": "L0",
+  "score": 51.2,
+  "level": "L1",
   "impact": "泰晶科技股价可能受增资消息影响。",
   "cluster_id": "8cce9c80c172",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3844513188901040273,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
