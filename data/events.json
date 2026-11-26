@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "adcb10cc7e436fb8",
+  "ts": "2026-11-26T20:07:49+08:00",
+  "title": "伦锌日内涨超2.00%，现报3500.00美元/吨",
+  "title_zh": "",
+  "body": "伦锌日内涨超2.00%，现报3500.00美元/吨。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5533f751780f",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1451956392042441315,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "61ea7e5f5e685ffe",
+  "ts": "2026-11-26T20:07:25+08:00",
+  "title": "据称日本烟草公司正在研究收购帝国品牌的交易",
+  "title_zh": "",
+  "body": "据称日本烟草公司正在研究收购帝国品牌的交易。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1312434.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "15545ab29d76",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14161377610999099520,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "55ff444a1fcf275c",
+  "ts": "2026-11-26T20:06:16+08:00",
+  "title": "德国外交部长韦德菲尔：保护北约东翼是我们共同的欧洲责任",
+  "title_zh": "",
+  "body": "德国外交部长韦德菲尔：保护北约东翼是我们共同的欧洲责任。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1311770.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "877c02a66c0d",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12252898119029080963,
+  "reason": "tier=55 ent=1['北约'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
   "id": "dcad98ece4fa6036",
   "ts": "2026-11-26T20:04:59+08:00",
   "title": "精测电子：控股子公司签订近2亿元销售合同",
@@ -638,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "9c6bbc16e09e",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 4408116684098514814,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -3591,6 +3665,31 @@
   "pushed": true,
   "sh": 6163316429515280951,
   "reason": "tier=55 ent=2['华为', '三星'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "10f97d1fe59ccd56",
+  "ts": "2026-11-26T19:17:39+08:00",
+  "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+  "title_zh": "瑞士最大银行与监管机构就资本要求发生冲突",
+  "body": "Swiss regulator FINMA said UBS can execute its preferred crisis-resolution strategy, even as the bank faces a separate parliamentary fight over tougher capital requirements.",
+  "summary": "瑞士监管机构FINMA表示，尽管面临议会就更严格资本要求进行的斗争，瑞银仍可执行其危机解决方案。",
+  "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 43.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fa1674172149",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 852525206965775413,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
