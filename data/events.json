@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "845ae71c5f88079d",
+  "ts": "2026-11-27T05:38:28+08:00",
+  "title": "哥斯达黎加将基准利率从3%下调至2.75%",
+  "title_zh": "",
+  "body": "哥斯达黎加将基准利率从3%下调至2.75%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksu5657494.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3369ce59132c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13842601377322382974,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=1"
+ },
+ {
   "id": "7d0979a182f6c455",
   "ts": "2026-11-27T05:33:38+08:00",
   "title": "沙特领导的联军：拦截并摧毁了也门胡塞武装向南部地区发射的无人机",
