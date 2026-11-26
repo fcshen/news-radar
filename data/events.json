@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "9db34d9360b71c12",
+  "ts": "2026-11-26T19:31:28+08:00",
+  "title": "加密货币交易公司Auros将终止运营",
+  "title_zh": "",
+  "body": "加密货币交易公司Auros将终止运营。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3ad6057da7c7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4859998449261484347,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "5da85dd6b16dac85",
+  "ts": "2026-11-26T19:31:11+08:00",
+  "title": "航行警告：南海海域实弹射击",
+  "title_zh": "",
+  "body": "据中国海事局网站消息，湛江海事局发布航行警告，11月27日至28日，每天8时至18时，南海部分海域进行实弹射击，禁止驶入。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8195734.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "19efffc0b0da",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15173215034285532461,
+  "reason": "tier=55 ent=1['南海'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "cbf96e9b50314477",
+  "ts": "2026-11-26T19:30:22+08:00",
+  "title": "Egypt prosecutors announce arrest of man over deadly truck disaster",
+  "title_zh": "埃及检方宣布逮捕卡车事故嫌疑人",
+  "body": "Egyptian prosecutors announced on Thursday the arrest of a man accused of causing a massive fire that erupted when a fuel tanker overturned on a packed highway in Cairo, killing 31 people. The prosecution said the man had \"admitted\" to speeding when his car collided with the tanker, \"causing the steering wheel to slip from his hands and his car to veer off course\". When the car hit the truck, one of its tyres exploded, causing it to overturn, the prosecution said. The fire erupted as a result of a petrol leak, it added.",
+  "summary": "埃及检方逮捕一名涉嫌导致卡车翻车引发大火的男子，造成31人死亡。",
+  "url": "https://www.al-monitor.com/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 31.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "96820c659407",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 13399475612742063262,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "912c6c6648921033",
+  "ts": "2026-11-26T19:30:04+08:00",
+  "title": "德国拜耳集团宣布，项目将新增心血管药物生产能力，并为未来生产肿瘤药物预留空间，主要面向中国市场",
+  "title_zh": "德国拜耳集团宣布，项目将新增心血管药物生产能力，并为未来生产肿瘤药物预留空间，主要面向中国市场",
+  "body": "德国拜耳集团宣布，项目将新增心血管药物生产能力，并为未来生产肿瘤药物预留空间，主要面向中国市场。",
+  "summary": "拜耳集团将增心血管药物产能，预留肿瘤药物生产空间，面向中国市场。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "拜耳集团产能扩张可能影响相关药物产业链公司。",
+  "cluster_id": "0ea9ebffa8da",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13877094151590527636,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "77735ab695c55c00",
   "ts": "2026-11-26T19:29:02+08:00",
   "title": "中国神华发售1.77亿股，发售价区间为每股38至39港元",
@@ -685,16 +783,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "理财公司评级或影响其产品风险等级，进而影响投资者选择。",
   "cluster_id": "63055eaddb0f",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 7284478551815337680,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -845,6 +944,56 @@
   "sh": 9660390107201147934,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=1 conv=0 combo=32 rel=35 sev=0 pct=0 op=N spread=2 burst=3",
   "tries": 1
+ },
+ {
+  "id": "4b98ea57e7c87633",
+  "ts": "2026-11-26T19:23:29+08:00",
+  "title": "Iraq denies reports of troop movements towards Kurdish region",
+  "title_zh": "伊拉克否认向库尔德地区派遣部队报道",
+  "body": "Government says there is no truth to media reports that Iraqi army units were moving towards the Kurdistan region.",
+  "summary": "伊拉克政府否认媒体报道称伊拉克军队向库尔德地区调动部队。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 37.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c2e26e98f55a",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 11295527376374409261,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "679b0e420c3bc2a2",
+  "ts": "2026-11-26T19:22:59+08:00",
+  "title": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+  "title_zh": "开罗吉萨高速公路爆炸：埃及道路和铁路有多危险？",
+  "body": "Egypt has suffered another tragedy as a deadly road explosion kills 31 and injures dozens.",
+  "summary": "埃及吉萨高速公路发生爆炸，造成31人死亡，多人受伤。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "097e6116599b",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 4793457432567557123,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "7fb4f0c7c0a75652",
@@ -1240,6 +1389,31 @@
   "pushed": false,
   "sh": 2963748095038718300,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "735a94e0522caa42",
+  "ts": "2026-11-26T19:16:03+08:00",
+  "title": "‘Proscribing free speech’: Why a Jewish group is challenging UK’s Hamas ban",
+  "title_zh": "英国哈马斯禁令引犹太团体挑战：言论自由受压",
+  "body": "The Jewish Network for Palestine says the complete ban on Hamas was being used to stifle free speech.",
+  "summary": "犹太网络为巴勒斯坦挑战英国对哈马斯的全面禁令，称其为压制言论自由。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "a9abf1007072",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 14575744812345975784,
+  "reason": "tier=55 ent=1['hamas'] pred=1 conv=0 combo=26 rel=7 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -1814,6 +1988,32 @@
   "sh": 6235105055824030280,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
   "engine": "primary"
+ },
+ {
+  "id": "717461415cc1bef5",
+  "ts": "2026-11-26T19:07:30+08:00",
+  "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+  "title_zh": "特朗普关税旨在确保美国友好贸易协议？",
+  "body": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
+  "summary": "美国新政策威胁对中国、印度、越南进一步加征关税，若贸易谈判失败。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 75.2,
+  "level": "L2",
+  "impact": "可能影响相关国家出口企业，进而影响相关股票和期货表现。",
+  "cluster_id": "2a6cd2b830e5",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": true,
+  "sh": 3083225968985823757,
+  "reason": "tier=55 ent=1['trump'] pred=1 conv=0 combo=26 rel=27 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "4d7f31872bd903f9",
