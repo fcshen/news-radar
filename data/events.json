@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "4ed70c7df6476427",
+  "ts": "2026-11-26T20:49:23+08:00",
+  "title": "埃及吉萨省车祸已致31死 一名嫌疑人被抓获",
+  "title_zh": "埃及吉萨省车祸已致31死 一名嫌疑人被抓获",
+  "body": "埃及检察机关26日发表声明说，已抓获一名涉嫌引发25日吉萨省环城公路车祸事故的嫌疑人。该事故造成31人死亡。声明说，据该嫌疑人供述，事发时他驾驶车辆沿环城公路行驶。他在行驶过程中不断变换车道并超越其他车辆，所驾驶车辆的左前部与一辆运载石油制品的卡车右后部发生碰撞，造成卡车的一个轮胎爆裂。卡车随后撞上混凝土护栏并发生侧翻，所载石油制品泄漏并最终引发火灾。（央视新闻）",
+  "summary": "埃及吉萨省发生车祸，31人死亡，嫌疑人被捕。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1342737.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6e41a559594f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 240996612777096985,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "1eba4397ee059a52",
+  "ts": "2026-11-26T20:48:13+08:00",
+  "title": "水利部相关负责人就《关于推进安全大坝、生态大坝、智能大坝建设的指导意见》答记者问",
+  "title_zh": "水利部相关负责人就《关于推进安全大坝、生态大坝、智能大坝建设的指导意见》答记者问",
+  "body": "问：如何推进“三个大坝”建设试点？ 答：水利部已选取三峡、小浪底、安徽佛子岭等16座开展“三个大坝”建设试点，覆盖不同年代、不同坝型、不同区域、不同行业，涉及10个省份、4个水利部直属单位和部分中央企业。 在时间安排上，用2年时间完成试点建设，2027年年底前完成试点工作总结，水利部组织开展试点总结评估。目前各试点单位正有序推进各项工作。在工作机制上，水利部建立了试点建设督促指导工作机制；在工作要求上，各试点单位要“一库一策”编制实施方案，逐项明确安全、生态、智能三方面重点建设任务、量化指标、实现路径、责任主体和完成时限；在成果应用上，试点建设的目标是培育一批可复制、可推广的技术方案和管理模式，为全国面上推开提供样板。 2027年底前完成试点建设后，水利部将总结试点经验，2030年底前在全国建成一批“三个大坝”，持续提升水库大坝现代化建设运行管理水平。（新华社）",
+  "summary": "水利部选取16座大坝试点“三个大坝”建设，2年完成试点，2030年底前全国推广。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8840663.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "水利建设相关板块可能受益",
+  "cluster_id": "d1f2c043a01a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10434190102501651532,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "1e1fa4a57b90bbbf",
   "ts": "2026-11-26T20:46:59+08:00",
   "title": "荷兰官员抨击美国嫉妒阿斯麦 称美国不是老板",
@@ -749,6 +799,31 @@
   "engine": "primary"
  },
  {
+  "id": "145c8091dfaff0c1",
+  "ts": "2026-11-26T20:42:40+08:00",
+  "title": "浪潮信息：因市场需求旺盛，近期存货增长是行业普遍现象",
+  "title_zh": "浪潮信息：因市场需求旺盛，近期存货增长是行业普遍现象",
+  "body": "有投资者在互动平台向浪潮信息（000977.SZ）提问，读到半年报存货大幅增长、经营现金流为负，想请教四点：1、存货结构如何拆分？原材料（GPU等芯片）、在产品、库存商品、发出商品各占多少？2、新增备货中有多少已锁定订单、多少属于预判性备货？3、芯片迭代快，现有库龄分布如何，跌价准备是否计提充分？若客户转向国产整机，是否存在减值风险？4、存货占用资金较大，是否有去库存、加快周转的安排？11月26日，公司回答表示，投资者您好，因市场需求旺盛，近期存货增长是行业普遍现象。",
+  "summary": "浪潮信息回应半年报存货大幅增长，称市场需求旺盛，存货增长为行业普遍现象。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8114136.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "芯片行业需求旺盛或影响相关ETF表现。",
+  "cluster_id": "1505b8e16885",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14293843322289239245,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "8ec5f7dec4c1c8cf",
   "ts": "2026-11-26T20:42:26+08:00",
   "title": "欧洲央行会议纪要：欧洲央行官员一致认为政策方向是明确的",
@@ -771,6 +846,31 @@
   "pushed": false,
   "sh": 2960372473269362604,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "95931abd57f7c3ad",
+  "ts": "2026-11-26T20:41:45+08:00",
+  "title": "渣打旗下加密资产托管公司发生数据泄露",
+  "title_zh": "渣打旗下加密资产托管公司发生数据泄露",
+  "body": "渣打集团旗下加密资产托管子公司Zodia Custody Ltd.表示，公司发生安全事件，导致部分客户和员工信息泄露。Zodia Custody首席执行官Richard Clark在声明中表示，未经授权的一方入侵公司平台，并能够访问“有限的客户信息，包括可公开获取的机构资料，以及少数客户和员工的业务联系人姓名和电子邮件地址”。",
+  "summary": "渣打集团旗下加密资产托管子公司Zodia Custody Ltd.发生数据泄露，部分客户和员工信息被未经授权方访问。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8113507.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "加密资产安全担忧或影响市场情绪",
+  "cluster_id": "baf357a9f90e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4850556932813030235,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "02382236bd07ebce",
@@ -1031,16 +1131,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "5ce16164b839",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 7221018551006241493,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "e8bd42206f36f871",
