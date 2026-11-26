@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "894ab19c44eb1e0b",
+  "ts": "2026-11-26T20:57:33+08:00",
+  "title": "启境汽车发布全新品牌LOGO",
+  "title_zh": "",
+  "body": "11月26日，启境汽车发布全新品牌LOGO标识。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3625325.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0ca4de5b78ca",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9295588424496008739,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "5a51c32da4174054",
+  "ts": "2026-11-26T20:56:46+08:00",
+  "title": "王虹再获重磅国际大奖 是第二位获得索菲·热尔曼奖的中国人",
+  "title_zh": "王虹获索菲·热尔曼奖",
+  "body": "11月25日，法国高等科学研究所（IHES）官网发布消息：IHES常任教授、美国纽约大学库朗研究所西尔弗讲席教授王虹近日获颁2026年度索菲·热尔曼奖。该奖项于2003年设立，每年经法国科学院推荐颁发，旨在表彰在基础研究领域作出杰出贡献的数学家。2017年，时为巴黎第七大学的数学系教授麻小南获得该奖，成为首位获得该奖项的中国科学家。 （中国科学报）",
+  "summary": "法国高等科学研究所教授王虹获2026年度索菲·热尔曼奖，成为第二位获此奖的中国人。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8123632.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "981573c70c44",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14013814337627632033,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "e3577165b1838aeb",
   "ts": "2026-11-26T20:56:04+08:00",
   "title": "荷兰将支持欧盟就欧洲央行执委会职位达成共识",
@@ -598,6 +647,31 @@
   "pushed": false,
   "sh": 297018144724153284,
   "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "b9c161d122695164",
+  "ts": "2026-11-26T20:55:58+08:00",
+  "title": "上海二手房网签成交已超去年 市场呈现“量企稳、价分层”格局",
+  "title_zh": "上海二手房网签成交已超去年 市场呈现“量企稳、价分层”格局",
+  "body": "近期上海二手房市场成交热度持续走高。据网上房地产统计数据，截至11月25日，上海11月二手房整体网签套数（含住宅、商办、车位）达21485套，已经超过9月、10月同期前25天19910套、19035套的成交水平，打破传统“金九银十”同期成交记录。上海中原地产分析师卢文曦表示，当前市场仍处在“以价换量”的主线逻辑之中，成交放量的背后，是业主主动调价促成交易。从价格指标来看，中原地产报价指数仍在低位盘整，较年初小幅回落；截至10月二手房价格指数同比持平，尚未进入全面上涨通道。例如中远两湾城，今年成交房源套均总价多在700余万元，对比2022年、2023年千万级的成交水平，仍有一定折价幅度，价格调整成为撬动成交的核心因素。（新华财经）",
+  "summary": "上海11月二手房网签套数超过去年同期，价格指数同比持平。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8844541.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "市场交易活跃度提升，或影响相关房地产板块表现。",
+  "cluster_id": "70ceca96ff9b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2885837146904725377,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "19ea7d42aecde580",
@@ -820,6 +894,31 @@
   "pushed": false,
   "sh": 7921719347426093674,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "7869001db13a1398",
+  "ts": "2026-11-26T20:51:27+08:00",
+  "title": "NASA撞击小行星四年后，最新探测揭示小行星防御测试效果",
+  "title_zh": "NASA撞击小行星四年后，最新探测揭示小行星防御测试效果",
+  "body": "当地时间11月25日，欧洲空间局（ESA）在柏林自然历史博物馆的恐龙展厅举行新闻发布会，公布了欧洲首个行星防御探测器“赫拉”（Hera）传回的首批近距离观测图像。“赫拉”于2024年10月发射升空，携带高分辨率相机和光谱仪等设备，主要任务是探测DART留在“双形态”小行星表面的撞击效果。据美国有线电视新闻网（CNN）报道，图像显示，DART在“迪莫弗斯”上撞出一个体育场大小的撞击坑，使其一个圆润表面被压平。此外，科学家还意外发现小行星周围环绕着大量巨石。（澎湃）",
+  "summary": "欧洲空间局发布“赫拉”探测器观测图像，显示DART撞击小行星后形成撞击坑及巨石环绕。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8842581.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "dbc0ef5b9417",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8488803068401712562,
+  "reason": "与市场无关",
   "engine": "primary"
  },
  {
@@ -6449,6 +6548,31 @@
   "pushed": false,
   "sh": 13204451455974091396,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "ccd2742cd9beb32c",
+  "ts": "2026-11-26T19:12:25+08:00",
+  "title": "Turkey’s defense chief heads to US in F-35 push ahead of new Congress",
+  "title_zh": "土耳其国防部长访问美国推动F-35项目",
+  "body": "The Turkish defense chief’s visit comes as Ankara races to resolve the dispute over the jets and to secure the lifting of US military sanctions before Democrats take over Congress.",
+  "summary": "土耳其国防部长访问美国，旨在解决F-35争议并争取解除美国军事制裁。",
+  "url": "https://www.al-monitor.com/originals/2026/11/turkeys-defense-chief-heads-us-f-35-push-ahead-new-congress",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 68.0,
+  "level": "L1",
+  "impact": "可能影响军工板块及相关ETF表现。",
+  "cluster_id": "dc2730e32d61",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 845503385197873236,
+  "reason": "tier=80 ent=2['congress', 'turkey'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
