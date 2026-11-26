@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "85ed01f43c390efb",
+  "ts": "2026-11-26T21:17:03+08:00",
+  "title": "巴西基准股票指数圣保罗证交所指数上涨约3%",
+  "title_zh": "",
+  "body": "巴西基准股票指数圣保罗证交所指数上涨约3%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3636450.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9af00adddb85",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11108058828607546076,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e29f2c23c6a5b0dd",
+  "ts": "2026-11-26T21:16:30+08:00",
+  "title": "长园集团：证券虚假陈述责任纠纷案被发回重审",
+  "title_zh": "长园集团：证券虚假陈述责任纠纷案被发回重审",
+  "body": "长园集团公告称，山东至博诉公司证券虚假陈述责任纠纷二审获广东省高院裁定：撤销深圳中院一审判决，本案发回深圳中院重审。该案一审曾判令公司向山东至博支付赔偿款3.45亿元，公司已按一审判决支付该款项，目前将与山东至博协商处理已付赔偿款。本案处于发回重审阶段，公司暂无法准确判断对当期损益的影响金额。",
+  "summary": "长园集团证券虚假陈述案二审被撤销，发回重审。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1360835.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "公司面临赔偿风险，可能影响股价。",
+  "cluster_id": "c382b4b12b0a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11070418672089511621,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "cbe9af32b78fa43e",
   "ts": "2026-11-26T21:15:01+08:00",
   "title": "官方表示，英国和欧盟尚未就退出新协议的违约金达成一致",
@@ -598,6 +647,30 @@
   "pushed": false,
   "sh": 16472682523153173768,
   "reason": "tier=55 ent=1['欧盟'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "0ec3f1ca7cac3191",
+  "ts": "2026-11-26T21:14:15+08:00",
+  "title": "黄金多头死守3514，反击从现在开始？多空即将展开拉锯战",
+  "title_zh": "",
+  "body": "金十研究员Steven正在直播，立即观看>>",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cffef3cbcb0a",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11641792411527067647,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "8456e138ff77e3dc",
