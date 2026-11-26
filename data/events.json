@@ -576,6 +576,106 @@
   "engine": "primary"
  },
  {
+  "id": "f7df7f5412a4df96",
+  "ts": "2026-11-26T15:52:46+08:00",
+  "title": "首创期货：跌停潮后弱势延续，碳酸锂远月再跌逾3%，逼近8万",
+  "title_zh": "首创期货：跌停潮后弱势延续，碳酸锂远月再跌逾3%，逼近8万",
+  "body": "昨日碳酸锂主力2701合约暴跌8.08% 收报82620元 / 吨、创年内新低，今日盘面延续弱势，LC2706合约午间报80520元 / 吨、跌3.10%，盘中最低触及80520元；叠加今日氢氧化锂期货上市首日大跌6.56%，锂盐板块悲观情绪持续发酵，现货价格跟盘偏弱、下游以刚需采购为主。供应端宽松压力未减，数据显示本周碳酸锂周度产量环比增加340吨、重回增长，锂辉石到厂后盐厂产量爬升，头部云母矿山复产带动一体化产能释放，Mysteel预计11月国内碳酸锂产量约12.18万吨、环比增3.5%，江西枧下窝复产预期仍在发酵。需求端利空集中：12月电池排产环比大降17.6% 至266GWh，欧盟对中国电动车实行配额制、混动首年配额仅35万辆，下调明年出口动力需求预期。综合来看，供应增量与需求转弱共振，碳酸锂中期宽松格局未改，短期超跌后8万关口或有实货承接，但反弹动力不足，不排除在供应持续增长，需求走弱下，进一步下跌的可能。（首创期货）",
+  "summary": "碳酸锂期货价格下跌，供应增加，需求减弱。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8146760.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "锂盐板块相关股票或期货可能承压。",
+  "cluster_id": "bf97a293b6fd",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9962490211356902677,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=4 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "ef9d10172e5acc95",
+  "ts": "2026-11-26T15:52:35+08:00",
+  "title": "马来西亚国家石油和能源商会：敦促马来西亚政府对美国的调查结果提出异议，以最大程度地减少进一步的关税风险",
+  "title_zh": "马来西亚国家石油和能源商会：敦促马来西亚政府对美国的调查结果提出异议，以最大程度地减少进一步的关税风险",
+  "body": "马来西亚国家石油和能源商会：敦促马来西亚政府对美国的调查结果提出异议，以最大程度地减少进一步的关税风险。",
+  "summary": "马来西亚国家石油和能源商会敦促政府异议美国调查结果。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaawz8903799.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 66.2,
+  "level": "L1",
+  "impact": "可能影响马来西亚与美国贸易关系，需关注相关行业动态。",
+  "cluster_id": "647bd83ae966",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12303915012866139788,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=15 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "a504d3fc69390641",
+  "ts": "2026-11-26T15:52:19+08:00",
+  "title": "歼20A运20B将首次亮相中国航展",
+  "title_zh": "歼20A运20B将首次亮相中国航展",
+  "body": "空军33型主战装备参加中国航展， 歼-35A、歼-20A、歼-16、运-20B、运油-20A等多型国产主战装备将分别进行空中飞行展示。静态展示方面，空军将首次展出我国自主研制的新一代军用大型运输机运-20B、新一代预警雷达等装备。航展现场，将开放展示运-20B飞机货舱、设置模拟飞行体验项目、组织空军军乐团展演巡演。（央视军事）",
+  "summary": "歼-20A、运-20B等国产主战装备将亮相中国航展，包括空中飞行和静态展示。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1369833.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "可能引发军工板块关注",
+  "cluster_id": "42c2fe9d3b9b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 77075270289702636,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "192dad50efe6df5a",
+  "ts": "2026-11-26T15:51:54+08:00",
+  "title": "空军试飞员群体代表将亮相中国航展",
+  "title_zh": "空军试飞员群体将亮相中国航展",
+  "body": "中国航展创办三十周年，多国空军领导及代表将参加空军举办的军事飞行训练国际交流会议、无人智能主题论坛，空军部队先进典型代表、试飞员群体代表也将亮相航展与公众见面，多维度展现新时代空军官兵矢志空天、自信开放的昂扬风貌。（央视军事）",
+  "summary": "中国航展三十周年，多国空军代表及试飞员将出席，展现空军风貌。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8145830.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "可能引发军工板块关注",
+  "cluster_id": "f8d018cc6346",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14238342649984696041,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "ffc54d990cf5dc50",
   "ts": "2026-11-26T15:50:31+08:00",
   "title": "马来西亚制造业联合会促请美国重新评估拟议关税，表示美国关税可能侵蚀利润率并削弱出口竞争力",
@@ -598,6 +698,30 @@
   "pushed": false,
   "sh": 4133248379324179444,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "0361e209bbae7710",
+  "ts": "2026-11-26T15:50:27+08:00",
+  "title": "强瑞技术(301128)：强瑞技术：关于公司向金融机构申请综合授信额度的进展公告",
+  "title_zh": "",
+  "body": "强瑞技术(301128)：强瑞技术：关于公司向金融机构申请综合授信额度的进展公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/ec6cdbae-a82f-4dc0-bc78-54761b28b37c.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "97ab57862001",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 12126277916373385132,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "08e9da6a412111fa",
@@ -687,16 +811,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "边境稳定或对相关板块情绪正面影响。",
   "cluster_id": "2b1f2c5ae8f9",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2380225408945644053,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -762,16 +887,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "两岸关系紧张可能影响军工板块表现。",
   "cluster_id": "d1869c33ff25",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2477072805425241485,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -861,16 +987,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 60.2,
+  "score": 62.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "d4cc2dc34a39",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 9806817035674527845,
-  "reason": "tier=55 ent=1['三星'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['三星'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "2e8796c288f74fbb",
@@ -1115,6 +1242,31 @@
   "pushed": false,
   "sh": 2424018799810747233,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "c02e0c7ebc9d8750",
+  "ts": "2026-11-26T15:44:44+08:00",
+  "title": "宜涪高铁重庆段首座桥梁贯通",
+  "title_zh": "宜涪高铁重庆段首座桥梁贯通",
+  "body": "中新网重庆11月26日电 (张旭)长江沿岸铁路集团重庆有限公司26日发布消息称，当日，随着最后一方混凝土浇筑完成，由中铁一局承建的宜昌至涪陵高铁(以下简称“宜涪高铁”)重庆段桐木村大桥实现全桥贯通。该桥是宜涪高铁重庆段首座贯通的桥梁，为全线按期通车奠定了坚实基础。",
+  "summary": "宜涪高铁重庆段桐木村大桥实现全桥贯通，为全线通车奠定基础。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738120.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "高铁建设进展可能影响相关基础设施建设类股票表现。",
+  "cluster_id": "da25a4726107",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 10852555275513989651,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
@@ -3955,6 +4107,31 @@
   "pushed": false,
   "sh": 16404698567599604129,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "ea03daf4b2d472fc",
+  "ts": "2026-11-26T15:00:18+08:00",
+  "title": "Reopened China-Mongolia-Russia railway expected to boost cross-border trade and tourism",
+  "title_zh": "中国-蒙古-俄罗斯铁路恢复运营，预计提振跨境贸易和旅游",
+  "body": "After a six-year hiatus, a direct China-Mongolia-Russia passenger railway service reopened this week in a move expected to boost trade and tourism among the three countries. The first international passenger train to traverse the 2,666km (1,657-mile) route since 2020 left from Beijing Railway Station on Wednesday. Round trips would be offered on a weekly basis, according to China State Railway Group. Trips between Beijing and the eastern Siberian industrial city Irkutsk, which is at the end of...",
+  "summary": "中国-蒙古-俄罗斯铁路恢复客运服务，首趟列车已从北京出发。",
+  "url": "https://www.scmp.com/economy/china-economy/article/3375880/reopened-china-mongolia-russia-railway-expected-boost-cross-border-trade-and-tourism",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 51.0,
+  "level": "L1",
+  "impact": "可能促进边境地区经济合作，影响相关行业表现。",
+  "cluster_id": "c30531833f55",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 934314379131225460,
+  "reason": "tier=80 ent=1['russia'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
@@ -7058,16 +7235,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "6add6d920038",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14924775857603243244,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "7c207238ab7f46cc",
