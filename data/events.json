@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "a27e77dc047b0b51",
+  "ts": "2026-11-27T06:37:58+08:00",
+  "title": "市场消息：韩国正考虑扩大股市稳定基金规模",
+  "title_zh": "",
+  "body": "市场消息：韩国正考虑扩大股市稳定基金规模。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkackst3352950.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9d38f3f6c81a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1963620480084802105,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "59ed359deff3c3b3",
+  "ts": "2026-11-27T06:37:27+08:00",
+  "title": "今年前10个月 中国进出口银行科技贷款投放超7000亿元",
+  "title_zh": "今年前10个月 中国进出口银行科技贷款投放超7000亿元",
+  "body": "今年前10个月，中国进出口银行聚焦科技创新重大项目长周期、大规模资金需求，累计投放科技贷款超7000亿元，支持企业超2600家，重点投向关键核心技术攻关、基础研究和转化应用等领域。",
+  "summary": "中国进出口银行前10月投放科技贷款超7000亿元，支持2600家企业。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "可能刺激相关科技板块表现",
+  "cluster_id": "bcccfd482fda",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8186352163539677009,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "2a724137b60fe9bc",
   "ts": "2026-11-27T06:35:40+08:00",
   "title": "特朗普被指单方面修改北约联合声明 俄乌停战责任再起争议",
@@ -3031,16 +3080,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 48.2,
-  "level": "L0",
+  "score": 50.2,
+  "level": "L1",
   "impact": "",
   "cluster_id": "f1e8b03ad1c4",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 5344424862452418751,
-  "reason": "tier=55 ent=2['以色列', '真主党'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=2['以色列', '真主党'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "2a0c7e7a9eaadc05",
