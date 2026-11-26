@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "c240ede10c94a889",
+  "ts": "2026-11-26T18:15:37+08:00",
+  "title": "北斗星通：拟对控股子公司真点科技增资暨关联交易",
+  "title_zh": "北斗星通：拟对控股子公司真点科技增资暨关联交易",
+  "body": "北斗星通公告称，公司控股子公司真点科技现有全体股东拟合计增资2.00亿元，其中公司拟增资1.69亿元。本次增资完成后，真点科技注册资本将由2.61亿元增至3.48亿元，公司持股比例由79.8336%提升至80.9375%。因公司实控人周儒欣为增资方海南云芯主要出资人，董事兼副总经理黄磊任增资方真点智汇执行事务合伙人，本次交易构成关联交易，已经公司董事会审议通过，增资协议尚未签署。",
+  "summary": "北斗星通拟对控股子公司真点科技增资2亿元，公司持股比例提升。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8879962.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "子公司增资可能影响公司业绩预期。",
+  "cluster_id": "617e3ee41054",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3852705272413115710,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "ab0a05af837b2f95",
+  "ts": "2026-11-26T18:15:21+08:00",
+  "title": "苏奥传感：中创新航受让股份获控制权 持续督导期合规",
+  "title_zh": "苏奥传感：中创新航受让股份获控制权 持续督导期合规",
+  "body": "苏奥传感公告称，国联民生证券出具中创新航权益变动持续督导总结报告。2025年10月，中创新航受让李宏庆所持8762.04万股公司股份（占总股本10.94%）完成过户，李宏庆放弃1.40亿股表决权，公司控股股东变更为中创新航，无实控人。2026年10月1日至11月21日督导期内，中创新航严格履行股份锁定、保持独立性等公开承诺，公司规范运作，未发生主营业务调整、重大资产重组，相关权益变动程序合法合规。",
+  "summary": "中创新航受让苏奥传感股份，成为控股股东，持续督导期合规。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3659615.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 13.6,
+  "level": "L0",
+  "impact": "可能影响苏奥传感股价及投资者情绪。",
+  "cluster_id": "b5bae80b0f9f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8152783260364339044,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "4f6d0d65db21ae26",
   "ts": "2026-11-26T18:13:30+08:00",
   "title": "中国人民银行行长潘功胜会见汇丰集团行政总裁艾桥智",
@@ -588,16 +638,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "可能影响外资银行在华业务及人民币国际化进程。",
   "cluster_id": "3f92332d7cbc",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 17408490547730188485,
-  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -623,6 +674,55 @@
   "pushed": false,
   "sh": 8296233983607084960,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "3fa0f358c792dc95",
+  "ts": "2026-11-26T18:12:27+08:00",
+  "title": "苏奥传感(300507)：苏奥传感：国联民生证券承销保荐有限公司关于江苏奥力威传感高科股份有限公司详式权益变动报告书之持续督导意见暨持续督导总结报告",
+  "title_zh": "苏奥传感(300507)：苏奥传感：国联民生证券承销保荐有限公司关于江苏奥力威传感高科股份有限公司详式权益变动报告书之持续督导意见暨持续督导总结报告",
+  "body": "苏奥传感(300507)：苏奥传感：国联民生证券承销保荐有限公司关于江苏奥力威传感高科股份有限公司详式权益变动报告书之持续督导意见暨持续督导总结报告",
+  "summary": "国联民生证券对苏奥传感详式权益变动报告书进行持续督导并发布总结报告。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/8138c205-bcfe-47c9-afbc-d3431a74f823.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "可能影响公司股权结构和市场预期。",
+  "cluster_id": "b5febfe4269d",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 11859648676354903783,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "f7f36ab95ec5fbe9",
+  "ts": "2026-11-26T18:12:27+08:00",
+  "title": "英搏尔(300681)：英搏尔：关于拟以竞价方式参与增资项目暨对外投资的公告",
+  "title_zh": "",
+  "body": "英搏尔(300681)：英搏尔：关于拟以竞价方式参与增资项目暨对外投资的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/052c75b9-0850-4374-8d8b-17404ad7a946.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "552ebb603c77",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 3155228969523789018,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "c513acb35ca55098",
