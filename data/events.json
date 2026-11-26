@@ -576,6 +576,57 @@
   "engine": "primary"
  },
  {
+  "id": "420af816bea2226c",
+  "ts": "2026-11-26T15:10:13+08:00",
+  "title": "商务部：坚决反对美对中国等经济体加征301关税",
+  "title_zh": "商务部：坚决反对美对中国等经济体加征301关税",
+  "body": "针对美国贸易代表办公室日前宣布“产能过剩”301调查结果，发布拟议措施，提出对包括中国在内的14个经济体加征301关税，商务部新闻发言人何亚东在26日举行的例行新闻发布会上表示，美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重违反世贸组织规则，中方对此坚决反对。中方敦促美方纠正错误做法，回到通过对话协商解决问题的正确轨道上来。中方将密切关注事态进展，保留采取必要措施的权利，坚决捍卫自身正当权益。(新华社)",
+  "summary": "商务部反对美对14经济体加征301关税，敦促美方纠正错误。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrm3774734.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 80.2,
+  "level": "L2",
+  "impact": "可能影响中美贸易关系，需关注相关行业及汇率波动。",
+  "cluster_id": "5e1d1f9e347c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 1513132989412075400,
+  "reason": "tier=55 ent=1['商务部'] pred=2 conv=0 combo=31 rel=21 sev=8 pct=0 op=N spread=0 burst=1",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
+  "id": "80817eb9c889e070",
+  "ts": "2026-11-26T15:08:37+08:00",
+  "title": "法国电力预计新核电融资规定将释放数十亿欧元资金",
+  "title_zh": "法国电力预计新核电融资规定将释放数十亿欧元资金",
+  "body": "媒体援引法国电力内部匿名消息人士报道，11月中旬法国政府发布一项核电融资相关新法令后，法国电力预计可额外腾出数十亿欧元资金。该法令将用于保障未来核设施退役资金的覆盖率门槛由120%下调至100%，法国核电运营企业可重新调配此前预留的专项资产。媒体援引惠誉评级分析师曼努埃尔·佩雷拉的数据，截至6月末，法国电力专项资产对核电准备金的覆盖率为112.6%，较新规要求多出40亿至50亿欧元。法国电力代表暂未回应置评请求。",
+  "summary": "法国电力预计将因新核电融资规定释放数十亿欧元资金。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrm3773071.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "可能影响法国电力股价及核电板块表现。",
+  "cluster_id": "9cc05429469b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6274229380597098652,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "acb8c9ef7013041c",
   "ts": "2026-11-26T15:07:50+08:00",
   "title": "中国驻巴布亚新几内亚使馆：再次提醒中国公民和机构遵守当地法律，加强安全防范，安全合规经营",
@@ -1260,17 +1311,18 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 53.2,
+  "score": 55.2,
   "level": "L1",
   "impact": "或影响能源相关板块及油价敏感行业股价。",
   "cluster_id": "87a186890e7c",
   "sources": [
    "新浪财经7×24",
-   "金十数据"
+   "金十数据",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 680496883441436854,
-  "reason": "tier=55 ent=1['发改委'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5",
+  "reason": "tier=55 ent=1['发改委'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=4 burst=5",
   "engine": "primary"
  },
  {
