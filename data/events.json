@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "7af6be6083cd9ae8",
+  "ts": "2026-11-26T21:37:21+08:00",
+  "title": "巴西财政部长杜里甘：与总统卢拉讨论的额外措施符合支出控制方向",
+  "title_zh": "",
+  "body": "巴西财政部长杜里甘：与总统卢拉讨论的额外措施符合支出控制方向。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8151571.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "fa596c2576ea",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7256804637131870720,
+  "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f4dc1254b3db513d",
+  "ts": "2026-11-26T21:36:36+08:00",
+  "title": "北京多家医院已落地手术机器人",
+  "title_zh": "北京多家医院已落地手术机器人",
+  "body": "北京市卫生健康委副主任陈航11月26日在新闻发布会会上介绍，据统计，目前北京市已累计获批45个医用手术机器人注册证，数量居全国首位。北京市在全国首创手术机器人融资租赁平台，通过“租金分期、维保升级、替换保障、灵活处置”等全生命周期服务，降低医院购置门槛，目前积水潭、世纪坛、友谊、安贞等10家医疗机构已完成16台手术机器人租赁入院工作、另有13台正有序推进。",
+  "summary": "北京市45个医用手术机器人注册证，10家医疗机构租赁16台手术机器人。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8867659.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "医疗设备行业可能受益",
+  "cluster_id": "1beb99517a26",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 155743626025539140,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "9092d1579a729b62",
   "ts": "2026-11-26T21:35:07+08:00",
   "title": "巴西财政部长杜里甘：凭借今年获批的各项措施以及已规划出基本盈余的预算，我们正朝着改善公共账户的目标稳步迈进",
@@ -750,6 +799,31 @@
   "engine": "primary"
  },
  {
+  "id": "63c21d0adb62127d",
+  "ts": "2026-11-26T21:29:30+08:00",
+  "title": "Are we ready to live longer? | Centre Stage",
+  "title_zh": "我们准备好长寿了吗？| QF WISH 中心舞台",
+  "body": "Dr Slim Slama of Qatar Foundation s WISH talks to Al Jazeera about the future of healthcare.",
+  "summary": "卡塔尔基金会WISH的Slim Slama博士与半岛电视台讨论医疗保健未来。",
+  "url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f95813390625",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 15176263260711977251,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "a5ee3de956184e0d",
   "ts": "2026-11-26T21:28:47+08:00",
   "title": "三亚聚力打造国内国际双循环重要交汇节点",
@@ -848,6 +922,31 @@
   "pushed": false,
   "sh": 12983123096377591050,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "822c1a7f1a4d95f7",
+  "ts": "2026-11-26T21:27:22+08:00",
+  "title": "Pablo Hernández de Cos to be next ECB President",
+  "title_zh": "Pablo Hernández de Cos 将接任欧洲央行行长",
+  "body": "Spanish economist will succeed Christine Lagarde when she steps down in early February",
+  "summary": "西班牙经济学家Pablo Hernández de Cos将于2月初接替Christine Lagarde担任欧洲央行行长。",
+  "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 46.0,
+  "level": "L0",
+  "impact": "欧洲央行政策变动可能影响欧元区经济及金融市场。",
+  "cluster_id": "b922c3aaf85a",
+  "sources": [
+   "Financial Times"
+  ],
+  "pushed": false,
+  "sh": 6415502502499961292,
+  "reason": "tier=80 ent=1['ecb'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
@@ -997,6 +1096,31 @@
   "pushed": false,
   "sh": 13137678521311330535,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "68062943c0a65bf3",
+  "ts": "2026-11-26T21:23:46+08:00",
+  "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
+  "title_zh": "约旦议会讨论反恐法案",
+  "body": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Legal Committee for review.",
+  "summary": "约旦议会讨论修改2006年反恐法案，针对卡拉克教堂袭击。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "83011186445e",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 15081436255219506712,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
@@ -1763,6 +1887,31 @@
   "engine": "primary"
  },
  {
+  "id": "68519726551d9af0",
+  "ts": "2026-11-26T21:04:51+08:00",
+  "title": "Is UBI the solution to mass unemployment in an AI economy?",
+  "title_zh": "AI经济时代，无条件基本收入是解决大规模失业的方案吗？",
+  "body": "AI s rapid advance has led to calls for universal payments to prevent poverty and wealth inequality.",
+  "summary": "人工智能快速进步引发对普遍支付的呼吁，以防止贫困和财富不平等。",
+  "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "34c0e0183f14",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 649831061347243638,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "aab3762b09e41186",
   "ts": "2026-11-26T21:03:28+08:00",
   "title": "波罗的海海岬型运价指数上涨1.85%，至每日42747美元",
@@ -1834,6 +1983,31 @@
   ],
   "pushed": false,
   "sh": 9956895900544647978,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "92fe550877fbc986",
+  "ts": "2026-11-26T21:02:24+08:00",
+  "title": "Film shows testimonies of international doctors amid Gaza genocide",
+  "title_zh": "纪录片展示国际医生目睹加沙医疗体系崩溃证词",
+  "body": "A documentary shows footage from international doctors who bore witness to the collapse of the Gaza s medical system.",
+  "summary": "纪录片记录国际医生见证加沙医疗体系崩溃情况。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3e93366a6cb1",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 2301429036492261724,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
