@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "0b4a8b35846e268c",
+  "ts": "2026-11-26T16:47:34+08:00",
+  "title": "AMS-OSRAM股票复牌后上涨7.3%",
+  "title_zh": "",
+  "body": "AMS-OSRAM股票复牌后上涨7.3%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3727572.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "65db46042e03",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14239257953711138010,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=8 op=N spread=0 burst=1"
+ },
+ {
+  "id": "57f6918ccbfaba50",
+  "ts": "2026-11-26T16:46:26+08:00",
+  "title": "Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say",
+  "title_zh": "巴基斯坦、沙特、土耳其将在伊斯兰堡举行麦加联盟会议",
+  "body": "ISLAMABAD, Nov 26 (Reuters) - Pakistan, Saudi Arabia and Turkey will hold a meeting on their mutual defence agreement in Islamabad this week, two Pakistani sources said on Thursday.Foreign ministers of Saudi Arabia and Turkey are arriving in Pakistan to attend the meeting, which will be held on Friday and Saturday, the sources told Reuters.The three countries signed a joint defence agreement in Mecca in August amid escalating concerns about the increasingly aggressive US-Israeli war against Iran.",
+  "summary": "巴基斯坦、沙特和土耳其将于11月27日至28日在伊斯兰堡举行关于共同防御协议的会议。",
+  "url": "https://www.al-monitor.com/originals/2026/11/pakistan-saudi-turkey-hold-mecca-alliance-meeting-islamabad-nov-27-28-sources-say",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 66.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "fa5d217a2ef8",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 9437097386019260841,
+  "reason": "tier=80 ent=2['saudi', 'turkey'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "3134a1af93fe99cc",
   "ts": "2026-11-26T16:46:16+08:00",
   "title": "荣昌生物：11月26日回购1.37万股A股股份",
@@ -688,16 +737,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 52.2,
+  "score": 54.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "b6baab2df49d",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 15546298630945306738,
-  "reason": "tier=55 ent=1['俄罗斯'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['俄罗斯'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "175fe01610ad4018",
@@ -2054,16 +2104,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "036daf50f9f7",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 8512943003044740208,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
