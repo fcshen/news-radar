@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "7d0979a182f6c455",
+  "ts": "2026-11-27T05:33:38+08:00",
+  "title": "沙特领导的联军：拦截并摧毁了也门胡塞武装向南部地区发射的无人机",
+  "title_zh": "",
+  "body": "沙特领导的联军：拦截并摧毁了也门胡塞武装向南部地区发射的无人机。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7874529.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 50.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "59e688c6ce49",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 46567620115775687,
+  "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "ff6745cef3e1509c",
+  "ts": "2026-11-27T05:33:31+08:00",
+  "title": "加拿大标普/TSX综合指数收涨0.72%，报34426.88点",
+  "title_zh": "",
+  "body": "加拿大标普/TSX综合指数收涨0.72%，报34426.88点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkackst3327065.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "19e6b6ca2d05",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 862939601193870785,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "c259068ab625cc4c",
   "ts": "2026-11-27T05:31:16+08:00",
   "title": "巴西2026/27年度大豆产量预计为1.823亿吨",
