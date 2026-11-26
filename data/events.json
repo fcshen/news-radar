@@ -576,6 +576,57 @@
   "engine": "primary"
  },
  {
+  "id": "d2dce25af91a1519",
+  "ts": "2026-11-27T06:02:54+08:00",
+  "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（11月27日）",
+  "title_zh": "金十数据整理：俄乌冲突最新24小时局势跟踪（11月27日）",
+  "body": "1. 俄罗斯克拉斯诺达尔地区Slavyansk-Eco炼油厂遭无人机袭击后发生火灾。2. 俄罗斯外长拉夫罗夫：我们从未就乌克兰危机谈判与欧盟委员会有过任何接触。3. 欧盟领导人将就七年期预算及乌克兰融资问题展开激烈交锋，力争12月达成协议。4. 俄罗斯驳斥德国媒体有关其计划部署核武器太空的报道，称相关说法毫无根据。5. 据国际文传电讯社：俄罗斯在黑海袭击了一艘船只。俄罗斯打击了基辅的国防工业设施。6. 乌克兰总统泽连斯基：乌克兰掌握的信息显示，俄罗斯正准备在未来几天发动新一轮大规模打击。",
+  "summary": "俄克拉斯诺达尔炼油厂遭袭起火，俄外长否认与欧盟接触，欧盟预算谈判，俄否认核武器太空部署，俄黑海袭击船只，俄打击基辅国防设施，乌总统称俄准备新一轮打击。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "地缘政治紧张，可能影响能源及军工板块",
+  "cluster_id": "1ac682779f39",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 698857644757096794,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "cc94aa7f6da5cfde",
+  "ts": "2026-11-27T06:02:47+08:00",
+  "title": "美联储12月加息25个基点的概率为99.4%",
+  "title_zh": "美联储12月加息25个基点概率99.4%（CME“美联储观察”）",
+  "body": "金十数据11月27日讯，据CME“美联储观察”：美联储12月维持不变的概率为0.6%，加息25个基点的概率为97.4%。美联储到明年1月维持不变的概率为0.2%，累计加息25个基点的概率37%，累计加息50个基点的概率为62.7%。",
+  "summary": "CME“美联储观察”显示，美联储12月加息25个基点概率99.4%，明年1月累计加息25个基点概率37%，累计加息50个基点概率62.7%。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 100.0,
+  "level": "L3",
+  "impact": "美联储加息预期或影响美元及全球金融市场，需关注相关资产表现。",
+  "cluster_id": "bedd1e8056d0",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 9383619350938981937,
+  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=12 op=N spread=0 burst=1",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "5b6c896e3cf111e2",
   "ts": "2026-11-27T06:02:22+08:00",
   "title": "巴西航空工业公司：美国对巴产飞机征收新关税或推高机票价格",
@@ -625,6 +676,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
+  "id": "c3d1b5ec0e487de4",
+  "ts": "2026-11-27T06:00:16+08:00",
+  "title": "Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry",
+  "title_zh": "Laila Khawaja：黄仁勋事件如何重置美中科技竞争",
+  "body": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm’s tech wing. Before her current role, she worked at Gavekal Fathom China from its founding in 2009, developing broad expertise in China’s corporate landscape. A graduate of Beijing Foreign Studies University and Harvard University, she is currently based in Miami. In this interview, Khawaja discusses the whirlwind dismissal and restoration of Nvidia CEO Jensen Huang, how that saga and other...",
+  "summary": "Gavekal Technologies研究总监Khawaja讨论了Nvidia CEO黄仁勋的离职和复职事件。",
+  "url": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 34.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "32cea7a478b9",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 14486140621326126154,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "de81f59dd57e8a1f",
   "ts": "2026-11-27T06:00:00+08:00",
   "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
@@ -647,6 +723,31 @@
   "pushed": false,
   "sh": 15702230464689465160,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "77a644203ed10baf",
+  "ts": "2026-11-27T06:00:00+08:00",
+  "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+  "title_zh": "MarketWatch：50岁全职妈妈，丈夫失业，应否动用401(k)？",
+  "body": "“Our financial and healthcare situation has become increasingly concerning.”",
+  "summary": "一位50岁的全职妈妈，丈夫失业，面临财务和医疗困境。",
+  "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 41.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "81dea01ec004",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 10150292260921915051,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
