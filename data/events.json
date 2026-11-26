@@ -1,5 +1,173 @@
 [
  {
+  "id": "4b5a555205129449",
+  "ts": "2026-11-26T08:35:37+08:00",
+  "title": "美国小型飞机坠海事件机上6人确认全部遇难",
+  "title_zh": "",
+  "body": "美国小型飞机坠海事件机上6人确认全部遇难央视记者当地时间11月25日获悉，一架载有6人的塞斯纳210型小型飞机于24日下午在密西西比州霍恩岛（Horn Island）附近坠入墨西哥湾。经当局确认，机上4名成年人和2名儿童已全部遇难。美国海岸警卫队称，飞机于24日15时30分左右坠毁，搜救人员经过约4小时搜寻，在机身残骸内找到全部6名遇难者遗体。未经许可，请勿转载使用。（央视新闻）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftt3887993.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8365686e6541",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4087742410623292591,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "7639119f79dba1da",
+  "ts": "2026-11-26T08:33:16+08:00",
+  "title": "数据中心冷却故障及投资者退出认购 迫使Compass推迟3.8亿美元ABS发行",
+  "title_zh": "",
+  "body": "Compass Datacenters推迟了一笔3.8亿美元的资产支持证券(ABS)发行，此前该公司旗下一个数据中心发生运营故障，且有投资者退出认购。据知情人士透露，公司已不打算在今年完成这笔交易，预计明年重返ABS市场。因未获授权公开发言，知情人士不愿具名。知情人士称，事故发生于11月17日，当时冷却系统发生故障，导致数据中心温度超过合同规定的上限，持续148分钟。他们表示，这构成对该设施环境服务水平协议的违反。据知情人士透露，Compass周三与投资者举行电话会议，讨论此事。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "07b8bf26c304",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14437288205915826750,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "eb46f9e6ddf07f0f",
+  "ts": "2026-11-26T08:32:11+08:00",
+  "title": "澳新银行罕见被移出纽约联储外汇交易对手方名单",
+  "title_zh": "",
+  "body": "澳新银行集团控股有限公司（ANZ Group Holdings Ltd.）已被移出纽约联邦储备银行（纽约联储）的直接外汇交易对手方名单。这一罕见举动使得该名单上仅剩下一家澳大利亚银行。 纽约联储在其网站上表示，澳新银行“已于11月25日起从外汇交易对手方名单中被移除”，同时公布了更新后的全球21家交易对手方名单。纽约联储并未说明此次移除的原因。 这是自2023年9月瑞信被移出名单以来，首次有银行被剔除，在那几个月前，瑞信已被名单上的瑞银集团收购。纽约联储网站上自2017年以来的记录显示，该名单的更新仅反映了名称变更和新增机构，瑞信是此前唯一被移除的机构。纽约联储于2016年开始发布该名单。 澳新银行未立即回应置评请求。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "973988ecd247",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17532454715166713877,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "fdc61025419ead44",
+  "ts": "2026-11-26T08:30:52+08:00",
+  "title": "中金公司：中国公募REITs市场有望延续规模扩容",
+  "title_zh": "",
+  "body": "中金公司研报表示，展望2027年，中国公募REITs市场有望延续规模扩容、资产多元化及投资者结构优化的发展趋势。经历较为充分的估值调整后，REITs作为大类资产的相对配置价值逐步显现，但底层资产经营分化或仍将持续，市场有望进入更为精细化的价值发现阶段。策略上，我们建议持续关注一级市场打新机会，二级市场延续哑铃型配置，兼顾基本面稳健、现金流可见度较高的高胜率项目，以及经营压力已得到较充分计价、具备潜在改善空间的高赔率项目。交易层面，关注年末年初配置行情、利率下行及需求端政策催化，兼顾指数纳入、次新项目及解禁压力释放带来的交易机会。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzftp1500244.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.6,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f0c57a99a609",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5768141356677635009,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=Y spread=0 burst=4"
+ },
+ {
+  "id": "b1fec24cb05a1bc2",
+  "ts": "2026-11-26T08:30:08+08:00",
+  "title": "Chinese group to develop 10 smart city sites in Indonesia under US$50 billion deal",
+  "title_zh": "中国集团将根据500亿美元的协议在印度尼西亚开发10个智慧城市项目",
+  "body": "A Chinese consortium has reached an initial agreement with Indonesia’s sovereign wealth fund to develop 10 smart city sites in the Southeast Asian country, part of a package of two-way deals, the Indonesian side said. An entity under the fund Danantara signed the US$50 billion memorandum of understanding to develop smart cities across the archipelago of 288 million people. The Chinese consortium would develop about 1.5 million housing units and supporting infrastructure for roughly 3 million...",
+  "summary": "",
+  "url": "https://www.scmp.com/economy/global-economy/article/3375762/chinese-group-develop-10-smart-city-sites-indonesia-under-us50-billion-deal",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 37.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ec9881c64f05",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 11222908057610358741,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "00449829d5c3f541",
+  "ts": "2026-11-26T08:30:02+08:00",
+  "title": "澳大利亚第三季度私人新增资本支出季率 12.2%，预期4.4%，前值-3.60%",
+  "title_zh": "",
+  "body": "澳大利亚第三季度私人新增资本支出季率 12.2%，预期4.4%，前值-3.60%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0fe2e1afa991",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16432463895746635577,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=4"
+ },
+ {
+  "id": "769a6678e812ed7e",
+  "ts": "2026-11-26T08:27:17+08:00",
+  "title": "三部门：稳妥有序推进增值电信业务扩大对外开放试点",
+  "title_zh": "",
+  "body": "金十数据11月26日讯，工业和信息化部、国家网信办、国家发展改革委等三部门近日联合印发《新一代通信网建设实施方案》，其中提出，加强政策支撑。推动制定电信法、无线电频谱资源法等法律法规。加大对战略性项目支持力度。加强对基础电信企业服务国家战略、建设网络强国等情况的考核激励。鼓励民营企业依法依规参与建设，拓宽多元参与路径，激发企业投资积极性。加强国际合作，建设信息通信企业“走出去”综合平台，完善海外综合服务体系，积极对接高质量共建“一带一路”。扩大高水平对外开放，稳妥有序推进增值电信业务扩大对外开放试点。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ca172c048f93",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1483311984268609799,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "01010ad6bda6e0cf",
   "ts": "2026-11-26T08:24:59+08:00",
   "title": "期货盯盘神器专属文章",
@@ -36,16 +204,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "683501f663c2",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 9977186231412860155,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "637b3963524fb4e7",
@@ -308,7 +477,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1825050795215409497,
   "reason": "tier=55 ent=2['USTR', 'ustr'] pred=1 conv=0 combo=32 rel=12 sev=8 pct=0 op=Y spread=2 burst=4"
  },
@@ -1010,7 +1179,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12333882051308382186,
   "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1228,7 +1397,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6958379561733872340,
   "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=12 op=N spread=0 burst=4"
  },
@@ -1277,7 +1446,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9733180945722485292,
   "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=15 pct=0 op=N spread=2 burst=4"
  },
@@ -1589,7 +1758,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17827299272669920357,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1709,7 +1878,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15997620996390146257,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1950,7 +2119,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8606825706093216012,
   "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=36 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -1998,7 +2167,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5063455221207799195,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=40 sev=0 pct=0 op=Y spread=0 burst=4"
  },
