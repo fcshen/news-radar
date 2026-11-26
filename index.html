@@ -401,12 +401,24 @@ if("serviceWorker" in navigator && location.protocol==="https:"){
     || navigator.standalone===true;
   let deferred=null;
   const dismiss=()=>{ try{localStorage.setItem(KEY,Date.now())}catch(e){} bar.hidden=true; };
+  let last=0; try{last=Number(localStorage.getItem(KEY)||0)}catch(err){}
+  const quiet = standalone || Date.now()-last < 30*864e5;
+
+  // 鸿蒙（ArkWeb 内核）不会派发 beforeinstallprompt，也拿不到系统的安装弹窗，
+  // 只能让用户自己去菜单里加。不给提示的话，绝大多数人到这一步就放弃了。
+  // 判断放在最前面：鸿蒙 4 及以下 UA 里带 Android，会被误当成普通安卓。
+  if(/HarmonyOS|OpenHarmony|ArkWeb/i.test(navigator.userAgent||"") && !quiet){
+    const b=bar.querySelector(".ib-txt b"), s=bar.querySelector(".ib-txt span");
+    if(b) b.textContent="装到桌面";
+    if(s) s.textContent="点右下角 ∷ → 添加至桌面";
+    $("ibGo").textContent="知道了";
+    bar.hidden=false;
+  }
 
   window.addEventListener("beforeinstallprompt",e=>{
     e.preventDefault();
     deferred=e;
-    let last=0; try{last=Number(localStorage.getItem(KEY)||0)}catch(err){}
-    if(standalone || Date.now()-last < 30*864e5) return;
+    if(quiet) return;
     bar.hidden=false;
   });
 
