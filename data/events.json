@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "d24ab9434aee2330",
+  "ts": "2026-11-27T05:27:29+08:00",
+  "title": "埃隆·马斯克：我将每年向美国所有儿童捐赠另一部分SpaceX股份",
+  "title_zh": "",
+  "body": "埃隆·马斯克：我将每年向美国所有儿童捐赠另一部分SpaceX股份。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksp1094496.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d3643be5e37b",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3061048562361312,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "1216c9cc9afb4611",
+  "ts": "2026-11-27T05:25:16+08:00",
+  "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+  "title_zh": "黄仁勋回归英伟达，Denny's恢复纪念牌匾",
+  "body": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+  "summary": "英伟达创始人黄仁勋回归后，Denny's恢复其在加州圣何塞分店上方的纪念牌匾。",
+  "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "757bae1fb8e4",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 2739685037886283147,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "7d04a83b1dfc49df",
   "ts": "2026-11-27T05:24:55+08:00",
   "title": "Indonesia pays high price to keep fuel cheap under Prabowo's blanket subsidy",
