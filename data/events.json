@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "e6ec114886b19c7c",
+  "ts": "2026-11-26T19:14:18+08:00",
+  "title": "联影医疗：拟开展外汇衍生品交易，合约价值总额度不超过1亿美元",
+  "title_zh": "联影医疗：拟开展外汇衍生品交易，合约价值总额度不超过1亿美元",
+  "body": "联影医疗公告，公司及控股子公司拟开展以套期保值为目的的外汇衍生品交易，相关议案已获第三届董事会第二次会议审议通过，无需提交股东会审议。授权期限内任一时点合约价值总额度不超过1亿美元（或等值外币），预计动用的交易保证金和权利金不超过1000万美元（或等值外币），额度可循环滚动使用，期限自董事会审议通过之日起不超过12个月。交易资金来源为自有资金，业务用于锁定成本、规避汇率风险，不以投机为目的；交易存在市场风险、流动性风险、履约风险等。此前审议的外汇衍生品套期保值业务额度自本次董事会审议通过之日起自动废止。",
+  "summary": "联影医疗拟开展外汇衍生品交易，合约价值总额度不超过1亿美元，授权期限12个月。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1409284.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "公司套期保值可能影响财务状况，需关注相关公告。",
+  "cluster_id": "f1daef6c98aa",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7999169470677681348,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "1b7111df14f0e48a",
+  "ts": "2026-11-26T19:14:06+08:00",
+  "title": "隆基绿能与法国InnoVent签署光储框架合作协议",
+  "title_zh": "隆基绿能与法国InnoVent签署光储框架合作协议",
+  "body": "据隆基绿能消息，11月23日，隆基绿能与法国新能源开发企业InnoVent于隆基嘉兴“灯塔工厂”正式签署战略合作框架协议。根据协议，隆基绿能拟计划向InnoVent供应高效BC光伏组件与储能产品，支撑其在欧洲、非洲、中国等重点市场推进光储项目开发落地。",
+  "summary": "隆基绿能与法国InnoVent签署光储框架合作协议，计划供应光伏组件与储能产品。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8916984.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 46.2,
+  "level": "L0",
+  "impact": "光伏储能行业合作增加，关注相关产业链公司动态。",
+  "cluster_id": "1d7bfc7cc7f9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17447328270257360379,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "858ee6eb3ef32a03",
+  "ts": "2026-11-26T19:13:04+08:00",
+  "title": "规范二氧化碳培养箱、压力波治疗仪计量 两项国家计量技术规范将实施",
+  "title_zh": "规范二氧化碳培养箱、压力波治疗仪计量 两项国家计量技术规范将实施",
+  "body": "记者今天了解到，市场监管总局发布《二氧化碳培养箱校准规范》《气压弹道式体外压力波治疗仪校准规范》两项国家计量技术规范，将于12月25日起正式实施。二氧化碳培养箱广泛用于免疫学、遗传学、药物学等实验室，通过模拟生物体内环境培养细胞、组织，计量性能直接关系细胞培养质量和检验诊断结果；气压弹道式体外压力波治疗仪直接作用于人体，广泛用于康复科、骨科、疼痛科和中医理疗，输出参数准确与否关系患者诊疗安全。",
+  "summary": "市场监管总局发布两项国家计量技术规范，规范二氧化碳培养箱和压力波治疗仪计量，12月25日起实施。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738317.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响相关医疗器械行业公司业绩和合规要求。",
+  "cluster_id": "d448e35d0f11",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 12657258605114106976,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "f1d177e573522a10",
   "ts": "2026-11-26T19:12:33+08:00",
   "title": "长信科技：拟出资2亿元参与设立10亿元产业基金",
@@ -750,6 +825,31 @@
   "engine": "primary"
  },
  {
+  "id": "c13adfa3c44726f3",
+  "ts": "2026-11-26T19:10:25+08:00",
+  "title": "中上协：截至10月底境内股票市场共有上市公司5583家",
+  "title_zh": "中上协：截至10月底境内股票市场共有上市公司5583家",
+  "body": "中国上市公司协会最新数据显示，截至2026年10月31日，境内股票市场(以下简称“全市场”)共有上市公司5583家，沪、深、北证券交易所分别为2321家、2908家、354家。分股份类型看，仅发A股公司5296家，A+H、A+B等多股份类型公司281家，仅发B股公司6家。",
+  "summary": "截至10月底，境内股票市场上市公司总数达5583家，沪、深、北交所分别有2321家、2908家、354家。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738316.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响市场整体规模和流动性判断。",
+  "cluster_id": "50bca25c35e2",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 13940003611962393852,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "797b6032e09edb2c",
   "ts": "2026-11-26T19:10:09+08:00",
   "title": "施罗德投资（Schroders）经济学家戴维·里斯：近期股市的抛售潮恐怕很难因美联储暂停紧缩周期而得到缓解",
@@ -798,6 +898,31 @@
   "pushed": false,
   "sh": 2833520792830427961,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=Y spread=2 burst=3"
+ },
+ {
+  "id": "27f6455dbe546fe6",
+  "ts": "2026-11-26T19:09:35+08:00",
+  "title": "湖南以“村播”为桥牵起农文旅振兴新纽带",
+  "title_zh": "湖南以“村播”为桥牵起农文旅振兴新纽带",
+  "body": "中新网怀化11月26日电 (付敬懿 唐先彬)以“村播助农·湘约振兴”为主题的2026年湖南省乡村主播(村播)冬季大赛26日在湖南芷江侗族自治县落幕，大赛将直播电商势能深度嵌入乡村发展肌理，蹚出“直播带农、文化赋旅、赛事兴城”的特色振兴路径。",
+  "summary": "湖南省举办乡村主播冬季大赛，推动直播电商与乡村发展结合。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738308.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "直播电商发展可能影响相关产业链公司业绩。",
+  "cluster_id": "94ffb8c393f0",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 47308006745588243,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "69a81099f60041e7",
@@ -7376,16 +7501,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 30.2,
+  "score": 32.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "9ec04856627f",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 977456938167313503,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "868f49a86e386edc",
