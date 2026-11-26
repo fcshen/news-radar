@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "891ebb6f914f9b47",
+  "ts": "2026-11-27T05:42:04+08:00",
+  "title": "消息人士称，沙特阿拉伯南部多个地区传出数声爆炸",
+  "title_zh": "",
+  "body": "消息人士称，沙特阿拉伯南部多个地区传出数声爆炸。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "723ec77b0476",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7445784183095514092,
+  "reason": "tier=55 ent=1['沙特'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "5030925bc323221b",
   "ts": "2026-11-27T05:40:44+08:00",
   "title": "强风暴袭击美国东海岸 致数十万用户停电 数千航班受扰",
