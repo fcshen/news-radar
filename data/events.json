@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "ad659333f3efa7e0",
+  "ts": "2026-11-26T16:41:41+08:00",
+  "title": "德国日前基荷电力价格上涨8.2%，至303欧元/兆瓦时",
+  "title_zh": "",
+  "body": "德国日前基荷电力价格上涨8.2%，至303欧元/兆瓦时。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8191507.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "75cb80722572",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1873975241136222330,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=1"
+ },
+ {
+  "id": "72201c3961fbc73e",
+  "ts": "2026-11-26T16:40:53+08:00",
+  "title": "*ST航图：前三季度营收同比降80.90% 净亏损4.61亿元",
+  "title_zh": "*ST航图：前三季度营收同比降80.90% 净亏损4.61亿元",
+  "body": "*ST航图公告称，2026年前三季度实现营业收入7688.04万元，同比下降80.90%；归母净亏损4.61亿元，期末归母净资产-11.16亿元。公司无法按期归还4.499亿元临时补流闲置募集资金，子公司20.86万元募集资金被司法扣划，预计年底前无法完成重整程序。公司股票已被实施退市风险警示，存在终止上市风险，“宏图转债”将同步终止上市。",
+  "summary": "*ST航图前三季度营收降80.90%，净亏损4.61亿元，归母净资产为负，存在退市风险。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaawz8942187.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "可能影响相关股票和债券的市场表现",
+  "cluster_id": "aef980d4fdd4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 253235192071204871,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=12 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "93b73f1a59c7b1fe",
+  "ts": "2026-11-26T16:40:26+08:00",
+  "title": "上海钢联(300226)：上海钢联：关于获得政府补助的公告",
+  "title_zh": "",
+  "body": "上海钢联(300226)：上海钢联：关于获得政府补助的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/dea2c8e1-e0ba-4a9d-9865-8a03286115de.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "87ba80825767",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 11896255698845565228,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "9e265868048793a1",
   "ts": "2026-11-26T16:40:10+08:00",
   "title": "中国气象局部署“十五五”低空气象基础设施建设 70个重点城市将按需加密布设低空气象基础设施",
@@ -613,16 +686,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 55.2,
+  "score": 57.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "046e89e9b2ea",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2945265404067390662,
-  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=8 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=8 op=N spread=2 burst=1"
  },
  {
   "id": "40d9d059937a3536",
@@ -647,6 +721,31 @@
   "pushed": false,
   "sh": 1974367012496962387,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "2e761a7e44b9db7d",
+  "ts": "2026-11-26T16:38:47+08:00",
+  "title": "无锡东港：一张能源网铺就绿色“生意经”",
+  "title_zh": "无锡东港：一张能源网铺就绿色“生意经”",
+  "body": "中新网无锡11月26日电 无锡市东港镇是苏南乡镇企业发祥地，镇内新材料产业园是无锡城区唯一的化工园区，集聚企业超600家。产业集群之下，企业用能需求分化显著，纺织企业耗汽用电量大，汽车零部件企业以用电为主，化工企业同步消耗蒸汽、天然气，不同业态对能源供给的品类、品质、稳定性诉求各不相同。",
+  "summary": "无锡东港镇新材料产业园企业众多，用能需求分化显著。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738182.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "能源需求变化或影响相关能源类企业。",
+  "cluster_id": "09c30580c5d0",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 10549491065907327250,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
@@ -746,6 +845,31 @@
   "pushed": false,
   "sh": 13582002393402152151,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "dec3053a1087d2a4",
+  "ts": "2026-11-26T16:37:39+08:00",
+  "title": "山东立足生态优势做优“土特产” 激活特色产业富民新动能",
+  "title_zh": "山东立足生态优势做优“土特产” 激活特色产业富民新动能",
+  "body": "中新网济南11月26日电 (刘驰原)从济南市莱芜区满山飘香的菊花基地，到泰安市泰山区由弃土场华丽转身的猕猴桃园，再到聊城市东昌府区热闹非凡的葫芦大集……在山东，一场立足生态、贴合乡土的产业实践正悄然铺开，各地深挖本土资源禀赋，做优“土特产”，以特色产业持续激活乡村振兴内生动力。",
+  "summary": "山东各地深挖本土资源，发展特色产业，优化土特产。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738177.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "可能促进相关农业产业链个股表现",
+  "cluster_id": "e0b585d0acfa",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 7116753519379679388,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "04c4667fa6c6bc46",
@@ -918,6 +1042,30 @@
   "pushed": false,
   "sh": 4812708696418288000,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=8 op=N spread=2 burst=1"
+ },
+ {
+  "id": "b02f34532e653332",
+  "ts": "2026-11-26T16:35:53+08:00",
+  "title": "你买的进口褪黑素 可能是剂量超标产品",
+  "title_zh": "",
+  "body": "别买！假的！又一网红产品翻车",
+  "summary": "",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738179.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "52dbd774b8da",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 9377292708512313822,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "831e37321cdf4d25",
