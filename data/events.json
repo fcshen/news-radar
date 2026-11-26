@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "7c5d6764d3ff27c1",
+  "ts": "2026-11-27T07:01:29+08:00",
+  "title": "特朗普质疑GDP数据为何不在中期选举前上修并拟调查",
+  "title_zh": "",
+  "body": "沙特吉赞炼油厂遭袭后部分停产，欧佩克+或延续产量目标至明年一季度……昨日今晨，全球都发生了哪些大事？",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236175",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 78.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "e56fe8ed412b",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 13084526745858222152,
+  "reason": "tier=55 ent=1['特朗普'] pred=1 conv=0 combo=26 rel=21 sev=8 pct=0 op=N spread=0 burst=4",
+  "tries": 1
+ },
+ {
   "id": "c00b7b4caca8dd2c",
   "ts": "2026-11-27T07:01:12+08:00",
   "title": "美国10年期国债期货下跌3个基点，30年期国债期货下跌5个基点",
@@ -588,16 +613,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "437811ff1719",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11784178436300137273,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "dc96a555183d20a0",
