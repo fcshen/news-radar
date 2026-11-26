@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "5fbdec871eab67cc",
+  "ts": "2026-11-26T18:04:54+08:00",
+  "title": "沙河股份：拟2153.03万元协议转让置地投资100%股权",
+  "title_zh": "沙河股份：拟2153.03万元协议转让置地投资100%股权",
+  "body": "沙河股份公告，公司拟与深业物业运营集团股份有限公司签订股权转让协议，将全资子公司深圳市深业置地物业投资有限公司100%股权转让予深业运营，标的股权转让价款为2153.03万元。深业运营与公司控股股东沙河集团同为深业集团控制下的企业，本次交易构成关联交易。本次交易采取非公开协议转让方式，涉及的《资产评估报告》已经深业集团备案。交易完成后，公司不再持有置地投资股权，置地投资不再纳入公司合并报表范围。",
+  "summary": "沙河股份拟以2153.03万元转让全资子公司置地投资100%股权予深业运营。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8133757.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "关联交易可能影响公司财务状况。",
+  "cluster_id": "2bf40468ea24",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16748224416682437761,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "5029f5226251aaf6",
+  "ts": "2026-11-26T18:03:43+08:00",
+  "title": "新加坡副总理：东南亚各国部长正携手加强区域联系",
+  "title_zh": "",
+  "body": "新加坡副总理：东南亚各国部长正携手加强区域联系。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "191c887529ce",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1425049118949868427,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "426b77971d2c7a42",
+  "ts": "2026-11-26T18:03:33+08:00",
+  "title": "全筑股份：股票交易波动较大 提示相关风险",
+  "title_zh": "全筑股份：股票交易波动较大 提示相关风险",
+  "body": "全筑股份公告称，公司股票于2026年11月24日、25日连续两个交易日收盘价格涨幅偏离值累计达20%，属于股票交易异常波动，11月26日再次涨停。自2026年11月17日以来公司股价累计涨幅约63.07%，近三个交易日换手率显著增加，存在短期大幅波动后快速下跌的风险。公司子公司华芯全筑智源尚未开展业务、无实质性技术和资源储备；子公司云阙智算尚处早期试点培育阶段，截至三季度其营收仅占2025年经审计营业收入的2.5%，未来发展存较大不确定性。公司控股股东、实控人及其一致行动人累计质押股份占其合计持股比例为77.64%。截至2026年11月26日，公司有息债务总额4.46亿元，其中3.03亿元将于本年度末到期，资产负债率67%，目前各项债务无逾期违约情形。公司目前生产经营正常，不存在应披露未披露重大事项。",
+  "summary": "全筑股份连续两日股价涨幅偏离值达20%，子公司业务处于早期阶段，控股股东质押股份比例高。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8870361.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "关注公司财务风险及子公司业务进展。",
+  "cluster_id": "6c5db1b7c626",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1498257911574341089,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "5bf6b224a9203176",
+  "ts": "2026-11-26T18:03:08+08:00",
+  "title": "Modi’s government urges Netflix to keep Pakistani Urdu drama off Indian screens",
+  "title_zh": "莫迪政府敦促Netflix勿在印度播放巴基斯坦乌尔都语剧集",
+  "body": "Prime Minister Narendra Modi’s government has asked ⁠global streaming ⁠giant Netflix not to air ⁠a Pakistani series in India, media reported on Thursday, after a prominent film workers’ union wrote to Modi asking for a ban. The first part of Netflix’s first Urdu-language ‌series, Jo Bachay Hain Sang Samait Lo (All the Love Our Hearts Carry), is scheduled for global release on December 4. The All Indian Cine Workers Association (AICWA), a union of film workers, said in a letter addressed to Modi...",
+  "summary": "莫迪政府要求Netflix不要在印度播放一部巴基斯坦剧集，该剧集计划于12月4日全球首播。",
+  "url": "https://www.scmp.com/news/asia/south-asia/article/3375924/modis-government-urges-netflix-keep-pakistani-urdu-drama-indian-screens",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 44.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "699cdca563fe",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 1235816499182524933,
+  "reason": "tier=80 ent=1['india'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "5715fd4dde87db89",
   "ts": "2026-11-26T18:02:56+08:00",
   "title": "印度卢比兑美元收盘下跌0.2%，报92.4450，前一交易日收盘价为92.2300",
@@ -619,7 +718,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1333323605572644614,
   "reason": "tier=55 ent=1['伊朗'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -649,6 +748,56 @@
   "engine": "primary"
  },
  {
+  "id": "3a558528ae3e9644",
+  "ts": "2026-11-26T18:02:30+08:00",
+  "title": "新加坡副总理：制造业是新加坡经济的重要组成部分",
+  "title_zh": "",
+  "body": "新加坡副总理：制造业是新加坡经济的重要组成部分。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "233842907144",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 6765190767583265274,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "ad5a17fe80a923fe",
+  "ts": "2026-11-26T18:02:09+08:00",
+  "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+  "title_zh": "乌克兰扎波罗热遭无人机袭击致五死",
+  "body": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+  "summary": "俄军对乌克兰基辅发射弹道导弹，击中购物中心和其他建筑。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 88.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "7ec0abc8f3de",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": true,
+  "sh": 1805729566233087942,
+  "reason": "tier=55 ent=2['russia', 'ukraine'] pred=2 conv=0 combo=37 rel=29 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "a10d0bdec1346b29",
   "ts": "2026-11-26T18:02:04+08:00",
   "title": "新加坡副总理：新加坡将致力于帮助企业缓解更高关税带来的影响",
@@ -668,7 +817,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4171413208519513497,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -685,16 +834,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 50.2,
+  "score": 52.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "04228a908e8a",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4830042023864615668,
-  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "76e5aeae9f2f305b",
@@ -789,7 +939,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11167733129923904251,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=12 op=N spread=0 burst=3"
  },
@@ -886,7 +1036,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1740704242236228775,
   "reason": "tier=80 ent=0[] pred=2 conv=0 combo=16 rel=20 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1016,6 +1166,31 @@
   "engine": "primary"
  },
  {
+  "id": "e6d7ae385b4bce09",
+  "ts": "2026-11-26T17:59:00+08:00",
+  "title": "宁夏出台规划推动现代服务业发展",
+  "title_zh": "宁夏出台规划推动现代服务业发展",
+  "body": "中新网银川11月26日电 (杨迪 李琪梁)记者26日从“开局起步‘十五五’建设美丽新宁夏”系列主题新闻发布会(第四场)获悉，《宁夏现代服务业发展“十五五”规划》(下称《规划》)日前印发，一边做强算力、文旅两大特色长板，一边补齐“一老一小”民生短板，推动服务业实现产业能级与民生温度同步提升。",
+  "summary": "宁夏印发《宁夏现代服务业发展“十五五”规划》，强调发展算力、文旅，补齐民生短板。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738249.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响相关服务业板块表现",
+  "cluster_id": "8eb361611a33",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 17246165723125073970,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "18daaab6e454cf35",
   "ts": "2026-11-26T17:57:53+08:00",
   "title": "香港特区政府数据显示，10月香港对中国内地黄金总出口量为95.646吨，9月为94.096吨",
@@ -1086,7 +1261,7 @@
    "深交所公告",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11531339895425757356,
   "reason": "tier=96 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=N spread=2 burst=3",
   "engine": "primary"
@@ -1111,7 +1286,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16910978507112862898,
   "reason": "tier=55 ent=2['白宫', '特朗普'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=Y spread=0 burst=3",
   "engine": "primary"
@@ -1186,9 +1361,35 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13127187416567538795,
   "reason": "tier=55 ent=1['印度'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "88370c9fac486468",
+  "ts": "2026-11-26T17:52:36+08:00",
+  "title": "Ex-Cricket Australia boss James Sutherland defends ‘Sandpapergate’ probe",
+  "title_zh": "前澳大利亚板球协会主席詹姆斯·萨瑟兰为“沙纸门”调查辩护",
+  "body": "Meanwhile, David Warner denies a broadcaster s claim that he used superglue and grit to tamper with the ball.",
+  "summary": "前澳大利亚板球协会主席詹姆斯·萨瑟兰为‘沙纸门’调查进行辩护，大卫·沃纳否认使用超级胶和砂纸篡改球。",
+  "url": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 70.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "d5fee9dc0c15",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": true,
+  "sh": 15901159655341751017,
+  "reason": "tier=55 ent=1['ustr'] pred=1 conv=0 combo=26 rel=22 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "015f7db533b496be",
@@ -1258,7 +1459,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 447704072603879762,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -1330,7 +1531,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2774329133551734228,
   "reason": "tier=55 ent=2['以色列', '哈马斯'] pred=0 conv=0 combo=8 rel=27 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -1654,7 +1855,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14373372099389339388,
   "reason": "tier=55 ent=2['贝莱德', '港交所'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=12 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1728,7 +1929,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 167269395145453740,
   "reason": "tier=55 ent=1['土耳其'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -1776,7 +1977,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10708915940457540843,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -1848,7 +2049,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6929348278739741992,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1902,6 +2103,31 @@
   "pushed": false,
   "sh": 12894655063677749716,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "2eb6e141437d4145",
+  "ts": "2026-11-26T17:40:59+08:00",
+  "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
+  "title_zh": "巴基斯坦首位宇航员在太空朗诵伊克巴尔诗作",
+  "body": "Pakistan s first astronaut recited Iqbal on board China s space station, echoing two earlier encounters in orbit.",
+  "summary": "巴基斯坦宇航员在太空朗诵诗人伊克巴尔诗作，引发印巴两国共鸣。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f1b70495725d",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 398498614416319680,
+  "reason": "tier=55 ent=1['india'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -2096,7 +2322,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 59682727157395874,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -2341,7 +2567,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4173860254044492184,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -2908,7 +3134,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13253708878596748434,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -3008,7 +3234,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6758731841123962807,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -3208,7 +3434,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9219435727779805344,
   "reason": "tier=55 ent=1['印度'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -3257,7 +3483,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10691872788695566690,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3479,7 +3705,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6740736913560143770,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -3602,7 +3828,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3617426001753279038,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
  },
@@ -3626,7 +3852,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2764998915251154661,
   "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -3674,7 +3900,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16311910455023252295,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -4043,7 +4269,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6978237516181074083,
   "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -4241,7 +4467,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6340731578275885093,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -4339,7 +4565,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4374826509213798166,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=15 sev=15 pct=0 op=N spread=0 burst=3"
  },
@@ -4389,7 +4615,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1194248869074990594,
   "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
@@ -4562,7 +4788,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4671267554174644352,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=4 burst=3",
   "engine": "primary"
@@ -4587,7 +4813,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2460447599875135558,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -5328,16 +5554,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "szse",
-  "score": 54.6,
+  "score": 56.6,
   "level": "L1",
   "impact": "",
   "cluster_id": "e22c5198f05b",
   "sources": [
-   "深交所公告"
+   "深交所公告",
+   "新浪财经7×24"
   ],
   "pushed": true,
   "sh": 11589637160604358794,
-  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "c187770ecb24507f",
