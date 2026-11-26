@@ -576,6 +576,227 @@
   "engine": "primary"
  },
  {
+  "id": "cd63ad9d40848d69",
+  "ts": "2026-11-26T18:36:13+08:00",
+  "title": "君正股份：2026年第二次临时股东会审议通过两项议案",
+  "title_zh": "君正股份：2026年第二次临时股东会审议通过两项议案",
+  "body": "君正股份公告称，公司2026年第二次临时股东会于2026年11月26日召开，采用现场与网络投票结合方式，出席会议股东及股东授权代表共1010名，代表有表决权股份9485.22万股，占公司有表决权股份总数的18.4561%。会议审议通过《关于变更回购股份用途并注销的议案》《关于减少注册资本并修订〈公司章程〉的议案》，两项均为特别决议事项，获有效表决权股份总数2/3以上同意。本次股东会未出现否决提案情形，未变更以往股东会已通过决议。",
+  "summary": "君正股份临时股东会通过两项议案，包括变更回购股份用途并注销、减少注册资本。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3674464.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "公司资本结构变动，可能影响股价及投资者信心。",
+  "cluster_id": "63a330c62af4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3489938637396648134,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "757503ee189234a4",
+  "ts": "2026-11-26T18:35:58+08:00",
+  "title": "葛兰素史克：Hibsago在中国获批，可与核苷（酸）类似物疗法联合使用",
+  "title_zh": "",
+  "body": "葛兰素史克：Hibsago在中国获批，可与核苷（酸）类似物疗法联合使用。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8894268.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6dfcb14d94d4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7790302857399694597,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "3770de664fb51c95",
+  "ts": "2026-11-26T18:35:57+08:00",
+  "title": "英国央行将就削减国内贷款资本进行咨询",
+  "title_zh": "",
+  "body": "英国央行将就削减国内贷款资本进行咨询。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "17cfff35a33f",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7546328727001858388,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "1c4ba3748b4942d5",
+  "ts": "2026-11-26T18:35:48+08:00",
+  "title": "英国央行：家庭和企业具有韧性，银行体系稳健",
+  "title_zh": "",
+  "body": "英国央行：家庭和企业具有韧性，银行体系稳健。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "804fef8831a5",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 2309574399324004928,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "5d82cf83a8beccdf",
+  "ts": "2026-11-26T18:35:36+08:00",
+  "title": "宏达高科：“高端功能性面料和碳纤维复合材料智能工厂及商业一体化项目”尚未产生营业收入",
+  "title_zh": "宏达高科：“高端功能性面料和碳纤维复合材料智能工厂及商业一体化项目”尚未产生营业收入",
+  "body": "宏达高科(002144)11月26日发布股票交易异常波动公告，公司2025年开始实施的“高端功能性面料和碳纤维复合材料智能工厂及商业一体化项目”目前处于建设阶段，尚未产生营业收入，对公司未来的经营业绩的影响存在不确定性。",
+  "summary": "宏达高科高端面料及碳纤维项目在建，未产生收入。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1382356.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "项目进展影响业绩预期，需关注相关产业链动态。",
+  "cluster_id": "f7e4c22fb65b",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 2105600977832112321,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "742059339c4340a5",
+  "ts": "2026-11-26T18:35:27+08:00",
+  "title": "英国央行：认为开放权重人工智能模型对恶意行为者更“有用”",
+  "title_zh": "",
+  "body": "英国央行：认为开放权重人工智能模型对恶意行为者更“有用”。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 48.7,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fa03161a0524",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11973982360453575168,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
+  "id": "c83b508c698bbe34",
+  "ts": "2026-11-26T18:34:53+08:00",
+  "title": "国家药监局批准利奈昔巴特片上市",
+  "title_zh": "国家药监局批准GlaxoSmithKline利奈昔巴特片上市",
+  "body": "近日，国家药品监督管理局通过优先审评审批程序，批准GlaxoSmithKline Trading Services Limited申报的1类创新药利奈昔巴特片（商品名称：乐纳韦）上市，该药适用于治疗成人原发性胆汁性胆管炎（PBC）患者的胆汁淤积性瘙痒。",
+  "summary": "国家药监局批准GlaxoSmithKline申报的1类创新药利奈昔巴特片上市，用于治疗PBC患者胆汁淤积性瘙痒。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1381722.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "医药股可能受关注",
+  "cluster_id": "f0c6708cd0c6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14061388727935477866,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "d344c34df3197ecc",
+  "ts": "2026-11-26T18:34:33+08:00",
+  "title": "中国石油西南油气田公司与华为签署全面合作协议",
+  "title_zh": "",
+  "body": "据华为消息，11月25日，中国石油西南油气田公司与华为技术有限公司在深圳签署全面合作协议并举办“人工智能联合创新中心” 正式揭牌活动。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e6e8e0baea7d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13851257012073294497,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "4d124ccc235839fb",
+  "ts": "2026-11-26T18:33:50+08:00",
+  "title": "英国官员：探索自研替代Palantir软件的方案",
+  "title_zh": "英国官员：探索自研替代Palantir软件的方案",
+  "body": "英国各大工会呼吁，应当推出一套“由公共部门主导”的替代系统，替换这家充满争议的美国科技公司，接管医疗数据管理工作。在此背景下，多位政府大臣正在研究，能否由国民医疗服务体系（NHS）自主开发软件，替代Palantir（Palantir）的数据分析软件。 本月大臣们公布NHS软件平台新一轮采购流程，与此同时，政府也在研究如何鼓励医院以及其他公立机构自主开发工具，而不是完全依赖私营供应商。知情人士透露，多家英国企业正排队竞标该项目；与此同时，大臣们正在考虑，可否利用NHS内部现有的数据技术人才，搭建未来联邦数据平台（FDP）的部分模块。 相关人士表示，目前多家NHS托管机构以及医疗机构已经尝试自主开发数字化工具，这套经验可以加以利用，建设全国级别的技术能力。 该构想尚处于早期阶段，但各大工会已经敦促政府更进一步，打造一套完全由NHS主导的服务，既不依赖Palantir，也不依靠私营本土企业。",
+  "summary": "英国政府考虑自主开发软件替代Palantir，用于医疗数据分析。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8157293.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "英国医疗数据管理政策变动可能影响相关软件企业业务。",
+  "cluster_id": "779164fecf93",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15480424235678906341,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "273ac3bd37f70ef2",
   "ts": "2026-11-26T18:33:46+08:00",
   "title": "东风着陆场准备就绪 迎接神舟二十三号飞船“回家”",
@@ -649,6 +870,54 @@
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
+  "id": "c86a96979bf0fcb9",
+  "ts": "2026-11-26T18:32:27+08:00",
+  "title": "君正股份(300223)：君正股份：关于全资子公司完成工商变更登记的公告",
+  "title_zh": "",
+  "body": "君正股份(300223)：君正股份：关于全资子公司完成工商变更登记的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/4a76c0d1-b275-448b-838b-67f31f089659.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6d4e3afcbd2e",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 1926945003300729202,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "46e8ea9bea4f7c2d",
+  "ts": "2026-11-26T18:32:27+08:00",
+  "title": "豪江智能(301320)：豪江智能：回购股份报告书",
+  "title_zh": "",
+  "body": "豪江智能(301320)：豪江智能：回购股份报告书",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/1dc4e079-832c-4102-8202-ba8983a7dd87.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 56.6,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "d531a90c939a",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 3768810362811303563,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
   "id": "a0aeef20269cc397",
   "ts": "2026-11-26T18:32:18+08:00",
   "title": "NatWest、劳埃德银行股价因英国央行资本提案上涨约3%",
@@ -661,16 +930,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 61.2,
+  "score": 63.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "24853d754763",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14612045232587156444,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=4 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=4 op=N spread=2 burst=3"
  },
  {
   "id": "82bbdbe2579b1450",
@@ -735,16 +1005,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 48.7,
-  "level": "L0",
+  "score": 50.4,
+  "level": "L1",
   "impact": "",
   "cluster_id": "13bc5d2835a5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 8352312523363385674,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=3"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=3"
  },
  {
   "id": "39539f6b8182494c",
@@ -759,16 +1030,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 57.2,
+  "score": 59.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "d2dc9581b508",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 12281259936475591623,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "d0847d235f9a85e8",
