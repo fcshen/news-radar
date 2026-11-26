@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "b34328ed879272e9",
+  "ts": "2026-11-26T18:43:07+08:00",
+  "title": "Deadly factory fire in Indonesia renews lack of safety enforcement fears",
+  "title_zh": "印尼糖果厂火灾引发安全监管担忧",
+  "body": "Inconsistent enforcement of Indonesia’s workplace safety regulations is creating risks for factory workers, labour advocates and building experts have warned, following a deadly blaze at a confectionery factory that raised concerns about government oversight and business operation practices. On Saturday, a fire broke out at the Fonusa Agung Mulia factory in the Cikande industrial district in Banten province, killing 26 people, with around 30 still missing. While Indonesia has extensive...",
+  "summary": "印尼一糖果厂发生火灾，致26死30失踪，引发对安全监管的担忧。",
+  "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375934/deadly-factory-fire-indonesia-renews-lack-safety-enforcement-fears",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 46.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8f5c6aab2c77",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 5898459703937019176,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "79c96e9d0c94c145",
+  "ts": "2026-11-26T18:42:30+08:00",
+  "title": "外媒：马来西亚内政部长称，贩毒集团利用马空军设施非法运输至少3吨毒品",
+  "title_zh": "外媒：马来西亚内政部长称，贩毒集团利用马空军设施非法运输至少3吨毒品",
+  "body": "据英国路透社、新加坡亚洲新闻台等媒体报道，马来西亚内政部长赛义夫丁26日在国会发表讲话时称，一个贩毒集团近年来利用马来西亚空军设施非法运输至少3吨毒品。路透社援引赛义夫丁的话称，相关部门已查明自2024年8月以来的21笔交易。涉事贩毒集团的两个分支利用包括“航空设施”在内的马来西亚空军设施，运输了价值1.56亿林吉特（约合2.53亿元人民币）的毒品。不过，赛义夫丁未具体说明相关设施是否包括马来西亚空军基地或军机。（环球网）",
+  "summary": "马来西亚内政部长称贩毒集团利用空军设施非法运输至少3吨毒品，涉及21笔交易。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1387298.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a312a16e471d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16825498348600767801,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "b2654003389ffcff",
   "ts": "2026-11-26T18:42:10+08:00",
   "title": "新加坡航空在注资前要求加强对印度航空的监管",
