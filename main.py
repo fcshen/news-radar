@@ -21,7 +21,7 @@ from radar import collectors, notify, translate
 from radar.config import load_config
 from radar.dedupe import fingerprint, simhash, find_cluster_by_title
 from radar.score import apply_score
-from radar.store import Store, make_event, now, iso
+from radar.store import Store, is_future, make_event, now, iso
 
 ROOT = Path(__file__).resolve().parent
 STOP = False
@@ -131,12 +131,16 @@ def run_round(cfg, store, dry_run=False, verbose=True):
     new_events, push_queue = [], []
     queued = set()          # 本轮已排队的 id，防止同一事件重复入队
     skipped_old = 0
+    skipped_future = 0
 
     for src, items, _ in results:
         for item in items[:40]:
             ts = item.get("ts")
             if ts is not None and ts < cutoff:
                 skipped_old += 1        # RSS 里的历史文章，不当新消息
+                continue
+            if is_future(ts):
+                skipped_future += 1     # 时间还没到（联邦公报预发布文档），不入库不推送
                 continue
             key = item.get("key")
             fp = fingerprint(item["title"], item.get("body", ""))
@@ -251,6 +255,8 @@ def run_round(cfg, store, dry_run=False, verbose=True):
 
     pushed += sweep_unpushed(cfg, store, dry_run=dry_run)
 
+    if verbose and skipped_future:
+        print(f"  （跳过 {skipped_future} 条时间未到的预发布条目）")
     return added, pushed, results, skipped_old
 
 

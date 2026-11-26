@@ -162,6 +162,7 @@ let ALL=[], TOTAL=0, FILTER="rec", LAST_SEEN=Number(localStorage.getItem("lastSe
 // 展开状态与列表分离：列表每 60 秒重建一次，靠这个集合保住已展开的卡片
 const OPEN=new Set();
 let DEEP=false;          // 推送里的 ?e=<id> 只处理一次
+let DEEP_TRIES=0;        // 找不到时最多强制重拉一次（数据可能晚一轮）
 
 const $=id=>document.getElementById(id);
 const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -235,12 +236,18 @@ function applyDeepLink(){
   if(!id){ DEEP=true; return; }
   if(!ALL.length) return;                  // 数据还没到，等下一次 render 再试
   if(!ALL.some(e=>e.id===id)){
-    // 很久以前的通知：那条已经滚出最近 300 条，给个提示，别让人以为页面坏了
+    // 数据可能比通知晚一轮（采集 10 分钟一轮 + 边缘缓存），先强制重拉一次再下结论
+    if(DEEP_TRIES<1){
+      DEEP_TRIES++;
+      load(true);
+      return;
+    }
     DEEP=true;
     const box=document.createElement("div");
     box.className="empty";
     box.style.margin="8px 4px";
-    box.innerHTML="<b>这条消息已不在最近 300 条里</b><br>下面是当前最新内容";
+    box.innerHTML="<b>这条消息已不在最近 300 条里</b><br>可能已被更新的消息顶出窗口<br>"
+      + "<a href=\"#\" onclick=\"location.reload();return false\">刷新试试</a>";
     $("list").prepend(box);
     return;
   }
@@ -278,6 +285,15 @@ function paintMeta(){
 const PAGES="data/feed.json";
 const CDN="https://cdn.jsdelivr.net/gh/fcshen/news-radar@main/data/feed.json";
 
+// GitHub Pages 的边缘缓存是 10 分钟，采集也是 10 分钟一轮，两者叠加会让手机
+// 读到最多 20 分钟前的数据——点开刚推来的通知就会"找不到这条"。
+// 加分钟级参数绕开边缘缓存；同一分钟内复用同一份，不会额外增加请求量。
+function bust(u){
+  return u + (u.indexOf("?")>=0?"&":"?") + "m=" + Math.floor(Date.now()/60000)
+            + (BUST ? "." + BUST : "");
+}
+let BUST=0;   // 手动刷新/深层链接重试时递增，保证换一个缓存键，不吃回旧副本
+
 function grab(u, signal){
   return fetch(u,{cache:"no-cache",signal})
     .then(r=>{ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
@@ -291,6 +307,7 @@ function grab(u, signal){
 async function load(manual){
   const btn=$("refresh");
   if(manual) btn.classList.add("spin");
+  if(manual) BUST++;                       // 强制刷新要换缓存键，否则可能又拿回同一份旧数据
   const ctl=new AbortController();
   const kill=setTimeout(()=>ctl.abort(),20000);
   try{
@@ -300,11 +317,11 @@ async function load(manual){
     // 偏旧时再等另一路，取较新的那份。
     const tag = u => grab(u, ctl.signal)
       .then(j => ({j, g: Date.parse((j && j.generated) || "") || 0}));
-    const reqs = [tag(PAGES), tag(CDN)];
+    const reqs = [tag(bust(PAGES)), tag(CDN)];
     let j = null;
     try{
       let win = await Promise.any(reqs);
-      if(Date.now() - win.g > 45*60000){
+      if(Date.now() - win.g > 15*60000){
         const all = (await Promise.allSettled(reqs))
           .filter(r => r.status === "fulfilled").map(r => r.value);
         win = all.reduce((a,b) => (b.g > a.g ? b : a), win);

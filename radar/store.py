@@ -18,6 +18,22 @@ def iso(dt: datetime) -> str:
     return dt.astimezone(TZ).isoformat(timespec="seconds")
 
 
+def is_future(ts, slack_minutes: int = 10) -> bool:
+    """时间在未来的条目。
+
+    为什么需要：联邦公报（Federal Register）这类源的发布时间是文档的
+    公开/生效日，会比现在晚一天。这种"还没发生"的条目如果照常入库，
+    会按时间倒序长期霸占列表头部，还会被当成突发消息推送出去。
+    """
+    try:
+        dt = datetime.fromisoformat(str(ts))
+    except (TypeError, ValueError):
+        return False
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=TZ)
+    return dt > now() + timedelta(minutes=slack_minutes)
+
+
 def atomic_write(path: Path, data, compact: bool = False) -> None:
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -91,8 +107,11 @@ class Store:
 
     def build_feed(self, limit=None):
         limit = limit or self.FEED_LIMIT
+        # 过滤掉"时间还没到"的条目：历史里已混入过联邦公报的预发布文档，
+        # 不清掉就会长期占着前 300 条窗口，把真正的最新消息挤出去。
+        rows = [e for e in self.events if not is_future(e.get("ts"))][:limit]
         out = []
-        for e in self.events[:limit]:
+        for e in rows:
             item = {k: e[k] for k in self.FEED_FIELDS
                     if e.get(k) not in (None, "", [])}
             body = (e.get("body") or "").strip()
