@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "59e110e9f04206e6",
+  "ts": "2026-11-27T06:30:24+08:00",
+  "title": "Clashes at Besiktas match against Israeli club spark diplomatic row",
+  "title_zh": "贝西克塔斯与以色列球队比赛引发外交争议",
+  "body": "Istanbul club Besiktas's supporters unfurled a pro-Palestinian banner during a UEFA Europa League match against Israeli side Hapoel Beer-Sheva in Georgia on Thursday, prompting a police response and sparking a diplomatic incident that led Turkey's foreign minister to contact his Georgian counterpart. Turkish football fans clashed with police in Batumi, temporarily halting the match, which had been moved from Istanbul over security concerns.",
+  "summary": "贝西克塔斯球迷在比赛中展示支持巴勒斯坦横幅，引发警民冲突，比赛暂停。",
+  "url": "https://www.al-monitor.com/originals/2026/11/clashes-besiktas-match-against-israeli-club-spark-diplomatic-row",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 42.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "28454db6e52e",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 5876101851597784712,
+  "reason": "tier=80 ent=1['israel'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "ca05075d8e0db0c2",
   "ts": "2026-11-27T06:23:22+08:00",
   "title": "古巴今年已批40个外资参与项目 总额约20亿美元",
