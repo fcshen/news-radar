@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "c187770ecb24507f",
+  "ts": "2026-11-26T16:58:04+08:00",
+  "title": "华康洁净：中标越南电子洁净项目，中标金额11170500美元",
+  "title_zh": "华康洁净：中标越南电子洁净项目，中标金额11170500美元",
+  "body": "华康洁净公告，公司近日参与越南某电子洁净相关项目投标，2026年11月25日收到《中标通知书》，确认公司为该项目中标供应商。中标价格1117.05万美元（按2026年11月25日汇率折算约7494.07万元人民币），约占公司2025年度经审计营业收入的3.28%。截至公告披露日，中标项目尚未签署正式合同，合同签订及条款尚存在不确定性。",
+  "summary": "华康洁净中标越南电子洁净项目，中标金额1117.05万美元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1429585.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 48.2,
+  "level": "L0",
+  "impact": "公司业绩或受项目影响。",
+  "cluster_id": "1aff0c1d53b1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4209431032022008640,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=16 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "d758ab73f3830554",
   "ts": "2026-11-26T16:56:47+08:00",
   "title": "商务部：将不断完善外资研发中心支持政策，推动外资企业提高产供链本地化水平",
@@ -800,6 +825,31 @@
   "engine": "primary"
  },
  {
+  "id": "1416597d447df100",
+  "ts": "2026-11-26T16:54:27+08:00",
+  "title": "格林美(002340)：格林美：东方金诚国际信用评估有限公司关于对格林美股份有限公司“23格林G1”终止评级的公告",
+  "title_zh": "格林美(002340)：东方金诚终止对“23格林G1”评级",
+  "body": "格林美(002340)：格林美：东方金诚国际信用评估有限公司关于对格林美股份有限公司“23格林G1”终止评级的公告",
+  "summary": "东方金诚终止对格林美“23格林G1”评级。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/41f11d26-1640-4ed3-9f31-34be07ff57c6.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "可能影响投资者对格林美信用状况的评估。",
+  "cluster_id": "64a5630ce879",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 2377804399394443201,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "043f3f82d15fb7ac",
   "ts": "2026-11-26T16:52:55+08:00",
   "title": "联合国维和人员助埃博拉防疫人员撤离刚果（金）战火",
@@ -972,6 +1022,31 @@
   "pushed": false,
   "sh": 7139615046034791386,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "8118fcb138091ddf",
+  "ts": "2026-11-26T16:49:20+08:00",
+  "title": "Explosion occurs at oil facility in Thailand’s Bangkok",
+  "title_zh": "泰国曼谷油库发生爆炸",
+  "body": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
+  "summary": "泰国曼谷东部油库发生爆炸，当局要求周边居民疏散。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 41.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c60f592f036d",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 10344110463658060321,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
  {
@@ -2088,6 +2163,31 @@
   ],
   "pushed": false,
   "sh": 1393033967369465189,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "262f634c84529831",
+  "ts": "2026-11-26T16:33:51+08:00",
+  "title": "Thanksgiving and National Day of Mourning: What is the history?",
+  "title_zh": "感恩节与哀悼日：历史回顾",
+  "body": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
+  "summary": "原住民活动家挑战感恩节叙事，强调主权和认可持续斗争。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "574bac608506",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 3071764622806951160,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
  },
