@@ -576,6 +576,202 @@
   "engine": "primary"
  },
  {
+  "id": "d50a1bae5a5575c1",
+  "ts": "2026-11-26T17:05:45+08:00",
+  "title": "商务部：将进一步扩大二手商品流通",
+  "title_zh": "商务部：将进一步扩大二手商品流通",
+  "body": "在商务部今天举行的例行新闻发布会上，新闻发言人表示，下一步，将进一步用好全国行政事业单位、国有资产调剂共享平台，扩大二手商品调剂共享的覆盖面。发言人介绍说，近年来，商务部会同有关部门启动了二手商品流通试点工作，依托财政部全国行政事业单位、国有资产调剂共享平台，建立了跨部门、跨级次、跨地区的调剂共享机制，推动闲置设备快速筛选核验、调拨运输、落地交接，把闲置的家底用起来，让二手商品转起来。此外，“互联网+二手商品”模式日益普及，带动了二手行业从传统的“一收一卖”模式，向收购、分销，服务全链条经营的转型，二手商品的租赁、竞拍等新型业态快速发展。商务部新闻发言人何亚东：下一步，商务部将会同相关部门，继续推广试点经验，进一步用好全国行政事业单位、国有资产调剂共享平台，扩大调剂共享的覆盖面，推动二手商品流通行业高质量发展。（央视新闻）",
+  "summary": "商务部将扩大二手商品流通，依托国有资产调剂共享平台，推动二手商品租赁、竞拍等新型业态发展。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaawz8959544.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 49.2,
+  "level": "L0",
+  "impact": "可能促进二手商品相关产业链发展",
+  "cluster_id": "84caec633c54",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1194248869074990594,
+  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "f970fbe8044dbd38",
+  "ts": "2026-11-26T17:05:39+08:00",
+  "title": "法国CAC指数上涨2%，至8140.22点",
+  "title_zh": "",
+  "body": "法国CAC指数上涨2%，至8140.22点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8212392.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8942dddbd7a6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11678383060187297825,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "932bb02193b99a83",
+  "ts": "2026-11-26T17:05:29+08:00",
+  "title": "东京电力正与包括软银及投资基金在内的共五家集团就资本联盟进行谈判",
+  "title_zh": "",
+  "body": "东京电力正与包括软银及投资基金在内的共五家集团就资本联盟进行谈判。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7076cd6b684a",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3385181032035463838,
+  "reason": "tier=55 ent=1['软银'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3"
+ },
+ {
+  "id": "620b392dd1edbd74",
+  "ts": "2026-11-26T17:05:20+08:00",
+  "title": "马来西亚吉隆坡综合指数收盘上涨0.6%，报1570.98点",
+  "title_zh": "",
+  "body": "马来西亚吉隆坡综合指数收盘上涨0.6%，报1570.98点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8212054.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4498701c34c2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10043098115709936045,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "d62f99f9ab5e5e90",
+  "ts": "2026-11-26T17:05:11+08:00",
+  "title": "中证指数公司：鉴于昆仑股份（836036）将于2026年11月27日终止挂牌，根据指数规则，全国股转公司与中证指数公司决",
+  "title_zh": "",
+  "body": "定自11月27日起，对三板指数的样本股做出如下调整：",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ba88caad1c95",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 48805151182682602,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "45f59c910993371b",
+  "ts": "2026-11-26T17:04:49+08:00",
+  "title": "匈牙利央行官员表示，货币政策仍需保持谨慎",
+  "title_zh": "",
+  "body": "匈牙利央行官员表示，货币政策仍需保持谨慎。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8211612.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 41.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "15c0883fb527",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12113990827551300913,
+  "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
+  "id": "e6f90d8b3d2ea3bd",
+  "ts": "2026-11-26T17:04:27+08:00",
+  "title": "欣旺达(300207)：欣旺达：关于收到公司控股股东、实际控制人、董事长提议回购公司股份的提示性公告",
+  "title_zh": "欣旺达(300207)：欣旺达：关于收到公司控股股东、实际控制人、董事长提议回购公司股份的提示性公告",
+  "body": "欣旺达(300207)：欣旺达：关于收到公司控股股东、实际控制人、董事长提议回购公司股份的提示性公告",
+  "summary": "欣旺达控股股东提议回购公司股份。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/41e5e7f3-3867-4b07-9e25-a2de9e88ba6e.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 56.6,
+  "level": "L1",
+  "impact": "可能提振投资者信心，影响股价短期表现。",
+  "cluster_id": "99bcfe2b7ad4",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 4671267554174644352,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "4187aa8aa012d79e",
+  "ts": "2026-11-26T17:04:23+08:00",
+  "title": "中证指数公司：发布中证港股通成长策略50指数等10条指数",
+  "title_zh": "中证指数公司：发布中证港股通成长策略50指数等10条指数",
+  "body": "中证指数有限公司将于2026年11月27日正式发布中证港股通成长策略50指数等10条指数，为市场提供更多投资标的和业绩基准。 中证港股通成长策略50指数从港股通综合指数样本中，选取成长因子得分排名靠前的50只上市公司证券作为指数样本，采用经成长因子得分调整后的自由流通市值加权，以反映港股通综合指数样本中成长特征较为突出的证券的整体表现。 中证全指低波动指数选取100只波动率较低的上市公司证券作为指数样本，以反映A股市场具备低波动特征的上市公司证券的整体表现。 沪深300低波动指数从沪深300指数样本中选取50只波动率较低的上市公司证券作为指数样本，以反映沪深300指数样本中具备低波动特征的上市公司证券的整体表现。 中证500低波动指数从中证小盘500指数样本中选取50只波动率较低的上市公司证券作为指数样本，以反映中证小盘500指数样本中具备低波动特征的上市公司证券的整体表现。 中证800低波动指数从中证800指数样本中选取100只波动率较低的上市公司证券作为指数样本，以反映中证800指数样本中具备低波动特征的上市公司证券的整体表现。 中证1000低波动指数从中证1000指数样本中选取100只波动率较低的上市公司证券作为指数样本，以反映中证1000指数样本中具备低波动特征的上市公司证券的整体表现。 中证A500低波动指数从中证A500指数样本中选取50只波动率较低的上市公司证券作为指数样本，以反映中证A500指数样本中具备低波动特征的上市公司证券的整体表现。 中证香港300金融指数在中证香港300指数样本中，按中证行业分类标准进行分类，以进入金融行业的全部证券作为样本编制指数，以反映香港市场金融行业的整体表现。 中证香港300内地股指数从中证香港300指数样本中按照上市公司的地域属性选取内地上市公司证券作为指数样本，以反映香港市场中内地公司证券的整体表现。 中证智选工程机械产业竞争优势指数从工程机械领域选取海外收入占比较高、海外收入占比较稳定，以及海外收入增速较快的50家上市公司作为指数样本，以反映工程机械领域具有较强产业竞争优势的上市公司证券的整体表现。",
+  "summary": "中证指数公司发布10条新指数，包括港股通成长策略50指数等。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 54.2,
+  "level": "L1",
+  "impact": "可能增加相关ETF产品选择，影响投资者策略。",
+  "cluster_id": "44aeb6a2cdbc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2460447599875135558,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "f779f67d6b6a00a6",
   "ts": "2026-11-26T17:04:20+08:00",
   "title": "东京电力公司将在2035财年前总共投资10.2万亿日元（约合4270亿元人民币）用于电网和核电站，这些设施将作为人工智能",
@@ -625,6 +821,31 @@
   "engine": "primary"
  },
  {
+  "id": "c26427fec0e0482e",
+  "ts": "2026-11-26T17:03:50+08:00",
+  "title": "伦敦金属交易所（LME）：铝库存减少2550吨，铜库存增加1175吨，锌库存减少125吨，锡库存减少130吨，铅库存减少",
+  "title_zh": "",
+  "body": "2850吨，镍库存持平。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 70.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "867502464a89",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 10062766163849486618,
+  "reason": "tier=55 ent=2['LME', 'lme'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=0 burst=3",
+  "tries": 1
+ },
+ {
   "id": "124ba21dd13dce18",
   "ts": "2026-11-26T17:03:46+08:00",
   "title": "香港联交所对中国恒大集团、恒大物业集团有限公司及七名董事采取纪律行动",
@@ -663,16 +884,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "外资研发投入增加，可能提升相关产业链A股表现。",
   "cluster_id": "a3df4f5e1056",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 9600483410170377931,
-  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=1['商务部'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -8515,16 +8737,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 40.2,
+  "score": 42.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "c9e1c7c5b575",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 1963160935322249302,
-  "reason": "tier=55 ent=2['以色列', '哈马斯'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=2['以色列', '哈马斯'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "102cf6a25d2254ae",
@@ -9658,16 +9881,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 43.2,
+  "score": 45.2,
   "level": "L0",
   "impact": "天然气价格波动可能影响相关能源股及期货价格。",
   "cluster_id": "7ff480699e45",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 8691895352999814573,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -12749,16 +12973,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "rss",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "可能影响基础设施建设相关板块表现。",
   "cluster_id": "b1361d000f09",
   "sources": [
-   "中新网财经"
+   "中新网财经",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 15029606265824154422,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
