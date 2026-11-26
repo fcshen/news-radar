@@ -196,14 +196,36 @@ def run_round(cfg, store, dry_run=False, verbose=True):
                     queued.add(ev["id"])
                     push_queue.append(ev)
 
-    # 进入摘要池以上的英文事件，入库时就补中文摘要。
-    # 否则你在看板上点开一条英文新闻，看到的是整段英文。
-    for ev in new_events:
-        if (ev.get("lang") == "en" and not ev.get("summary")
-                and ev.get("level") in ("L1", "L2", "L3")):
-            zh = translate.body_summary(ev, cfg, today=_today_key())
-            if zh:
-                ev["summary"] = zh
+    # 所有新事件统一做 AI 中文摘要（智谱 glm-4-flash 免费线路，三层降级）。
+    # 看板、摘要、推送共用同一份结果，避免各写各的。
+    # 并发调用，避免一轮几十条串行拖垮采集节奏；并发上限保守，防止触发限流。
+    def _summarize_one(ev):
+        title_zh, summary, impact, engine = ai_mod.summarize(ev, cfg)
+        if engine and engine not in ("off",):
+            ev["engine"] = engine
+        # AI 给的标题比机翻准，优先覆盖；机翻结果留着兜底
+        if title_zh:
+            if ev.get("lang") == "en":
+                ev["title_zh"] = title_zh
+            elif not ev.get("title_zh"):
+                ev["title_zh"] = title_zh
+        # 无 AI 时英文正文用机翻兜底，入库阶段若已补过就直接沿用
+        if not summary and ev.get("lang") == "en":
+            summary = ev.get("summary") or translate.body_summary(
+                ev, cfg, today=_today_key())
+        if summary:
+            ev["summary"] = summary
+        if impact:
+            ev["impact"] = impact
+        return ev
+
+    if new_events:
+        # 智谱 glm-4-flash 免费档并发限制低（免费用户约 2 并发），
+        # 并发过高会触发 429 限流，反而导致更多请求降级到本地兜底。
+        workers = min(2, max(1, len(new_events)))
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            for _ in pool.map(_summarize_one, new_events):
+                pass
 
     added = store.add_events(new_events)
     pushed = 0
@@ -211,19 +233,6 @@ def run_round(cfg, store, dry_run=False, verbose=True):
     for ev in push_queue:
         if ev["level"] == "L0":
             continue
-        title_zh, summary, impact, engine = ai_mod.summarize(ev, cfg)
-        if engine and engine not in ("off",):
-            ev["engine"] = engine
-        # AI 给的标题比机翻准，优先覆盖；机翻结果留着兜底
-        if title_zh and ev.get("lang") == "en":
-            ev["title_zh"] = title_zh
-        # 无 AI 时英文正文用机翻兜底，入库阶段若已补过就直接沿用
-        if not summary and ev.get("lang") == "en":
-            summary = ev.get("summary") or translate.body_summary(
-                ev, cfg, today=_today_key())
-        if summary:
-            ev["summary"] = summary
-        ev["impact"] = impact
         ev["tries"] = int(ev.get("tries", 0)) + 1
         if notify.push_event(cfg, ev, dry_run=dry_run):
             ev["pushed"] = True      # 只有真的送达才置位；失败留给下一轮补推
