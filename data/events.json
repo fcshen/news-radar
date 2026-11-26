@@ -576,6 +576,129 @@
   "engine": "primary"
  },
  {
+  "id": "e4fe930dfdb84f0e",
+  "ts": "2026-11-26T19:55:26+08:00",
+  "title": "荷兰官员称美国芯片限制法案将损害欧洲利益",
+  "title_zh": "荷兰官员称美国芯片限制法案将损害欧洲利益",
+  "body": "金十数据11月26日讯，荷兰贸易大臣舍尔德·舍尔德斯马（Sjoerd Sjoerdsma）周四表示，美国芯片限制法案可能会使欧洲处于一种不可接受的不利境地，该立法提案“走得过头了”。荷兰政府正竭力游说，反对这项名为《硬件技术管制多边协调法案》的跨党派提案。舍尔德斯马指出，该法案的负面影响不仅限于荷兰，其他欧洲国家的半导体产业也将受到冲击。“其后果将波及整个欧盟，而且这还会开创一个危险的先例，”舍尔德斯马在荷兰议会对议员们表示。他强调了半导体产业的重要性以及人工智能（AI）领域的快速发展，并表示：“欧洲承担不起落后的代价。”",
+  "summary": "荷兰贸易大臣表示，美国芯片限制法案可能损害欧洲利益，影响欧盟半导体产业。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "欧洲半导体产业受影响，或影响相关A股、ETF、期货表现。",
+  "cluster_id": "5f7688936df9",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1016854219531218766,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "bb9a131611d5e428",
+  "ts": "2026-11-26T19:54:53+08:00",
+  "title": "靳玉志：华为乾崑总搭载26个品牌62款车型",
+  "title_zh": "",
+  "body": "华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上披露，华为乾崑总搭载车型品牌数量26个，总搭载车型数量62款。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1435937.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "50a52285d745",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14948428924204511337,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "dc688ace07580927",
+  "ts": "2026-11-26T19:54:26+08:00",
+  "title": "芬兰国防部长：芬兰的总成本为 28 亿欧元",
+  "title_zh": "",
+  "body": "芬兰国防部长：芬兰的总成本为 28 亿欧元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1435599.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3b7c1fca83a8",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 6495980754457169938,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
+ },
+ {
+  "id": "dd50edbe63929cca",
+  "ts": "2026-11-26T19:54:18+08:00",
+  "title": "芬兰国防部长：CV90具备反无人机能力",
+  "title_zh": "",
+  "body": "芬兰将与荷兰、瑞典、挪威、立陶宛联合采购。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "39099dab7f67",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1910652917056963200,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=8 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "98787670b72d0e68",
+  "ts": "2026-11-26T19:53:42+08:00",
+  "title": "国光电器：拟以自有资金认缴出资3000万元参与共同投资",
+  "title_zh": "国光电器：拟以自有资金认缴出资3000万元参与共同投资",
+  "body": "国光电器公告，公司董事会审议通过《关于与专业机构共同投资暨关联交易的议案》。公司拟作为有限合伙人，与北京经韬私募基金管理有限公司、智度科技股份有限公司共同投资嘉兴经韬炳鑫创业投资合伙企业（有限合伙），合伙企业目标认缴出资总额为10亿元，公司拟以自有资金认缴出资3000万元，占比约3%。智度股份为公司控股股东及其一致行动人之一，本次交易构成关联共同投资，无需提交公司股东会审议。",
+  "summary": "国光电器拟以3000万元参与嘉兴经韬炳鑫创业投资合伙企业，占比3%，构成关联共同投资。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1435065.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响公司投资布局，需关注投资收益及风险。",
+  "cluster_id": "6a2c20b564c9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12173687333690287427,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "6998ffabf886efbb",
   "ts": "2026-11-26T19:53:18+08:00",
   "title": "芬兰将与荷兰、瑞典、挪威和立陶宛联合采购车辆",
@@ -588,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "fc09e890282b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 15147465390570974069,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "0b2048ba4d144504",
@@ -625,6 +749,31 @@
   "engine": "primary"
  },
  {
+  "id": "722307603bb38d53",
+  "ts": "2026-11-26T19:52:48+08:00",
+  "title": "前10月河源签发输APEC其他经济体原产地证书金额近10亿元",
+  "title_zh": "前10月河源签发输APEC其他经济体原产地证书金额近10亿元",
+  "body": "中新网河源11月26日电 (张璐 周东城)记者26日从广州海关所属河源海关(简称“河源海关”)获悉，今年1月至10月，河源海关签发输APEC其他经济体原产地证书5264份，同比增长16.3%，签证金额近10亿元(人民币，下同)，为企业在进口国享受关税优惠约8600万元。",
+  "summary": "河源海关今年1月至10月签发5264份原产地证书，签证金额近10亿元。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738336.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 45.2,
+  "level": "L0",
+  "impact": "出口增长可能影响相关行业出口企业盈利预期。",
+  "cluster_id": "09512d3ec854",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 14036594387999577675,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "7362a8d3ae801be9",
   "ts": "2026-11-26T19:52:29+08:00",
   "title": "芬兰将以28亿欧元采购160辆CV90步兵战车",
@@ -637,16 +786,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "76eee8b20c94",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5921146024591708530,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "5dacd8b20322de62",
