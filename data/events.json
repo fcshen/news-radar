@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "2cd1130de89b8c1b",
+  "ts": "2026-11-26T16:07:30+08:00",
+  "title": "文件显示，印尼国家石油公司本周第二次寻求更多1月份柴油",
+  "title_zh": "",
+  "body": "文件显示，印尼国家石油公司本周第二次寻求更多1月份柴油。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1383665.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3f65381767aa",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7127349933247309042,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "6d27655ecbe06caf",
+  "ts": "2026-11-26T16:07:10+08:00",
+  "title": "上海国际能源交易中心：进一步拓展套利指令适用范围",
+  "title_zh": "上海国际能源交易中心：进一步拓展套利指令适用范围",
+  "body": "上海国际能源交易中心发布关于进一步拓展套利指令适用范围的通知，内容为： 为了满足市场需要，提高市场运行效率，自2026年12月7日（即2026年12月4日晚连续交易时段）起，上海国际能源交易中心将拓展套利指令适用品种。此次拓展的套利指令适用品种包括低硫燃料油、集运指数（欧线）期货。",
+  "summary": "上海国际能源交易中心将自2026年12月7日起，拓展套利指令适用品种至低硫燃料油、集运指数（欧线）期货。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1383277.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "可能影响相关期货品种的交易策略和套利机会。",
+  "cluster_id": "7f72e76c5234",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11205387811463376935,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "a4ecbae9c4f45ae0",
+  "ts": "2026-11-26T16:06:39+08:00",
+  "title": "王祺扬当选三亚市委书记",
+  "title_zh": "王祺扬当选三亚市委书记",
+  "body": "2026年11月26日，中共三亚市第九届委员会第一次全体会议选举王祺扬为市委书记，盛勇军、邢清江为市委副书记，当选为市委常委的还有张思峰、王雪皓（女）、范维正、杨希义、吴斌斌、张鑫、李英挺、张陆。（海南日报）",
+  "summary": "王祺扬当选三亚市委书记，盛勇军、邢清江为市委副书记。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3694436.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "98c03ba751fc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11304707077132201518,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "ca9ee121d2e762b6",
+  "ts": "2026-11-26T16:06:15+08:00",
+  "title": "软银5年期信用违约互换利差扩大23.6个基点至536.6个基点",
+  "title_zh": "",
+  "body": "软银5年期信用违约互换利差扩大23.6个基点至536.6个基点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1382512.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 62.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "287b5f8b29b0",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 2880488864446808367,
+  "reason": "tier=55 ent=1['软银'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=N spread=2 burst=1"
+ },
+ {
   "id": "84f95912b5b5956c",
   "ts": "2026-11-26T16:05:22+08:00",
   "title": "广东：适度超前谋划布局一批服务科技创新、产业创新的重大算力设施",
@@ -687,16 +786,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "90f121e0789e",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11256128658108878044,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=8 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=8 op=N spread=2 burst=1"
  },
  {
   "id": "73ef1ea98a3eb3d5",
@@ -1009,16 +1109,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 28.2,
+  "score": 30.2,
   "level": "L0",
   "impact": "国产芯片企业或受益，关注相关产业链表现。",
   "cluster_id": "288a2849fe40",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 15065491921569900327,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -1441,6 +1542,31 @@
   "pushed": false,
   "sh": 16267463156242133428,
   "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "d34fbd193efa549d",
+  "ts": "2026-11-26T15:58:19+08:00",
+  "title": "U.S. tariff-hike threats put pressure on partners to sign trade deals",
+  "title_zh": "美国威胁提高关税，施压伙伴国签署贸易协议",
+  "body": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+  "summary": "美国计划对14个贸易伙伴国提高关税，并给予部分国家较低税率以促签贸易协议。",
+  "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 56.0,
+  "level": "L1",
+  "impact": "可能影响全球贸易环境，需关注相关国家贸易政策变动。",
+  "cluster_id": "592b6f45ec02",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 2925079749918559311,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "85a039346ae06ca0",
