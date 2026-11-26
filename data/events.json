@@ -576,6 +576,155 @@
   "engine": "primary"
  },
  {
+  "id": "8e6547dd82946f2e",
+  "ts": "2026-11-26T17:02:16+08:00",
+  "title": "147只银行理财“折戟”超去年近三成有产品仅募集2万元",
+  "title_zh": "147只银行理财“折戟”超去年近三成有产品仅募集2万元",
+  "body": "金十数据11月26日讯，市场波动剧烈，“浓眉大眼”的银行理财发行遇阻。根据同花顺数据统计，截至11月25日，今年以来已有147只银行理财产品发行失败，不但大幅超过去年同期水平，也较2025年全年的114只高出近三成。部分产品的募集结果甚至非常不理想，如上海农商银行近日表示，因该行鑫享封闭式多元配置13期混合型人民币理财产品实际募集总额低于产品最低发行规模，该行宣布上述产品不成立。根据公告，该产品的实际募集金额仅有2万元。从发行机构看，华夏理财、光大理财、平安理财、浦银理财等机构成为本轮募集失利的“重灾区”。对于募集失败的原因，多数市场人士认为，在理财产品收益率持续下行、净值波动加大的背景下，投资者的风险偏好正在经历新一轮的校准。",
+  "summary": "今年147只银行理财产品发行失败，超过去年同期，部分产品募集金额低至2万元。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "理财产品收益率下行，投资者风险偏好调整或影响市场情绪。",
+  "cluster_id": "1a88308bb07a",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12726124201492878190,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "23c81f0f3b36faa5",
+  "ts": "2026-11-26T17:02:07+08:00",
+  "title": "宏川智慧：与燧原签署经销商合作合同，获S级经销商资格，考核周期内采购不低于300台一体机",
+  "title_zh": "宏川智慧：与燧原签署经销商合作合同，获S级经销商资格，考核周期内采购不低于300台一体机",
+  "body": "宏川智慧公告，公司近日与上海燧原科技股份有限公司签署《经销商合作合同》，成为燧原指定S级经销商，可在中国大陆范围内非独家推广和销售燧原产品，合同有效期一年。合同约定考核周期内经销商采购目标为不低于300台一体机产品，如前六个月内未完成采购目标的10%，燧原有权单方提前终止合同。2026年1-9月公司及下属公司与燧原及下属公司签订产品采购合同金额2800万元（含税）。本次合同未约定固定交易总金额，具体采购需另行签署《采购订单》，对公司本年度及协议有效期内财务状况、经营业绩的具体影响尚不确定。",
+  "summary": "宏川智慧与燧原签署经销商合同，成为S级经销商，约定采购目标300台一体机。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1432733.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "公司业绩或受合作影响",
+  "cluster_id": "39cfa14c2831",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12449815056096874097,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "ce9e4c08476d154e",
+  "ts": "2026-11-26T17:01:57+08:00",
+  "title": "土耳其国防部：交战各方必须遵守国际法，不得袭击民用船只",
+  "title_zh": "",
+  "body": "土耳其国防部：交战各方必须遵守国际法，不得袭击民用船只。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "801bb16d2fa5",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13408623561842367110,
+  "reason": "tier=55 ent=1['土耳其'] pred=0 conv=0 combo=6 rel=6 sev=8 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "e539d7b51ee1b843",
+  "ts": "2026-11-26T17:01:49+08:00",
+  "title": "China made Shenzhen a showcase for tech prowess at APEC summit",
+  "title_zh": "中国将深圳作为亚太经合组织峰会展示科技实力",
+  "body": "",
+  "summary": "中国于亚太经合组织峰会期间展示深圳科技实力。",
+  "url": "https://asia.nikkei.com/techasia/china-made-shenzhen-a-showcase-for-tech-prowess-at-apec-summit",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 36.0,
+  "level": "L0",
+  "impact": "深圳科技企业可能受关注，相关板块或受益",
+  "cluster_id": "6b7a415ab847",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 14545625736866698548,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "a2446f8577d9b9d4",
+  "ts": "2026-11-26T17:01:04+08:00",
+  "title": "宏达电子：首次回购股份34.12万股 耗资1157.07万元",
+  "title_zh": "宏达电子：首次回购股份34.12万股 耗资1157.07万元",
+  "body": "宏达电子公告称，公司此前审议通过回购股份方案，拟使用不低于2000万元且不超过4000万元资金，以集中竞价方式回购股份，回购价格不超过62.88元/股，实施期限为董事会审议通过后三个月内。2026年11月25日，公司首次回购股份34.12万股，占总股本的0.08%，最高成交价34.00元/股，最低成交价33.70元/股，成交总金额1157.07万元（不含交易费用）。公司后续将在回购期限内继续推进回购计划。",
+  "summary": "宏达电子首次回购34.12万股，耗资1157.07万元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1431779.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "公司回购可能影响股价预期。",
+  "cluster_id": "dd3cc8850a80",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11544459358033121472,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "3b023b372c143d6e",
+  "ts": "2026-11-26T17:00:50+08:00",
+  "title": "获刑十三年 韩松受贿案一审宣判",
+  "title_zh": "获刑十三年 韩松受贿案一审宣判",
+  "body": "2026年11月26日，甘肃省兰州市中级人民法院一审公开宣判陕西省西安市人大常委会原党组书记、主任韩松受贿一案，对被告人韩松以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；追缴在案的受贿所得财物及孳息依法没收，上缴国库。（央视新闻）",
+  "summary": "甘肃省兰州市中级人民法院一审宣判韩松受贿案，判处有期徒刑十三年，并处罚金三百万元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8207953.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e2bdb832d090",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 663252685526309271,
+  "reason": "tier=55 ent=0[] pred=0 conv=1 combo=8 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "70d8cd82d09c84a6",
   "ts": "2026-11-26T17:00:22+08:00",
   "title": "中上协：以10月收盘价计算，上市公司境内股份总市值100万亿元",
@@ -626,6 +775,32 @@
   "engine": "primary"
  },
  {
+  "id": "839b6ff392dd4786",
+  "ts": "2026-11-26T17:00:15+08:00",
+  "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
+  "title_zh": "华为与本地软件伙伴在芯片设计工具上取得突破",
+  "body": "Huawei Technologies and a local software partner claim to have made breakthroughs in domestic chip design tools built around the telecoms equipment giant’s Tau Scaling Law, marking the latest effort to cultivate a self-reliant semiconductor supply chain in China. Hangzhou-based Phlexing Technology said at Huawei’s annual intellectual property (IP) event in Beijing on Tuesday that it had partnered with the Shenzhen-based company to develop extraction and sign-off tools for electronic design...",
+  "summary": "华为与合作伙伴在芯片设计工具上取得进展，旨在培养自主半导体供应链。",
+  "url": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 79.0,
+  "level": "L2",
+  "impact": "华为芯片技术进步可能影响半导体行业相关股票表现",
+  "cluster_id": "6723de84248e",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": true,
+  "sh": 2389381129196471161,
+  "reason": "tier=80 ent=2['huawei', 'nvidia'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "34040882f19312d3",
   "ts": "2026-11-26T17:00:13+08:00",
   "title": "欧元区10月M3货币供应同比 3.6%，预期 3.5%，前值 3.5%",
@@ -638,16 +813,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 26.2,
+  "score": 28.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "5cda9ff5d855",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 15482188587655283583,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=2 burst=3"
  },
  {
   "id": "37a2d4cc759f064a",
@@ -673,6 +849,30 @@
   "sh": 9475384185985508440,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=35 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
+ },
+ {
+  "id": "8fc04de9393480a0",
+  "ts": "2026-11-26T17:00:10+08:00",
+  "title": "华凯易佰(300592)：华凯易佰：关于取得金融机构股票回购专项贷款承诺函的公告",
+  "title_zh": "",
+  "body": "华凯易佰(300592)：华凯易佰：关于取得金融机构股票回购专项贷款承诺函的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/89bb05d1-c276-4fac-992d-58e04f5c710b.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 56.6,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "f9b6571c8360",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 10450815881339138094,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "3462bc6e4f925c4b",
@@ -725,6 +925,31 @@
   "engine": "primary"
  },
  {
+  "id": "15adeed88bd09637",
+  "ts": "2026-11-26T16:59:14+08:00",
+  "title": "平台识破暗语当“前哨”，野生动物黑灰产治理需织密共治网",
+  "title_zh": "平台识破暗语当“前哨”，野生动物黑灰产治理需织密共治网",
+  "body": "深夜山林，猎犬狂吠，直播标题写着“护农”，镜头里却是被逼上树的野生动物；笼中保护鸟类被唤作救助幼鸟，弹幕里飘着交易暗语。撕掉伪装马甲，平台治理正打到痛处。",
+  "summary": "平台识别野生动物黑灰产交易暗语，强调共治网建设。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738201.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "939c0ca4635e",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 4674724420799288318,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "417b8b56a5c52b77",
   "ts": "2026-11-26T16:59:02+08:00",
   "title": "越共中央组织部副部长访问上海",
@@ -748,6 +973,30 @@
   "sh": 18001516170906931215,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
+ },
+ {
+  "id": "0c7db0b5f818f6ec",
+  "ts": "2026-11-26T16:58:27+08:00",
+  "title": "粤万年青(301111)：粤万年青：关于对外担保的进展公告",
+  "title_zh": "",
+  "body": "粤万年青(301111)：粤万年青：关于对外担保的进展公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/f6d6ad99-da88-45a9-8d30-96284c22a696.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7b97ba518d53",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 1960285606599464046,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "86ab73192d0bb104",
@@ -2775,17 +3024,18 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 77.2,
+  "score": 79.2,
   "level": "L2",
   "impact": "可能影响双边贸易关系，需关注相关板块表现。",
   "cluster_id": "7f5ded4718b7",
   "sources": [
    "新浪财经7×24",
-   "金十数据"
+   "金十数据",
+   "中新网财经"
   ],
   "pushed": true,
   "sh": 973783490699295570,
-  "reason": "tier=55 ent=1['商务部'] pred=1 conv=0 combo=26 rel=21 sev=8 pct=0 op=N spread=2 burst=1",
+  "reason": "tier=55 ent=1['商务部'] pred=1 conv=0 combo=26 rel=21 sev=8 pct=0 op=N spread=4 burst=1",
   "engine": "primary",
   "tries": 1
  },
