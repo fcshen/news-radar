@@ -576,6 +576,201 @@
   "engine": "primary"
  },
  {
+  "id": "e64d43b5d7cc9224",
+  "ts": "2026-11-26T16:37:46+08:00",
+  "title": "汇丰于11月25日在其他交易所回购20万股，总额250万英镑",
+  "title_zh": "",
+  "body": "汇丰于11月25日在其他交易所回购20万股，总额250万英镑。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1411341.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "686e9b83547e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13582002393402152151,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "04c4667fa6c6bc46",
+  "ts": "2026-11-26T16:37:14+08:00",
+  "title": "汇川技术：完成回购股份 累计耗资2.00亿元",
+  "title_zh": "汇川技术：完成回购股份 累计耗资2.00亿元",
+  "body": "汇川技术公告称，公司已完成股份回购，2026年4月29日至11月25日通过集中竞价交易方式累计回购股份321.20万股，占公司总股本的0.12%，最高成交价78.60元/股，最低成交价49.25元/股，成交总金额2.00亿元，回购资金符合1亿元-2亿元的方案区间。本次回购股份拟用于员工持股计划或股权激励，暂存放于回购专用证券账户。回购期间，公司副总裁李瑞琳、易高翔因股权激励行权分别新增股份6000股、4万股，第一大股东深圳市汇川投资有限公司增持59万股，均与本次回购无关。",
+  "summary": "汇川技术完成股份回购，耗资2亿元，回购股份拟用于员工持股计划。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxi3719463.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "公司回购可能提升市场信心，短期股价或受提振。",
+  "cluster_id": "f6abb08539f4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11538110015132933024,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "85fd0d112a66bc2f",
+  "ts": "2026-11-26T16:37:06+08:00",
+  "title": "中化国际：证监会批复同意公司注册发行6.01亿股购买相关资产",
+  "title_zh": "中化国际：证监会批复同意公司注册发行6.01亿股购买相关资产",
+  "body": "金十数据11月26日讯，中化国际公告，公司受到证监会《关于同意中化国际（控股）股份有限公司发行股份购买资产注册的批复》，同意公司向中国蓝星（集团）股份有限公司发行601,115,925股股份购买相关资产的注册申请。",
+  "summary": "中化国际获证监会批复，同意发行6.01亿股购买资产。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 67.2,
+  "level": "L1",
+  "impact": "可能影响相关资产估值及公司股价。",
+  "cluster_id": "128946cabe68",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12401554586181310309,
+  "reason": "tier=55 ent=1['证监会'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "64a8533a306d2c9e",
+  "ts": "2026-11-26T16:37:05+08:00",
+  "title": "日本财务省高级官员：在决定下一财年债券发行计划时，将评估发债规模、市场流动性和成本",
+  "title_zh": "",
+  "body": "日本财务省高级官员：在决定下一财年债券发行计划时，将评估发债规模、市场流动性和成本。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ab00a0a22516",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13019571291291909403,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "f38c9cce5756c900",
+  "ts": "2026-11-26T16:37:03+08:00",
+  "title": "联合机械航空航天公司通过约4.5亿印度卢比（约合3240万元人民币）交易进军表面工程领域",
+  "title_zh": "",
+  "body": "联合机械航空航天公司通过约4.5亿印度卢比（约合3240万元人民币）交易进军表面工程领域。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1410639.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "af7057948209",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7095200295439793650,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "6c13de0fc97c3e80",
+  "ts": "2026-11-26T16:37:00+08:00",
+  "title": "2025年关税推出后美联储就曾搁置降息，直至就业走弱才转向宽松",
+  "title_zh": "",
+  "body": "本次叠加能源、AI需求压力，政策环境更复杂。点击查看...",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236213",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 100.0,
+  "level": "L3",
+  "impact": "",
+  "cluster_id": "cb69e95d7a8a",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 2899570580841618,
+  "reason": "tier=55 ent=1['美联储'] pred=2 conv=0 combo=31 rel=40 sev=15 pct=0 op=N spread=0 burst=1",
+  "tries": 1
+ },
+ {
+  "id": "15e6e997a4a7151f",
+  "ts": "2026-11-26T16:36:57+08:00",
+  "title": "意大利联合信贷银行表示，如果德国商业银行保留董事会，将考虑发起不信任投票",
+  "title_zh": "",
+  "body": "意大利联合信贷银行表示，如果德国商业银行保留董事会，将考虑发起不信任投票。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 17.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3b1300202abd",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17386656400742646248,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "57b034dc10ea2328",
+  "ts": "2026-11-26T16:36:10+08:00",
+  "title": "凯伦股份(300715)：凯伦股份：关于持股5%以上股东增持公司股份触及1%整数倍的公告",
+  "title_zh": "",
+  "body": "凯伦股份(300715)：凯伦股份：关于持股5%以上股东增持公司股份触及1%整数倍的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/8a78a393-07d7-47ee-b55a-647abf42f8b1.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 54.6,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "433971201922",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 4812708696418288000,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=8 op=N spread=0 burst=1"
+ },
+ {
   "id": "831e37321cdf4d25",
   "ts": "2026-11-26T16:35:38+08:00",
   "title": "日本财务省高级官员：短期债券需求可能保持强劲",
@@ -588,16 +783,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "be09002cd841",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14278198089177157889,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "dc4f3eeaa3026dd9",
@@ -662,16 +858,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 17.2,
+  "score": 18.9,
   "level": "L0",
   "impact": "",
   "cluster_id": "e3872357b8e0",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3472927924717622121,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=2 burst=1"
  },
  {
   "id": "16082b2454b8cad0",
@@ -846,6 +1043,31 @@
   "pushed": false,
   "sh": 4038768019482637929,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
+  "id": "b99a1954c18e6a78",
+  "ts": "2026-11-26T16:31:48+08:00",
+  "title": "Global stocks steady after volatile US trading over AI risks",
+  "title_zh": "全球股市在美交易波动后稳定，科技股受人工智能风险担忧",
+  "body": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+  "summary": "本月科技股受人工智能繁荣可持续性担忧影响。",
+  "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+  "source": "Financial Times",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "科技板块波动可能影响相关ETF表现。",
+  "cluster_id": "7374f535c498",
+  "sources": [
+   "Financial Times"
+  ],
+  "pushed": false,
+  "sh": 806445713989987415,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "750fc831a008c664",
@@ -1434,16 +1656,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "国际局势紧张可能影响军工板块表现。",
   "cluster_id": "4e74474b1e37",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 6994104096515367692,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
