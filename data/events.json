@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "6cbf1ceddc78cc63",
+  "ts": "2026-11-26T17:49:59+08:00",
+  "title": "克里姆林宫：欧盟向乌克兰追加拨款无助于推动和平进程",
+  "title_zh": "",
+  "body": "克里姆林宫：欧盟向乌克兰追加拨款无助于推动和平进程。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7154a841cf09",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 6125894245367296969,
+  "reason": "tier=55 ent=2['乌克兰', '欧盟'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
   "id": "6b71e08c8c47242f",
   "ts": "2026-11-26T17:49:19+08:00",
   "title": "奥伦公司在波兰喀尔巴阡山省六口井投产，预计将交付超过5亿立方米天然气",
