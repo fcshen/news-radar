@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "2e4539028a73b813",
+  "ts": "2026-11-26T20:23:44+08:00",
+  "title": "华为乾崑发起“共创者计划”，让更多用户参与生态共创",
+  "title_zh": "华为乾崑发起“共创者计划”，让更多用户参与生态共创",
+  "body": "在华为乾崑生态大会上，华为乾崑发起“共创者计划”，邀请用户体验生态功能、分享使用心得、畅想创新玩法，共同探索未来车生活。从功能体验到用户创意，华为乾崑希望让更多用户参与生态共创，为智能出行体验带来更多可能。（新浪科技）",
+  "summary": "华为乾崑生态大会推出“共创者计划”，鼓励用户参与生态功能体验和创新。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3606409.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能促进华为乾崑相关业务发展，影响相关产业链公司表现。",
+  "cluster_id": "89ad1480dc48",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2276689005452870867,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "7b64f41f76871ac7",
+  "ts": "2026-11-26T20:23:23+08:00",
+  "title": "日本政府称要在AI领域确立“仅次于美国和中国的地位”",
+  "title_zh": "日本政府称要在AI领域确立“仅次于美国和中国的地位”",
+  "body": "日本政府计划在年内修订的“安保三文件”中，提出要在AI领域确立“仅次于美国和中国的地位”，并谋求在印太地区发挥主导作用。 (环球时报)",
+  "summary": "日本政府计划在年内修订安保三文件，提出在AI领域确立仅次于美中地位。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3606106.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "AI相关概念股可能受关注。",
+  "cluster_id": "4020d9fd3443",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5551883645922720056,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "92a8ec25ff2df14c",
+  "ts": "2026-11-26T20:22:53+08:00",
+  "title": "盛视科技：NAONAO（闹闹）已于2026年11月11日正式发售",
+  "title_zh": "盛视科技：NAONAO（闹闹）已于2026年11月11日正式发售",
+  "body": "盛视科技在投资者关系活动记录表中表示，NAO机器人家族首款AI潮玩产品NAONAO（闹闹）已于2026年11月11日正式发售，目前正处于市场推广阶段，公司称销量正在持续提升，并将继续加大推广力度。",
+  "summary": "盛视科技NAONAO（闹闹）AI潮玩产品已正式发售，市场推广中，销量提升。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1323587.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "可能影响相关AI概念股表现",
+  "cluster_id": "69053464da86",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3256811742573004422,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "5c5951f9186c11d8",
   "ts": "2026-11-26T20:21:45+08:00",
   "title": "德龙汇能：股票交易异常波动 估值显著高于行业",
@@ -997,6 +1072,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=1"
  },
  {
+  "id": "ad36f730c800d6a6",
+  "ts": "2026-11-26T20:12:45+08:00",
+  "title": "With the rise of AI, are we close to having universal basic income",
+  "title_zh": "人工智能兴起，我们离全民基本收入制度有多近？",
+  "body": "Is UBI the solution to mass unemployment in an AI economy?",
+  "summary": "文章探讨人工智能时代全民基本收入（UBI）是否可解决大规模失业问题。",
+  "url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "be3430fa18e3",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 125163435528519696,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "2ea506ba93695e62",
   "ts": "2026-11-26T20:11:47+08:00",
   "title": "伊斯兰革命卫队总司令称，任何针对伊朗的侵略都将遭到伊朗巴斯基人民的毁灭性回应",
@@ -1019,6 +1119,32 @@
   "pushed": false,
   "sh": 17798781230996664593,
   "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "f8b1c2a884c29537",
+  "ts": "2026-11-26T20:10:49+08:00",
+  "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+  "title_zh": "英国制裁也门胡塞武装：原因及影响",
+  "body": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+  "summary": "英国对伊朗支持的胡塞武装及其领导人实施制裁，指控其破坏中东稳定。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 91.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "343003ccbaad",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": true,
+  "sh": 5373456983575545905,
+  "reason": "tier=55 ent=2['saudi', 'houthi'] pred=3 conv=0 combo=42 rel=29 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "78027783361e4a41",
@@ -1831,6 +1957,31 @@
   "pushed": false,
   "sh": 1626470202276092057,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
+ },
+ {
+  "id": "b87f0d171cbdb481",
+  "ts": "2026-11-26T19:56:53+08:00",
+  "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
+  "title_zh": "詹姆斯·‘费吉’·查普曼：美国试图将反战思想视为极端主义",
+  "body": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+  "summary": "近期获释活动家否认支持哈马斯指控，称其因支持巴勒斯坦而受罚。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 37.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "52ddaa2e66dd",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 1518441248615362172,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "da0d60c0babffdbb",
