@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "a38d124f57041001",
+  "ts": "2026-11-26T21:26:19+08:00",
+  "title": "中恒集团与修正集团达成战略合作",
+  "title_zh": "",
+  "body": "据中恒集团消息，近日，中恒集团与修正药业集团股份有限公司（简称“修正集团”）正式达成产品合作，双方围绕多款优质中成药品种展开深度协同。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8143943.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "dfc02807f1bf",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7575658248742930866,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "8552d69b8f03c6e2",
   "ts": "2026-11-26T21:25:01+08:00",
   "title": "小米人事调整：王晓雁分管生态链部与大家电部",
@@ -598,6 +622,31 @@
   "pushed": false,
   "sh": 4136224721720306585,
   "reason": "tier=55 ent=1['小米'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "32845974c43d4d45",
+  "ts": "2026-11-26T21:24:00+08:00",
+  "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+  "title_zh": "MarketWatch：罗思IRA转换并非免费资金。注意这5个昂贵错误。",
+  "body": "Do it poorly, and you trigger taxes you didn’t even know existed.",
+  "summary": "罗思IRA转换不当可能触发未知税费。",
+  "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 45.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b3a0215a66e9",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 13137678521311330535,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
