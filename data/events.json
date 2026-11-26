@@ -576,6 +576,229 @@
   "engine": "primary"
  },
  {
+  "id": "002818fbb24660b1",
+  "ts": "2026-11-26T19:06:10+08:00",
+  "title": "英国央行：对冲基金杠杆交易放大法债抛售压力",
+  "title_zh": "英国央行：对冲基金杠杆交易放大法债抛售压力",
+  "body": "英国央行在11月金融稳定报告中指出，持仓集中且加杠杆的对冲基金，放大了9、10月法国国债市场的压力。英国央行称：“随着市场开始关注法国财政与政治前景，部分对冲基金平仓杠杆头寸，据报道，趋势跟踪策略的大规模使用进一步助推抛售行情。”央行强调，这波行情外溢至欧元区其他主权债市场，意大利、比利时国债收益率同步波动，体现出“市场之间存在技术性联动”。报告表示，部分风险也传导至英国国债市场。",
+  "summary": "英国央行报告称，对冲基金杠杆交易加剧了法国国债市场抛售压力，影响扩散至欧元区其他主权债市场。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1402985.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 94.2,
+  "level": "L2",
+  "impact": "欧洲主权债波动可能影响全球市场情绪。",
+  "cluster_id": "b5c9a6562707",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 4362582350521709683,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=1 conv=0 combo=32 rel=40 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
+  "id": "8ecdc68e3ebee71f",
+  "ts": "2026-11-26T19:06:03+08:00",
+  "title": "亨迪药业：公司目前的经营情况及内外部经营环境未发生重大变化",
+  "title_zh": "亨迪药业：公司目前的经营情况及内外部经营环境未发生重大变化",
+  "body": "亨迪药业公告，公司股票交易价格连续3个交易日（2026年11月24日-2026年11月26日）收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动情形。经公司自查并书面核实，公司前期披露的信息不存在需要更正、补充之处；未发现近期公共传媒报道了与公司相关且市场关注度较高的未公开重大信息；公司目前的经营情况及内外部经营环境未发生重大变化；公司、控股股东及实际控制人、持有5%以上股份的股东不存在应披露而未披露的重大事项或处于筹划阶段的重大事项；股票异常波动期间，不存在控股股东、实际控制人买卖公司股票的行为。",
+  "summary": "亨迪药业股票交易异常波动，自查未发现重大变化或未公开信息。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8911584.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "亨迪药业股票波动或影响相关ETF及期货产品表现。",
+  "cluster_id": "cee4ae48bc9c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5258594410581670330,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "d7948a146b56b1ec",
+  "ts": "2026-11-26T19:05:15+08:00",
+  "title": "云煤能源：拟公开挂牌转让大西洋焊接45%股权，审计评估尚在进行中",
+  "title_zh": "云煤能源：拟公开挂牌转让大西洋焊接45%股权，审计评估尚在进行中",
+  "body": "云煤能源公告，公司拟转让持有的云南大西洋焊接材料有限公司45%股权，挂牌底价不低于经备案的资产评估值。公司于2026年11月25日召开董事会审议通过相关议案。目前相关审计和评估工作尚在进行中，待评估结果经履行国有资产监督管理职责的主体备案后，公司将在云南省产权交易所集团有限公司公开挂牌。大西洋焊接2026年6月30日未经审计净资产1.33亿元，2026年上半年营业收入2.23亿元，净利润1516.05万元。",
+  "summary": "云煤能源拟转让大西洋焊接45%股权，审计评估中。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8911149.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "可能影响云煤能源及大西洋焊接股价。",
+  "cluster_id": "5489da9cab7e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4508183812670538874,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "a9072d1baccafbcc",
+  "ts": "2026-11-26T19:05:04+08:00",
+  "title": "家家悦：公司目前生产经营情况正常",
+  "title_zh": "家家悦：公司目前生产经营情况正常",
+  "body": "家家悦公告，公司股票于2026年11月24日、11月25日、11月26日连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经自查，公司目前生产经营情况正常，内外部经营环境未发生重大变化；经向控股股东和实际控制人书面问询，不存在涉及公司的应披露而未披露导致股价异常波动的事项；公司未发现存在对公司股票交易价格可能产生重大影响的媒体报道或市场传闻，亦未发现涉及市场热点概念事项。公司2026年前三季度实现营业收入132.97亿元，同比下降2.14%。",
+  "summary": "家家悦连续三个交易日股价异常波动，自查生产经营正常，前三季度营收同比下降2.14%。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8178674.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "股价波动或受市场情绪影响，需关注公司基本面变化。",
+  "cluster_id": "b1c199ced484",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2731228472907165994,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "085712c7290be1ab",
+  "ts": "2026-11-26T19:04:54+08:00",
+  "title": "云煤能源：拟转让耐磨科技41.99%股权，评估备案及国资审批尚未完成",
+  "title_zh": "云煤能源：拟转让耐磨科技41.99%股权，评估备案及国资审批尚未完成",
+  "body": "云煤能源公告，全资子公司重装集团拟联合浩广投资将各自持有的耐磨科技股权作为同一交易整体转让，其中重装集团拟转让耐磨科技41.99%股权。本次股权转让将在云南省产权交易所集团有限公司进行预挂牌，正式挂牌底价不低于经备案的资产评估值。目前交易尚处于预挂牌阶段，交易对方、交易价格、支付方式等主要内容尚无法确定，交易标的的评估备案工作及国资审批流程尚未完成，相关审计和评估工作尚在进行中。",
+  "summary": "云煤能源拟转让耐磨科技41.99%股权，交易尚处预挂牌阶段，评估备案及国资审批未完成。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1402197.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "可能影响耐磨科技股价及云煤能源市值。",
+  "cluster_id": "007680caeaed",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3811888010625135648,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "6b09957120bfd1c6",
+  "ts": "2026-11-26T19:04:27+08:00",
+  "title": "睿智医药(300149)：睿智医药：关于下属公司拟退还土地的公告",
+  "title_zh": "",
+  "body": "睿智医药(300149)：睿智医药：关于下属公司拟退还土地的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/b202e3c3-e4c5-429c-9c74-136a1f85c812.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6be5aad51cc8",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 15186679153600579712,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "e7c242e8ade8dce5",
+  "ts": "2026-11-26T19:04:27+08:00",
+  "title": "三角防务(300775)：三角防务：关于董事长部分股份质押的公告",
+  "title_zh": "",
+  "body": "三角防务(300775)：三角防务：关于董事长部分股份质押的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/20e36d5e-aee7-4a70-bb07-bcacd9daeb01.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2e2b74e30bbc",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 8471517276863566154,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "662ec7b734724387",
+  "ts": "2026-11-26T19:04:27+08:00",
+  "title": "武汉天源(301127)：武汉天源：关于回购注销部分限制性股票、变更回购股份用途并注销、回购公司股份并注销暨通知债权人公告",
+  "title_zh": "武汉天源(301127)：关于回购注销部分限制性股票等公告",
+  "body": "武汉天源(301127)：武汉天源：关于回购注销部分限制性股票、变更回购股份用途并注销、回购公司股份并注销暨通知债权人公告",
+  "summary": "武汉天源公告回购注销部分限制性股票，变更回购股份用途并注销，回购公司股份并注销。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/bb8f008f-308b-470d-803f-5ef57ae5b252.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 56.6,
+  "level": "L1",
+  "impact": "公司股份变动，可能影响股价及投资者情绪。",
+  "cluster_id": "5479e0cfb09d",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 369267749651301028,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "3e3fa023552ac8ac",
+  "ts": "2026-11-26T19:04:10+08:00",
+  "title": "亨迪药业(301211)：亨迪药业：关于公司股票交易异常波动的公告",
+  "title_zh": "",
+  "body": "亨迪药业(301211)：亨迪药业：关于公司股票交易异常波动的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/a01f4544-6d48-4ef4-9cdb-29f0f1bfeb22.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "1a82d6d2ddd9",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 12130419239470344630,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
   "id": "088bb86ab6ed99c1",
   "ts": "2026-11-26T19:03:51+08:00",
   "title": "蓝盾光电：重大资产重组核查对象无买卖股票情形",
@@ -613,16 +836,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 42.2,
+  "score": 44.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "502f6e41fb4b",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 2788529734668684885,
-  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "d4937dc1796c085b",
@@ -915,7 +1139,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 283948613213236343,
   "reason": "tier=80 ent=1['russia'] pred=0 conv=0 combo=6 rel=17 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1168,7 +1392,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9270615158503675654,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=8 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -1929,7 +2153,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4952912611144414954,
   "reason": "tier=55 ent=0[] pred=3 conv=1 combo=28 rel=0 sev=8 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -2078,7 +2302,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10480172337743076184,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=8 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -2253,7 +2477,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12113927147326802753,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -2403,7 +2627,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7546328727001858388,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -2427,7 +2651,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2309574399324004928,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -2624,7 +2848,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4955372138577023344,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -2673,7 +2897,7 @@
    "深交所公告",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3768810362811303563,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -2698,7 +2922,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14612045232587156444,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=4 op=N spread=2 burst=3"
  },
@@ -2722,7 +2946,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2801007795534837078,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -2747,7 +2971,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6953056506011771750,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
@@ -2773,7 +2997,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8352312523363385674,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=3"
  },
@@ -2798,7 +3022,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12281259936475591623,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -2823,7 +3047,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7213383105952166980,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -2848,7 +3072,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17473749515695337550,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
@@ -2873,7 +3097,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2349557873455543628,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
  },
@@ -2898,7 +3122,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11653092248312444197,
   "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
@@ -3268,7 +3492,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7092587885624655127,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=16 sev=15 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3544,7 +3768,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11603658774037274915,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3569,7 +3793,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11534325962094755858,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=35 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3694,7 +3918,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3844513188901040273,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
@@ -3769,7 +3993,7 @@
   "sources": [
    "深交所公告"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1512062805435372551,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -3994,7 +4218,7 @@
   "sources": [
    "MarketWatch"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9639145856688047283,
   "reason": "tier=80 ent=0[] pred=2 conv=0 combo=16 rel=0 sev=0 pct=12 op=Y spread=0 burst=3",
   "engine": "primary"
@@ -4069,7 +4293,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10780828732824051332,
   "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=15 pct=0 op=N spread=2 burst=3"
  },
@@ -4117,7 +4341,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11031304994175351360,
   "reason": "tier=55 ent=2['央行', '印度'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=Y spread=0 burst=3"
  },
@@ -4142,7 +4366,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11539668345837076191,
   "reason": "tier=55 ent=3['央行', '美联储'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=Y spread=2 burst=3"
  },
@@ -4514,7 +4738,7 @@
   "sources": [
    "NYT Business"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 122847039962778529,
   "reason": "tier=80 ent=2['huawei', 'trump'] pred=0 conv=0 combo=8 rel=24 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
@@ -10792,16 +11016,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 52.2,
+  "score": 54.2,
   "level": "L1",
   "impact": "可能提升投资者信心，短期股价或受提振。",
   "cluster_id": "52233181636b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 9520224210323260608,
-  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=16 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=16 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
