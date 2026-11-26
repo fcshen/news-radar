@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "c98a1a198dad0353",
+  "ts": "2026-11-26T15:38:31+08:00",
+  "title": "高盛：预计沪深300明年上涨10% 上调港股至高配",
+  "title_zh": "高盛：预计沪深300明年上涨10% 上调港股至高配",
+  "body": "金十数据11月26日讯，“未来一年，港股的盈利同比增速有可能达到15%左右。”11月25日，高盛首席中国股票策略分析师刘劲津在该行年度经济与股市展望媒体会上表示，高盛将港股由中性上调至高配。高盛预计，2027年MSCI中国指数和沪深300指数将分别上涨23%和10%。从中国市场来看，高盛将半导体、医药和服务消费由中性上调至高配，维持对银行板块的高配建议。",
+  "summary": "高盛预计沪深300指数明年上涨10%，上调港股至高配。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "可能提振投资者信心，关注相关板块表现。",
+  "cluster_id": "e20620ab1b8e",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 261247675760239657,
+  "reason": "tier=55 ent=1['高盛'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=12 op=Y spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "bc580529a5a18ce6",
   "ts": "2026-11-26T15:36:59+08:00",
   "title": "金十期货图示",
@@ -7206,16 +7231,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 39.2,
+  "score": 41.2,
   "level": "L0",
   "impact": "可能影响相关国家粮食安全，进而影响全球粮食市场。",
   "cluster_id": "1b11936d5824",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 12056010261356837031,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
