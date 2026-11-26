@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "bf1da167910354d4",
+  "ts": "2026-11-27T07:26:29+08:00",
+  "title": "航空电池走向工程验证 技术与市场仍需双向突破",
+  "title_zh": "航空电池走向工程验证 技术与市场仍需双向突破",
+  "body": "从地面到天空，动力电池企业正在寻找新的增长空间。11月以来，宁德时代接连与蓝色向量、亿维特航空两家电动垂直起降飞行器（eVTOL）企业达成独家电池合作，并与中国民航大学签约共建航空电池适航技术创新联合实验室。与此同时，11月14日，中国商飞研制的10吨级电动商用飞机CE-25A完成首次有人驾驶智能飞行。多位受访人士认为，相较于一两年前，航空电池行业正从追求单一性能指标的突破，走向航空级综合性能与工程化能力的提升。不过，从电池具备批量生产能力，到航空器真正实现商业化运营，仍有不少关卡需要跨越。（上海证券报）",
+  "summary": "宁德时代与eVTOL企业合作，中国商飞电动商用飞机完成首次有人驾驶飞行。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "航空电池技术发展或影响相关产业链公司业绩。",
+  "cluster_id": "89cf99fd0296",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 111326253535904148,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "78b0f3d0fad66fe3",
+  "ts": "2026-11-27T07:25:58+08:00",
+  "title": "中信建投信用债2027年投资策略：低利差尾声中的信用债重定价",
+  "title_zh": "中信建投2027年信用债投资策略：低利差尾声中的信用债重定价",
+  "body": "中信建投研报指出，2026年信用利差持续压缩，处于历史极低分位。展望2027年，从信用周期视角看，当前融资需求仍在低位，信用利差缺少趋势性走阔基础，但风险扰动项增多，市场或呈现结构性分化的行情。策略上，建议关注波段机会，优选品种，票息打底。城投债关注化债进展，当前下沉性价比较低，优选高资质地区及主体，关注分化带来的信用挖掘机会；产业债关注房地产筑底节奏；金融债预计跟随利率，小幅偏强，利用二永债高弹性把握估值波动。择时上，把握事件性冲击及扩散带来的配置机会。",
+  "summary": "中信建投发布2027年信用债投资策略，预计信用利差将呈现结构性分化。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1031026.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 39.2,
+  "level": "L0",
+  "impact": "信用债市场策略调整可能影响相关ETF和期货产品表现。",
+  "cluster_id": "d5b18a187880",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12661189807468251947,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "466df0a530b0c0ab",
+  "ts": "2026-11-27T07:25:57+08:00",
+  "title": "新一代通信网建设“施工图”出炉 三大细分产业驶入发展“快车道”",
+  "title_zh": "新一代通信网建设“施工图”出炉 三大细分产业驶入发展“快车道”",
+  "body": "11月26日，工业和信息化部、国家网信办、国家发展改革委联合印发《新一代通信网建设实施方案》，以“432”框架布局四张网、三项能力、两大支撑，明确提出以5G-A/6G、万兆光网、卫星互联网为核心支撑，将新一代通信网重新定义为经济社会运行的“神经系统”。据测算，未来五年新一代通信网建设将撬动约7万亿元市场规模，成为扩大有效投资、稳定经济大盘的重要抓手。记者发现，6G、低空经济、卫星直连手机等赛道被提及，有望为产业链发展打开新增长空间。（上海证券报）",
+  "summary": "工信部等联合发布《新一代通信网建设实施方案》，提出5G-A/6G、万兆光网、卫星互联网为核心，预计未来五年市场规模约7万亿元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7807405.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "通信设备、光模块、卫星互联网产业链相关公司受益",
+  "cluster_id": "8a7d02cb526a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13251320787410589783,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "981331969d52e484",
   "ts": "2026-11-27T07:24:20+08:00",
   "title": "Neuren股价下跌18%，此前其公布Pitt Hopkins综合征3期临床开发进展",
@@ -619,7 +694,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3243852191602528296,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -719,7 +794,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 18076991222041521387,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=31 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -794,7 +869,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2026431958329382912,
   "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -943,7 +1018,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1817355577368135160,
   "reason": "tier=55 ent=3['乌克兰', '普京'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -1315,7 +1390,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15663414477071931264,
   "reason": "tier=55 ent=1['israel'] pred=3 conv=0 combo=36 rel=7 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -1340,7 +1415,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 47249617065235432,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -1659,7 +1734,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5023114875161841713,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=38 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -1907,7 +1982,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11913929855233873241,
   "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=21 sev=8 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -2156,7 +2231,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 227296642288937814,
   "reason": "tier=55 ent=2['北约', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
@@ -2720,11 +2795,12 @@
   "impact": "美联储加息预期或影响美元及全球金融市场，需关注相关资产表现。",
   "cluster_id": "bedd1e8056d0",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": true,
   "sh": 9383619350938981937,
-  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=12 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=12 op=N spread=2 burst=1",
   "engine": "primary",
   "tries": 1
  },
@@ -4601,7 +4677,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5344424862452418751,
   "reason": "tier=55 ent=2['以色列', '真主党'] pred=0 conv=0 combo=8 rel=12 sev=8 pct=0 op=N spread=2 burst=1"
  },
