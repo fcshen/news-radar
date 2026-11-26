@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "a9a49bc9718e3eb5",
+  "ts": "2026-11-26T16:49:34+08:00",
+  "title": "国星光电：可折叠产品主要采用OLED柔性屏 公司暂不涉及OLED产品",
+  "title_zh": "国星光电：可折叠产品主要采用OLED柔性屏 公司暂不涉及OLED产品",
+  "body": "有投资者在互动平台向国星光电提问，请问公司的折叠屏产品是否有直接或间接切入华为、小米或者苹果的供应链？国星光电回复称，可折叠产品主要采用OLED柔性屏，公司暂不涉及OLED产品。除此以外，公司与多家头部客户保持合作，如显控类产品持续深化和格力、美的、小米等客户合作；穿戴感测器件也与头部消费电子龙头有相关合作。",
+  "summary": "国星光电可折叠产品采用OLED柔性屏，不生产OLED产品。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1422692.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "OLED柔性屏产业链相关公司可能受影响。",
+  "cluster_id": "5def06048890",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7139615046034791386,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "e9040942cca5304b",
+  "ts": "2026-11-26T16:48:42+08:00",
+  "title": "埃森哲调研：近八成中国企业加注AI投入 仅两成高管看到广泛业务价值",
+  "title_zh": "埃森哲调研：近八成中国企业加注AI投入 仅两成高管看到广泛业务价值",
+  "body": "埃森哲最新“变革脉动”（Pulse of Change）调研显示，79%的中国企业计划继续增加AI投入，57%通过新增预算支持，高于全球平均。但仅20%高管表示企业已从AI获得广泛持续业务价值，员工中不到一成。其中，AI与核心业务战略缺乏整合（21%）是最大限制因素。调研指出，企业目标已转向增长，但价值体系仍停留在效率，AI接入流程快于重新设计流程。",
+  "summary": "近八成中国企业增加AI投入，仅两成高管认可业务价值。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1421890.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "AI行业相关股票可能受关注。",
+  "cluster_id": "7d7bcd11c9fe",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5038370551012191988,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "0b4a8b35846e268c",
   "ts": "2026-11-26T16:47:34+08:00",
   "title": "AMS-OSRAM股票复牌后上涨7.3%",
