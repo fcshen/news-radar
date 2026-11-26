@@ -21,9 +21,12 @@ def blend(base, top, alpha):
     return tuple(int(b + (t - b) * alpha) for b, t in zip(base, top))
 
 
-def pixel(x, y, size):
+def pixel(x, y, size, content=1.0):
+    """content：图案占画布的比例。安卓 maskable 图标必须把内容缩到中心，
+    否则启动器裁成圆形时外圈会被切掉（这是安卓上图标变形的根因）。"""
     c = size / 2.0
-    dx, dy = x + 0.5 - c, y + 0.5 - c
+    # 除以 content 等于把图案整体缩小，四周自然留出背景色安全区
+    dx, dy = (x + 0.5 - c) / content, (y + 0.5 - c) / content
     r = math.hypot(dx, dy)
     scale = size / 512.0
 
@@ -54,12 +57,12 @@ def pixel(x, y, size):
     return col
 
 
-def write_png(path, size):
+def write_png(path, size, content=1.0):
     rows = []
     for y in range(size):
         row = bytearray([0])                          # filter type 0
         for x in range(size):
-            row += bytes(pixel(x, y, size)) + b"\xff"
+            row += bytes(pixel(x, y, size, content)) + b"\xff"
         rows.append(bytes(row))
     raw = b"".join(rows)
 
@@ -74,12 +77,25 @@ def write_png(path, size):
     path.write_bytes(png)
 
 
+# 常规图标留 8% 边：多数安卓启动器会加圆角/圆形遮罩，铺满会被切掉
+# maskable 缩到 60%：安卓安全区是中心直径 66% 的圆，超出 80% 的部分会被裁掉
+ANY = 0.92
+MASKABLE = 0.60
+
+
 def main():
     OUT.mkdir(exist_ok=True)
-    for size, name in ((512, "icon-512.png"), (192, "icon-192.png"),
-                       (180, "apple-touch-icon.png")):
-        write_png(OUT / name, size)
-        print(f"  ✓ assets/{name}  {size}x{size}")
+    jobs = [
+        (512, "icon-512.png", ANY),
+        (192, "icon-192.png", ANY),
+        (144, "icon-144.png", ANY),
+        (180, "apple-touch-icon.png", ANY),
+        (512, "icon-maskable-512.png", MASKABLE),
+    ]
+    for size, name, content in jobs:
+        write_png(OUT / name, size, content)
+        tag = "maskable" if content < 1.0 and "maskable" in name else "any"
+        print(f"  ✓ assets/{name}  {size}x{size}  content={content} ({tag})")
     return 0
 
 

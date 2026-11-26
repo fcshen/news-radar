@@ -8,8 +8,8 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="金融雷达">
-<link rel="manifest" href="manifest.webmanifest?v=3">
-<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest?v=4">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
 <link rel="icon" href="assets/icon-192.png">
 <title>金融事件雷达</title>
 <style>
@@ -90,6 +90,21 @@
     .ttl{font-size:14.5px}
     main{padding:6px 8px}
   }
+  /* 安卓安装引导：固定在底部，不影响内容流 */
+  .install-bar{position:fixed;left:50%;transform:translateX(-50%);
+    bottom:calc(10px + var(--safe-b));width:calc(100% - 24px);max-width:816px;
+    display:flex;align-items:center;gap:10px;background:var(--panel2);
+    border:1px solid var(--line);border-radius:14px;padding:11px 12px;
+    box-shadow:0 8px 28px rgba(0,0,0,.55);z-index:60}
+  .install-bar[hidden]{display:none}
+  .ib-txt{flex:1;min-width:0;display:flex;flex-direction:column;line-height:1.35}
+  .ib-txt b{font-size:13.5px}
+  .ib-txt span{font-size:11.5px;color:var(--dim)}
+  .ib-go{flex:0 0 auto;border:0;background:var(--l3);color:#fff;font-size:13px;
+    font-weight:500;padding:8px 15px;border-radius:9px;cursor:pointer}
+  .ib-go:active{filter:brightness(.9)}
+  .ib-no{flex:0 0 auto;border:0;background:transparent;color:var(--faint);
+    font-size:14px;cursor:pointer;padding:6px;line-height:1}
 </style>
 </head>
 <body>
@@ -116,6 +131,15 @@
   <span id="stat">—</span>
   <a href="setup.html">推送设置</a>
 </footer>
+
+<div id="installBar" class="install-bar" hidden>
+  <div class="ib-txt">
+    <b>装到桌面</b>
+    <span>像 App 一样全屏打开，不用每次输网址</span>
+  </div>
+  <button id="ibGo" class="ib-go">安装</button>
+  <button id="ibNo" class="ib-no" aria-label="关闭">✕</button>
+</div>
 
 <script>
 const TL={official:"官方",exchange:"交易所",authority:"权威媒体",media:"媒体",unverified:"未证实"};
@@ -276,6 +300,39 @@ window.addEventListener("beforeunload",()=>{
 if("serviceWorker" in navigator && location.protocol==="https:"){
   navigator.serviceWorker.register("sw.js").catch(()=>{});
 }
+
+/* ---------- 安卓「装到桌面」引导 ----------
+   安卓 Chrome 支持 beforeinstallprompt，此时可以主动弹系统安装框，
+   比让用户去菜单里找「添加到主屏幕」成功率高得多。
+   已安装（standalone）或用户 30 天内关过就不再打扰。 */
+(function(){
+  const bar=$("installBar"), KEY="ibDismissedAt";
+  const standalone=matchMedia("(display-mode: standalone)").matches
+    || navigator.standalone===true;
+  let deferred=null;
+  const dismiss=()=>{ try{localStorage.setItem(KEY,Date.now())}catch(e){} bar.hidden=true; };
+
+  window.addEventListener("beforeinstallprompt",e=>{
+    e.preventDefault();
+    deferred=e;
+    let last=0; try{last=Number(localStorage.getItem(KEY)||0)}catch(err){}
+    if(standalone || Date.now()-last < 30*864e5) return;
+    bar.hidden=false;
+  });
+
+  $("ibGo").addEventListener("click",async()=>{
+    if(!deferred){ dismiss(); return; }
+    deferred.prompt();
+    try{ await deferred.userChoice; }catch(e){}
+    deferred=null; bar.hidden=true;
+  });
+  $("ibNo").addEventListener("click",dismiss);
+  window.addEventListener("appinstalled",()=>{ bar.hidden=true; deferred=null; });
+
+  // 主屏快捷方式「刷新看板」带 ?action=refresh 进来时立即拉一次
+  if(new URLSearchParams(location.search).get("action")==="refresh") load(true);
+})();
+
 load();
 </script>
 </body>
