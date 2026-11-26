@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "3191ba57ac37e284",
+  "ts": "2026-11-26T20:26:25+08:00",
+  "title": "分析师预测：英伟达芯片或优先供给资金雄厚客户，新云赛道迎来洗牌",
+  "title_zh": "分析师预测：英伟达芯片或优先供给资金雄厚客户，新云赛道迎来洗牌",
+  "body": "随着融资环境收紧，英伟达可能会将更多AI芯片分配给财务状况更雄厚的新兴云服务商，而财务薄弱的基础设施提供商面临出局风险。分析师认为，一轮行业洗牌将使市场向少数资金充裕的头部玩家集中，同时也使英伟达在芯片销售、投资和产能承诺方面面临风险。Morningstar高级风投研究分析师高凯迪在研报中指出，英伟达最新的融资要求可能成为新云服务商的一场大考。这些服务商建造配备GPU的数据中心、并向AI公司出租算力。",
+  "summary": "英伟达可能优先向资金雄厚客户供应AI芯片，新兴云服务商面临洗牌。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8102605.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "英伟达供应商和云服务行业可能受影响。",
+  "cluster_id": "44855991d807",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8672077618000250220,
+  "reason": "tier=55 ent=1['英伟达'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=Y spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "9b40f834a459d5f6",
+  "ts": "2026-11-26T20:25:52+08:00",
+  "title": "国际现货金银在周三大跌后暴力反弹，但筹码已在高位堆积成峰，迟迟无法突破恐酝酿再次下跌......",
+  "title_zh": "国际现货金银周三大跌后反弹，筹码堆积恐再跌......",
+  "body": "国际现货金银在周三大跌后暴力反弹，但筹码已在高位堆积成峰，迟迟无法突破恐酝酿再次下跌......",
+  "summary": "国际现货金银周三大跌后反弹，筹码堆积高位，突破困难。",
+  "url": "https://xnews.jin10.com/details/236232",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "金银价格波动可能影响相关ETF和期货产品表现。",
+  "cluster_id": "5045f5fc3851",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14996932879231851084,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "6e7dd7310591a18b",
   "ts": "2026-11-26T20:25:41+08:00",
   "title": "托克关闭荷兰Nyrstar锌冶炼业务",
@@ -613,16 +663,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 74.2,
+  "score": 76.2,
   "level": "L2",
   "impact": "可能增加市场流动性预期。",
   "cluster_id": "804ab2085b06",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 4848606369979322566,
-  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=38 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=38 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary",
   "tries": 1
  },
