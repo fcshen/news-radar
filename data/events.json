@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "6998ffabf886efbb",
+  "ts": "2026-11-26T19:53:18+08:00",
+  "title": "芬兰将与荷兰、瑞典、挪威和立陶宛联合采购车辆",
+  "title_zh": "",
+  "body": "芬兰将与荷兰、瑞典、挪威和立陶宛联合采购车辆。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8211136.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fc09e890282b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15147465390570974069,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "0b2048ba4d144504",
+  "ts": "2026-11-26T19:53:07+08:00",
+  "title": "盟科药业：1类新药注射用乙磷康替唑胺钠获批上市",
+  "title_zh": "盟科药业：1类新药注射用乙磷康替唑胺钠获批上市",
+  "body": "盟科药业公告，公司近日收到国家药品监督管理局通知，批准公司自主研发的1类新药注射用乙磷康替唑胺钠（商品名：优喜泰）上市，剂型为注射剂，适应症为复杂性皮肤和软组织感染。该药为公司已上市产品康替唑胺基础上开发的水溶性前药。本次获批基于一项以利奈唑胺为对照的中国III期临床试验，结果显示该药非劣效于利奈唑胺，且未引起骨髓抑制相关血液学参数显著变化。该事项预计不会对公司本年度经营业绩产生重大影响。",
+  "summary": "盟科药业1类新药注射用乙磷康替唑胺钠获批上市，用于复杂性皮肤和软组织感染。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8939065.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "新药上市可能提升公司业绩预期。",
+  "cluster_id": "9f83449400c2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12142387524798230742,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "7362a8d3ae801be9",
+  "ts": "2026-11-26T19:52:29+08:00",
+  "title": "芬兰将以28亿欧元采购160辆CV90步兵战车",
+  "title_zh": "",
+  "body": "芬兰将以28亿欧元采购160辆CV90步兵战车。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiex8938731.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "76eee8b20c94",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5921146024591708530,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "5dacd8b20322de62",
+  "ts": "2026-11-26T19:51:42+08:00",
+  "title": "恒舟驭远与奇安信签署战略合作协议，覆盖恒舟一号研制、测试、发射和运营",
+  "title_zh": "恒舟驭远与奇安信签署战略合作协议，覆盖恒舟一号研制、测试、发射和运营",
+  "body": "商业航天企业恒舟驭远与奇安信签署战略合作协议。双方将结合恒舟一号运载火箭的研制进度，分阶段建设覆盖研制、测试、发射和运营的信息安全防护体系。据介绍，恒舟驭远专注于大运力可复用运载火箭研发，将为合作提供火箭研制业务场景、业务需求和试点验证环境。奇安信将组建专项服务团队，提供从安全架构设计到常态化运营的全周期技术支撑。",
+  "summary": "恒舟驭远与奇安信合作，共同建设恒舟一号运载火箭全周期信息安全防护体系。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8210180.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "航天产业链相关公司可能受益",
+  "cluster_id": "0a2566a3ebcd",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14556554323885687102,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "3b2963e856b1b628",
   "ts": "2026-11-26T19:51:23+08:00",
   "title": "欧洲议会支持推迟进口甲烷法规",
@@ -598,6 +696,31 @@
   "pushed": false,
   "sh": 11570882283562377965,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "bb9cb26c3047d0e5",
+  "ts": "2026-11-26T19:50:51+08:00",
+  "title": "纳指暴跌前100%清仓，如今他仍拒绝抄底",
+  "title_zh": "",
+  "body": "美国经济狂飙市场却崩，美联储加息竟是“假动作”？AI暗雷未爆，一场超级转向却已悄然落子……点击查看…",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236218",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 72.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "f9520ccf670f",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 8645675581133955263,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=8 pct=12 op=N spread=0 burst=3",
+  "tries": 1
  },
  {
   "id": "0382eb251e58cbf8",
@@ -1367,6 +1490,31 @@
   "pushed": false,
   "sh": 4631188161063240730,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "3acd1a972abcbbba",
+  "ts": "2026-11-26T19:38:20+08:00",
+  "title": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
+  "title_zh": "勒布朗·詹姆斯成NBA最老三双先生，76人击败热火",
+  "body": "James posted 25 points, 12 assists and 10 rebounds as Philadelphia snapped Miami s seven-game winning streak.",
+  "summary": "勒布朗·詹姆斯在76人队对阵热火比赛中，成为NBA最老三双先生，贡献25分、12助攻和10篮板。",
+  "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ba6afd75682b",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 9397025976218854437,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
