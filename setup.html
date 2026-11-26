@@ -57,6 +57,16 @@
   <h1>手机推送设置</h1>
   <p class="sub">填一次就好。之后 L2 以上事件会推到你手机，不用一直开着网页。</p>
 
+  <div class="card" id="devCard">
+    <h2>当前设备（自动识别，不用填）</h2>
+    <div id="devInfo" style="font-size:14px">识别中…</div>
+    <p class="tip" id="devAdvice" style="margin-bottom:8px"></p>
+    <details>
+      <summary style="font-size:12px;color:var(--faint);cursor:pointer">识别依据（要发给助手时截这段）</summary>
+      <pre id="devUA" style="white-space:pre-wrap;word-break:break-all;font-size:11px;color:var(--dim);background:var(--panel2);padding:8px;border-radius:7px"></pre>
+    </details>
+  </div>
+
   <div class="card">
     <h2>主通道 · Bark</h2>
     <div class="status"><span class="led off" id="led"></span><span id="state">检查中…</span></div>
@@ -134,6 +144,52 @@
 
 <script>
 const $=id=>document.getElementById(id);
+
+/* 设备自检：用户往往说不清自己是鸿蒙几代，直接从 UA 读出来。
+   鸿蒙 5/6 用 OpenHarmony + ArkWeb，鸿蒙 4 及以下仍是 Android + HarmonyOS。 */
+(function(){
+  const ua=navigator.userAgent||"";
+  const pureVer=(ua.match(/OpenHarmony\s*([\d.]+)/i)||[])[1];
+  const oldVer=(ua.match(/HarmonyOS\s*([\d.]+)/i)||[])[1];
+  let name="其他设备", ver="", kind="other", pure=false;
+  if(pureVer){ name="华为鸿蒙"; ver=pureVer; kind="harmony"; pure=true; }
+  else if(/ArkWeb/i.test(ua)){ name="华为鸿蒙"; ver="5 或更新"; kind="harmony"; pure=true; }
+  else if(oldVer){ name="华为鸿蒙"; ver=oldVer; kind="harmony"; }
+  else if(/HarmonyOS/i.test(ua)){ name="华为鸿蒙"; ver="4 或更早"; kind="harmony"; }
+  else if(/iPhone|iPad|iPod/i.test(ua)){
+    name="苹果"; ver=(ua.match(/OS (\d+)[_ ]/)||[])[1]||""; kind="ios";
+  }
+  else if(/Android/i.test(ua)){
+    name="安卓"; ver=(ua.match(/Android (\d+)/)||[])[1]||""; kind="android";
+  }
+
+  const browser=/MicroMessenger/i.test(ua)?"微信内置浏览器"
+    :/Edg\//i.test(ua)?"Edge"
+    :/Chrome\//i.test(ua)?"Chrome"
+    :/Safari\//i.test(ua)?"Safari":"华为浏览器或其他";
+  const fromHome=matchMedia("(display-mode: standalone)").matches||navigator.standalone===true;
+
+  $("devInfo").innerHTML="<b>"+name+(ver?" "+ver:"")+"</b> · "+browser
+    +(fromHome?" · 已从桌面图标打开":"");
+  $("devUA").textContent=ua;
+
+  let advice="";
+  if(kind==="harmony"&&pure){
+    advice="这是纯血鸿蒙。开源版 Bark 只支持苹果，装不上；收通知要改用鸿蒙版 <b>Shark</b> 或 <b>Hotify</b>（华为应用市场搜得到）。"
+      +"装好后把它给的推送地址发我，我改云端配置。装桌面用「右下角 ∷ → 添加至桌面」——"
+      +"鸿蒙目前可能仍带地址栏，这是系统限制，不是网页的问题。";
+  }else if(kind==="harmony"){
+    advice="这是兼容安卓的鸿蒙，装桌面用「右下角 ∷ → 添加至桌面」，通知直接用安卓版 Bark，按下面第 1 步拿地址即可。";
+  }else if(kind==="ios"){
+    advice="用 Safari 打开看板 → 底部分享 → 添加到主屏幕，就有全屏图标了。通知用 App Store 的 Bark。";
+  }else if(kind==="android"){
+    advice="用 Chrome 打开看板 → 右上角菜单 → 添加到主屏幕，就有全屏图标了。通知用安卓版 Bark。";
+  }else{
+    advice="手机打开这个页面会自动识别系统并给出安装步骤。";
+  }
+  $("devAdvice").innerHTML=advice;
+})();
+
 function setState(j){
   const bark=j.bark_configured, wc=j.wecom_configured, nt=j.ntfy_configured;
   const led=$("led");

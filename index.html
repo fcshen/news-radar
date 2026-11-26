@@ -118,6 +118,9 @@
   .ib-go:active{filter:brightness(.9)}
   .ib-no{flex:0 0 auto;border:0;background:transparent;color:var(--faint);
     font-size:14px;cursor:pointer;padding:6px;line-height:1}
+  /* 鸿蒙浏览器加到桌面后仍带底部工具栏，会把悬浮条和页脚压住 */
+  html.harmony body{padding-bottom:calc(104px + var(--safe-b))}
+  html.harmony .install-bar{bottom:calc(54px + var(--safe-b))}
 </style>
 </head>
 <body>
@@ -397,6 +400,8 @@ if("serviceWorker" in navigator && location.protocol==="https:"){
    已安装（standalone）或用户 30 天内关过就不再打扰。 */
 (function(){
   const bar=$("installBar"), KEY="ibDismissedAt";
+  const harmony=/HarmonyOS|OpenHarmony|ArkWeb/i.test(navigator.userAgent||"");
+  if(harmony) document.documentElement.classList.add("harmony");
   const standalone=matchMedia("(display-mode: standalone)").matches
     || navigator.standalone===true;
   let deferred=null;
@@ -407,7 +412,7 @@ if("serviceWorker" in navigator && location.protocol==="https:"){
   // 鸿蒙（ArkWeb 内核）不会派发 beforeinstallprompt，也拿不到系统的安装弹窗，
   // 只能让用户自己去菜单里加。不给提示的话，绝大多数人到这一步就放弃了。
   // 判断放在最前面：鸿蒙 4 及以下 UA 里带 Android，会被误当成普通安卓。
-  if(/HarmonyOS|OpenHarmony|ArkWeb/i.test(navigator.userAgent||"") && !quiet){
+  if(harmony && !quiet){
     const b=bar.querySelector(".ib-txt b"), s=bar.querySelector(".ib-txt span");
     if(b) b.textContent="装到桌面";
     if(s) s.textContent="点右下角 ∷ → 添加至桌面";
