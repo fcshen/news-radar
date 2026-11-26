@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "944b86e5d9d4f874",
+  "ts": "2026-11-27T06:13:31+08:00",
+  "title": "澳大利亚任命杰森·布莱恩领导国防销售办公室",
+  "title_zh": "",
+  "body": "澳大利亚任命杰森·布莱恩领导国防销售办公室。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7892201.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6581987c1f1d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4570311270218428251,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "a338345da4513d42",
   "ts": "2026-11-27T06:11:14+08:00",
   "title": "袁记食品预计12月7日开始交易",
@@ -718,6 +742,31 @@
   "pushed": false,
   "sh": 386718692558282328,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "6332c3f44e08b9ca",
+  "ts": "2026-11-27T06:06:54+08:00",
+  "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+  "title_zh": "报告：CIA 承认水刑使用范围大于其公开声明",
+  "body": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+  "summary": "纽约时报报道，CIA 水刑使用范围可能比公开声明更广。",
+  "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "211c7eb2f65d",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 3435633503711782179,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "d2dce25af91a1519",
