@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "9da718be788a3503",
+  "ts": "2026-11-27T05:51:23+08:00",
+  "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+  "title_zh": "日本JERA计划在电厂附近建设Anthropic、Meta数据中心",
+  "body": "",
+  "summary": "日本电力公司JERA计划在电厂附近建设Anthropic和Meta的数据中心。",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "数据中心建设可能影响相关电力设备供应商",
+  "cluster_id": "a2b5e394f8ea",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 139167423563684357,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "c619a62bfd2f1376",
   "ts": "2026-11-27T05:49:22+08:00",
   "title": "惠誉评级：高评级超大规模云服务商发行重塑美国投资级公司债券市场",
