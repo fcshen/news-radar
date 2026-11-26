@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "797b6032e09edb2c",
+  "ts": "2026-11-26T19:10:09+08:00",
+  "title": "施罗德投资（Schroders）经济学家戴维·里斯：近期股市的抛售潮恐怕很难因美联储暂停紧缩周期而得到缓解",
+  "title_zh": "施罗德投资经济学家戴维·里斯：近期股市抛售潮难缓解",
+  "body": "施罗德投资（Schroders）经济学家戴维·里斯：近期股市的抛售潮恐怕很难因美联储暂停紧缩周期而得到缓解。",
+  "summary": "施罗德投资经济学家戴维·里斯表示，股市抛售潮难以因美联储暂停紧缩周期而缓解。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8182570.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 69.2,
+  "level": "L1",
+  "impact": "美联储政策可能影响全球股市，需关注其对A股、ETF及期货市场的影响。",
+  "cluster_id": "9b036f9c93e8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 692401080448746256,
+  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "bd68932acee97403",
+  "ts": "2026-11-26T19:09:39+08:00",
+  "title": "惠誉：维持2027年英国电力和燃气网络行业“中性”展望，将水务行业展望调整为“恶化”",
+  "title_zh": "",
+  "body": "惠誉：维持2027年英国电力和燃气网络行业“中性”展望，将水务行业展望调整为“恶化”。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1405777.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 29.1,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5230c23e9910",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2833520792830427961,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
+  "id": "69a81099f60041e7",
+  "ts": "2026-11-26T19:08:56+08:00",
+  "title": "机构：美联储降息救不了美股",
+  "title_zh": "机构：美联储降息救不了美股",
+  "body": "金十数据11月26日讯，施罗德投资（Schroders）经济学家戴维·里斯（David Rees）撰文指出，近期股市的抛售潮恐怕很难因美联储暂停紧缩周期而得到缓解。里斯表示，在过去，同等规模的抛售往往会促使美联储放宽政策，旨在提振经济增长并支撑股市表现。然而，此轮抛售主要集中在与人工智能（AI）相关的股票上，而非整个市场的全面崩盘。此外，里斯认为，在“实际利率显得过低”的背景下，股市的疲软并不能改变美国国内通胀高企且仍在攀升的现实。里斯还补充道，即便美联储真的改变政策方向，股市所获得的喘息恐怕也只会是昙花一现。",
+  "summary": "施罗德投资经济学家认为，美联储降息难以缓解美股抛售，股市疲软与通胀高企相关。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 92.2,
+  "level": "L3",
+  "impact": "美债收益率或受影响，需关注相关资产波动。",
+  "cluster_id": "73898139e97a",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 9462716313525446330,
+  "reason": "tier=55 ent=1['美联储'] pred=1 conv=0 combo=26 rel=36 sev=8 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "5a2c9a14ad2a175a",
   "ts": "2026-11-26T19:08:42+08:00",
   "title": "花旗：AI设计药物疗效更佳的临床证据料2030年代出现 首选药明生物及英矽智能",
@@ -692,11 +767,12 @@
   "impact": "",
   "cluster_id": "d84f0eb9476e",
   "sources": [
-   "深交所公告"
+   "深交所公告",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 1217846583147982889,
-  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "002818fbb24660b1",
@@ -2230,6 +2306,32 @@
   "sh": 11704102845427040258,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
+ },
+ {
+  "id": "b76dd8bc2449229a",
+  "ts": "2026-11-26T18:45:45+08:00",
+  "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+  "title_zh": "特朗普与北约秘书长警告俄罗斯，乌克兰能源设施袭击加剧",
+  "body": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
+  "summary": "特朗普与北约秘书长敦促俄罗斯避免扩大战争，呼吁迅速和平解决。",
+  "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 97.0,
+  "level": "L2",
+  "impact": "地缘政治紧张可能影响能源市场及全球股市。",
+  "cluster_id": "c61a4081b6f9",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": true,
+  "sh": 7671689384991442968,
+  "reason": "tier=80 ent=4['russia', 'ukraine'] pred=2 conv=0 combo=37 rel=29 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "cb197a8f0a1ce44e",
