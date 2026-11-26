@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "9092d1579a729b62",
+  "ts": "2026-11-26T21:35:07+08:00",
+  "title": "巴西财政部长杜里甘：凭借今年获批的各项措施以及已规划出基本盈余的预算，我们正朝着改善公共账户的目标稳步迈进",
+  "title_zh": "巴西财政部长杜里甘：凭借今年获批的各项措施以及已规划出基本盈余的预算，我们正朝着改善公共账户的目标稳步迈进",
+  "body": "巴西财政部长杜里甘：凭借今年获批的各项措施以及已规划出基本盈余的预算，我们正朝着改善公共账户的目标稳步迈进。",
+  "summary": "巴西财政部长杜里甘表示，通过今年获批措施和预算盈余，巴西正改善公共账户。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8149804.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "巴西财政状况改善可能影响新兴市场货币和股市。",
+  "cluster_id": "cc1483407fc4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6274721554585556160,
+  "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "b8e9369eedfc7b85",
   "ts": "2026-11-26T21:32:41+08:00",
   "title": "巴西财政部长杜里甘：我们已安排在2027年对税收优惠进行另一轮审查",
@@ -721,6 +746,31 @@
   ],
   "pushed": false,
   "sh": 11345986968323496858,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "a5ee3de956184e0d",
+  "ts": "2026-11-26T21:28:47+08:00",
+  "title": "三亚聚力打造国内国际双循环重要交汇节点",
+  "title_zh": "三亚聚力打造国内国际双循环重要交汇节点",
+  "body": "中新网三亚11月26日电 (张月和)中国共产党三亚市第九次代表大会11月24日至26日在三亚市委党校召开。海南省委常委、三亚市委书记王祺扬在会上作报告时说，今后五年，三亚将提升对外开放能级，聚力打造国内国际双循环重要交汇节点。",
+  "summary": "三亚市委书记王祺扬提出未来五年将提升对外开放能级，打造双循环交汇节点。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738441.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能促进海南区域经济发展，影响相关行业投资。",
+  "cluster_id": "a536201faee8",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 4233210384298377237,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
@@ -6557,16 +6607,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "AI领域招聘增加，可能影响相关概念股表现。",
   "cluster_id": "e373a06e5ba4",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 15494456273904039554,
-  "reason": "tier=55 ent=1['阿里'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=1['阿里'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -13651,17 +13702,18 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 39.2,
+  "score": 41.2,
   "level": "L0",
   "impact": "可能促进区域经济合作，影响相关行业投资。",
   "cluster_id": "ed69290bd6ff",
   "sources": [
    "新浪财经7×24",
-   "金十数据"
+   "金十数据",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 13922643168273972379,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=2 burst=3",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=4 burst=3",
   "engine": "primary"
  },
  {
