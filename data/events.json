@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "a486e49dfa0f3e2e",
+  "ts": "2026-11-26T19:42:41+08:00",
+  "title": "Hong Kong privacy watchdog urges businesses to ramp up investment in data security",
+  "title_zh": "香港隐私监察专员办公室呼吁企业加强数据安全投资",
+  "body": "Hong Kong’s privacy watchdog has urged business operators to invest more resources in strengthening information technology systems in the wake of a recent string of cybersecurity breaches that have affected more than 1 million users. Privacy Commissioner Ada Chung Lai-ling, from the Office of the Privacy Commissioner for Personal Data, said hackers were increasingly using artificial intelligence technology to launch attacks more quickly, as the technology eliminated the need for online testing...",
+  "summary": "香港隐私专员Ada Chung Lai-ling呼吁企业加大投入，加强信息技术系统，以应对近期影响百万用户的网络安全事件。",
+  "url": "https://www.scmp.com/news/hong-kong/society/article/3375941/hong-kong-privacy-watchdog-urges-businesses-ramp-investment-data-security",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 31.0,
+  "level": "L0",
+  "impact": "企业数据安全投入增加可能影响IT行业相关股票表现。",
+  "cluster_id": "5d94c3daed55",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 80768373393484301,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "17b1e7275af8b174",
+  "ts": "2026-11-26T19:42:03+08:00",
+  "title": "海亮股份：终止发行H股股票并于香港联交所主板上市",
+  "title_zh": "海亮股份：终止发行H股股票并于香港联交所主板上市",
+  "body": "海亮股份公告，公司此前于2025年11月21日召开第九届董事会第五次会议，于2026年1月7日召开第九届董事会第六次会议，于2026年1月26日召开2026年第一次临时股东会，审议通过了发行H股股票并在香港联交所主板上市的相关议案。基于市场环境与公司自身变化及发展规划的综合考量，经审慎分析和论证，公司于2026年11月26日召开第九届董事会第二十次会议，审议通过了终止发行H股股票并于香港联交所主板上市的议案，同意终止相关事项。本次终止事项属于股东会授权董事会全权处理的授权范围，无需提交股东会审议。",
+  "summary": "海亮股份终止发行H股并在香港上市计划。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1427160.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "公司战略调整可能影响投资者信心。",
+  "cluster_id": "c1a2c1c0efe6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5714570226329246290,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "b9f548e4d38bc482",
+  "ts": "2026-11-26T19:42:01+08:00",
+  "title": "华为乾崑发布“星驰辅助驾驶”",
+  "title_zh": "华为发布“星驰辅助驾驶”",
+  "body": "11月26日晚间，华为智能汽车解决方案 BU CEO 靳玉志宣布，推出专注辅助驾驶的品牌“星驰辅助驾驶”。2027年预计有10款车搭载星驰辅助驾驶量产上市，包括深蓝汽车、广汽传祺、极狐等品牌。",
+  "summary": "华为推出星驰辅助驾驶品牌，预计2027年10款车搭载量产。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1427156.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 34.2,
+  "level": "L0",
+  "impact": "汽车产业链相关股票或受关注。",
+  "cluster_id": "7b17b74447b5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12860903659710472666,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "bf8fa6d8a8436420",
   "ts": "2026-11-26T19:41:13+08:00",
   "title": "土耳其计划降低里拉存款税率以支撑货币汇率",
@@ -625,6 +700,54 @@
   "engine": "primary"
  },
  {
+  "id": "cd008b59fa3ce936",
+  "ts": "2026-11-26T19:40:57+08:00",
+  "title": "黄金一夜从低点拉回近150美元，美股也从暴跌中翻身，为何市场前半夜争着卖，后半夜突然抢回来，究竟是谁改变了主意",
+  "title_zh": "",
+  "body": "这次反弹是真见底，还是感恩节前的假动作？",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ff0e249180a9",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1558268629873217240,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=8 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "ae76fc13a197fcf6",
+  "ts": "2026-11-26T19:40:27+08:00",
+  "title": "罗博特科(300757)：罗博特科：H股公告（翌日披露报表）",
+  "title_zh": "",
+  "body": "罗博特科(300757)：罗博特科：H股公告（翌日披露报表）",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/63ec626e-0af1-4795-a476-57cbdfb94453.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d0f9313cd8c8",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 2834032624501144820,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
   "id": "50a464b4e7c69bbc",
   "ts": "2026-11-26T19:40:15+08:00",
   "title": "可川科技：股东屠施恩及一致行动人合计持股比例降至4.99997%",
@@ -648,6 +771,30 @@
   "sh": 10379907847779836327,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=4 op=N spread=0 burst=3",
   "engine": "primary"
+ },
+ {
+  "id": "ecfd47b783081839",
+  "ts": "2026-11-26T19:40:10+08:00",
+  "title": "康泰医学(300869)：康泰医学：关于变更公司财务负责人的公告",
+  "title_zh": "",
+  "body": "康泰医学(300869)：康泰医学：关于变更公司财务负责人的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/1c365366-e005-44be-af1f-cbac7a29f341.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b7f5b81688bb",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 6671314725127871652,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "1671647e9867a0c6",
@@ -737,16 +884,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 34.2,
+  "score": 36.2,
   "level": "L0",
   "impact": "闻泰转债价格波动可能影响相关ETF和期货合约价格。",
   "cluster_id": "528371e3ca7b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "深交所公告"
   ],
   "pushed": false,
   "sh": 4631188161063240730,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
