@@ -68,6 +68,10 @@ jobs:
             echo "无变更"
           else
             git commit -m "data: 首轮 $(date -u +%Y-%m-%dT%H:%MZ)"
+            # 必须先同步：代码 push 与定时任务的数据 push 常撞在一起，
+            # 不做 rebase 会因 non-fast-forward 被拒，且这一步没有重试机会，
+            # 结果是首轮数据一直推不上去、手机端停在旧数据。
+            git pull --rebase --autostash -q || true
             git push || echo "推送失败，稍后重试"
           fi
 
