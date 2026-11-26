@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "621ae2fb082baf6d",
+  "ts": "2026-11-26T17:39:21+08:00",
+  "title": "奔图科技：为子公司奔图打印提供8000万元担保",
+  "title_zh": "奔图科技：为子公司奔图打印提供8000万元担保",
+  "body": "奔图科技公告称，公司近日与中国银行珠海分行签署最高额保证合同，为全资子公司珠海奔图打印科技有限公司提供最高本金余额8000万元的连带责任保证担保，担保主债权发生期间为2026年11月25日至2027年11月17日，各笔债务保证期间为履行期限届满之日起三年，本次担保在公司股东会审议通过的担保额度范围内。本次担保后，公司及控股子公司对外担保总余额为16.27亿元，占最近一期经审计净资产的17.98%，无逾期及涉诉担保情形。",
+  "summary": "奔图科技为子公司提供8000万元担保，担保期限至2027年11月。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1467388.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "子公司担保可能影响公司财务状况。",
+  "cluster_id": "ff003fbb7669",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11543928181547622825,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "5c6af57d0239a06c",
+  "ts": "2026-11-26T17:37:17+08:00",
+  "title": "惠誉：为拥有实力雄厚的发起方和长期合同收入的实体数据中心项目提供贷款，与为GPU采购或新型云服务商提供融资，面临的风险并",
+  "title_zh": "惠誉：为拥有实力雄厚的发起方和长期合同收入的实体数据中心项目提供贷款，与为GPU采购或新型云服务商提供融资，面临的风险并",
+  "body": "不相同。后者的偿债能力可能取决于能否从客户集中的业务中维持较高的设备利用率。",
+  "summary": "惠誉指出，数据中心贷款与GPU采购融资风险不同。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "数据中心项目融资风险或影响相关股票估值。",
+  "cluster_id": "8d9c3d8c49f7",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 397118017779496190,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "ec5cf4d996526644",
   "ts": "2026-11-26T17:36:45+08:00",
   "title": "土耳其主要BIST-100指数上涨2.2%，主要银行指数上涨1.7%",
@@ -598,6 +648,30 @@
   "pushed": false,
   "sh": 11823148063122991706,
   "reason": "tier=55 ent=3['BIS', '土耳其'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "86bf9388819961d2",
+  "ts": "2026-11-26T17:36:39+08:00",
+  "title": "惠誉：美国管制措施可能导致面向受影响客户和应用场景的项目放缓或调整，但不能将整个东南亚地区的数据中心产能视为面临同等程度",
+  "title_zh": "",
+  "body": "的风险。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "334e0ad61f64",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 849179716475595446,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "c7e0ab876267cb12",
@@ -698,6 +772,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
+  "id": "be066409d0c53127",
+  "ts": "2026-11-26T17:34:22+08:00",
+  "title": "辽宁深化数智赋能 建成经营者集中主体数据库",
+  "title_zh": "辽宁深化数智赋能 建成经营者集中主体数据库",
+  "body": "中新网沈阳11月26日电 (记者 韩宏)辽宁省市场监督管理局26日发布消息称，辽宁深化数智赋能，做实风险前置预警防控。建成辽宁省经营者集中主体数据库，整合上市公司、市场监管多源数据，构建“一单四表”数据架构，归集5000余条市场主体信息，实行ABCD分级分类管理，精准锁定并购高风险市场主体。",
+  "summary": "辽宁省市场监督管理局发布，建成经营者集中主体数据库，整合多源数据，实行分级分类管理。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738225.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能提高并购监管效率，影响相关企业并购活动。",
+  "cluster_id": "34086adf3769",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 3383020388795859519,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "7ed570f72224faa2",
   "ts": "2026-11-26T17:34:11+08:00",
   "title": "Heder银行在泛欧交易所上市",
@@ -793,6 +892,31 @@
   "pushed": false,
   "sh": 11707526313129106068,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "2dc29eb76854cea7",
+  "ts": "2026-11-26T17:33:22+08:00",
+  "title": "钙钛矿光伏技术有望面向空天应用 中国科研团队刷新电池效率",
+  "title_zh": "钙钛矿光伏技术有望面向空天应用 中国科研团队刷新电池效率",
+  "body": "中新网海口11月26日电 (王晓斌 王一钦)太阳能飞行器要实现长航时飞行，核心在于太阳能电池能否做到既高效又轻便。记者26日从海南大学获悉，该校科研团队针对全钙钛矿叠层电池在光照下容易性能衰减的难题取得突破，相关研究成果当天在国际学术期刊《自然》上在线发表。这一突破为未来开发超轻质、高性能、高可靠性的新型空天光伏技术提供了关键底层支撑。",
+  "summary": "海南大学科研团队刷新钙钛矿叠层电池效率，成果发表《自然》。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738224.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 25.7,
+  "level": "L0",
+  "impact": "新能源设备相关概念股可能受益",
+  "cluster_id": "739ff1f322e1",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 13850328245074953862,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=Y spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "0ff018857bd7dbe3",
