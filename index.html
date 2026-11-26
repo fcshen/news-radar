@@ -234,7 +234,16 @@ function applyDeepLink(){
   const id=new URLSearchParams(location.search).get("e");
   if(!id){ DEEP=true; return; }
   if(!ALL.length) return;                  // 数据还没到，等下一次 render 再试
-  if(!ALL.some(e=>e.id===id)){ DEEP=true; return; }   // 已不在最近 300 条里，静默忽略
+  if(!ALL.some(e=>e.id===id)){
+    // 很久以前的通知：那条已经滚出最近 300 条，给个提示，别让人以为页面坏了
+    DEEP=true;
+    const box=document.createElement("div");
+    box.className="empty";
+    box.style.margin="8px 4px";
+    box.innerHTML="<b>这条消息已不在最近 300 条里</b><br>下面是当前最新内容";
+    $("list").prepend(box);
+    return;
+  }
   DEEP=true;
   OPEN.add(id);
   if(FILTER!=="all"){
