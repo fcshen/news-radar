@@ -1,5 +1,260 @@
 [
  {
+  "id": "e9625688b43173fe",
+  "ts": "2026-11-26T11:43:30+08:00",
+  "title": "马斯克：美国每个孩子都将获得两股SpaceX股票，一股来自公司，一股来自我个人",
+  "title_zh": "马斯克：美国每个孩子都将获得两股SpaceX股票，一股来自公司，一股来自我个人",
+  "body": "马斯克：美国每个孩子都将获得两股SpaceX股票，一股来自公司，一股来自我个人。",
+  "summary": "SpaceX将向美国儿童赠送股票，一股来自公司，一股来自马斯克个人。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsip3772600.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能引发市场对SpaceX及马斯克个人影响力的讨论。",
+  "cluster_id": "4d6bda314756",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4774120183963028196,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "ea3cac8155e2a0d4",
+  "ts": "2026-11-26T11:43:11+08:00",
+  "title": "花旗：澳大利亚国内需求增长已超过经济潜在增速 进一步加息风险依然存在",
+  "title_zh": "花旗：澳大利亚国内需求增长已超过经济潜在增速 进一步加息风险依然存在",
+  "body": "金十数据11月26日讯，澳大利亚第三季度私人部门企业投资环比大增12%，创2011年矿业繁荣以来最大季度增幅，远高于市场普遍预期的4.3%。此次增长主要受到设备、厂房及机械投资激增推动，相关投资环比增长23%，反映出人工智能相关支出的强劲增长。花旗集团首席经济学家Josh Williamson表示，澳大利亚第三季度国内需求增幅可能高达1.5%，推动全年经济增长率升至3.3%，达到“过热”水平。Williamson认为，当前国内需求增长已超过经济潜在增速，同时人工智能投资热潮正在争夺土地、劳动力和资本资源。在此背景下，他预计澳洲联储将把官方现金利率维持在4.85%，但利率进一步上调的风险依然存在。",
+  "summary": "澳大利亚第三季度私人部门企业投资环比大增，花旗预计国内需求增长超潜在增速。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "澳元走强，相关出口企业或受影响。",
+  "cluster_id": "0be4d2a32b10",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12870394772895169696,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "c4f74caccf84198d",
+  "ts": "2026-11-26T11:42:09+08:00",
+  "title": "四川欣五盛供应链管理有限公司成立，注册资本3亿",
+  "title_zh": "四川欣五盛供应链管理有限公司成立，注册资本3亿",
+  "body": "天眼查App显示，11月25日，四川欣五盛供应链管理有限公司成立，法定代表人为冯天炜，注册资本3亿元人民币，经营范围含供应链管理服务、石油制品销售、贸易经纪等。股东信息显示，该公司由五粮液集团旗下四川五粮液物产有限公司、四川盛马化工股份有限公司分别持股51%、49%。",
+  "summary": "四川欣五盛供应链管理有限公司成立，注册资本3亿，由五粮液集团和四川盛马化工持股。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsip3771656.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能影响相关供应链概念股表现",
+  "cluster_id": "2160dd464cf2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7241537232324523670,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "2d1b3457a2a8fa31",
+  "ts": "2026-11-26T11:41:16+08:00",
+  "title": "通则康威：光通信业务主要是PON光猫等宽带接入终端 暂未与“易中天”合作",
+  "title_zh": "通则康威：光通信业务主要是PON光猫等宽带接入终端 暂未与“易中天”合作",
+  "body": "通则康威(301718)11月26日在互动平台表示，公司光通信业务主要是PON光猫等宽带接入终端，依托现有海外运营商客户拓展产品品类。CPO、FAU是光通信领域前沿技术，分属不同业务方向，公司保持行业研究与跟踪，目前暂无与“易中天”的合作。",
+  "summary": "通则康威光通信业务聚焦PON光猫等宽带接入终端，无与“易中天”合作。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsii1420069.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "光通信业务动态可能影响相关产业链公司股价。",
+  "cluster_id": "e634260a996b",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 4863621597217828096,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "74eb2fceb039b666",
+  "ts": "2026-11-26T11:41:04+08:00",
+  "title": "11月26日午间涨停分析",
+  "title_zh": "11月26日午间涨停分析",
+  "body": "沪指高开低走半日跌0.03%，科创50跌近1%，金字辈概念股掀涨停潮。克来机电5连板，一图看懂>>",
+  "summary": "沪指微跌，科创50下跌，金字辈概念股涨停，克来机电5连板。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "市场情绪受概念股表现影响。",
+  "cluster_id": "10edcbe7b9ee",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7437189381376857449,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "c62d3cc40d94f757",
+  "ts": "2026-11-26T11:39:40+08:00",
+  "title": "Can Australia’s Pacific diplomacy with Solomon deal match China’s enduring influence?",
+  "title_zh": "澳大利亚与所罗门群岛新条约：对太平洋外交的影响？",
+  "body": "Australia’s new bilateral treaty with the Solomon Islands is seen as a significant victory for Canberra’s strategy of banking on development aid, economic sweeteners and long-standing defence ties to assert influence in the Pacific. But analysts say the durability of such gains for Australia will hinge on whether it can deliver on development commitments and address the needs of Pacific island nations, which remain keen to diversify partnerships and not risk jeopardising ties with China. On...",
+  "summary": "澳大利亚与所罗门群岛签署双边条约，旨在通过发展援助和经济激励加强在太平洋的影响力。",
+  "url": "https://www.scmp.com/week-asia/politics/article/3375849/can-australias-pacific-diplomacy-solomon-deal-match-chinas-enduring-influence",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 51.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "83454515fa30",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 11812050027585424708,
+  "reason": "tier=80 ent=1['ustr'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "93910ddbfb2d13b8",
+  "ts": "2026-11-26T11:38:39+08:00",
+  "title": "深圳华强(000062)：深圳华强：关于副总裁离任的公告",
+  "title_zh": "深圳华强(000062)：深圳华强：关于副总裁离任的公告",
+  "body": "深圳华强(000062)：深圳华强：关于副总裁离任的公告",
+  "summary": "深圳华强副总裁离任。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/065c7dbf-49ac-47a4-960c-c079ddac740f.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "公司管理变动可能影响公司短期业绩预期。",
+  "cluster_id": "3d88c98de8fb",
+  "sources": [
+   "深交所公告",
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2472934852084032247,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "6f9e53ef21e871ec",
+  "ts": "2026-11-26T11:38:09+08:00",
+  "title": "华菱线缆(001208)：华菱线缆：湖南华菱线缆股份有限公司关于收到深圳证券交易所并购重组审核委员会审核公司发行可转换公司债券购买资产并募集配套资金暨关联交易事项会议安排的公告",
+  "title_zh": "华菱线缆(001208)：湖南华菱线缆股份有限公司关于收到深圳证券交易所并购重组审核委员会审核公司发行可转换公司债券购买资产并募集配套资金暨关联交易事项会议安排的公告",
+  "body": "华菱线缆(001208)：华菱线缆：湖南华菱线缆股份有限公司关于收到深圳证券交易所并购重组审核委员会审核公司发行可转换公司债券购买资产并募集配套资金暨关联交易事项会议安排的公告",
+  "summary": "华菱线缆收到深圳证券交易所并购重组审核委员会审核其发行可转换公司债券购买资产并募集配套资金暨关联交易事项会议安排。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/06acb653-eb28-45da-8d5e-dd51a43678c4.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 66.6,
+  "level": "L1",
+  "impact": "公司并购重组进展或影响股价及行业板块表现。",
+  "cluster_id": "ac0884085fcf",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 4924267829050760286,
+  "reason": "tier=96 ent=0[] pred=3 conv=0 combo=20 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "fa19916fb7e55abe",
+  "ts": "2026-11-26T11:35:53+08:00",
+  "title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+  "title_zh": "商务部新闻发言人就欧方将玉沙集团移出欧盟涉俄出口管制制裁清单事答记者问",
+  "body": "问：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？中方在移单欧盟企业方面有何考虑？答：我们注意到有关情况。欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。",
+  "summary": "欧方将玉沙集团移出涉俄出口管制制裁清单，中方表示欢迎。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 100.0,
+  "level": "L2",
+  "impact": "可能改善中欧企业合作环境，对相关行业有正面影响。",
+  "cluster_id": "f003e3add825",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据",
+   "中新网财经"
+  ],
+  "pushed": true,
+  "sh": 6060237112463381005,
+  "reason": "tier=55 ent=2['商务部', '欧盟'] pred=2 conv=0 combo=37 rel=40 sev=15 pct=0 op=N spread=4 burst=5",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
+  "id": "3c06ac7452d5c0cb",
+  "ts": "2026-11-26T11:35:15+08:00",
+  "title": "日媒：日本拟引进新型远程反舰导弹",
+  "title_zh": "日媒：日本拟引进新型远程反舰导弹",
+  "body": "据日本共同社25日报道，日本政府计划于年内修订的“安保三文件”之一——《防卫力整备计划》的指导方针已初步明确，其中提出引进可搭载在舰艇上的新型远程反舰导弹，以强化所谓“反击能力”。报道称，新型反舰导弹将采用箱式发射装置，日本将研究使其适配于多种舰艇。此外，日本还计划在太空部署中轨道持续监视系统，对大范围区域实施持续监视，提高对敌方舰艇探测能力等。根据新方针，为维持必要战力，日本还将延长飞机、舰船服役期限，加强保护重要基础设施免受网络攻击的能力。此外，该方针称人工智能的应用对于日本与美方开展联合作战也不可或缺，并提出通过集中投资推动人工智能产业发展。新版《防卫力整备计划》将明确日本拟采购的主要防卫装备及2027至2031财年的防卫费总额。据日本媒体此前报道，日本防卫省测算未来5年所需防卫费为70万亿至80万亿日元，较现行计划的约43万亿日元大幅增加，但日本政府其他部门对此持谨慎态度。目前，日本政府内部仍在就防卫费最终规模进行协商。（新华社）",
+  "summary": "日本计划修订《防卫力整备计划》，引进新型远程反舰导弹，强化反击能力。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzsip3766972.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "日本国防预算增加可能影响军工企业及国防相关ETF表现。",
+  "cluster_id": "4468f47f11be",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8472155378949448324,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "303ac0b613cc4eb9",
   "ts": "2026-11-26T11:33:49+08:00",
   "title": "新加坡金管局简化非传统零售基金审批流程",
@@ -270,7 +525,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10917020659510646261,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -446,7 +701,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12582538707524465298,
   "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=4 op=N spread=0 burst=5",
   "engine": "primary"
@@ -571,7 +826,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5965117018284723548,
   "reason": "tier=55 ent=2['伊朗', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -596,7 +851,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3492637828787188251,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=31 sev=8 pct=0 op=Y spread=0 burst=5",
   "engine": "primary"
@@ -1274,7 +1529,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2017567138377295574,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1427,7 +1682,7 @@
    "金十数据",
    "中新网财经"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7351355084835627050,
   "reason": "tier=55 ent=1['能源局'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=4 burst=5",
   "engine": "primary"
@@ -1730,7 +1985,7 @@
   "sources": [
    "CNBC Top"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17459774882507611205,
   "reason": "tier=80 ent=1['nvidia'] pred=0 conv=0 combo=6 rel=27 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1885,7 +2140,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2008489814790373143,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1937,7 +2192,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 8432033949886504726,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=12 op=N spread=2 burst=5",
   "engine": "primary"
@@ -2139,7 +2394,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3231763863284332505,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -2264,7 +2519,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5932577280121651268,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=30 sev=8 pct=12 op=Y spread=0 burst=5",
   "engine": "primary"
@@ -2390,7 +2645,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3320929931297897216,
   "reason": "tier=55 ent=2['阿里', '美团'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=12 op=N spread=0 burst=5",
   "engine": "primary"
@@ -2542,7 +2797,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 796292747903481809,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -2870,7 +3125,7 @@
   "sources": [
    "中东观察AlMonitor"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 303551019587242045,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=5 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3147,7 +3402,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9368978215865498621,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -3223,7 +3478,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12575488928219675385,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -3248,7 +3503,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9969859508242656373,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=0 op=Y spread=0 burst=5",
   "engine": "primary"
@@ -3274,7 +3529,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2890187421917385169,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -3400,7 +3655,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2975764161859975125,
   "reason": "tier=55 ent=1['央行'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3629,7 +3884,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4467232044588595004,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=Y spread=2 burst=5",
   "engine": "primary"
@@ -5060,7 +5315,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 15520706207079908799,
   "reason": "tier=55 ent=1['美国国会'] pred=1 conv=0 combo=26 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -5425,7 +5680,7 @@
   "sources": [
    "Financial Times"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7854507720951791794,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=20 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -5768,7 +6023,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 17210243355925346262,
   "reason": "tier=55 ent=3['蔚来', '小鹏'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=12 op=N spread=2 burst=5"
  },
@@ -5864,7 +6119,7 @@
   "sources": [
    "Al Jazeera"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5883449191768419794,
   "reason": "tier=55 ent=2['russia', 'ukraine'] pred=2 conv=0 combo=37 rel=14 sev=0 pct=0 op=Y spread=0 burst=5"
  },
@@ -5937,7 +6192,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 3355394478582426788,
   "reason": "tier=55 ent=1['中际旭创'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=2 burst=5"
  },
@@ -6859,7 +7114,7 @@
    "新浪财经7×24",
    "行情异动"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6697647156679477791,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -10633,16 +10888,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "5a40cde3e98f",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2399407607059995665,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "85b3d4a278ee0204",
