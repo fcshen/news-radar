@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "cef233fff6037cc5",
+  "ts": "2026-11-26T20:44:54+08:00",
+  "title": "欧洲央行官员：目前证据不足以支持采取更强力措施",
+  "title_zh": "",
+  "body": "欧洲央行官员：目前证据不足以支持采取更强力措施。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3618562.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "e782b0e8ee37",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5922671563615140212,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "5444ea1fb512cddc",
   "ts": "2026-11-26T20:43:39+08:00",
   "title": "艾艾精工：提名5名第六届董事会董事候选人，换届尚待股东会审议",
