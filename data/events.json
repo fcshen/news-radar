@@ -576,6 +576,129 @@
   "engine": "primary"
  },
  {
+  "id": "088bb86ab6ed99c1",
+  "ts": "2026-11-26T19:03:51+08:00",
+  "title": "蓝盾光电：重大资产重组核查对象无买卖股票情形",
+  "title_zh": "蓝盾光电：重大资产重组核查对象无买卖股票情形",
+  "body": "蓝盾光电公告称，公司拟通过发行股份及支付现金方式购买苏州岚创科技有限公司100%股权并募集配套资金暨关联交易。北京市海问律师事务所就本次交易出具专项核查意见，本次内幕信息知情人自查期间为2026年1月27日至2026年11月12日，核查范围涵盖上市公司及董监高、控股股东及实控人、交易对方、标的公司、相关中介机构等内幕信息知情人及其直系亲属。经核查，相关核查对象在自查期间内不存在买卖蓝盾光电股票的情形。",
+  "summary": "蓝盾光电重大资产重组核查期间，相关对象未买卖公司股票。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3690251.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "可能影响投资者对公司重组前景的看法。",
+  "cluster_id": "28509288b9f3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6069867313638913362,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "af6bf4bd8fa8779e",
+  "ts": "2026-11-26T19:03:41+08:00",
+  "title": "俄罗斯国防部：打击了乌克兰能源基础设施目标，这些设施被用于支持乌克兰武装部队的行动",
+  "title_zh": "",
+  "body": "俄罗斯国防部：打击了乌克兰能源基础设施目标，这些设施被用于支持乌克兰武装部队的行动。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "502f6e41fb4b",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 2788529734668684885,
+  "reason": "tier=55 ent=2['俄罗斯', '乌克兰'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "d4937dc1796c085b",
+  "ts": "2026-11-26T19:03:28+08:00",
+  "title": "傲拓科技：网上最终中签率为0.02370926%",
+  "title_zh": "傲拓科技：网上最终中签率为0.02370926%",
+  "body": "傲拓科技公告，公司首次公开发行股票并在科创板上市的网上、网下认购缴款工作已于2026年11月25日结束。本次发行价格为18.18元/股，发行数量3775.83万股，最终战略配售数量为755.17万股。回拨机制启动后，网上最终发行数量为1208.3万股，最终中签率为0.02370926%。网上、网下投资者放弃认购的56912股由保荐人（主承销商）包销。",
+  "summary": "傲拓科技首次公开发行股票，网上最终中签率为0.02370926%，主承销商包销放弃认购股份。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiff3689888.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "可能影响投资者对科创板新股的关注度。",
+  "cluster_id": "47968bc827da",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1908937865338566655,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "2ea38482f1ad1546",
+  "ts": "2026-11-26T19:03:23+08:00",
+  "title": "国际足联表示，其已成为“一次犯罪网络攻击的受害者，导致部分个人及商业信息被未经授权访问”",
+  "title_zh": "",
+  "body": "国际足联表示，其已成为“一次犯罪网络攻击的受害者，导致部分个人及商业信息被未经授权访问”。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8177384.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 18.9,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6b95e8d34ce6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16747727891019978607,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
+  "id": "fc4d1038ecbce379",
+  "ts": "2026-11-26T19:03:03+08:00",
+  "title": "广东近千家企业角逐双创大赛 展南粤蓬勃科技活力",
+  "title_zh": "第十五届中国创新创业大赛(广东赛区)总决赛暨颁奖活动在广州举行",
+  "body": "中新网广州11月26日电 (记者 王坚)以“因创而聚，向新同行”为主题的第十五届中国创新创业大赛(广东赛区)总决赛暨颁奖活动25日在广州举行。本届大赛有近千家企业踊跃报名，最终9家企业夺得一等奖，展现了广东科技创新的蓬勃活力和双创生态的持续优化。",
+  "summary": "第十五届中国创新创业大赛(广东赛区)总决赛在广州举行，近千家企业参赛，9家企业获一等奖。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738303.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "广东科技创新活跃，可能影响相关科技板块表现。",
+  "cluster_id": "d972313ecf3e",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 11313363381027250396,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "7b0c95e723dca599",
   "ts": "2026-11-26T19:02:09+08:00",
   "title": "翰博高新：首次出售回购股份11.96万股，金额391.76万元",
@@ -588,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 42.2,
+  "score": 44.2,
   "level": "L0",
   "impact": "公司回购股份出售可能影响股价波动。",
   "cluster_id": "ad4d3e2847d9",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "深交所公告"
   ],
   "pushed": false,
   "sh": 8268164949368967108,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=3",
   "engine": "primary"
  },
  {
@@ -613,16 +737,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 22.2,
+  "score": 24.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "6a7500ddf019",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 13889224844411211475,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "c6735a3745aa4a9b",
@@ -720,6 +845,55 @@
   "pushed": false,
   "sh": 14710859233361407755,
   "reason": "tier=55 ent=2['统计局', '以色列'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=4 op=N spread=0 burst=3"
+ },
+ {
+  "id": "32b97b1c21b07e5f",
+  "ts": "2026-11-26T19:00:27+08:00",
+  "title": "蓝盾光电(300862)：蓝盾光电：关于召开2026年第二次临时股东会通知的补充公告",
+  "title_zh": "",
+  "body": "蓝盾光电(300862)：蓝盾光电：关于召开2026年第二次临时股东会通知的补充公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/35c96244-ce3b-4396-bc64-2c8268d86c31.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "0ecc0e8152b0",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 11551391303442034914,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "14facba0dd9245f0",
+  "ts": "2026-11-26T19:00:27+08:00",
+  "title": "翰博高新(301321)：翰博高新：德恒上海律师事务所关于公司2026年第三次临时股东会之见证意见",
+  "title_zh": "翰博高新(301321)：德恒上海律师事务所关于公司2026年第三次临时股东会之见证意见",
+  "body": "翰博高新(301321)：翰博高新：德恒上海律师事务所关于公司2026年第三次临时股东会之见证意见",
+  "summary": "翰博高新发布关于2026年第三次临时股东会的见证意见。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/c671b051-735e-4a3f-be83-5c3f0625934a.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "可能影响公司治理结构和决策流程。",
+  "cluster_id": "b8a35feb0f78",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 9470590634862076270,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "745f39fc3e93734d",
@@ -15198,16 +15372,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 67.2,
+  "score": 69.2,
   "level": "L1",
   "impact": "可能影响公司股价及投资者对公司未来发展的预期。",
   "cluster_id": "1a684af6aeeb",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "深交所公告"
   ],
   "pushed": true,
   "sh": 9520507571452007492,
-  "reason": "tier=55 ent=1['证监会'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=1['证监会'] pred=1 conv=0 combo=26 rel=21 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
