@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "9271feb0e5cbfd25",
+  "ts": "2026-11-26T20:39:07+08:00",
+  "title": "印度国家证券交易所（NSE）获得印度储备银行批准推出公司债券指数期货",
+  "title_zh": "",
+  "body": "印度国家证券交易所（NSE）获得印度储备银行批准推出公司债券指数期货。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1335310.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b72b44ecb5f2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5837062937368636411,
+  "reason": "tier=55 ent=1['印度'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "1ba4b949cc852307",
+  "ts": "2026-11-26T20:38:42+08:00",
+  "title": "欧洲央行官员仍认为有必要采取审慎的政策应对措施",
+  "title_zh": "",
+  "body": "欧洲央行官员仍认为有必要采取审慎的政策应对措施。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8111525.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 47.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a5766e0188a0",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2452001408259095261,
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=1"
+ },
+ {
+  "id": "a20007f1403d6fc9",
+  "ts": "2026-11-26T20:38:39+08:00",
+  "title": "挪威一廉航停运 面临破产风险",
+  "title_zh": "挪威挪威廉价航空停运 面临破产风险",
+  "body": "挪威廉价航空运营商北欧大西洋航空公司26日宣布因财务困境暂停航班运营，并表示如果无法获得紧急融资，公司董事会有意申请破产。北欧大西洋航空公司25日发表声明说，其财务状况“危急”，亟须融资以满足短期流动和运营需求。受此消息影响，公司股价大幅下挫。在26日的最新声明中，该公司表示正在考虑各种短期融资方案，并与投资者讨论收购可能性，但无法保证能够找到可行的解决方案。（新华社）",
+  "summary": "挪威廉价航空宣布停运，财务危机，寻求紧急融资。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8111500.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "航空股可能受影响",
+  "cluster_id": "430afe587ccc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1599478827267608,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "9ba38439cc3a611d",
+  "ts": "2026-11-26T20:38:35+08:00",
+  "title": "UN experts demand Vietnam explain ‘abduction’ of activists from Cambodia",
+  "title_zh": "联合国专家要求越南解释从柬埔寨“绑架”活动家",
+  "body": "Vietnam must explain how three pro-democracy activists ended up in detention facing terrorism charges after being allegedly abducted from neighbouring Cambodia, United Nations experts said on Thursday. Vietnam permits little to no dissent within its borders and critics say its security apparatus stretches abroad, with wanted dissidents previously abducted in Thailand and Germany. The authorities in Hanoi confirmed in September they had arrested three men – an Australian, a Norwegian and a...",
+  "summary": "联合国专家要求越南解释三名民主活动家被拘留并面临恐怖主义指控的情况。",
+  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375945/un-experts-demand-vietnam-explain-abduction-activists-cambodia",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d0ea80849192",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 10781203249454526664,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "22b42a51cfde5cad",
   "ts": "2026-11-26T20:37:55+08:00",
   "title": "阿根廷获批3.47亿美元省级融资",
@@ -612,16 +710,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 47.0,
+  "score": 48.7,
   "level": "L0",
   "impact": "",
   "cluster_id": "7e9df07c364c",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3304862006566616052,
-  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=1"
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=2 burst=1"
  },
  {
   "id": "3035f2e46c93165e",
@@ -665,11 +764,12 @@
   "impact": "",
   "cluster_id": "c90918ae16c2",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 14348206336786134780,
-  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=1 conv=0 combo=32 rel=40 sev=8 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=1 conv=0 combo=32 rel=40 sev=8 pct=0 op=N spread=2 burst=1",
   "tries": 1
  },
  {
@@ -697,6 +797,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
+  "id": "d21d3d151c3e03ab",
+  "ts": "2026-11-26T20:37:00+08:00",
+  "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+  "title_zh": "高盛：对冲基金在市场波动中注重资本保全而非追逐市场上涨",
+  "body": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
+  "summary": "对冲基金行业下半年表现下滑，高盛预计投资者将尝试保住现有收益。",
+  "url": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 34.0,
+  "level": "L0",
+  "impact": "可能增加对风险控制的需求，对冲基金策略调整可能影响市场流动性。",
+  "cluster_id": "1089f7e52fac",
+  "sources": [
+   "MarketWatch"
+  ],
+  "pushed": false,
+  "sh": 14033609129292139690,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "e572c50931e2e33f",
   "ts": "2026-11-26T20:36:31+08:00",
   "title": "欧洲央行官员讨论了自9月以来欧元走弱的情况",
@@ -709,16 +834,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 55.2,
+  "score": 57.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "e608223167e2",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1489875005226122748,
-  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=2['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "807beefa29d1f298",
