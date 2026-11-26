@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "a108ac157206acc2",
+  "ts": "2026-11-26T21:47:07+08:00",
+  "title": "11月25日，自8月26日澳门国际机场横琴前置货站航空打板业务“首单首飞”以来，累计完成航空打板货物超200吨",
+  "title_zh": "",
+  "body": "（新华社）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1382787.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c3054c662c14",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6815126458848043950,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "24c0cf7b4d4c4b76",
+  "ts": "2026-11-26T21:46:31+08:00",
+  "title": "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach",
+  "title_zh": "伊朗最高领袖呼吁扩大巴斯基志愿者社会影响力",
+  "body": "DUBAI, Nov 26 (Reuters) - Iran's Supreme Leader Mojtaba Khamenei called on Thursday on the Basij, nationwide volunteers affiliated with the Revolutionary Guards, to broaden their social reach and work towards making \"every Iranian, a Basiji\".Since the start of the war launched by the United States and Israel in late February, Iranian authorities have relied on the Basij to help organise repeated pro-government rallies across the country, with state media portraying them as evidence of broad popular support for the Islamic Republic.",
+  "summary": "伊朗最高领袖呼吁巴斯基志愿者扩大社会影响力，以增强对伊斯兰共和国的支持。",
+  "url": "https://www.al-monitor.com/originals/2026/11/irans-supreme-leader-urges-guards-linked-basij-volunteers-broaden-social-reach",
+  "source": "中东观察AlMonitor",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 61.0,
+  "level": "L1",
+  "impact": "中东地缘政治紧张可能影响能源市场。",
+  "cluster_id": "99222b6c988f",
+  "sources": [
+   "中东观察AlMonitor"
+  ],
+  "pushed": false,
+  "sh": 903729134364917311,
+  "reason": "tier=80 ent=1['iran'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "baec1b252cce0fae",
+  "ts": "2026-11-26T21:46:03+08:00",
+  "title": "据意大利安莎通讯社：在科威特身亡的意大利人是莱茵金属公司的技术人员",
+  "title_zh": "",
+  "body": "据意大利安莎通讯社：在科威特身亡的意大利人是莱茵金属公司的技术人员。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9edcd658b827",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 8321240644240597489,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e19ddf22bad4eac8",
+  "ts": "2026-11-26T21:45:51+08:00",
+  "title": "汇丰银行表示，除非针对墨西哥和加拿大，否则预计任何新关税本身都不会推动银价上涨",
+  "title_zh": "",
+  "body": "汇丰银行表示，除非针对墨西哥和加拿大，否则预计任何新关税本身都不会推动银价上涨。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8158278.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 52.1,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "c913234b7fab",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 10771153579700503488,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=Y spread=2 burst=5"
+ },
+ {
   "id": "b88e5fa2c9b0c028",
   "ts": "2026-11-26T21:45:44+08:00",
   "title": "杜里甘：财政因素与高利率问题相关",
@@ -612,16 +710,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 27.4,
+  "score": 29.1,
   "level": "L0",
   "impact": "",
   "cluster_id": "f409e71a2515",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 8725624177391223050,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=Y spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=Y spread=2 burst=5"
  },
  {
   "id": "154da6e51a398bf8",
