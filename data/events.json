@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "a9e99f64528d1bec",
+  "ts": "2026-11-26T15:22:39+08:00",
+  "title": "日本经济产业省：7月24日实施的与强迫劳动相关的10%美国关税是目前唯一生效的关税",
+  "title_zh": "",
+  "body": "日本经济产业省：7月24日实施的与强迫劳动相关的10%美国关税是目前唯一生效的关税。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrc9007807.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 67.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "d20c4dc041d2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2214187492698965232,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=12 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9850d9cb6683bc1b",
+  "ts": "2026-11-26T15:22:28+08:00",
+  "title": "也门胡塞武装称对沙特发动多次打击",
+  "title_zh": "也门胡塞武装称对沙特发动多次打击",
+  "body": "也门胡塞武装军事发言人叶海亚·萨雷亚11月25日发表声明称，该组织当天发动军事行动，对沙特境内多个目标实施打击。沙特主导的多国联军同一天称，沙特吉赞港和吉达港遭袭。叶海亚·萨雷亚25日上午在另一则声明中称，该组织的军事行动命中位于沙特东部省的塔努拉角炼油厂，导致该设施起火，胡塞武装还对沙特首都利雅得 一处金融中心实施打击，并造成“重大损失”。声明称，这是对沙特主导的多国联军袭击也门荷台达港的回应，旨在确立“港口对港口”的对等打击原则。萨雷亚当晚还称，过去24小时，沙特主导的多国联军对也门境内多地发动了105次空袭和导弹袭击。自本轮冲突升级以来，沙特主导的多国联军发动的空袭和导弹袭击累计已达5825次。（CCTV国际时讯）",
+  "summary": "也门胡塞武装对沙特境内目标实施打击，包括炼油厂和金融中心。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "地缘政治紧张可能影响能源市场。",
+  "cluster_id": "53bc7fbb48d9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14161001085370454849,
+  "reason": "tier=55 ent=2['沙特', '胡塞'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "2a2d6156c59f213e",
+  "ts": "2026-11-26T15:21:47+08:00",
+  "title": "外媒称一名加拿大华裔公民因涉嫌从事间谍活动在比利时被捕，外交部回应：我们不了解有关情况",
+  "title_zh": "外媒称加拿大华裔公民在比利时被捕，外交部回应：我们不了解有关情况",
+  "body": "11月26日，外交部发言人郭嘉昆主持例行记者会。路透社记者提问，一名因涉嫌间谍活动在比利时被捕的加拿大籍北约实习生，将在候审期间接受电子监控。该嫌疑人为华裔加拿大公民，涉嫌从事间谍活动。中方对此有何回应？郭嘉昆表示，我们不了解你提到的有关情况。（北青报）",
+  "summary": "加拿大华裔公民在比利时被捕，涉嫌间谍活动，外交部称不了解情况。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrf1462945.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7a6326842fb2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11151449105900762385,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "0da89c4caf300753",
+  "ts": "2026-11-26T15:21:24+08:00",
+  "title": "国际现货黄金等待企稳信号，高波动率下承接买盘或保持谨慎；白银还需下跌多少才能达到估值合理水平",
+  "title_zh": "",
+  "body": "追涨美元的风险回报已有所降温......",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236166",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c07f12055bd7",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 6492651781213590535,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "1a15bbca900dd5e3",
   "ts": "2026-11-26T15:19:58+08:00",
   "title": "公司的H酸产线进展如何？锦鸡股份回应",
@@ -613,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "d9eb4db33f09",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14287893114853192674,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "d93f51ef9cbf2178",
@@ -1021,6 +1120,31 @@
   "pushed": false,
   "sh": 3752795301316676123,
   "reason": "tier=55 ent=1['欧盟'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=Y spread=2 burst=1"
+ },
+ {
+  "id": "207da15eec45a395",
+  "ts": "2026-11-26T15:15:39+08:00",
+  "title": "French navy intercepts suspected drug-smuggling semi-submersible",
+  "title_zh": "法国海军截获疑似毒品走私半潜船",
+  "body": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
+  "summary": "法国海军在北大西洋截获一艘疑似用于毒品走私的半潜船。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4737c5da317b",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 11846025139866042420,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "776b51c8cf75a031",
