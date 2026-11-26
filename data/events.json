@@ -576,6 +576,78 @@
   "engine": "primary"
  },
  {
+  "id": "77735ab695c55c00",
+  "ts": "2026-11-26T19:29:02+08:00",
+  "title": "中国神华发售1.77亿股，发售价区间为每股38至39港元",
+  "title_zh": "",
+  "body": "中国神华发售1.77亿股，发售价区间为每股38至39港元。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a18aeedf992e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 386587441979459468,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "ad18ca3ae93ebffa",
+  "ts": "2026-11-26T19:28:11+08:00",
+  "title": "市场消息：拜耳计划到2030年在华制药领域投入约10亿欧元",
+  "title_zh": "",
+  "body": "市场消息：拜耳计划到2030年在华制药领域投入约10亿欧元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1417950.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3ad28ede582e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1615750650965055993,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "a8428addedaa5582",
+  "ts": "2026-11-26T19:28:02+08:00",
+  "title": "市场消息：拜耳将在北京生产基地投资至多5亿欧元",
+  "title_zh": "",
+  "body": "拜耳北京工厂计划新增最多300个就业岗位，预计于2032年启动。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8194283.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ab71e32a08d1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8533827012190447380,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
   "id": "a6f981ca539d60b2",
   "ts": "2026-11-26T19:27:08+08:00",
   "title": "铁路部门优化列车开行区间服务冰雪游",
