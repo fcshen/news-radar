@@ -576,6 +576,78 @@
   "engine": "primary"
  },
  {
+  "id": "4d0e23babdc74765",
+  "ts": "2026-11-26T16:23:51+08:00",
+  "title": "拉脱维亚总理：我们不考虑全面没收俄罗斯资产的可能性",
+  "title_zh": "",
+  "body": "拉脱维亚总理：我们不考虑全面没收俄罗斯资产的可能性。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1399601.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a579f5dd204f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6575456572493893345,
+  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "3adfef8ed7da7b4e",
+  "ts": "2026-11-26T16:23:39+08:00",
+  "title": "据泰国媒体报道，首都曼谷一家炼油厂26日下午发生爆炸并引发火灾",
+  "title_zh": "",
+  "body": "目前尚无人员伤亡报告。（新华社）",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxe8175774.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ddee567c3fd3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 174271328842091300,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "c4cf898bcd91f0a1",
+  "ts": "2026-11-26T16:22:48+08:00",
+  "title": "越南敦促企业制定计划以减轻美国关税风险",
+  "title_zh": "",
+  "body": "越南敦促企业制定计划以减轻美国关税风险。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1398519.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 55.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "33c4b64d3778",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 324489579546649654,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "c54a713167b9d1a2",
   "ts": "2026-11-26T16:22:12+08:00",
   "title": "国防部介绍中美海上军事安全磋商情况",
@@ -588,16 +660,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 20.2,
+  "score": 22.2,
   "level": "L0",
   "impact": "可能影响地区安全局势，需关注相关板块波动。",
   "cluster_id": "1c5904858cb4",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 4397586255208628753,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
@@ -699,6 +772,175 @@
   "sh": 15465169383650930516,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=1",
   "engine": "primary"
+ },
+ {
+  "id": "f118b96d34c22938",
+  "ts": "2026-11-26T16:20:28+08:00",
+  "title": "宜通世纪(300310)：宜通世纪：关于司法划转股份注销完成暨股份变动的公告",
+  "title_zh": "",
+  "body": "宜通世纪(300310)：宜通世纪：关于司法划转股份注销完成暨股份变动的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/3f4ac4f2-4901-412e-ade9-e8d85eddc561.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "231145bd5d32",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 5087564568484595913,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "9f057b738a2c72da",
+  "ts": "2026-11-26T16:20:27+08:00",
+  "title": "永贵智能(300351)：永贵智能：关于股份回购结果暨股份变动的公告",
+  "title_zh": "",
+  "body": "永贵智能(300351)：永贵智能：关于股份回购结果暨股份变动的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/4edcc40e-167e-4c4e-b1a7-0d3169580d38.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 54.6,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "bfb31e71b812",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 10848249077582620864,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "7e4ebc3633015862",
+  "ts": "2026-11-26T16:20:27+08:00",
+  "title": "电连技术(300679)：电连技术：关于签署合伙协议之补充协议暨合伙企业进展的公告",
+  "title_zh": "",
+  "body": "电连技术(300679)：电连技术：关于签署合伙协议之补充协议暨合伙企业进展的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/25b084b0-87bb-4af0-b13e-56118b41fdab.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "89a6b2645da4",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 11554984470752930442,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "12673785aef32533",
+  "ts": "2026-11-26T16:20:27+08:00",
+  "title": "中熔电气(301031)：中熔电气：募集说明书（申报稿）",
+  "title_zh": "",
+  "body": "中熔电气(301031)：中熔电气：募集说明书（申报稿）",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/33331113-79d0-4ad0-835d-73d01360c66a.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a4df13569fa8",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 4768558796322488984,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "980775d849669a07",
+  "ts": "2026-11-26T16:20:27+08:00",
+  "title": "中熔电气(301031)：中熔电气：证券发行保荐书",
+  "title_zh": "",
+  "body": "中熔电气(301031)：中熔电气：证券发行保荐书",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/56506ad9-d3ea-4c9e-a193-54ef6370bb9a.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d3df19733cb3",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 14027994814836478699,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "87ed59d2bba798c5",
+  "ts": "2026-11-26T16:20:26+08:00",
+  "title": "中熔电气(301031)：中熔电气：发行人最近三年的财务报告及其审计报告以及最近一期的财务报告",
+  "title_zh": "中熔电气(301031)：中熔电气：发行人最近三年的财务报告及其审计报告以及最近一期的财务报告",
+  "body": "中熔电气(301031)：中熔电气：发行人最近三年的财务报告及其审计报告以及最近一期的财务报告",
+  "summary": "中熔电气发布近三年及最新一期财务报告及审计报告。",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/b9fec471-229a-40d6-aa12-8507e7065380.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "投资者可关注财务数据变化，可能影响股价及投资决策。",
+  "cluster_id": "e917fd15d6fc",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 16531973387821905975,
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "82f34d3c1bd48604",
+  "ts": "2026-11-26T16:20:10+08:00",
+  "title": "中熔电气(301031)：中熔电气：法律意见书",
+  "title_zh": "",
+  "body": "中熔电气(301031)：中熔电气：法律意见书",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/62c50622-91f1-4d5e-8ff6-85d23a6d4153.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "90d0487bbe15",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 8245385724280823915,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "e7f5acabe5267633",
@@ -811,16 +1053,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 40.2,
+  "score": 42.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "832c6eac936c",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2767304872137700174,
-  "reason": "tier=55 ent=2['沙特', '土耳其'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=55 ent=2['沙特', '土耳其'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "e2e8b07bd4d655c5",
@@ -2819,16 +3062,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 40.2,
+  "score": 42.2,
   "level": "L0",
   "impact": "可能引发市场对振华股份回购动机和未来股价表现的讨论。",
   "cluster_id": "e92190c4ecb5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "深交所公告"
   ],
   "pushed": false,
   "sh": 1181783591894647493,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
