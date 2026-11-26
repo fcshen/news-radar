@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "1e1ad0434b3d8006",
+  "ts": "2026-11-27T07:36:59+08:00",
+  "title": "中国科研团队刷新量子增强精密测量世界纪录",
+  "title_zh": "中国科研团队刷新量子增强精密测量世界纪录",
+  "body": "记者26日从清华大学获悉，该校交叉信息院孙麓岩团队联合中国科学技术大学邹长铃和李明团队、浙江大学王浩华团队，在量子精密测量领域取得重要进展，创新实现Fock空间量子共焦显微方案，刷新非高斯态光子数、量子计量增益两项世界纪录。相关成果刊发于《自然》。（科技日报）",
+  "summary": "清华大学等团队刷新量子精密测量世界纪录。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "80457d9c9d08",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17091120102646233067,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "222374881b8c026d",
   "ts": "2026-11-27T07:35:18+08:00",
   "title": "EU leaders unable to agree on budget after over 12 hours of talks: ‘zero results’",
