@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "3fb7e5343d30ffc1",
+  "ts": "2026-11-26T18:07:28+08:00",
+  "title": "印度尼西亚央行行长表示，受季节性美元需求以及美联储和MSCI相关情绪影响，印尼盾面临压力",
+  "title_zh": "",
+  "body": "印度尼西亚央行行长表示，受季节性美元需求以及美联储和MSCI相关情绪影响，印尼盾面临压力。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 59.7,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "92942a286ca4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11539668345837076191,
+  "reason": "tier=55 ent=3['央行', '美联储'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=Y spread=0 burst=3"
+ },
+ {
+  "id": "e6b805973b11c175",
+  "ts": "2026-11-26T18:06:44+08:00",
+  "title": "小米智造基金、蔚来资本等入股特创科技",
+  "title_zh": "小米智造基金、蔚来资本等入股特创科技",
+  "body": "近日，江苏特创科技有限公司发生工商变更，注册资本增至约3337万元，新增小米旗下北京小米智造股权投资基金合伙企业（有限合伙）、蔚来资本旗下合肥蔚来产业发展股权投资合伙企业（有限合伙）等为股东。企查查显示，该公司成立于2009年11月，法定代表人为陈超，现由吴茜、苏州特创企业管理中心（有限合伙）及上述新增股东等共同持股。官网显示，特创科技是一家专业的测试与工业自动化解决方案提供商，公司主要聚焦于汽车电子与服务器两大业务领域，深耕智能制造行业领域10年以上，致力于为客户提供从模块化产品、智能测试设备、自动化装配产线到工业互联的整体解决方案。",
+  "summary": "特创科技注册资本增至3337万元，小米智造基金、蔚来资本等入股。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaifa8135406.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "可能影响相关产业链投资情绪。",
+  "cluster_id": "f034a07ada1d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6666177114170992681,
+  "reason": "tier=55 ent=2['小米', '蔚来'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "5fbdec871eab67cc",
   "ts": "2026-11-26T18:04:54+08:00",
   "title": "沙河股份：拟2153.03万元协议转让置地投资100%股权",
@@ -598,6 +647,31 @@
   "pushed": false,
   "sh": 16748224416682437761,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "3020626da9a8335e",
+  "ts": "2026-11-26T18:04:31+08:00",
+  "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+  "title_zh": "Macy's感恩节大游行历史与趣事",
+  "body": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
+  "summary": "Macy's感恩节大游行回顾历史瞬间与意外。",
+  "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 31.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f7ae748af0a1",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 2350053235244782889,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
   "engine": "primary"
  },
  {
@@ -772,6 +846,56 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
+  "id": "e0992b60b203e983",
+  "ts": "2026-11-26T18:02:26+08:00",
+  "title": "‘Avengers’ and ‘Dune’ Have Hollywood Dreaming of a December Windfall",
+  "title_zh": "《复仇者联盟：末日》和《沙丘：第三部》预计12月票房收入至少3.5亿美元",
+  "body": "“Avengers: Doomsday” and “Dune: Part Three” are expected to open to at least $350 million in ticket sales. Some forecasts approach $500 million.",
+  "summary": "《复仇者联盟：末日》和《沙丘：第三部》预计12月票房收入至少3.5亿美元，部分预测达5亿美元。",
+  "url": "https://www.nytimes.com/2026/11/26/business/media/avengers-infinity-vision-dune.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 31.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5742105f8f3e",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 11018396339496063112,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "2d2baa402f91558c",
+  "ts": "2026-11-26T18:02:11+08:00",
+  "title": "The New Itty-Bitty Fiat Is a Nifty Fit for the City",
+  "title_zh": "迷你菲亚特Topolino：城市中的小巧之选",
+  "body": "The Topolino is so small it’s street-legal only on roads with low speed limits. The electric motor is tiny, and the range is limited. But there’s still lots to like.",
+  "summary": "Topolino小型电动汽车，限速低的道路上合法行驶，续航有限。",
+  "url": "https://www.nytimes.com/2026/11/26/business/fiat-topolino-electric-review.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 31.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "627526d77a26",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 10143593761927597443,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "ad5a17fe80a923fe",
   "ts": "2026-11-26T18:02:09+08:00",
   "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
@@ -820,6 +944,31 @@
   "pushed": true,
   "sh": 4171413208519513497,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "23aad9d4cd1d37a8",
+  "ts": "2026-11-26T18:01:56+08:00",
+  "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
+  "title_zh": "特朗普试图削弱华为，如今其在中国的AI发展中不可或缺",
+  "body": "As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+  "summary": "华为在技术差距较大的情况下，成为北京AI发展关键，尽管其获取英伟达先进芯片的渠道受限。",
+  "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
+  "source": "NYT Business",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 63.0,
+  "level": "L1",
+  "impact": "华为业务影响AI产业链，可能影响相关A股和ETF表现。",
+  "cluster_id": "9817c442ad0b",
+  "sources": [
+   "NYT Business"
+  ],
+  "pushed": false,
+  "sh": 122847039962778529,
+  "reason": "tier=80 ent=2['huawei', 'trump'] pred=0 conv=0 combo=8 rel=24 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
  },
  {
   "id": "c3a3549ff829e55b",
