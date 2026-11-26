@@ -234,24 +234,51 @@ def run_round(cfg, store, dry_run=False, verbose=True):
             ev["impact"] = impact
         return ev
 
-    if new_events:
+    def _run_batch(batch):
+        if not batch:
+            return
         # 智谱 glm-4-flash 免费档并发限制低（免费用户约 2 并发），
         # 并发过高会触发 429 限流，反而导致更多请求降级到本地兜底。
-        workers = min(2, max(1, len(new_events)))
+        workers = min(2, max(1, len(batch)))
         with ThreadPoolExecutor(max_workers=workers) as pool:
-            for _ in pool.map(_summarize_one, new_events):
+            for _ in pool.map(_summarize_one, batch):
                 pass
 
-    added = store.add_events(new_events)
+    def _push(evs):
+        n = 0
+        for ev in evs:
+            if ev.get("level") == "L0":
+                continue
+            ev["tries"] = int(ev.get("tries", 0)) + 1
+            if notify.push_event(cfg, ev, dry_run=dry_run):
+                ev["pushed"] = True  # 只有真的送达才置位；失败留给下一轮补推
+                n += 1
+        return n
+
+    # 分两批走：要推送的（L2/L3）先摘要 → 先入库 → 立刻推，其余慢慢排队。
+    #
+    # 不拆的话，一轮里混进二三十条普通消息时，最该抢先的那条会排在两并发
+    # 队列的末尾，光等摘要就要几十秒，通知也跟着晚到——而通知的价值全在"快"。
+    pq_ids = {e["id"] for e in push_queue}
+    urgent = [e for e in new_events if e["id"] in pq_ids]
+    rest = [e for e in new_events if e["id"] not in pq_ids]
+
+    added = 0
     pushed = 0
 
-    for ev in push_queue:
-        if ev["level"] == "L0":
-            continue
-        ev["tries"] = int(ev.get("tries", 0)) + 1
-        if notify.push_event(cfg, ev, dry_run=dry_run):
-            ev["pushed"] = True      # 只有真的送达才置位；失败留给下一轮补推
-            pushed += 1
+    if urgent:
+        _run_batch(urgent)
+        added += store.add_events(urgent)
+        store.save_events()          # 先落盘，下一轮数据提交就能带上它
+        # 新事件优先，随后是老事件（本轮只补了信源、分数够了才补推的）
+        pushed += _push([e for e in push_queue if e["id"] in pq_ids])
+        pushed += _push([e for e in push_queue if e["id"] not in pq_ids])
+    elif push_queue:
+        pushed += _push(push_queue)
+
+    if rest:
+        _run_batch(rest)
+        added += store.add_events(rest)
 
     pushed += sweep_unpushed(cfg, store, dry_run=dry_run)
 

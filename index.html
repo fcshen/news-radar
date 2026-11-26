@@ -157,7 +157,7 @@
 <script>
 const TL={official:"官方",exchange:"交易所",authority:"权威媒体",media:"媒体",unverified:"未证实"};
 const LV={L3:"强提醒",L2:"即时",L1:"摘要",L0:"归档"};
-const POLL=60000;
+const POLL=30000;   // 30 秒一轮：数据侧已压到 2 分钟一提交，轮询再慢就白等
 let ALL=[], TOTAL=0, FILTER="rec", LAST_SEEN=Number(localStorage.getItem("lastSeen")||0);
 // 展开状态与列表分离：列表每 60 秒重建一次，靠这个集合保住已展开的卡片
 const OPEN=new Set();
@@ -281,15 +281,19 @@ function paintMeta(){
     : `库内 ${ALL.length} 条`;
 }
 
-// 主站与 CDN 镜像（jsDelivr 直接读同一仓库同一分支，内容一致）
+// 三条数据通道，并发请求、谁最新用谁：
+//   RAW    raw.githubusercontent.com —— commit 后几秒即可读，完全不受 Pages 构建
+//          和边缘缓存影响，是最快的一条（国内网络可能不通，所以要有兜底）
+//   PAGES  自有域名，国内最稳，但受边缘缓存 max-age=600 和 Pages 构建队列影响
+//   CDN    jsDelivr 镜像，国内通常可通，缓存偏旧，只作第三层
 const PAGES="data/feed.json";
+const RAW="https://raw.githubusercontent.com/fcshen/news-radar/main/data/feed.json";
 const CDN="https://cdn.jsdelivr.net/gh/fcshen/news-radar@main/data/feed.json";
 
-// GitHub Pages 的边缘缓存是 10 分钟，采集也是 10 分钟一轮，两者叠加会让手机
-// 读到最多 20 分钟前的数据——点开刚推来的通知就会"找不到这条"。
-// 加分钟级参数绕开边缘缓存；同一分钟内复用同一份，不会额外增加请求量。
+// 缓存键必须每轮都变，否则 CDN/浏览器会把 10 分钟前的副本原样发回来——
+// 这正是"刚推来的通知点开却找不到"的根因。用秒级参数，一次轮询一个键。
 function bust(u){
-  return u + (u.indexOf("?")>=0?"&":"?") + "m=" + Math.floor(Date.now()/60000)
+  return u + (u.indexOf("?")>=0?"&":"?") + "t=" + Math.floor(Date.now()/1000)
             + (BUST ? "." + BUST : "");
 }
 let BUST=0;   // 手动刷新/深层链接重试时递增，保证换一个缓存键，不吃回旧副本
@@ -311,20 +315,21 @@ async function load(manual){
   const ctl=new AbortController();
   const kill=setTimeout(()=>ctl.abort(),20000);
   try{
-    // 主站与 CDN 镜像并发请求，谁先给出完整数据就用谁：
-    // 国内网络到 GitHub Pages 时快时慢（实测 0.6s ~ 60s+），单线路容易卡死。
-    // 但 CDN 可能命中旧缓存，故对返回数据的 generated 时间做校验，
-    // 偏旧时再等另一路，取较新的那份。
-    const tag = u => grab(u, ctl.signal)
+    // 三路并发，谁先给出完整数据就用谁；但若先到的那份本身是旧的
+    // （CDN 缓存 / Pages 还没构建完），再等最多 6 秒取较新的一份。
+    const tag = u => grab(bust(u), ctl.signal)
       .then(j => ({j, g: Date.parse((j && j.generated) || "") || 0}));
-    const reqs = [tag(bust(PAGES)), tag(CDN)];
+    const reqs = [tag(RAW), tag(PAGES), tag(CDN)];
     let j = null;
     try{
       let win = await Promise.any(reqs);
-      if(Date.now() - win.g > 15*60000){
-        const all = (await Promise.allSettled(reqs))
-          .filter(r => r.status === "fulfilled").map(r => r.value);
-        win = all.reduce((a,b) => (b.g > a.g ? b : a), win);
+      if(Date.now() - win.g > 5*60000){
+        const settled = await Promise.race([
+          Promise.allSettled(reqs),
+          new Promise(r=>setTimeout(()=>r(null),6000))
+        ]);
+        const all = (settled||[]).filter(r => r.status === "fulfilled").map(r => r.value);
+        if(all.length) win = all.reduce((a,b) => (b.g > a.g ? b : a), win);
       }
       j = win.j;
     }catch(_){

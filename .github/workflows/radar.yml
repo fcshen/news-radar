@@ -84,17 +84,28 @@ jobs:
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: |
-          # 后台：每 10 分钟把 data/ 提交一次，Pages 随之重建。
-          # 间隔不能更短：GitHub Pages 软限制约 10 次构建/小时，600 秒 = 6 次/小时最稳。
-          # 手机网页看到的事件，延迟 ≈ 这个间隔 + Pages 重建 1 分钟；要"零延迟"靠 Bark 推送。
+          # 后台：每 2 分钟把 data/ 提交一次。这是手机端"看到最新"的主要延迟来源，
+          # 采集本身 30 秒一轮，但数据不进仓库，前端就永远读不到。
+          #
+          # 为什么不设成 10 分钟（旧版）：GitHub Pages 对 branch 部署有约 10 次/小时
+          # 的软构建限制，超出时它只会"跳过这次构建"、推迟到下一次，并不会丢数据
+          # （commit 已经进仓库）。也就是说超限的代价是构建频率自动退化回 10 分钟，
+          # 不会比旧版更差；没超限时则快 5 倍。所以 120 秒是纯增益。
+          #
+          # 前端同时并发读 raw.githubusercontent.com（commit 秒级可见，不受 Pages
+          # 构建和边缘缓存影响），Pages 作为兜底通道，两条路谁新用谁。
           (
             while true; do
-              sleep 600
+              sleep 120
               git add data/ 2>/dev/null || true
               if ! git diff --cached --quiet; then
                 git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)" || true
-                git pull --rebase --autostash -q || true
-                git push -q || echo "push 失败，下一轮重试"
+                for i in 1 2 3; do
+                  git pull --rebase --autostash -q || true
+                  if git push -q; then break; fi
+                  echo "push 失败（第 $i 次），5 秒后重试"
+                  sleep 5
+                done
               fi
             done
           ) &

@@ -64,7 +64,7 @@ ai:
     api_key: ""             # 环境变量 SILICONFLOW_API_KEY 优先
     base_url: "https://api.siliconflow.cn/v1"
   max_tokens: 220
-  timeout: 20
+  timeout: 10               # 单次调用上限。20 秒会让一条卡住的请求拖慢整轮推送
   translate_en: true        # 英文消息翻成中文，保留原文标题与链接
 
 # 英文消息翻译：AI 优先，无 key 时用免费接口兜底

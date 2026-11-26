@@ -3,7 +3,7 @@
    GitHub Pages 的 /<仓库名>/ 子路径下都能用。
    注意：局域网 http://192.168.x.x 属于非安全上下文，浏览器不会注册 SW；
    此时页面照常工作，只是没有离线能力。部署到 https 后自动生效。 */
-const SHELL = "radar-shell-v11";
+const SHELL = "radar-shell-v12";
 const ASSETS = ["./", "./setup.html", "./manifest.webmanifest",
                 "./assets/icon-144.png", "./assets/icon-192.png",
                 "./assets/icon-512.png", "./assets/icon-maskable-512.png",
@@ -30,10 +30,12 @@ self.addEventListener("fetch", (e) => {
       fetch(e.request)
         .then((res) => {
           const copy = res.clone();
-          caches.open(SHELL).then((c) => c.put(e.request, copy));
+          // 缓存键固定成一份：请求 URL 每 30 秒带一个新的 ?t=<秒>，
+          // 若按原 URL 存，一天会往 Cache 里塞上万条同一份数据。
+          caches.open(SHELL).then((c) => c.put("./data/_last", copy));
           return res;
         })
-        .catch(() => caches.match(e.request))
+        .catch(() => caches.open(SHELL).then((c) => c.match("./data/_last")))
     );
     return;
   }
