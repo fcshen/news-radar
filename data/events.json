@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "4cf76b15ab9055c1",
+  "ts": "2026-11-27T06:44:45+08:00",
+  "title": "横琴粤澳深度合作区前10个月进出口值同比增超六成",
+  "title_zh": "横琴粤澳深度合作区前10个月进出口值同比增超六成",
+  "body": "据拱北海关统计，今年前10个月，横琴粤澳深度合作区进出口值为634.4亿元，同比增长66.8%。其中10月当月进口值达22亿元，同比增长87.8%；超2000吨跨境电商货品走出国门，远销20个国家和地区。（央视新闻）",
+  "summary": "横琴粤澳深度合作区前10个月进出口值同比增长66.8%，10月进口值同比增长87.8%。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksp1132604.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "区域经济活跃度提升，可能影响相关行业及企业业绩。",
+  "cluster_id": "adb0b99b16ce",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13975360246960925976,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "75ee8a940b0d735d",
+  "ts": "2026-11-27T06:43:25+08:00",
+  "title": "首个农耕文明领域大模型“天稷”发布",
+  "title_zh": "首个农耕文明领域大模型“天稷”发布",
+  "body": "记者从农业农村部了解到，日前首个农耕文明领域大模型“天稷”发布。该模型涵盖8000万条覆盖传统农耕技艺、现代智慧农业与农耕文明演进脉络的知识条目，为农业生产提出智慧决策建议。（央视新闻）",
+  "summary": "农业农村部发布首个农耕文明领域大模型“天稷”，涵盖8000万条知识条目。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkackst3355165.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "60690fd1b8c9",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 154308260364954376,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
+ },
+ {
   "id": "6a985457f026c743",
   "ts": "2026-11-27T06:42:16+08:00",
   "title": "亚洲股市迎来反弹窗口 但科技股复苏仍待考验",
