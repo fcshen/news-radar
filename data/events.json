@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "1c62cc6cc957af2d",
+  "ts": "2026-11-27T05:54:15+08:00",
+  "title": "日本JERA计划在发电厂附近建设Anthropic和Meta数据中心",
+  "title_zh": "",
+  "body": "日本JERA计划在发电厂附近建设Anthropic和Meta数据中心。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7882578.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ab45126c04de",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7902376462042165598,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
+ },
+ {
   "id": "9da718be788a3503",
   "ts": "2026-11-27T05:51:23+08:00",
   "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
