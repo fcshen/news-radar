@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "0185d1b50fbaa1df",
+  "ts": "2026-11-27T07:40:08+08:00",
+  "title": "基金公司出招 助投资者看清主动ETF“明牌”",
+  "title_zh": "基金公司出招 助投资者看清主动ETF“明牌”",
+  "body": "首批18只主动ETF已全部挂牌上市。主动ETF须于每个交易日开市前披露基于前一交易日真实持仓的申购赎回清单（PCF），这一机制提升了基金投资的透明度，但PCF清单格式专业、数据繁杂，普通投资者直接阅读门槛较高。对此，基金公司纷纷出招，易方达基金、华夏基金等近期相继落地或优化了针对主动ETF的持仓查询与解读服务，将“每日亮牌”的监管要求转化为投资者看得清、看得懂的决策参考。",
+  "summary": "首批18只主动ETF上市，基金公司提供持仓查询服务。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1041243.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 31.2,
+  "level": "L0",
+  "impact": "主动ETF透明度提升，可能影响投资者决策。",
+  "cluster_id": "9ca923bd0dcd",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14251367121393240182,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "23946000e4217645",
+  "ts": "2026-11-27T07:39:09+08:00",
+  "title": "东京地区核心CPI同比增速创2025年7月以来最快升速",
+  "title_zh": "",
+  "body": "东京地区核心CPI同比增速创2025年7月以来最快升速。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8acbde0a0449",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9448822111024519788,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "918ce897c5576486",
   "ts": "2026-11-27T07:38:54+08:00",
   "title": "金十数据整理：每日科技要闻速递（11月27日）",
