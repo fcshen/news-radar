@@ -576,6 +576,82 @@
   "engine": "primary"
  },
  {
+  "id": "60dd493fda0430cd",
+  "ts": "2026-11-26T19:25:24+08:00",
+  "title": "新疆发布大雾黄色预警 部分地区能见度将小于500米",
+  "title_zh": "新疆发布大雾黄色预警 部分地区能见度将小于500米",
+  "body": "新疆维吾尔自治区气象台11月26日18时03分发布大雾黄色预警信号：预计今天傍晚至明天白天，伊犁河谷西部、博州、塔城地区南部、石河子市、乌鲁木齐市、昌吉州等地的部分区域将断续出现能见度小于500米的雾，局地能见度小于200米，对交通出行有较大影响。（央视新闻）",
+  "summary": "新疆部分地区发布大雾黄色预警，能见度将小于500米。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "可能影响交通运输，间接影响相关行业股价。",
+  "cluster_id": "cc21192e3df5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7228983274658814395,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "8f0f78d206284771",
+  "ts": "2026-11-26T19:23:50+08:00",
+  "title": "氢氧化锂期货今日上市！新品种、新行情，订单流、资金炸弹、多维历史复盘，丰富你的看盘视角",
+  "title_zh": "氢氧化锂期货今日上市！新品种、新行情，订单流、资金炸弹、多维历史复盘，丰富你的看盘视角",
+  "body": "双11福利限时返场，年会员4699元，赠2个月盯盘时长、1年期货快讯PRO及金十格言日历，点击体验！",
+  "summary": "氢氧化锂期货今日上市，提供多维度复盘。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "可能影响相关产业链投资情绪。",
+  "cluster_id": "1aadbf20ea85",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 16677337921749028115,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "9a0f60e5e7cee441",
+  "ts": "2026-11-26T19:23:36+08:00",
+  "title": "英国央行的布雷登：需要大力提升英国国债回购市场的韧性",
+  "title_zh": "",
+  "body": "英国央行的布雷登：需要大力提升英国国债回购市场的韧性。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaiez1415702.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 91.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "9e40f709467b",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 9660390107201147934,
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=1 conv=0 combo=32 rel=35 sev=0 pct=0 op=N spread=2 burst=3",
+  "tries": 1
+ },
+ {
   "id": "7fb4f0c7c0a75652",
   "ts": "2026-11-26T19:22:53+08:00",
   "title": "澄天伟业：半导体封装材料业务前三季度收入同比增长95.62%",
@@ -663,16 +739,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 57.2,
+  "score": 59.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "73e008335745",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11388409378191488561,
-  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+  "reason": "tier=55 ent=2['央行', '英国央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=3"
  },
  {
   "id": "52824219bbcf481f",
@@ -745,6 +822,30 @@
   "pushed": false,
   "sh": 13093942070776036425,
   "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "7c1d9785c55a5f27",
+  "ts": "2026-11-26T19:20:18+08:00",
+  "title": "中国成品油价迎“两连跌”",
+  "title_zh": "",
+  "body": "中新社北京11月26日电 (记者 庞无忌)中国成品油价迎“两连跌”。",
+  "summary": "",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738311.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 22.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "be08b06b945f",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 8211994004761684652,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "6bdf999d2ffe141e",
