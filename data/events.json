@@ -576,6 +576,104 @@
   "engine": "primary"
  },
  {
+  "id": "3f16c5718afc0cb0",
+  "ts": "2026-11-26T21:01:54+08:00",
+  "title": "永太科技：控股股东王莺妹补充质押1044万股股份",
+  "title_zh": "永太科技：控股股东王莺妹补充质押1044万股股份",
+  "body": "永太科技公告称，公司控股股东王莺妹于2026年11月24日、25日合计补充质押股份1044万股，占其所持股份比例7.24%，占公司总股本比例1.13%，质权人分别为西藏信托有限公司、上海浦东发展银行股份有限公司台州分行，质押用途为补充质押。本次质押后，王莺妹累计质押股份6399.36万股，占其所持股份比例44.36%，占公司总股本比例6.92%。控股股东及其一致行动人资信状况良好，不存在引发平仓风险或导致公司实际控制权变更的实质性因素。",
+  "summary": "永太科技控股股东王莺妹补充质押1044万股股份，占其持股比例7.24%，占公司总股本1.13%。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapny8126599.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能引发市场对控股股东资金状况的关注。",
+  "cluster_id": "3bad4a35966a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 8223600121596799351,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "7c14513a87f1fe4e",
+  "ts": "2026-11-26T21:01:50+08:00",
+  "title": "TCL中环：回购股份实施完毕 累计耗资5亿元",
+  "title_zh": "TCL中环：回购股份实施完毕 累计耗资5亿元",
+  "body": "TCL中环公告称，公司本次回购股份方案已实施完毕。公司以集中竞价交易方式累计回购股份5509.09万股，占公司当前总股本的1.36%，最高成交价9.69元/股，最低成交价7.64元/股，成交金额约5亿元（不含交易费用）。本次回购股份将用于员工持股计划和/或股权激励，若三年内未实施前述用途，未使用部分将依法予以注销。",
+  "summary": "TCL中环完成股份回购，耗资约5亿元，用于员工持股计划或激励。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaappc3627231.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "可能提振投资者信心，短期股价或受提振。",
+  "cluster_id": "34efd4037f61",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14129685163346647492,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "47930294ede98931",
+  "ts": "2026-11-26T21:01:23+08:00",
+  "title": "荷兰贸易大臣：美国并不是费尔德霍芬（阿斯麦所在地）的老板",
+  "title_zh": "",
+  "body": "美国在一定程度上嫉妒荷兰和阿斯麦所拥有的技术能力。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnx1349834.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "48c3878ae9b8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5777647145619537921,
+  "reason": "tier=55 ent=1['阿斯麦'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "3189cb0d02ce5477",
+  "ts": "2026-11-26T21:01:01+08:00",
+  "title": "聚焦规模化量产与产业生态共建：2026增材制造大会在泸州开幕",
+  "title_zh": "",
+  "body": "中新网泸州11月26日电 (单鹏)以“增材启新 智造未来”为主题的2026增材制造大会26日在四川泸州开幕。",
+  "summary": "",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738374.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "348e17df6b92",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 13995566205881596387,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "a8bafe0597e71fcb",
   "ts": "2026-11-26T21:00:20+08:00",
   "title": "特朗普欲再挥关税大棒，黄金能否复制去年走势",
@@ -595,9 +693,59 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6582162365951059817,
-  "reason": "tier=55 ent=1['特朗普'] pred=1 conv=0 combo=26 rel=29 sev=8 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['特朗普'] pred=1 conv=0 combo=26 rel=29 sev=8 pct=0 op=N spread=0 burst=5",
+  "tries": 1
+ },
+ {
+  "id": "337d20113b396a9e",
+  "ts": "2026-11-26T21:00:16+08:00",
+  "title": "甲醇连续主力合约日内涨1%，现报3198.00元",
+  "title_zh": "",
+  "body": "甲醇连续主力合约日内涨1%，现报3198.00元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaapnv8846410.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3e01a4e34863",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12982266487151331883,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a25f9f97a5823e2c",
+  "ts": "2026-11-26T21:00:14+08:00",
+  "title": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
+  "title_zh": "上海市委书记陈吉宁被免职 分析师：中国科技野心未受影响",
+  "body": "The ousting of Shanghai Communist Party chief Chen Jining, a prominent technocrat who championed the city’s artificial intelligence and semiconductor sectors, could heighten scrutiny of state-backed tech investments, although analysts see little sign of a shift in China’s broader tech ambitions. State media reported on Tuesday that Chen, 62, a Politburo member once tipped for higher office, had been placed under investigation for suspected “serious breaches of discipline and law” – a common...",
+  "summary": "上海市委书记陈吉宁因涉嫌严重违纪违法被调查，分析师认为中国科技野心未受影响。",
+  "url": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 43.0,
+  "level": "L0",
+  "impact": "可能影响对科技板块的投资情绪",
+  "cluster_id": "3e27137692a7",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 214979417691183109,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=10 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
  },
  {
   "id": "819aa4b3fba0ec0f",
@@ -612,16 +760,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "ad4563d01435",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 4697595173923628779,
-  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['俄罗斯'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "2afd084ab2aeb119",
@@ -670,6 +819,30 @@
   "pushed": false,
   "sh": 15887088180233321087,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "fe9d15fad85ba7b2",
+  "ts": "2026-11-26T21:00:03+08:00",
+  "title": "夜盘开盘，国内期货主力合约涨多跌少，沪银涨近4%，乙二醇（EG）涨近3%，沪锌、沪镍、沪锡涨超2%，燃料油、短纤、焦煤涨",
+  "title_zh": "",
+  "body": "近2%。跌幅方面，液化石油气（LPG）、氧化铝小幅下跌。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 60.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "7f1651493afd",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13278375539917226556,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=32 sev=0 pct=4 op=N spread=0 burst=5"
  },
  {
   "id": "4015668078148c73",
