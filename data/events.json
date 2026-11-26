@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "30310d4d2b2a3407",
+  "ts": "2026-11-26T21:39:07+08:00",
+  "title": "“网传安踏员工在泰国被拐”引热议，品牌方暂无官方回应",
+  "title_zh": "",
+  "body": "“网传安踏员工在泰国被拐缅甸”有关话题在社交平台引发热议并登上热搜。截至目前，安踏集团未就此事进行官方回应。（新浪科技）",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d9849866720f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7751128347015833089,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "7af6be6083cd9ae8",
   "ts": "2026-11-26T21:37:21+08:00",
   "title": "巴西财政部长杜里甘：与总统卢拉讨论的额外措施符合支出控制方向",
