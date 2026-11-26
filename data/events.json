@@ -576,6 +576,130 @@
   "engine": "primary"
  },
  {
+  "id": "5fb336b1c8c89239",
+  "ts": "2026-11-26T17:20:35+08:00",
+  "title": "奥普特：2026年第三期已回购A股股份200万股",
+  "title_zh": "奥普特：2026年第三期已回购A股股份200万股",
+  "body": "奥普特公告称，根据公司2026年11月20日董事会审议通过的2026年第三期以集中竞价交易方式回购公司A股股份方案，公司通过上交所交易系统以集中竞价方式回购A股股份。截至2026年11月26日，本次回购股份数量为200万股，占公司总股本比例为0.1334%，公司已发行股份总数为1,421,540,472股。",
+  "summary": "奥普特以集中竞价方式回购A股股份200万股，占总股本0.1334%",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1450629.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "公司回购可能影响股价及投资者信心",
+  "cluster_id": "93660479c460",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5916318312541256418,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "484efad343f9adff",
+  "ts": "2026-11-26T17:20:06+08:00",
+  "title": "新加坡：接触以降低关税很重要",
+  "title_zh": "",
+  "body": "新加坡：接触以降低关税很重要。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1450018.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "bd5d20c84c2e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6740736913560143770,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "519a528c7f70c5c8",
+  "ts": "2026-11-26T17:19:31+08:00",
+  "title": "易明医药：首次回购股份40万股 成交金额545.68万元",
+  "title_zh": "易明医药：首次回购股份40万股 成交金额545.68万元",
+  "body": "易明医药公告称，公司此前审议通过回购股份方案，拟使用2500万元-5000万元自有资金以集中竞价方式回购股份，用于股权激励或员工持股计划，回购期限为董事会审议通过之日起12个月内。2026年11月26日，公司首次回购股份40万股，占总股本的0.21%，最高成交价13.87元/股，最低成交价13.44元/股，成交总金额545.68万元（不含交易费用）。后续公司将根据市场情况继续实施回购方案。",
+  "summary": "易明医药首次回购40万股，成交额545.68万元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inkaaaxc1449514.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 42.2,
+  "level": "L0",
+  "impact": "公司回购可能影响股价短期波动。",
+  "cluster_id": "66ba25c3e83b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5814684078418248128,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
+  "id": "e5cc0e9ad29e4448",
+  "ts": "2026-11-26T17:19:19+08:00",
+  "title": "伦敦金属交易所镍库存创2019年以来最大降幅",
+  "title_zh": "",
+  "body": "伦敦金属交易所追踪的可随时供应镍库存减少13,896吨，至247,164吨，数据显示。注销仓单库存从韩国、中国台湾和新加坡的仓库中被提取。伦敦金属交易所镍期货涨幅扩大至多2.8%。",
+  "summary": "伦敦金属交易所追踪的可随时供应镍库存减少13,896吨，至247,164吨，数据显示。注销仓单库存从韩国、中国台湾和新加坡的仓库中被提取。伦敦金属交易所镍期货涨幅扩大至多2.8%。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7b16adf8c7b6",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10061760650718355720,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "template"
+ },
+ {
+  "id": "5b5e413858959bf8",
+  "ts": "2026-11-26T17:18:53+08:00",
+  "title": "Shanghai party chief’s downfall shows reach of anti-corruption drive",
+  "title_zh": "上海市委书记陈吉宁被调查，反腐行动扩大",
+  "body": "Shanghai’s Communist Party chief, Chen Jining, was placed under investigation for corruption as China’s widening anti-corruption drive toppled a fourth Politburo member ahead of a major leadership reshuffle next year. Chen is suspected of “serious breaches of discipline and law”, state broadcaster CCTV reported on Tuesday, using a common euphemism for corruption. The Central Commission for Discipline Inspection (CCDI) and the National Commission of Supervision are investigating the case. The...",
+  "summary": "上海市委书记陈吉宁因涉嫌腐败被调查，反腐行动波及至政治局成员。",
+  "url": "https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 36.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cc2f1997e166",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 764354529710889053,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=3",
+  "engine": "primary"
+ },
+ {
   "id": "5594887d77940cd5",
   "ts": "2026-11-26T17:18:15+08:00",
   "title": "新加坡：愿继续加强与美国的双边关系",
@@ -646,6 +770,30 @@
   "pushed": false,
   "sh": 2764998915251154661,
   "reason": "tier=55 ent=3['央行', '欧洲央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=3"
+ },
+ {
+  "id": "5d039dff207a4626",
+  "ts": "2026-11-26T17:16:27+08:00",
+  "title": "中科信息(300678)：中科信息：关于董事会换届选举的提示性公告",
+  "title_zh": "",
+  "body": "中科信息(300678)：中科信息：关于董事会换届选举的提示性公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-26/b6af8a87-d7d4-40d8-ba28-2e7c9b9767fb.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f6ff7bcfd38d",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 15583561973913838172,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=3"
  },
  {
   "id": "30e69ac9c60dbd48",
@@ -1546,17 +1694,18 @@
   "region": "cn",
   "lang": "zh",
   "channel": "szse",
-  "score": 58.6,
+  "score": 60.6,
   "level": "L1",
   "impact": "可能提振投资者信心，影响股价短期表现。",
   "cluster_id": "99bcfe2b7ad4",
   "sources": [
    "深交所公告",
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 4671267554174644352,
-  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=2 burst=3",
+  "reason": "tier=96 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=4 burst=3",
   "engine": "primary"
  },
  {
@@ -7861,16 +8010,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 63.2,
+  "score": 65.2,
   "level": "L1",
   "impact": "日本央行ETF投资动态或影响市场情绪。",
   "cluster_id": "37d10cf05e4a",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 13060328824725863820,
-  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=35 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
