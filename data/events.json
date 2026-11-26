@@ -576,6 +576,30 @@
   "engine": "primary"
  },
  {
+  "id": "acb8c9ef7013041c",
+  "ts": "2026-11-26T15:07:50+08:00",
+  "title": "中国驻巴布亚新几内亚使馆：再次提醒中国公民和机构遵守当地法律，加强安全防范，安全合规经营",
+  "title_zh": "",
+  "body": "中国驻巴布亚新几内亚使馆：再次提醒中国公民和机构遵守当地法律，加强安全防范，安全合规经营。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizzwrm3772230.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4e4ccd04c7bc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17019215318593852257,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
   "id": "26be4ea512741716",
   "ts": "2026-11-26T15:06:55+08:00",
   "title": "寒潮来袭 英国电力供应紧张进入第三天",
@@ -599,6 +623,30 @@
   "sh": 2070002234035250353,
   "reason": "与市场无关",
   "engine": "primary"
+ },
+ {
+  "id": "6d953aed6dd5dbf0",
+  "ts": "2026-11-26T15:06:35+08:00",
+  "title": "股市资金流向图：今日沪深两市主力资金净流入8.25亿元，占比0.06%",
+  "title_zh": "",
+  "body": "大单资金净流出74.96亿元，占比0.57%；小单资金净流入70.94亿元，占比0.54%。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 20.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a9e582add5da",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 10368314958405497325,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
  },
  {
   "id": "4a79e79f1e229c3c",
@@ -1724,6 +1772,31 @@
   "pushed": false,
   "sh": 2851635948777391748,
   "reason": "tier=55 ent=1['高盛'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "8ceec26bc384a6db",
+  "ts": "2026-11-26T14:48:12+08:00",
+  "title": "Wealthy Europeans are looking beyond the stock market amid the AI sell-off",
+  "title_zh": "高净值投资者在AI抛售中寻求替代品",
+  "body": "High-net-worth investors are looking to alternatives as turbulent markets continue to raise questions about the outlook for traditional assets.",
+  "summary": "高净值投资者因市场波动寻求传统资产之外的投资替代品。",
+  "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 45.0,
+  "level": "L0",
+  "impact": "可能增加对多元化投资工具的需求。",
+  "cluster_id": "2529a18398db",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 9260597415316383315,
+  "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
  },
  {
   "id": "a5cde9d0366a96cf",
