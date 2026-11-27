@@ -576,6 +576,80 @@
   "engine": "primary"
  },
  {
+  "id": "b803266754b1903e",
+  "ts": "2026-11-27T11:08:51+08:00",
+  "title": "蔚来旗下firefly萤火虫宣布，萤火虫车型累计交付达到10万台",
+  "title_zh": "",
+  "body": "蔚来旗下firefly萤火虫宣布，萤火虫车型累计交付达到10万台。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4d65289b3c41",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7067797484533400475,
+  "reason": "tier=55 ent=1['蔚来'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "47873053955e19f9",
+  "ts": "2026-11-27T11:08:44+08:00",
+  "title": "“十四五”期间广东省石化产业营收年均增长7.6%",
+  "title_zh": "“十四五”期间广东省石化产业营收年均增长7.6%",
+  "body": "11月26日，2026石油和化工行业绿色高质量发展大会在广州开幕，由中国石油和化学工业联合会主办，中国化工环保协会、广州工控集团旗下广州化工交易中心有限公司承办。界面新闻会上获悉，2025年，广东省石化产业营业收入约2万亿元，营收规模约占全国的10.9%；“十四五”期间年均增长7.6%。从主要产品来看，上游的炼油、乙烯在国内处于靠前位置。",
+  "summary": "广东省石化产业2025年营收约2万亿，全国占比10.9%，“十四五”期间年均增长7.6%。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3289347.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "石化行业相关公司业绩或受影响。",
+  "cluster_id": "309aae1756bc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11320326614736883708,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "b968cc9ae13e9bf5",
+  "ts": "2026-11-27T11:07:02+08:00",
+  "title": "小红书披露AI虚假刷量治理数据",
+  "title_zh": "小红书披露AI虚假刷量治理数据",
+  "body": "11月27日，小红书披露一组AI虚假、刷量治理数据：今年以来，针对“利用AI 仿冒名人”“利用AI 伪造经历”“利用AI 虚假人设”三个类别的违规行为，小红书累计处置笔记分别为10.7万篇、3.8万篇、3.6万篇。此外，对AI恶意刷量笔记处置1.1万篇。此外，小红书披露了主动识别黑灰产线索并移送公安机关的案例，涉及AI换脸、AI合成名人视频等行为，并配合警方抓捕犯罪团伙6人。 小红书信任与安全中心AI治理负责人刘星表示，下半年小红书对AIGC治理的重心已经从“要求标识”推进到“研判是否被滥用”，也就是滥用AI技术的便利性，批量化、规模化地生成虚假经历、人设和刷量内容，AI标识不等于免责。（第一财经）",
+  "summary": "小红书今年累计处置AI虚假刷量笔记10.7万篇，移送公安机关案例涉及AI换脸等。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7890349.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "970f430b2fe8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6787384107435181871,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "09c2877819671ce5",
   "ts": "2026-11-27T11:06:34+08:00",
   "title": "生态环境部：累计排查国土面积约267.7万平方公里，清理固体废物2亿吨",
@@ -895,6 +969,31 @@
   "reason": "tier=80 ent=1['taiwan'] pred=0 conv=0 combo=6 rel=32 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary",
   "tries": 1
+ },
+ {
+  "id": "d0632467502fff1f",
+  "ts": "2026-11-27T10:58:48+08:00",
+  "title": "Spain and Morocco under-17 stars target World Cup 2030",
+  "title_zh": "西班牙和摩洛哥携手举办2030年世界杯，U17世界杯对决",
+  "body": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+  "summary": "西班牙和摩洛哥作为2030年世界杯共同举办国，在U17世界杯中展开对决。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3e3092d3d534",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 3557736185681954120,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
  },
  {
   "id": "2eb9807aa06c2d2d",
