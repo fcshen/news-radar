@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "7a1ce6ad87bcbf0b",
+  "ts": "2026-11-27T09:15:03+08:00",
+  "title": "恒指期货日盘开盘跌0.26%，报22146.48点，低水80.40点",
+  "title_zh": "",
+  "body": "恒指期货日盘开盘跌0.26%，报22146.48点，低水80.40点。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7899205.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d85f444e22e4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5913059970668077423,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f979e654ecdc3c46",
+  "ts": "2026-11-27T09:15:00+08:00",
+  "title": "Keynote speech by Executive Director KAMIYAMA at the IMF MCM-OAP Seminar in Tokyo (Digital Money and Payments: Transitioning Toward a New Paradigm)",
+  "title_zh": "日本央行高管在IMF研讨会发表关于数字货币演讲",
+  "body": "",
+  "summary": "日本央行高管在IMF东京研讨会就数字货币和支付发表演讲。",
+  "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261127a.htm",
+  "source": "日本央行",
+  "tier": "official",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 77.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "1a67910fd537",
+  "sources": [
+   "日本央行"
+  ],
+  "pushed": true,
+  "sh": 13818380031896353486,
+  "reason": "tier=100 ent=2['IMF', 'imf'] pred=0 conv=0 combo=8 rel=29 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "041a9840e1607e85",
   "ts": "2026-11-27T09:11:04+08:00",
   "title": "纽约期金突破3600美元/盎司，日内涨0.97%",
