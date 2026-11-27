@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "58cc7fe2b2391b19",
+  "ts": "2026-11-27T08:19:28+08:00",
+  "title": "中信证券：钢铁供需持续磨底 关注板块龙头红利属性",
+  "title_zh": "中信证券：钢铁供需持续磨底 关注板块龙头红利属性",
+  "body": "金十数据11月27日讯，中信证券研报称，10月钢材价格普遍回落，铁矿石、焦煤、焦炭价格同步下行，长流程亏损收窄、电炉亏损扩大，钢厂盈利面低位小幅回升。供给端铁水产量继续回落，需求在国庆节后有所恢复，五大材库存持续去化；钢材出口单月同比保持增长，铁矿石进口环比回落。当前震荡行情中重点关注行业龙头高股息红利属性，龙头钢企股息率多在5%左右，具备防御价值，建议持续关注成本控制能力较强、现金流稳健的普钢龙头，以及有望受益于产品升级趋势的高端特钢板块。",
+  "summary": "10月钢材价格回落，钢厂盈利面回升，铁水产量回落，需求恢复，库存去化。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "关注龙头钢企股息率和高端特钢板块表现。",
+  "cluster_id": "7306fe399f75",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5498045714985996174,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "dd781a7081014cd6",
   "ts": "2026-11-27T08:18:21+08:00",
   "title": "阿那亚控股集团副总裁郭少昕：阿那亚项目落地北京",
@@ -886,16 +911,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "美妆行业相关股票可能受益",
   "cluster_id": "3bc3bae57ab0",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 13877890371488007393,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4",
   "engine": "primary"
  },
  {
