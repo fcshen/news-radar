@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "c9a594c250a5ec23",
+  "ts": "2026-11-27T08:38:04+08:00",
+  "title": "达美乐中国成都、南京供应链中心计划明年投入运营",
+  "title_zh": "达美乐中国成都、南京供应链中心计划明年投入运营",
+  "body": "11月26日，达势股份（达美乐中国）发文透露，公司已落实成都和南京两个供应链中心的选址，计划于2027年投入运营。截至2026年9月30日，达美乐中国门店数为1634家。",
+  "summary": "达美乐中国计划2027年在成都和南京设立供应链中心，目前门店数1634家。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7864614.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "供应链扩张可能影响相关物流和食品行业公司",
+  "cluster_id": "7f1e9ed4c6cc",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9358372312459294973,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "d5219c78be13e743",
+  "ts": "2026-11-27T08:37:37+08:00",
+  "title": "投资者期盼美联储“救市”的期望注定落空",
+  "title_zh": "",
+  "body": "尽管华尔街与财政部纷纷发出警告，但强劲的经济数据与持续升温的通胀压力，正推动美联储在下月坚持加息25个基点。点击查看…",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236245",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 69.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "fdbe8edf6b30",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13992981192543702657,
+  "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "e5c12cab00012596",
   "ts": "2026-11-27T08:35:27+08:00",
   "title": "我国科学家发现反离子限域传质新机制",
