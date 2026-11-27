@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "cb9cfc7b80cfe68c",
+  "ts": "2026-11-27T09:27:07+08:00",
+  "title": "A股算力概念高开，多重利好共振",
+  "title_zh": "A股算力概念高开，证通电子等涨停，工信部发布算力设施架构方案",
+  "body": "金十数据11月27日讯，A股算力概念高开，证通电子、宏川智慧竞价涨停，全筑股份涨超8%，顺灏股份、润和软件、中电鑫龙等个股跟涨。日前，工业和信息化部等三部委印发《新一代通信网建设实施方案》，其中提到，优化算力资源供给，构建“枢纽—区域—边缘”多层级算力设施架构。同时，广东省发展改革委印发的《广东省算力发展\"十五五\"规划》提出，到2028年智算规模突破1000EFlops（FP16），全省数据中心绿电使用占比超80%。中信建投研报称，近日BIS新规将管制延伸至云端算力与制造服务，海外算力、代工、封测三通道同步收紧，国内客户采购加速转向本土。国产算力2027年起有望加速放量。",
+  "summary": "证通电子、宏川智慧涨停，全筑股份涨超8%，工信部发布算力设施架构方案，广东省提出算力发展目标，中信建投研报称国产算力2027年起有望加速放量。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "算力板块可能受益，关注相关ETF及期货价格变动",
+  "cluster_id": "c4f679f55fab",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 13226393507917915936,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "73a705440489d924",
+  "ts": "2026-11-27T09:26:54+08:00",
+  "title": "ETF开盘：巴西ETF领涨7.30%，港股通互联网ETF领跌2.5%",
+  "title_zh": "ETF开盘：巴西ETF领涨7.30%，港股通互联网ETF领跌2.5%",
+  "body": "ETF开盘涨跌不一，巴西ETF（159100）领涨7.30%，巴西ETF（520870）涨6.72%，恒指港股通ETF（159365）涨4.80%，港股通互联网ETF（159089）领跌2.5%，港股通互联网ETF（159170）跌1.69%，农业ETF（516810）跌1.54%。",
+  "summary": "巴西ETF领涨7.30%，港股通互联网ETF领跌2.5%，多只ETF涨跌互现。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7909648.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "关注巴西及港股互联网板块ETF表现，可能影响相关投资策略。",
+  "cluster_id": "bb82d5247a52",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 18160222384513509513,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=8 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "bc1a38621287531f",
+  "ts": "2026-11-27T09:25:28+08:00",
+  "title": "A股三大股指开盘齐涨，上证指数涨0.16%，深证成指涨0.37%，创业板指涨0.59%",
+  "title_zh": "",
+  "body": "A股三大股指开盘齐涨，上证指数涨0.16%，深证成指涨0.37%，创业板指涨0.59%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5659129.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 50.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "4d0366edbe5f",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 12620634914933712092,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
   "id": "09332b953df617e6",
   "ts": "2026-11-27T09:22:49+08:00",
   "title": "阿里巴巴入股云计算公司艾捷科芯",
@@ -613,16 +688,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "3a890b964c4e",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11512552686832756735,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "d99d6e747c1ee01b",
@@ -637,16 +713,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 79.2,
+  "score": 81.2,
   "level": "L2",
   "impact": "",
   "cluster_id": "9c59e33c8255",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 15232221128581479527,
-  "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=29 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=29 sev=0 pct=0 op=N spread=2 burst=5",
   "tries": 1
  },
  {
@@ -1422,7 +1499,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 9759169645049597173,
   "reason": "tier=55 ent=1['印度'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -1988,7 +2065,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10123250605104969894,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -2063,7 +2140,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 18266712549644252640,
   "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=8 sev=8 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -2138,7 +2215,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5479389002186586341,
   "reason": "tier=55 ent=1['真主党'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -2163,7 +2240,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6162158208597183714,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -2213,7 +2290,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2235668100463001460,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4"
  },
@@ -2439,7 +2516,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1850306348774141525,
   "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4"
  },
@@ -2887,7 +2964,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 13992981192543702657,
   "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=N spread=0 burst=4"
  },
@@ -2960,7 +3037,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5876181860409803002,
   "reason": "tier=55 ent=1['软银'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
@@ -3083,7 +3160,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2393647891824560185,
   "reason": "tier=80 ent=0[] pred=2 conv=0 combo=16 rel=20 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
