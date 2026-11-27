@@ -49,8 +49,8 @@ def main() -> int:
     mins = int((now - generated).total_seconds() // 60)
 
     print(f"mins={mins}")
-    print(f"stale={1 if mins > STALE_MIN else 0}")
-    print(f"alert={1 if mins > ALERT_MIN else 0}")
+    print(f"stale={1 if mins >= STALE_MIN else 0}")
+    print(f"alert={1 if mins >= ALERT_MIN else 0}")
     print(f"total={feed.get('total', 0)}")
     print(f"generated={feed.get('generated', '')}")
     return 0
