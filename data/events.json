@@ -576,6 +576,203 @@
   "engine": "primary"
  },
  {
+  "id": "b6790f27e8739536",
+  "ts": "2026-11-27T09:41:20+08:00",
+  "title": "Pakistan-US economic ties to grow further despite Trump's midterm setback",
+  "title_zh": "巴基斯坦-美国经济关系将进一步加强 尽管特朗普中期选举受挫",
+  "body": "",
+  "summary": "巴基斯坦与美国经济关系预计将进一步发展，尽管特朗普在中期选举中遭遇挫折。",
+  "url": "https://asia.nikkei.com/politics/international-relations/pakistan-us-economic-ties-to-grow-further-despite-trump-s-midterm-setback2",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 46.0,
+  "level": "L0",
+  "impact": "可能影响区域经济合作，需关注相关投资机会。",
+  "cluster_id": "7561a2208ade",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 217248709572856332,
+  "reason": "tier=80 ent=1['trump'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "3b499b6d65a66884",
+  "ts": "2026-11-27T09:41:08+08:00",
+  "title": "新西兰行动党领袖西摩：政府组建可能相当迅速",
+  "title_zh": "",
+  "body": "新西兰行动党领袖西摩：政府组建可能相当迅速。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a451370922f0",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5983801057797627893,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "d3d1783eb308c766",
+  "ts": "2026-11-27T09:41:01+08:00",
+  "title": "食品加工板块早盘走弱，青岛食品触及跌停，一鸣食品、桂发祥、安记食品、阳光乳业、安井食品跟跌",
+  "title_zh": "食品加工板块走弱，青岛食品跌停，一鸣食品等跟跌",
+  "body": "食品加工板块早盘走弱，青岛食品触及跌停，一鸣食品、桂发祥、安记食品、阳光乳业、安井食品跟跌。",
+  "summary": "食品加工板块个股下跌，青岛食品跌停，一鸣食品、桂发祥等跟跌。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "食品加工板块波动可能影响相关个股表现",
+  "cluster_id": "73ccf293433d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 301926355824244648,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "1028b21d69c5be76",
+  "ts": "2026-11-27T09:40:39+08:00",
+  "title": "伊朗外长：两名意大利人科威特身亡事件疑点重重",
+  "title_zh": "伊朗外长：两名意大利人科威特身亡事件疑点重重",
+  "body": "伊朗外交部长阿拉格齐26日表示，当天发生的两名意大利公民在科威特身亡事件疑点重重，看起来像是“预先炮制好的战争配方”。阿拉格齐在社交媒体上发文说，他在与意大利和科威特外长的通话中，就意大利公民在科威特遇难一事表达了哀悼。他表示，伊朗随时准备与科威特和意大利合作，查明事件原因。科威特军方26日发表声明说，伊朗无人机对科威特一处重要设施发动袭击，科威特军方对其实施拦截，坠落的碎片造成人员受伤及财产损失。两名意大利公民之后因伤重不治身亡。意大利外交部随后证实，两名遇难者均为德国军工企业莱茵金属有限公司旗下的意大利公司技术人员，事发时正在为科威特武装部队的防空系统维护雷达探测天线。",
+  "summary": "伊朗外长称两名意大利公民在科威特身亡事件疑点重重，疑为战争配方。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 51.2,
+  "level": "L1",
+  "impact": "中东地缘政治紧张，可能影响能源市场。",
+  "cluster_id": "faede4144798",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1338403076498841943,
+  "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "7600092742a4a2f4",
+  "ts": "2026-11-27T09:40:14+08:00",
+  "title": "荷兰官员：反对美国立法加强半导体制造设备出口管制",
+  "title_zh": "荷兰官员：反对美国立法加强半导体制造设备出口管制",
+  "body": "荷兰外贸与发展合作大臣舍尔茨玛26日表示，美国国会正在审议的《硬件技术管制多边协调法案》损害荷兰主权和国家利益。如果该法案获得通过，荷兰政府将要求美国政府不执行该法案。舍尔茨玛当天在荷兰众议院一般性辩论发言中表示，《硬件技术管制多边协调法案》对美国盟友所施加的限制措施远超合理范围。法案一旦通过，将对荷兰半导体产业以及经济发展带来严重不利影响，荷兰坚决反对这一损害主权和利益的单边措施，将继续通过外交手段与美方交涉。（新华社）",
+  "summary": "荷兰官员反对美国加强半导体设备出口管制法案，称损害荷兰主权和利益。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 67.2,
+  "level": "L1",
+  "impact": "半导体设备出口管制可能影响相关产业链。",
+  "cluster_id": "d98052356646",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11257901515310205453,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "b37855fcfd9787af",
+  "ts": "2026-11-27T09:40:07+08:00",
+  "title": "韩国财长：受人工智能产业不确定性和贸易环境变化影响，股市波动加剧",
+  "title_zh": "",
+  "body": "韩国财长：受人工智能产业不确定性和贸易环境变化影响，股市波动加剧。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6c7aeea9a8b0",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14133253766762479482,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "ef16f21f16a2359c",
+  "ts": "2026-11-27T09:40:01+08:00",
+  "title": "国际原子能机构：扎波罗热核电站再次失去外部供电",
+  "title_zh": "国际原子能机构：扎波罗热核电站再次失去外部供电",
+  "body": "26日，国际原子能机构发表声明称，扎波罗热核电站25日再次因周边军事活动而失去外部电力供应，目前仅依靠应急柴油发电机来维持必要的核安全与安保功能。这是俄乌冲突爆发以来，该核电站第28次失去外部供电。声明称，国际原子能机构正与俄乌双方进行沟通，商讨第九次局部停火安排。机构总干事格罗西呼吁冲突双方停止针对电力基础设施的军事行动，尽快恢复核电站的外部供电。",
+  "summary": "扎波罗热核电站再次因军事活动失去外部供电，依赖应急发电机。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 54.2,
+  "level": "L1",
+  "impact": "核能安全担忧可能影响能源类ETF表现。",
+  "cluster_id": "90e6620c95bf",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10662875170484874301,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "3069fc521493dbf2",
+  "ts": "2026-11-27T09:39:56+08:00",
+  "title": "A股光刻胶板块走强，格林达涨超7%，国风新材、兴业股份、佳先股份、西陇科学等个股跟涨",
+  "title_zh": "",
+  "body": "A股光刻胶板块走强，格林达涨超7%，国风新材、兴业股份、佳先股份、西陇科学等个股跟涨。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2747b34d2db7",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1022423389168056608,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5"
+ },
+ {
   "id": "76d4ed09322da933",
   "ts": "2026-11-27T09:39:41+08:00",
   "title": "网络安全板块走强 天源迪科、天亿马20%涨停",
@@ -612,16 +809,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "fe035aa8405a",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5836819745038463257,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "4f0cc8884d12a8c5",
@@ -857,16 +1055,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "元件板块个股表现活跃，可能引发相关ETF关注。",
   "cluster_id": "c80369801de5",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 265236860712360136,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
@@ -1227,16 +1426,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "工业企业盈利能力增强，或对相关板块业绩有正面影响。",
   "cluster_id": "ed6687c7da8f",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 903675795126391304,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
@@ -1264,6 +1464,30 @@
   "sh": 14292581068602222020,
   "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
+ },
+ {
+  "id": "98390e3e8ba95cf4",
+  "ts": "2026-11-27T09:31:44+08:00",
+  "title": "A股开盘：超3300只个股飘红，三大指数集体高开",
+  "title_zh": "",
+  "body": "A股开盘：超3300只个股飘红，三大指数集体高开；半导体、贵金属、保险等上涨；农业、办公用品、零售等下跌",
+  "summary": "",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738530.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "22440bf68bbf",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 3036293533782342849,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
   "id": "fe1006bf455f0f81",
