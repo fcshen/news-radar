@@ -576,6 +576,130 @@
   "engine": "primary"
  },
  {
+  "id": "09332b953df617e6",
+  "ts": "2026-11-27T09:22:49+08:00",
+  "title": "阿里巴巴入股云计算公司艾捷科芯",
+  "title_zh": "阿里巴巴入股艾捷科芯",
+  "body": "企查查APP显示，近日，北京艾捷科芯科技有限公司发生工商变更，新增阿里巴巴关联公司杭州阿里云飞天信息技术有限公司为股东，同时注册资本增至604.23万元。公开信息显示，艾捷科芯是一家专注于云计算领域的创新型高科技企业。",
+  "summary": "阿里巴巴关联公司成为艾捷科芯股东，注册资本增至604.23万元。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "云计算板块或受关注。",
+  "cluster_id": "39bf084027e4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6377527553907902858,
+  "reason": "tier=55 ent=1['阿里'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "dac734bfb8beefbb",
+  "ts": "2026-11-27T09:22:39+08:00",
+  "title": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化买盘",
+  "title_zh": "",
+  "body": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化买盘。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5656624.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3a890b964c4e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11512552686832756735,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "d99d6e747c1ee01b",
+  "ts": "2026-11-27T09:21:21+08:00",
+  "title": "央行公开市场今日净投放2,225亿元人民币",
+  "title_zh": "",
+  "body": "央行公开市场今日净投放2,225亿元人民币。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7904077.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 79.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "9c59e33c8255",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 15232221128581479527,
+  "reason": "tier=55 ent=1['央行'] pred=1 conv=0 combo=26 rel=29 sev=0 pct=0 op=N spread=0 burst=5",
+  "tries": 1
+ },
+ {
+  "id": "d0d1c469c21e209d",
+  "ts": "2026-11-27T09:21:13+08:00",
+  "title": "DeepSeek客户端更新功能，可查看对话使用资费",
+  "title_zh": "DeepSeek客户端更新功能，可查看对话使用资费",
+  "body": "记者测试发现，DeepSeek安卓端App更新2.10.0版本后，新增了功能按钮，可查看每轮对话消耗额度对应的具体资费，其计费模式和API的官方文档计费模式相同。此举或为后续推出App付费模式做铺垫。（科创板日报）",
+  "summary": "DeepSeek安卓端App更新至2.10.0版本，新增查看对话资费功能。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1127554.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "或为App付费模式推出铺垫。",
+  "cluster_id": "d2c06c03256b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12725028802675346440,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "50823976045d6d35",
+  "ts": "2026-11-27T09:21:02+08:00",
+  "title": "杭州挂牌两宗涉宅用地 起始总价约75.1亿元",
+  "title_zh": "杭州挂牌两宗涉宅用地 起始总价约75.1亿元",
+  "body": "杭州市规划和自然资源局发布杭州市国有建设用地使用权挂牌出让公告，将采用挂牌方式出让两宗地块，起始总价约75.1亿元，地块用途均为住宅（设配套公建）用地，将于2026年12月19正式挂牌出让。此次出让的两宗地块分别位于上城区和西湖区，地块实行自由竞价，按照价高者得的原则确定竞得人。",
+  "summary": "杭州市规划和自然资源局挂牌出让两宗住宅用地，起始总价约75.1亿元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3326323.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响土地市场及房地产相关股票表现。",
+  "cluster_id": "f80cd6e1132f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4674050768928668672,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "db6749411348a8d2",
   "ts": "2026-11-27T09:21:00+08:00",
   "title": "港股开盘：恒生指数涨0.17%，恒生科技指数涨0.47%",
@@ -588,16 +712,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "港股涨势可能影响相关板块情绪，需关注相关ETF表现。",
   "cluster_id": "79b641ad1005",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 13523606224806835415,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
@@ -613,16 +738,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 95.2,
+  "score": 97.2,
   "level": "L2",
   "impact": "",
   "cluster_id": "62d224cd75d5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 10190502595926770214,
-  "reason": "tier=55 ent=1['央行'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=1['央行'] pred=2 conv=0 combo=31 rel=40 sev=0 pct=0 op=N spread=2 burst=5",
   "tries": 1
  },
  {
