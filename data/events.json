@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "42867966b169304e",
+  "ts": "2026-11-27T08:15:28+08:00",
+  "title": "柯君医药完成数亿元C+轮融资交割",
+  "title_zh": "柯君医药完成数亿元C+轮融资交割",
+  "body": "11月27日，柯君医药宣布完成数亿元人民币C+轮融资交割。本轮融资由国投创合领投，翠亨创投、倚锋资本、通瀛资本、富汇创投等跟投，老股东英飞九州继续参与。除本轮融资外，既有股东国信创新股权同期完成增持。本轮融资资金将主要用于推进三条在研管线的临床开发，并支持技术平台迭代与早期项目储备。",
+  "summary": "柯君医药完成数亿元C+轮融资，资金用于临床开发和技术平台迭代。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3274208.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 43.2,
+  "level": "L0",
+  "impact": "医药股可能受资金面影响，关注相关ETF表现。",
+  "cluster_id": "ec3f890ec954",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5960806525858488407,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=8 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "202f35a5eef92719",
+  "ts": "2026-11-27T08:13:42+08:00",
+  "title": "美国总统特朗普：我们拿下了格陵兰岛，它的面积是得克萨斯州的三倍",
+  "title_zh": "",
+  "body": "美国总统特朗普：我们拿下了格陵兰岛，它的面积是得克萨斯州的三倍。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8d8ed10b3b6e",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11730776995862463498,
+  "reason": "tier=55 ent=1['特朗普'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "16085fdcb780d5c2",
   "ts": "2026-11-27T08:13:32+08:00",
   "title": "特朗普谈及伊朗： 如你们所知，北约现已和我们一同行动",
