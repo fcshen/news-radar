@@ -2,8 +2,16 @@ name: radar
 
 on:
   schedule:
-    # 每 6 小时拉起一次，单次跑 5h50m，中间空档靠启动回溯补齐
-    - cron: "5 */6 * * *"
+    # 每 15 分钟拉起一次，单次只跑 10 分钟。
+    #
+    # 为什么不再用「6 小时拉起、一次跑 5h50m」：GitHub 的 schedule 在公开仓库上
+    # 实测会迟到 2~3 小时（11-26 的 14:05 实际 16:03 才起，11-27 的 02:05 是
+    # 05:24 才起）。长跑一结束、下一次又没来，中间就是几个小时的静默空洞。
+    # 2026-11-27 因此空转 4 小时 39 分钟。
+    #
+    # 现在改成高频短跑：某一次被跳过或迟到，15 分钟后还有下一次，最多空几分钟。
+    # 每次启动都会回溯补抓，所以断档期的事件不会丢。
+    - cron: "*/15 * * * *"
   workflow_dispatch:
   # 代码类改动推送后自动重启，不必再去 Actions 页点按钮。
   # 这里只列代码文件，data/ 的定时提交不会命中，避免自我循环触发。
@@ -34,7 +42,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -109,4 +117,4 @@ jobs:
               fi
             done
           ) &
-          python main.py --minutes 350
+          python main.py --minutes 10

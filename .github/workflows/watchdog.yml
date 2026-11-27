@@ -1,0 +1,79 @@
+name: watchdog
+
+# 数据停摆的自动守望。
+#
+# 为什么需要它：2026-11-27 主任务 11:17 正常跑完后，本该 14:05 接上的
+# 定时任务迟到了一个多小时还没来，数据静静停在 11:15，没有任何人知道，
+# 最后是用户自己发现的。主任务再可靠，也需要一个不依赖它的角色盯着。
+#
+# 这个 workflow 只做三件事：读 data/feed.json 的生成时间 → 超过 35 分钟就
+# 重新拉起采集 → 超过 90 分钟还没救回来就推到手机。它自己很轻（十几秒），
+# 也不碰 data/，不会和主任务抢。
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write          # 调 workflow_dispatch 需要这个
+
+concurrency:
+  group: watchdog
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 判断数据是否停摆
+        id: chk
+        run: python tools/healthcheck.py >> "$GITHUB_OUTPUT"
+
+      - name: 判定结果
+        run: |
+          echo "滞后 ${{ steps.chk.outputs.mins }} 分钟 · 停摆=${{ steps.chk.outputs.stale }} · 需告警=${{ steps.chk.outputs.alert }} · 库内 ${{ steps.chk.outputs.total }} 条"
+
+      - name: 停摆则重新拉起采集
+        if: steps.chk.outputs.stale == '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MINS: ${{ steps.chk.outputs.mins }}
+        run: |
+          # 已有实例在跑就别再踢一脚，否则会把它 cancel 掉、来回抖动。
+          # 唯一例外是滞后已经很久（>90 分钟）：那说明它在跑但卡住了，强杀重来。
+          running=$(curl -sS -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/radar.yml/runs?status=in_progress&per_page=1" \
+            | python -c "import json,sys; print(len(json.load(sys.stdin).get('workflow_runs',[])))")
+
+          if [ "$running" != "0" ] && [ "$MINS" -lt 90 ]; then
+            echo "radar 已有 $running 个在跑，且滞后 ${MINS} 分钟，暂不打扰"
+            exit 0
+          fi
+
+          echo "数据滞后 ${MINS} 分钟，重新触发 radar"
+          code=$(curl -sS -o /tmp/dispatch.json -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/radar.yml/dispatches" \
+            -d '{"ref":"main"}')
+          echo "HTTP $code"
+          cat /tmp/dispatch.json
+          # 204 = 触发成功；其它状态码让这一步红掉，Actions 页面上一眼能看到
+          [ "$code" = "204" ] || exit 1
+
+      - name: 长时间没救回来就推手机
+        if: steps.chk.outputs.alert == '1'
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          MINS: ${{ steps.chk.outputs.mins }}
+          TOTAL: ${{ steps.chk.outputs.total }}
+        run: |
+          python tools/alert.py "⚠️ 雷达停摆" \
+            "数据已滞后 ${MINS} 分钟（库内 ${TOTAL} 条），已尝试自动重启。如反复收到此提示，请检查 Actions 日志。"
