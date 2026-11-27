@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "5df7cc67591c2c73",
+  "ts": "2026-11-27T09:28:45+08:00",
+  "title": "诺和诺德计划今年年底逐步撤市利拉鲁肽",
+  "title_zh": "诺和诺德计划今年年底逐步撤市利拉鲁肽",
+  "body": "记者从诺和诺德方面获悉，综合考虑市场需求变化、同通用名产品供应情况以及GLP-1受体激动剂临床治疗的发展趋势，公司计划自2026年末起在全球范围内逐步停止供应利拉鲁肽注射液（商品名：诺和力），中国大陆市场将结合各地区实际库存情况逐步完成供应调整。诺和诺德方面同时强调，此次供应调整并非由于诺和力产品安全性或质量相关问题。（科创板日报）",
+  "summary": "诺和诺德计划自2026年末起逐步停止供应利拉鲁肽注射液，中国大陆市场将逐步完成供应调整。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7911426.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "利拉鲁肽市场供应变化可能影响相关药品生产商和经销商的业绩。",
+  "cluster_id": "4901839540c3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16106722914840565440,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "52647268202683eb",
+  "ts": "2026-11-27T09:27:21+08:00",
+  "title": "算力概念高开，证通电子、宏川智慧竞价涨停，全筑股份涨超8%，顺灏股份、润和软件、中电鑫龙等个股跟涨",
+  "title_zh": "算力概念高开 证通电子等涨停",
+  "body": "算力概念高开，证通电子、宏川智慧竞价涨停，全筑股份涨超8%，顺灏股份、润和软件、中电鑫龙等个股跟涨。",
+  "summary": "算力概念股开盘上涨，证通电子、宏川智慧涨停，全筑股份涨超8%，顺灏股份、润和软件等跟涨。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5660767.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "算力板块可能受关注，相关个股波动加大",
+  "cluster_id": "b78bcc364485",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13178845944541219520,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "cb9cfc7b80cfe68c",
   "ts": "2026-11-27T09:27:07+08:00",
   "title": "A股算力概念高开，多重利好共振",
