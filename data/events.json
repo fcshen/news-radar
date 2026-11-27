@@ -576,6 +576,54 @@
   "engine": "primary"
  },
  {
+  "id": "359aafaf2e45db58",
+  "ts": "2026-11-27T09:53:22+08:00",
+  "title": "军工板块表现活跃 成飞集成触及涨停",
+  "title_zh": "",
+  "body": "军工板块表现活跃，成飞集成触及涨停，此前利君股份涨停，航天南湖、洪都航空、晨曦航空跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1038467.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7595035ec6f3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6574172041908288841,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "f2678e0c6415cfba",
+  "ts": "2026-11-27T09:52:27+08:00",
+  "title": "塔塔汽车在果阿汽车公司的持股比例升至50.17%",
+  "title_zh": "",
+  "body": "塔塔汽车在果阿汽车公司的持股比例升至50.17%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7813825.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "39636599ed80",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12991054400374196111,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
   "id": "734c28f47afce476",
   "ts": "2026-11-27T09:51:18+08:00",
   "title": "广汽埃安：预计全年零售将重回40万+辆",
@@ -598,6 +646,32 @@
   "pushed": false,
   "sh": 10324382044185798185,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "27f973fe1e5ca754",
+  "ts": "2026-11-27T09:51:08+08:00",
+  "title": "IMF敦促澳洲联储做好进一步加息准备 呼吁政府收紧财政政策",
+  "title_zh": "IMF敦促澳洲联储进一步加息 呼吁政府收紧财政政策",
+  "body": "金十数据11月27日讯，国际货币基金组织（IMF）表示，如果价格压力持续时间超出预期，澳洲联储应做好进一步加息的准备，同时敦促政府兑现收紧财政政策的承诺。IMF在其《2026年澳大利亚第四条磋商报告》中表示：“如果通胀面临上行冲击，就需要进一步收紧货币政策。在连续遭受多轮冲击、通胀连续多年高于目标水平之后，通胀预期也存在脱锚的风险。”IMF与澳大利亚当局进行磋商的时间似乎早于澳洲联储最近一次加息，因为报告提及今年累计收紧货币政策100个基点，而本月加息后实际累计幅度已达到125个基点。在财政政策方面，IMF指出，澳大利亚财政政策正朝着巩固财政的方向作出“适当”调整，但兑现控制支出的承诺“至关重要”。报告称：“2026/27财年联邦及州政府预算重新将中期控制结构性支出作为重点，方向适当；不过，要实现持久的节支效果，仍需要持续努力。”",
+  "summary": "IMF建议澳洲联储进一步加息，并敦促政府收紧财政政策。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 91.2,
+  "level": "L3",
+  "impact": "可能影响澳元汇率及相关资产表现。",
+  "cluster_id": "0b00bd1d2c09",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 3116503112377171040,
+  "reason": "tier=55 ent=2['IMF', 'imf'] pred=1 conv=0 combo=32 rel=27 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "28ba8b9a96dea963",
@@ -943,6 +1017,31 @@
   "pushed": false,
   "sh": 16856205057166650592,
   "reason": "tier=80 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "ec37a078924c163a",
+  "ts": "2026-11-27T09:44:02+08:00",
+  "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+  "title_zh": "特朗普称美国拥有全球近50%的石油",
+  "body": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil .",
+  "summary": "特朗普在与驻海湾士兵通话中称，美国不需要中东石油。",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 46.1,
+  "level": "L0",
+  "impact": "可能影响全球石油市场供需预期。",
+  "cluster_id": "36f7db1fe8bc",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": false,
+  "sh": 139471054444169217,
+  "reason": "tier=55 ent=1['trump'] pred=0 conv=0 combo=6 rel=12 sev=0 pct=12 op=Y spread=0 burst=5",
   "engine": "primary"
  },
  {
