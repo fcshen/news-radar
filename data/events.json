@@ -576,6 +576,57 @@
   "engine": "primary"
  },
  {
+  "id": "f9c627ab2455ce18",
+  "ts": "2026-11-27T09:05:26+08:00",
+  "title": "德马科技携手智源研究院共建HumanCOIN",
+  "title_zh": "德马科技携手智源研究院共建HumanCOIN",
+  "body": "据德马集团消息，近日，德马科技与北京智源人工智能研究院（简称“智源研究院”）深度协同，作为核心共建方参与发布首个人类高质量真实操作开源数据集HumanCOIN，与多家产业链伙伴共同搭建开放、可复现、标准化的具身数据基础设施。",
+  "summary": "德马科技与智源研究院共建HumanCOIN数据集，推动具身数据基础设施。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7889749.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 25.2,
+  "level": "L0",
+  "impact": "人工智能概念股可能受益",
+  "cluster_id": "57f1ffbd08ab",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 10278944686657218106,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "fc6699fcedbba7fd",
+  "ts": "2026-11-27T09:05:07+08:00",
+  "title": "个股新闻1. 李想称将放缓车型更新节奏",
+  "title_zh": "个股新闻1. 李想称将放缓车型更新节奏",
+  "body": "2. AEON CREDIT(00900.HK)：识别到未经授权存取后端系统的情况。3. 百度(09888.HK)：11月26日于港交所斥资约1106万港元回购18.25万股。4. 维珍妮(02199.HK)发布中期业绩：股东应占溢利1.45亿港元，同比增加0.2%。5. 微盟集团(02013.HK)计划加大人工智能算力基础设施投入及拓展智算云服务业务。6. DYNAM JAPAN(06889.HK)发布中期业绩：股东应占纯利39.9亿日元，同比增长29.88%。7. 中国神华(01088.HK)在港交所公告，根据一般授权配售新H股；拟以每股38.10港元配售最多1.77亿股配售股份，较最新收盘价折价7.7%，筹资总额约为67.43亿港元。",
+  "summary": "李想表示将放缓车型更新节奏；AEON CREDIT系统遭未经授权存取；百度回购股份；维珍妮中期业绩增0.2%；微盟集团加大AI算力投入；DYNAM JAPAN中期业绩增29.88%；中国神华配售新H股。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 31.2,
+  "level": "L0",
+  "impact": "汽车行业或受影响，关注相关个股动态；金融科技板块可能受关注；港股市场波动可能增加。",
+  "cluster_id": "64682cdbceb4",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1235752944717537443,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "c22fc2d498594d0f",
   "ts": "2026-11-27T09:04:57+08:00",
   "title": "小米汽车： 截至目前，小米澎程已交付超过60000台",
@@ -588,16 +639,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 35.2,
+  "score": 37.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "2001de10ffaf",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3135913060968966508,
-  "reason": "tier=55 ent=1['小米'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=1['小米'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "67d72188e01e8749",
