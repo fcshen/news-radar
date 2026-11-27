@@ -576,6 +576,105 @@
   "engine": "primary"
  },
  {
+  "id": "e9ae5779f4e0195a",
+  "ts": "2026-11-27T10:38:04+08:00",
+  "title": "光智科技成立全谱科技公司 含集成电路芯片业务",
+  "title_zh": "光智科技成立全谱科技公司 含集成电路芯片业务",
+  "body": "企查查APP显示，近日，河北光智全谱科技有限公司成立，经营范围包含集成电路芯片设计及服务；集成电路芯片及产品销售；光电子器件销售；电力电子元器件销售等。企查查股权穿透显示，该公司由光智科技全资持股。",
+  "summary": "光智科技成立全资子公司全谱科技，涉集成电路芯片业务。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3266014.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "芯片行业相关公司可能受关注。",
+  "cluster_id": "38f30be2f221",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2616043882015055911,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "84a9715e428ad5b8",
+  "ts": "2026-11-27T10:37:26+08:00",
+  "title": "小米汽车携最新交付成绩与技术成果亮相广州车展",
+  "title_zh": "小米汽车携最新交付成绩与技术成果亮相广州车展",
+  "body": "11月27日，2026年广州国际车展启幕。小米汽车副总裁李肖爽透露，9月开启交付的小米澎程系列表现强劲，累计交付量已突破6万台。10月，澎程N70，澎程N90成为拉动小米汽车交付增长的核心力量。在辅助驾驶方面，本次车展发布的小米HAD最新版本在原有架构上引入因果链与车端世界模型：因果链可支持20秒的历史记忆理解场景，车端世界模型支持实时推理、可向后预测未来6秒，记忆过去、预判未来。",
+  "summary": "小米汽车在广州车展展示交付量突破6万台，发布最新辅助驾驶技术。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhq5594190.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "小米汽车业务表现可能影响相关产业链公司股价。",
+  "cluster_id": "4996aaae0f17",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3057029947012272696,
+  "reason": "tier=55 ent=1['小米'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "fed3486d0114a05c",
+  "ts": "2026-11-27T10:37:11+08:00",
+  "title": "印尼证交所因控股股东数据不准确对五家公司实施制裁",
+  "title_zh": "印尼证交所因控股股东数据不准确对五家公司实施制裁",
+  "body": "金十数据11月27日讯，印度尼西亚证券交易所周五表示，已对五家公司实施制裁，原因是这些公司未能就控股股东数据存在的差异作出澄清或更正。印尼证交所补充称，相关公司未能在月度股权持有情况报告中提交准确数据，因此受到制裁。该交易所未具体说明制裁措施的内容。",
+  "summary": "印尼证交所对五家公司因控股股东数据不准确实施制裁。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 59.2,
+  "level": "L1",
+  "impact": "印尼公司治理问题可能影响投资者信心。",
+  "cluster_id": "fcbe9af7c5cb",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5395485592549250038,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "6faf94f60fa3f06a",
+  "ts": "2026-11-27T10:37:08+08:00",
+  "title": "现货黄金扩大涨幅，最新上涨近2%，报每盎司3,635.55美元",
+  "title_zh": "",
+  "body": "现货黄金扩大涨幅，最新上涨近2%，报每盎司3,635.55美元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1084669.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3e88960638ce",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7598729379496558,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "ff21ac0e8070fab9",
   "ts": "2026-11-27T10:36:22+08:00",
   "title": "三星电子股价上涨3%",
@@ -2518,16 +2617,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "1d9c0077265c",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 16032328784897575531,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=4 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=4 op=N spread=2 burst=5"
  },
  {
   "id": "cb6f6a320a9cad8f",
