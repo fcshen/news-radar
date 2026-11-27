@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "6137e36c7cf78003",
+  "ts": "2026-11-27T09:43:00+08:00",
+  "title": "半导体材料板块走高，华海诚科涨超10%",
+  "title_zh": "",
+  "body": "半导体材料板块走高，华海诚科涨超10%，江丰电子、和林微纳、珂玛科技、路维光电、西安奕材等跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7449fe544257",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7707204242812855932,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
+  "id": "6825211446bd0518",
+  "ts": "2026-11-27T09:42:42+08:00",
+  "title": "MLCC概念走强，国风新材、深圳华强双双涨停",
+  "title_zh": "",
+  "body": "MLCC概念走强，国风新材、深圳华强双双涨停，多浦乐、杰普特、利和兴、力源信息、有研粉材、风华高科等跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "1b67b7569761",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2536255020501595075,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "d69da1c9e94deb52",
+  "ts": "2026-11-27T09:42:12+08:00",
+  "title": "一悬挂巴拿马国旗货船在古巴附近海域沉没",
+  "title_zh": "一悬挂巴拿马国旗货船在古巴附近海域沉没",
+  "body": "当地时间11月26日，一艘悬挂巴拿马国旗的货船在古巴阿特米萨省附近海域沉没。船上载有208个集装箱和16名船员。事故发生后，古巴相关部门立即启动应急响应，成立工作组开展搜救和调查工作。目前，已找到13名船员，其中1人死亡，另有3人仍在搜救中。",
+  "summary": "一艘悬挂巴拿马国旗货船在古巴附近海域沉没，载有208个集装箱和16名船员，已找到13名船员，其中1人死亡。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5676619.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e2808c2922b5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1444576388915227907,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "b6790f27e8739536",
   "ts": "2026-11-27T09:41:20+08:00",
   "title": "Pakistan-US economic ties to grow further despite Trump's midterm setback",
@@ -601,6 +674,56 @@
   "engine": "primary"
  },
  {
+  "id": "ad95bc7c44a4a4b1",
+  "ts": "2026-11-27T09:41:18+08:00",
+  "title": "韩国财政部长：有必要全面评估经济与市场之间的风险溢出效应",
+  "title_zh": "",
+  "body": "韩国财政部长：有必要全面评估经济与市场之间的风险溢出效应。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7929910.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 53.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "4d07f2c8fc94",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7062808703903581137,
+  "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "c31d5c3e886ccd45",
+  "ts": "2026-11-27T09:41:14+08:00",
+  "title": "港股光通信股盘中拉升，华虹宏力(01347.HK)、中际旭创(03308.HK)双双涨超4%，剑桥科技(06166.HK",
+  "title_zh": "港股光通信股盘中拉升，华虹宏力(01347.HK)、中际旭创(03308.HK)涨超4%，剑桥科技(06166.HK)",
+  "body": ")、罗博特科(03757.HK)、长飞光纤光缆(06869.HK)、曦智科技-P(01879.HK)等个股跟涨。",
+  "summary": "港股光通信股盘中上涨，华虹宏力、中际旭创等个股涨幅超4%。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "光通信板块或受提振。",
+  "cluster_id": "09a0a4d6a95b",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12547681141009147054,
+  "reason": "tier=55 ent=1['中际旭创'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=4 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "3b499b6d65a66884",
   "ts": "2026-11-27T09:41:08+08:00",
   "title": "新西兰行动党领袖西摩：政府组建可能相当迅速",
@@ -613,16 +736,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "a451370922f0",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 5983801057797627893,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "d3d1783eb308c766",
@@ -712,16 +836,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "6c7aeea9a8b0",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 14133253766762479482,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "ef16f21f16a2359c",
@@ -943,6 +1068,32 @@
   "sh": 15466029797892929808,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
+ },
+ {
+  "id": "a2aa051ec6386cc5",
+  "ts": "2026-11-27T09:38:00+08:00",
+  "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+  "title_zh": "中国工业利润增长10月达到5个月高点20.1%",
+  "body": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+  "summary": "10月中国工业利润同比增长20.1%，创5个月新高。",
+  "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+  "source": "CNBC Economy",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 83.0,
+  "level": "L2",
+  "impact": "工业利润增长可能提振相关板块表现。",
+  "cluster_id": "877c14c14a26",
+  "sources": [
+   "CNBC Economy"
+  ],
+  "pushed": true,
+  "sh": 14482159590192031496,
+  "reason": "tier=80 ent=1['ustr'] pred=1 conv=0 combo=26 rel=12 sev=0 pct=12 op=N spread=0 burst=5",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "c144412676ba8602",
