@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "6732da2236a6db20",
+  "ts": "2026-11-27T10:05:14+08:00",
+  "title": "我国首次明晰划定非常规水用水领域",
+  "title_zh": "我国首次明晰划定非常规水用水领域",
+  "body": "从水利部了解到，近日国家标准《非常规水利用量统计规范》发布，将于2027年5月1日起实施。该规范首次明晰划定了农业、工业、生活、生态四大非常规水用水领域，明确了再生水、集蓄雨水、海水淡化水、矿坑（井）水、咸水五类非常规水源的统计范围和口径，规定了非常规水利用量、再生水利用率、矿井水利用率的核算方法。该规范的发布实施，为筑牢国家水安全屏障提供了有力支撑。",
+  "summary": "水利部发布《非常规水利用量统计规范》，2027年5月1日起实施，明确四大领域及五类水源统计范围。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1050911.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "水资源利用规范影响相关行业政策及投资。",
+  "cluster_id": "6863d389cac3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4681459844827912772,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "587983c47e65882a",
+  "ts": "2026-11-27T10:04:31+08:00",
+  "title": "印尼盾兑美元跌至18,365",
+  "title_zh": "",
+  "body": "印尼盾兑美元跌至18,365。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "66639d67036c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14081955499510400575,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "462a9727610ed4d2",
+  "ts": "2026-11-27T10:04:10+08:00",
+  "title": "游戏板块直线拉升，凯撒文化涨停",
+  "title_zh": "",
+  "body": "游戏板块直线拉升，凯撒文化涨停，大晟文化、中青宝、宝通科技、游族网络、浙数文化等纷纷走高。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3236124.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "3571a8870675",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16011540684722289988,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "a4db510b76586eb7",
   "ts": "2026-11-27T10:03:59+08:00",
   "title": "徐兰高铁郑徐段完成时速385公里动态检测拉通试验",
@@ -613,16 +686,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "ba2aeb05b94f",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 107818066683333292,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "349ffbfbc418d9c8",
