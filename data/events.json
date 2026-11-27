@@ -576,6 +576,103 @@
   "engine": "primary"
  },
  {
+  "id": "ff21ac0e8070fab9",
+  "ts": "2026-11-27T10:36:22+08:00",
+  "title": "三星电子股价上涨3%",
+  "title_zh": "",
+  "body": "三星电子股价上涨3%。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3264082.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ad63e1e9e191",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10704188877393469656,
+  "reason": "tier=55 ent=1['三星'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "fb877bf07116e7ba",
+  "ts": "2026-11-27T10:35:56+08:00",
+  "title": "欧盟委员会主席冯德莱恩：490亿美元乌克兰贷款计划获得“广泛支持”",
+  "title_zh": "",
+  "body": "欧盟委员会主席冯德莱恩：490亿美元乌克兰贷款计划获得“广泛支持”。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3263624.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e2b6fe8d7436",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5341041309974428446,
+  "reason": "tier=55 ent=2['乌克兰', '欧盟'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "0411e195b6319d9b",
+  "ts": "2026-11-27T10:35:23+08:00",
+  "title": "CPO概念震荡反弹 腾景科技触及20cm涨停",
+  "title_zh": "",
+  "body": "CPO概念盘中震荡反弹，腾景科技触及20cm涨停，华懋科技封涨停，中石科技、杰普特、炬光科技、东田微、源杰科技、长芯博创涨幅靠前。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1082226.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f2d369e13723",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6656212680313801041,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "cfc353b5bb148a4c",
+  "ts": "2026-11-27T10:34:56+08:00",
+  "title": "岚图汽车CEO蒋焘：明年车市依然严峻，战略从“以量为主”转向“量利双衡”",
+  "title_zh": "岚图汽车CEO蒋焘：明年车市依然严峻，战略从“以量为主”转向“量利双衡”",
+  "body": "在11月27日的广州车展上，岚图汽车CEO蒋焘表示，今年国内车市下滑明显，业界对明年全年的预期相对保守。受补贴退坡影响，明年一季度或有部分需求提前释放；海外出口方面，受关税及法规趋严影响，增量空间亦将受限。总体而言，今明两年汽车行业面临的形势依然严峻，类似变化在手机、家电、光伏产业均有先例。在战略调整方面，蒋焘表示，岚图将从此前“以量为主”转向“量与利润双平衡”。未来将通过保持充足现金流、聚焦盈利车型，让企业健康可持续发展。",
+  "summary": "岚图汽车CEO蒋焘表示，明年车市严峻，战略转向量利平衡。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "汽车行业预期保守，可能影响相关产业链公司业绩预期。",
+  "cluster_id": "f1d8ed9d62e8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10894848131387717550,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "cdee675be2c59a56",
   "ts": "2026-11-27T10:34:01+08:00",
   "title": "半导体设备板块再度拉升，金海通涨停",
@@ -884,16 +981,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 48.2,
-  "level": "L0",
+  "score": 50.2,
+  "level": "L1",
   "impact": "",
   "cluster_id": "35d1fc8c7082",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "行情异动"
   ],
   "pushed": false,
   "sh": 1509495454193223198,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=24 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "080071c71ef76834",
@@ -8336,16 +8434,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "783f58f91092",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 13520104925601066507,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "20b7ef0bbab5701b",
