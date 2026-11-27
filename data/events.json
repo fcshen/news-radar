@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "92451c261a5680e8",
+  "ts": "2026-11-27T09:49:06+08:00",
+  "title": "日本政府拟大幅提升未来五年防卫费",
+  "title_zh": "日本政府拟大幅提升未来五年防卫费",
+  "body": "据日本《朝日新闻》11月26日报道，多名日本政府相关人士透露，日本政府拟将从2027财年起的五年防卫费总额增加至56.3万亿日元（约合2.35万亿人民币）。预计日本首相高市早苗最早将在27日作出相关决定。据报道，此前在2023至2027财年间，日本的防卫费总额为约43万亿日元。报道还称，日本政府方面今后不排除经过进一步协调继续提高防卫费的可能性。今年，日本民众多次举行集会，抗议日本政府的扩军备武动向，反对不断提高防卫费及由此加重民众负担。（CCTV国际时讯）",
+  "summary": "日本政府计划2027财年起五年内将防卫费增至56.3万亿日元，民众多次集会反对。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7809714.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能影响区域安全及地缘政治，需关注相关军工和出口企业动态。",
+  "cluster_id": "cd00571d85a1",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6207603953101174870,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "4be5af68e5fcc3e9",
+  "ts": "2026-11-27T09:47:58+08:00",
+  "title": "华侨银行：日元兑美元走弱风险似乎有限",
+  "title_zh": "华侨银行：日元兑美元走弱风险有限",
+  "body": "金十数据11月27日讯，华侨银行外汇策略师Sim Moh Siong在报告中称，干预风险应会限制美元兑日元USD/JPY在160附近的上行空间，而坚挺的基本通胀使日本央行12月加息仍有可能。日本国债收益率上升，以及政府运营的日本政府退休金投资基金可能提高对日本债券的配置，可能会吸引市场更多关注。美元兑日元USD/JPY短期内可能保持坚挺，但更广泛的环境正日益有利于日元相对于欧元等交叉盘升值。",
+  "summary": "华侨银行认为美元兑日元上行空间受限，日本央行加息可能性存在。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 64.2,
+  "level": "L1",
+  "impact": "日元走强可能影响日元计价资产表现。",
+  "cluster_id": "fa6bd53b7a84",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14990351733181674889,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "eaee656776c256b6",
   "ts": "2026-11-27T09:47:20+08:00",
   "title": "AI漫剧概念早盘下挫，果麦文化跌超10%，华智数媒、芒果超媒、慈文传媒、上海电影、华策影视跌幅居前",
@@ -613,16 +663,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "d0c4f273e88f",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3510892855510068210,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "25d3cbedccf128f8",
