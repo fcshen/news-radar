@@ -576,6 +576,130 @@
   "engine": "primary"
  },
  {
+  "id": "6f404f272d9e3c4f",
+  "ts": "2026-11-27T09:16:18+08:00",
+  "title": "纽元兑美元NZD/USD小幅上涨0.2%至0.5480，新西兰执政联盟和反对阵营均未赢得议会多数",
+  "title_zh": "纽元兑美元NZD/USD小幅上涨0.2%至0.5480，新西兰执政联盟和反对阵营均未赢得议会多数",
+  "body": "纽元兑美元NZD/USD小幅上涨0.2%至0.5480，新西兰执政联盟和反对阵营均未赢得议会多数。",
+  "summary": "新西兰议会选举结果未决，纽元兑美元小幅上涨。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8bd8649ee03a",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14882903419368466795,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "2d558f35430addc4",
+  "ts": "2026-11-27T09:16:07+08:00",
+  "title": "韩国总统府召开金融机构紧急会议 强化防黑客措施",
+  "title_zh": "韩国总统府召开金融机构紧急会议 强化防黑客措施",
+  "body": "金十数据11月27日讯，韩国总统府国家安保室27日表示，为防止黑客攻击造成二次损失，已紧急召集金融监管部门召开会议。会议由国家安保室第三次长宋基镐主持，金融委员会、金融监督院和金融保安院等机构出席。金融委员会汇报了防范进一步损失的相关措施，包括利用异常交易检测系统（FDS）和基于AI技术的语音诈骗检测系统等。宋基镐要求金融监管部门强化一次性密码生成器（OTP）等双重身份认证机制，并在异常交易检测系统中引入AI技术。国家安保室表示：“还将加强对非法出售泄露信息的网站的封锁和调查。”",
+  "summary": "韩国总统府紧急召集金融监管部门会议，讨论防范黑客攻击措施。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "可能影响金融系统安全，需关注相关金融产品风险。",
+  "cluster_id": "a1fe536c19aa",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7997347458840029286,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "f287c53b7b44ada3",
+  "ts": "2026-11-27T09:15:49+08:00",
+  "title": "中华人民共和国大地原点新标准基线场建成投用",
+  "title_zh": "中华人民共和国大地原点新标准基线场建成投用",
+  "body": "近日，中华人民共和国大地原点标准基线场在陕西省西安市泾河新城西一路北段东侧建成，并完成高精度计量溯源，正式投入试验性运行。新基线场紧邻大地原点核心区，是依托大地原点建设的重要计量基础设施，接替已服役12年、位于西安市临潼区的陕西比长基线场，承担起野外长度量值传递的使命，可实现多类测绘仪器一体化计量检定。（中国自然资源报）",
+  "summary": "新标准基线场在西安建成，用于长度量值传递。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3323005.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e10f030f6ada",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4522578886061983579,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "b7dcd77bc62ce600",
+  "ts": "2026-11-27T09:15:33+08:00",
+  "title": "中国人民银行将人民币兑美元中间价设定为6.7075",
+  "title_zh": "",
+  "body": "中国人民银行将人民币兑美元中间价设定为6.7075。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5651715.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d880817d6b00",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3432029931675064931,
+  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "27e082a0fa3e05a0",
+  "ts": "2026-11-27T09:15:24+08:00",
+  "title": "机构：韩国股市稳定基金扩容或改变债券需求格局",
+  "title_zh": "机构：韩国股市稳定基金扩容或改变债券需求格局",
+  "body": "KB证券表示，据报道韩国政府正考虑扩大股市稳定基金规模，此举可能抑制银行购债需求，同时推高保险机构对超长期债券的配置需求。KB证券固收分析师林宰均写道，根据基金新增出资规模的不同，银行在管理核心一级资本充足率的过程中，购债态度或将趋于谨慎。若出资规模大幅提升，且要求保险公司承担更高出资份额，保险公司可能增持超长期债券，对冲其韩国保险资本标准（K-ICS）充足率的下行压力，K-ICS是韩国本土的资本监管框架。如果该基金起到稳定股市的效果，避险资产需求或将降温。",
+  "summary": "韩国政府考虑扩大股市稳定基金规模，可能影响银行购债及保险机构对超长期债券配置。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5651610.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "韩国股市稳定基金变动可能影响区域债券市场，间接影响相关投资产品。",
+  "cluster_id": "a018e5a4a491",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1594893294209450392,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "7a1ce6ad87bcbf0b",
   "ts": "2026-11-27T09:15:03+08:00",
   "title": "恒指期货日盘开盘跌0.26%，报22146.48点，低水80.40点",
@@ -588,16 +712,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "d85f444e22e4",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 5913059970668077423,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "f979e654ecdc3c46",
