@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f1115">
+<meta name="robots" content="noindex">
+<title>外部定时器配置 · 金融雷达</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1d2129; --line:#262b34;
+    --text:#e6e8eb; --dim:#9aa3ae; --faint:#6b7480;
+    --ok:#3fb950; --bad:#e5484d; --accent:#5b8def;
+    --safe-b:env(safe-area-inset-bottom,0px);
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;background:var(--bg);color:var(--text)}
+  body{font:15px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+       padding:0 14px calc(40px + var(--safe-b));max-width:760px;margin:0 auto}
+  h1{font-size:19px;margin:26px 0 6px;letter-spacing:.2px}
+  .sub{color:var(--dim);font-size:13.5px;margin:0 0 20px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+        padding:16px 15px;margin:0 0 14px}
+  .card h2{font-size:15px;margin:0 0 10px;display:flex;align-items:center;gap:8px}
+  .num{flex:0 0 auto;width:22px;height:22px;border-radius:50%;background:var(--panel2);
+       border:1px solid var(--line);color:var(--dim);font-size:12px;font-weight:600;
+       display:flex;align-items:center;justify-content:center}
+  p{margin:0 0 10px}
+  .hint{color:var(--faint);font-size:12.5px}
+  ol,ul{margin:0 0 10px;padding-left:20px}
+  li{margin:0 0 7px}
+  code,kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.8px}
+  kbd{background:var(--panel2);border:1px solid var(--line);border-radius:5px;
+      padding:1px 5px;color:var(--text)}
+  .row{display:flex;gap:8px;align-items:flex-start;margin:0 0 9px}
+  .row .k{flex:0 0 78px;color:var(--faint);font-size:12.5px;padding-top:6px}
+  .row .v{flex:1;min-width:0;background:var(--panel2);border:1px solid var(--line);
+          border-radius:8px;padding:7px 9px;font-family:ui-monospace,Menlo,monospace;
+          font-size:12px;word-break:break-all;color:var(--text);line-height:1.5}
+  .cp{flex:0 0 auto;border:1px solid var(--line);background:var(--panel2);color:var(--dim);
+      border-radius:8px;padding:7px 9px;font-size:12px;cursor:pointer;white-space:nowrap}
+  .cp:active{background:#242a34}
+  .cp.done{color:var(--ok);border-color:#2c4a33}
+  input[type=password],input[type=text]{width:100%;background:var(--panel2);
+      border:1px solid var(--line);border-radius:9px;padding:10px 11px;color:var(--text);
+      font-family:ui-monospace,Menlo,monospace;font-size:12.5px;outline:none}
+  input:focus{border-color:#3a4352}
+  button.act{width:100%;margin-top:10px;border:0;border-radius:10px;padding:12px;
+      background:var(--accent);color:#fff;font-size:14px;font-weight:600;cursor:pointer}
+  button.act:active{filter:brightness(.9)}
+  button.act[disabled]{opacity:.5}
+  #result{margin-top:10px;font-size:13px;line-height:1.6;word-break:break-word}
+  #result.ok{color:var(--ok)} #result.bad{color:var(--bad)} #result.wait{color:var(--dim)}
+  .warn{border-left:3px solid #f5a524;background:#1e1a12;border-radius:0 8px 8px 0;
+        padding:9px 12px;font-size:12.8px;color:#d8c9a8;margin:0 0 10px}
+  a{color:var(--accent)}
+  .foot{color:var(--faint);font-size:12px;text-align:center;margin-top:26px}
+  table{width:100%;border-collapse:collapse;font-size:12.5px;margin:0 0 6px}
+  th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--faint);font-weight:500}
+</style>
+</head>
+<body>
+
+<h1>给雷达装一个外部定时器</h1>
+<p class="sub">cron-job.org 每 5 分钟替你叫一次工。GitHub 自己的定时任务会迟到几小时，这是目前唯一能真正兜住的办法。</p>
+
+<div class="card" style="border-color:#2a2f3a">
+  <p style="margin:0;color:var(--dim);font-size:13px">
+    这页的所有输入都只留在你手机上（浏览器本地），不会上传到任何地方。
+    填完点下面的「试一次」就知道通没通。
+  </p>
+</div>
+
+<div class="card">
+  <h2><span class="num">1</span>建一个只够用的令牌</h2>
+  <p>打开 <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">New fine-grained token</a>，按下面填：</p>
+  <table>
+    <tr><th style="width:96px">Token name</th><td>news-radar-cron</td></tr>
+    <tr><th>Expiration</th><td>1 year（到期前页面会提醒你，也可设更长）</td></tr>
+    <tr><th>Repository access</th><td><b>Only select repositories</b> → 只勾 <code>fcshen/news-radar</code></td></tr>
+    <tr><th>Permissions</th><td>展开 <b>Repository permissions</b> → 找 <b>Actions</b> → 设为 <b>Read and write</b>。其它一律不动。</td></tr>
+  </table>
+  <p class="hint">只要这一项。不要给 Contents、不要给 Admin，泄露了危害也有限。</p>
+  <p>生成后形如 <code>github_pat_11ABC...</code>，<b>只显示一次</b>，先粘到下面再关页面。</p>
+</div>
+
+<div class="card">
+  <h2><span class="num">2</span>粘进令牌，复制四条配置</h2>
+  <div class="row">
+    <div class="k">令牌</div>
+    <div class="v" style="padding:0;border:0;background:transparent"><input id="tok" type="password" placeholder="github_pat_..." autocomplete="off" spellcheck="false"></div>
+  </div>
+  <div class="row">
+    <div class="k">URL</div>
+    <div class="v" id="v-url">https://api.github.com/repos/fcshen/news-radar/actions/workflows/radar.yml/dispatches</div>
+    <button class="cp" data-for="v-url">复制</button>
+  </div>
+  <div class="row">
+    <div class="k">方法</div>
+    <div class="v" id="v-method">POST</div>
+    <button class="cp" data-for="v-method">复制</button>
+  </div>
+  <div class="row">
+    <div class="k">请求头</div>
+    <div class="v" id="v-head">Authorization: Bearer &lt;你的令牌&gt;
+Accept: application/vnd.github+json
+Content-Type: application/json
+X-GitHub-Api-Version: 2022-11-28</div>
+    <button class="cp" data-for="v-head">复制</button>
+  </div>
+  <div class="row">
+    <div class="k">请求体</div>
+    <div class="v" id="v-body">{"ref":"main","inputs":{"minutes":"4"}}</div>
+    <button class="cp" data-for="v-body">复制</button>
+  </div>
+  <p class="hint" style="margin:0">粘了令牌后，「请求头」里的占位符会自动替换成真实令牌，直接复制即可。</p>
+</div>
+
+<div class="card">
+  <h2><span class="num">3</span>先去 cron-job.org 建作业</h2>
+  <ol>
+    <li>打开 <a href="https://cron-job.org/en/signup/" target="_blank" rel="noopener">cron-job.org 注册</a>（邮箱 + 密码，需点验证邮件；不要信用卡）</li>
+    <li>登录后 <b>Create cronjob</b></li>
+    <li><b>Title</b>：金融雷达叫工</li>
+    <li><b>URL</b>：粘上面那条</li>
+    <li><b>Schedule</b>：选 <b>Every 5 minutes</b>（或自定义 <code>*/5 * * * *</code>）</li>
+    <li>展开 <b>Advanced</b> → <b>Request method</b> 选 <b>POST</b></li>
+    <li>同页 <b>Headers</b> 逐条添加上面那四行（名 / 值分开填）</li>
+    <li><b>Request body</b> 粘上面那段 JSON</li>
+    <li>勾上 <b>Notify me when the job fails</b>，保存</li>
+  </ol>
+  <div class="warn">
+    <b>注意两点</b>：① 连续失败 25 次它会自动停用作业（这是保护，不是 bug）；② 单次请求超过 30 秒会超时——但我们这条只是叫工，GitHub 几百毫秒就回 204，不会超时。
+  </div>
+</div>
+
+<div class="card">
+  <h2><span class="num">4</span>现场验一次，别靠猜</h2>
+  <p>点了会真的拉起一次采集，属于正常操作，不会重复推送已经推过的消息。</p>
+  <button class="act" id="btn">试一次</button>
+  <div id="result"></div>
+  <p class="hint" style="margin:12px 0 0">
+    返回 204 就是成功（GitHub 成功时不返回内容）。若浏览器拦住跨域，改用电脑终端执行：<br>
+    <code>curl -X POST -H "Authorization: Bearer 令牌" -H "Accept: application/vnd.github+json" -d '{"ref":"main","inputs":{"minutes":"4"}}' 上面那条URL</code>
+  </p>
+</div>
+
+<div class="card">
+  <h2>回去看结果</h2>
+  <p style="margin-bottom:6px"><a href="https://github.com/fcshen/news-radar/actions" target="_blank" rel="noopener">Actions 页面</a>里应出现一条触发方式为 <code>workflow_dispatch</code> 的运行，每 5 分钟一条。</p>
+  <p style="margin:0"><a href="./">← 回到雷达看板</a></p>
+</div>
+
+<p class="foot">令牌只存在你这台设备的浏览器里 · 页面本身不含任何密钥</p>
+
+<script>
+const $ = id => document.getElementById(id);
+const URL_ = "https://api.github.com/repos/fcshen/news-radar/actions/workflows/radar.yml/dispatches";
+const BODY = {ref:"main", inputs:{minutes:"4"}};
+
+/* ---------- 令牌联动 ---------- */
+const tok = $("tok");
+try{ const s = sessionStorage.getItem("gh_pat"); if(s) tok.value = s; }catch(e){}
+
+function headText(){
+  const t = tok.value.trim() || "<你的令牌>";
+  return "Authorization: Bearer " + t + "\n"
+       + "Accept: application/vnd.github+json\n"
+       + "Content-Type: application/json\n"
+       + "X-GitHub-Api-Version: 2022-11-28";
+}
+function sync(){
+  $("v-head").textContent = headText();
+  try{
+    if(tok.value.trim()) sessionStorage.setItem("gh_pat", tok.value.trim());
+    else sessionStorage.removeItem("gh_pat");
+  }catch(e){}
+}
+tok.addEventListener("input", sync);
+sync();
+
+/* ---------- 复制 ---------- */
+document.querySelectorAll(".cp").forEach(b => {
+  b.addEventListener("click", async () => {
+    const el = $(b.dataset.for);
+    const text = el.tagName === "INPUT" ? el.value : el.textContent;
+    try{
+      await navigator.clipboard.writeText(text);
+    }catch(e){
+      const ta = document.createElement("textarea");
+      ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+      document.body.appendChild(ta); ta.select();
+      try{ document.execCommand("copy"); }catch(_){}
+      document.body.removeChild(ta);
+    }
+    const old = b.textContent;
+    b.textContent = "已复制"; b.classList.add("done");
+    setTimeout(() => { b.textContent = old; b.classList.remove("done"); }, 1400);
+  });
+});
+
+/* ---------- 现场测试 ---------- */
+function say(msg, cls){ const r = $("result"); r.className = cls || ""; r.textContent = msg; }
+
+$("btn").addEventListener("click", async () => {
+  const t = tok.value.trim();
+  if(!t){ say("先把令牌粘到第 2 步的输入框里。", "bad"); return; }
+
+  const btn = $("btn");
+  btn.disabled = true; say("正在请求 GitHub…", "wait");
+
+  const t0 = Date.now();
+  try{
+    const res = await fetch(URL_, {
+      method: "POST",
+      headers: {
+        "Authorization": "Bearer " + t,
+        "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json",
+        "X-GitHub-Api-Version": "2022-11-28"
+      },
+      body: JSON.stringify(BODY)
+    });
+    const ms = Date.now() - t0;
+
+    if(res.status === 204){
+      say("成功（204 · " + ms + "ms）。主任务已被拉起，去 Actions 页面能看到一条 workflow_dispatch 记录。", "ok");
+    }else if(res.status === 401){
+      say("401 令牌无效或已过期。重新生成一个，注意复制完整。", "bad");
+    }else if(res.status === 403){
+      say("403 令牌没权限。检查它是否勾了 Actions: Read and write，以及是否选中了这个仓库。", "bad");
+    }else if(res.status === 404){
+      say("404 找不到仓库或工作流文件。确认仓库名是 fcshen/news-radar、文件是 radar.yml。", "bad");
+    }else if(res.status === 422){
+      say("422 请求体被拒。通常是 ref 写错（应为 main），或 inputs 里出现了未定义的字段。", "bad");
+    }else{
+      let body = "";
+      try{ body = (await res.text()).slice(0, 300); }catch(e){}
+      say("返回 " + res.status + " · " + ms + "ms\n" + body, "bad");
+    }
+  }catch(err){
+    say("请求没能发出（多半是浏览器跨域限制，不代表配置有错）：" + err.message
+        + "\n\n改用第 4 步下面那条 curl 命令在电脑上验一次即可。", "bad");
+  }finally{
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>
