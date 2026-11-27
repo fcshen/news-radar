@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "64bf4308d6ba6e45",
+  "ts": "2026-11-27T10:20:31+08:00",
+  "title": "新西兰总理拉克森：强大稳定的政府将要求我们与机遇合作",
+  "title_zh": "",
+  "body": "新西兰总理拉克森：强大稳定的政府将要求我们与机遇合作。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7841792.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "38cc0867bd9b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11237137815757154691,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "15eba72a61b1e27c",
+  "ts": "2026-11-27T10:19:48+08:00",
+  "title": "光刻机板块持续走高，海立股份涨停",
+  "title_zh": "",
+  "body": "光刻机板块持续走高，海立股份涨停，腾景科技涨超10%，芯碁微装、高凯技术、波长光电、炬光科技、路维光电跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1064771.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "ad04d006cb8b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2832335673909447744,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "7b1e57432e8bf3f9",
+  "ts": "2026-11-27T10:19:13+08:00",
+  "title": "华为已注册多枚“星驰”“华为星驰”商标",
+  "title_zh": "华为已注册多枚“星驰”“华为星驰”商标",
+  "body": "天眼查知识产权信息显示，华为技术有限公司于2020年至2022年成功注册多枚“星驰”“华为星驰”商标，国际分类涉及科学仪器、网站服务。2026年11月26日晚，华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上发布辅助驾驶新品牌——“星驰”，预计明年有超过10款搭载星驰辅助驾驶的新车上市。",
+  "summary": "华为注册多枚“星驰”“华为星驰”商标，涉及科学仪器、网站服务，发布辅助驾驶新品牌。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3248268.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "华为新品牌可能影响汽车产业链相关公司股价。",
+  "cluster_id": "f9492637336c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12397929024705815657,
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "83b2836749f6960d",
   "ts": "2026-11-27T10:17:58+08:00",
   "title": "国晟科技成立子公司 含AI软件开发业务",
@@ -827,6 +900,32 @@
   "sh": 4928680622652146330,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
+ },
+ {
+  "id": "a336ed0897efb9c5",
+  "ts": "2026-11-27T10:14:25+08:00",
+  "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+  "title_zh": "泽连斯基警告俄罗斯将发动大规模攻击，特朗普敦促普京撤军",
+  "body": "Trump says he urged Putin to pull back military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+  "summary": "泽连斯基警告俄罗斯可能发动大规模攻击，特朗普敦促普京撤回军事行动。",
+  "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 85.2,
+  "level": "L2",
+  "impact": "地缘政治紧张可能影响市场情绪。",
+  "cluster_id": "814b87f16c53",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": true,
+  "sh": 16823473564140461429,
+  "reason": "tier=55 ent=4['russia', 'putin'] pred=1 conv=0 combo=32 rel=29 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "af16689a1f0d7916",
