@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "8c57de5eaffb015f",
+  "ts": "2026-11-27T08:09:00+08:00",
+  "title": "中信证券：坚定看好物理AI板块，建议关注国产硬件供应链相关标的",
+  "title_zh": "中信证券：坚定看好物理AI板块，建议关注国产硬件供应链相关标的",
+  "body": "中信证券指出，根据OpenAI官网，11月17日，OpenAI发布GPT-6.2 Astra和Sol，Artificial Analysis、XDOF Evaluations和Robocurve多家第三方机构评测显示，新模型在桌面和双臂真机任务上取得进步，部分任务的单位成功推理费用明显下降。我们认为，GPT-6.2和FSD v15分别代表了物理AI在S2任务推理与动作编排、S1实时感知与控制上的前沿进展。两条路线在模型策略、任务表现和算力效率上的改善，有望推动物理AI模型加快迭代和成熟。坚定看好物理AI板块，建议关注国产硬件供应链相关标的。",
+  "summary": "中信证券看好物理AI板块，推荐关注国产硬件供应链。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "物理AI板块或受关注，相关硬件供应链公司股价波动可能加大。",
+  "cluster_id": "b36a9fe8a83a",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5549753023615077800,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "9a6d13a5a58b34c9",
   "ts": "2026-11-27T08:05:05+08:00",
   "title": "美国总统特朗普：如果普京仍然是八国集团（G8）成员，现在可能就不会爆发乌克兰冲突了",
