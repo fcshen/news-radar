@@ -576,6 +576,80 @@
   "engine": "primary"
  },
  {
+  "id": "d069f78fd4a033c1",
+  "ts": "2026-11-27T08:03:48+08:00",
+  "title": "中国生物制药：贝普若韦生钠注射液在中国获批上市",
+  "title_zh": "中国生物制药：贝普若韦生钠注射液在中国获批上市",
+  "body": "中国生物制药公告，公司慢性乙型肝炎同类首创功能性治愈疗法贝普若韦生钠注射液（商品名：贺舒可）已获中国国家药品监督管理局批准上市，联合核苷（酸）类似物用于慢性乙型肝炎病毒感染的功能性治愈。B-Well三期临床试验合并数据显示，接受6个月贝普若韦生治疗后，整体研究人群中功能性治愈应答率达19%（治疗组1220例中233例，安慰剂组614例中0例）；HBsAg≤1000 IU/mL受试者中功能性治愈率达26%（治疗组768例中200例，安慰剂组393例中0例）。",
+  "summary": "中国生物制药贝普若韦生钠注射液获批上市，用于慢性乙型肝炎治疗。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7831076.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "可能影响相关医药股表现",
+  "cluster_id": "8685c7308987",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15499941855468743406,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "140236d8de97c63c",
+  "ts": "2026-11-27T08:03:21+08:00",
+  "title": "油价有望录得周线上涨 中东袭击事件令市场保持警惕",
+  "title_zh": "油价有望录得周线上涨 中东袭击事件令市场保持警惕",
+  "body": "受中东能源设施与油轮接连遇袭影响，油价有望迎来本月首次周线收涨。西德克萨斯中质原油升至接近每桶85美元，布伦特原油前一交易日收盘低于97美元。伊朗支持的胡塞武装袭击沙特吉赞炼油厂；科威特发生无人机袭击，造成两名意大利平民遇难、两人受伤。欧佩克+将于周日召开会议，敲定2027年供应策略，该联盟考虑将现行产量配额维持至明年1月。",
+  "summary": "中东袭击事件推高油价，欧佩克+会议将定供应策略。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7830672.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 40.2,
+  "level": "L0",
+  "impact": "能源股及相关ETF可能受益，期货市场波动加大。",
+  "cluster_id": "53c8488cc5ee",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10707458198036171922,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=8 pct=0 op=Y spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "085af4300119e6a4",
+  "ts": "2026-11-27T08:02:45+08:00",
+  "title": "增长数据大幅上修，股债市场却未必迎来好消息，真正的错价藏在利率期限结构里",
+  "title_zh": "",
+  "body": "欧洲央行即将换帅，鸽派标签可能贴错了。点击查看...",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236243",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 38.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "fed0c9be5a60",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 8960382052529973073,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "345e0cdc94d42eda",
   "ts": "2026-11-27T08:01:47+08:00",
   "title": "国际货币基金组织执董会结束与澳大利亚的第四条磋商",
@@ -612,16 +686,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 27.2,
+  "score": 29.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "78359c2ef6ba",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 12002749452354621185,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=2 burst=4"
  },
  {
   "id": "414961c47571198a",
@@ -725,6 +800,31 @@
   "tries": 1
  },
  {
+  "id": "ea8b1e31ca607864",
+  "ts": "2026-11-27T08:00:19+08:00",
+  "title": "The ‘Angry Nerds’ campaign exposing red flags in the Philippines’ 2027 budget",
+  "title_zh": "菲律宾2027年预算中的红旗问题曝光运动",
+  "body": "Just over a year ago, Carlo Ople was making YouTube videos about his two obsessions – trainers and action figures. These days, the 44-year-old former marketing executive uses the same channel to dissect national budgets and political issues, swearing profusely along the way. Ople is part of a growing movement of unlikely civil society activists in the Philippines – software developers, gamers and online influencers who are turning their digital skills to the fight against corruption. Known as...",
+  "summary": "菲律宾软件开发者、游戏玩家和在线影响者组成“愤怒的 nerds”运动，分析国家预算和政事。",
+  "url": "https://www.scmp.com/week-asia/people/article/3375922/angry-nerds-campaign-exposing-red-flags-philippines-2027-budget",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 62.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "806b8f145808",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 10268255951140775538,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "f38a02812d86eab4",
   "ts": "2026-11-27T08:00:00+08:00",
   "title": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
@@ -800,6 +900,31 @@
   "reason": "tier=55 ent=1['深交所'] pred=2 conv=0 combo=31 rel=29 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary",
   "tries": 1
+ },
+ {
+  "id": "d9555efe39a92fd5",
+  "ts": "2026-11-27T07:58:03+08:00",
+  "title": "2027丁未（羊）年贵金属纪念币今日发行",
+  "title_zh": "2027丁未（羊）年贵金属纪念币今日发行",
+  "body": "中国人民银行今天(27日)正式发行2027中国丁未(羊)年贵金属纪念币一套。该套贵金属纪念币共11枚，其中金质纪念币6枚，银质纪念币4枚，铂质纪念币1枚，均为中华人民共和国法定货币。",
+  "summary": "中国人民银行发行2027丁未（羊）年贵金属纪念币共11枚，包括金、银、铂质纪念币。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738491.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "7a70d4cf257a",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 13930363796424526784,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
  },
  {
   "id": "e673ad199ff74a68",
@@ -924,6 +1049,31 @@
   "pushed": false,
   "sh": 9454873922076182890,
   "reason": "tier=55 ent=2['英伟达', '特朗普'] pred=0 conv=0 combo=8 rel=12 sev=0 pct=0 op=N spread=2 burst=4"
+ },
+ {
+  "id": "6d83d08b8cef226f",
+  "ts": "2026-11-27T07:54:45+08:00",
+  "title": "金价持稳 美联储利率路径与AI股主导本周行情震荡",
+  "title_zh": "金价持稳 美联储利率路径与AI股主导本周行情震荡",
+  "body": "金价保持平稳，交易员一边权衡美联储加息预期，一边关注美股科技股反弹带动的大盘修复行情。现货黄金交投于每盎司3565美元附近，本周行情震荡，金价此前一度跌至15个月低点，目前有望小幅收涨。受AI板块个股回升带动，欧亚市场股指周四走高；美国现货市场因感恩节休市。黄金有望连续第三个月下跌，本周盘中一度跌破每盎司3500美元。自11月11日以来，金价一直运行在4000美元下方，交易员持续评估美联储应对粘性通胀的政策路径。金价或将连续三个月跌幅超6%，从1月历史高点回落，美伊冲突推高能源价格后，跌势进一步加快。周三公布的美联储偏好的10月核心通胀指标，强化了市场对央行12月议息会议收紧政策的预期。黄金不产生利息，更高的利率环境通常不利于金价。市场同时在评估，如果物价压力持续，明年初美联储继续加息的可能性。",
+  "summary": "金价本周震荡，一度跌至15个月低点，交易员评估美联储政策路径。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1048953.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 69.2,
+  "level": "L1",
+  "impact": "美联储加息预期影响黄金及科技股表现。",
+  "cluster_id": "3a3926b3fbf0",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15630670701407446770,
+  "reason": "tier=55 ent=1['美联储'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
  },
  {
   "id": "aa206adf2249c59d",
