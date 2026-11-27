@@ -576,6 +576,80 @@
   "engine": "primary"
  },
  {
+  "id": "bbb58a5603df4ac4",
+  "ts": "2026-11-27T08:50:30+08:00",
+  "title": "银河证券：2027农业行业投资机会可围绕生猪养殖、宠物食品、厄尔尼诺展开",
+  "title_zh": "银河证券：2027农业行业投资机会可围绕生猪养殖、宠物食品、厄尔尼诺展开",
+  "body": "银河证券认为2027农业行业投资机会可核心围绕生猪养殖、宠物食品、厄尔尼诺展开，强调核心指标跟踪及时点选择：作为传统行业，生猪养殖板块的机会来源于产能的变化所带来的猪价预期变化，预判2027年生猪出栏量大概率不超过7亿头，猪价同比上行且前低后高；与市场观点不同的核心点在于，银河证券认为2027年猪价均值或超预期。作为新消费行业，宠物板块基础逻辑来源于行业持续增长及市占率提升。宠企基础逻辑依托于海外业务持续增长带来的业绩支撑，而估值逻辑依托于自有品牌增长与复制能力，并向体系化能力和长期壁垒演进。2026年出口端盈利能力下行影响业绩表现，2027年或有增长新机遇。本轮厄尔尼诺处于正在进行时，对不同农产品的影响从预期阶段逐步过渡到现实论证阶段。厄尔尼诺对全球大宗农产品供给的影响呈现国别、品类差异。建议重点把握棕榈油、白糖供给收缩预期带来的结构性机会，重点布局糖源保障能力较强、成本管控水平领先的制糖相关企业。",
+  "summary": "银河证券提出2027年农业投资机会，关注生猪养殖、宠物食品和厄尔尼诺影响。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1098303.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 39.2,
+  "level": "L0",
+  "impact": "生猪养殖、宠物食品相关股票或受益，农产品期货价格可能受厄尔尼诺影响。",
+  "cluster_id": "a7872e1880fa",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3628504413328796180,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "6b10e3183444e715",
+  "ts": "2026-11-27T08:50:18+08:00",
+  "title": "日本央行执行董事神山：对于稳定币等支付手段而言，对储备和赎回安排进行适当监管，以及设计与中央银行货币的良好关联机制，将至",
+  "title_zh": "",
+  "body": "关重要。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7874485.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 58.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "5f1640c52da5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2235668100463001460,
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "c2497729aa7aaede",
+  "ts": "2026-11-27T08:49:44+08:00",
+  "title": "中国平安与苍宇天基签署战略合作",
+  "title_zh": "中国平安与苍宇天基签署战略合作",
+  "body": "11月26日，第二十八届高交会现场，中国平安财产保险与苍宇天基（北京）信息通信技术有限公司签署战略合作协议，双方将围绕卫星即时遥感数据应用、灾害预警、灾害救援调度、保险估损、保险服务五大方向合作，把卫星空间技术嵌入灾害监测预警、应急救援、保险理赔估损等场景。",
+  "summary": "中国平安与苍宇天基签署协议，合作卫星遥感数据应用等。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3302712.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "可能影响保险行业相关公司业务布局。",
+  "cluster_id": "5bcdacd0cbe7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7526654679573991146,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "894485ff7ee622be",
   "ts": "2026-11-27T08:48:49+08:00",
   "title": "长安汽车：多款主力车型订单持续攀升，正全力协调供应商保交付",
@@ -764,16 +838,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 58.2,
+  "score": 60.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "0ee1630846fc",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 1850306348774141525,
-  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "5d1bcb7c236cdf21",
@@ -813,16 +888,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "可能影响区块链相关投资决策。",
   "cluster_id": "8894b252218b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 14557394324481720983,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4",
   "engine": "primary"
  },
  {
