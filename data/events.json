@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "eaee656776c256b6",
+  "ts": "2026-11-27T09:47:20+08:00",
+  "title": "AI漫剧概念早盘下挫，果麦文化跌超10%，华智数媒、芒果超媒、慈文传媒、上海电影、华策影视跌幅居前",
+  "title_zh": "AI漫剧概念早盘下挫，果麦文化跌超10%，华智数媒等跌幅居前",
+  "body": "AI漫剧概念早盘下挫，果麦文化跌超10%，华智数媒、芒果超媒、慈文传媒、上海电影、华策影视跌幅居前。",
+  "summary": "AI漫剧概念股开盘下跌，果麦文化等跌幅超10%，华智数媒、芒果超媒等跌幅居前。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7807509.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "AI概念股波动或影响相关ETF及期货产品表现。",
+  "cluster_id": "6a3a9f5d0df8",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17427199180834869066,
+  "reason": "与市场无关",
+  "engine": "primary"
+ },
+ {
+  "id": "9d7054eb13f15396",
+  "ts": "2026-11-27T09:46:54+08:00",
+  "title": "新西兰机会党领袖黄：所有选项都在考虑之中，包括跨党派合作",
+  "title_zh": "",
+  "body": "新西兰机会党领袖黄：所有选项都在考虑之中，包括跨党派合作。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7806959.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "d0c4f273e88f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3510892855510068210,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "25d3cbedccf128f8",
+  "ts": "2026-11-27T09:46:14+08:00",
+  "title": "冰雪经济概念走弱 龙江交通触及跌停",
+  "title_zh": "",
+  "body": "冰雪经济概念走弱，龙江交通触及跌停，晶雪节能跌超10%，大连圣亚、长白山、冰山冷热、雪人集团跟跌。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3220943.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cf858e89c50c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17360425668553426898,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "28995e67714759c2",
   "ts": "2026-11-27T09:45:12+08:00",
   "title": "水产板块走弱，东方海洋跌停",
@@ -636,16 +709,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "1afbc378a855",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3570213569126262258,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "e80a03e8cde9c332",
