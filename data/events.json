@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "7b52087fa200beef",
+  "ts": "2026-11-27T10:46:07+08:00",
+  "title": "越南计划2026至2030年从股市募资5.4万亿盾",
+  "title_zh": "",
+  "body": "越南计划2026至2030年从股市募资5.4万亿盾。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "4b8bbf6dbfe2",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12496008325427419486,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "14b6b8c222683455",
+  "ts": "2026-11-27T10:44:32+08:00",
+  "title": "能源与食品价格持续推高日本通胀 推动加息预期升温",
+  "title_zh": "能源与食品价格持续推高日本通胀 推动加息预期升温",
+  "body": "金十数据11月27日讯，能源和食品成本预计将继续推动日本消费者价格上涨，加剧市场对通胀的担忧，并强化进一步收紧货币政策的预期。大和证券经济学家Kento Minami表示：“除了能源成本上升以及大米价格带来的下行压力减弱外，成本向终端价格的持续传导，尤其是在商品领域，可能进一步加快核心消费者通胀。”他补充称：“企业正将更高的成本转嫁给消费者，涉及的商品种类不断扩大，其中食品价格涨幅尤为突出，而且涨价现象仍然十分普遍。”日本政府周五公布的数据显示，东京11月剔除生鲜食品的核心消费者价格指数（CPI）同比上涨2.9%，高于10月2.6%的涨幅。",
+  "summary": "日本能源和食品价格上涨，推高通胀，市场预期进一步加息。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 74.2,
+  "level": "L2",
+  "impact": "日元走强，日元计价资产可能受益；日元贬值，出口股可能受益。",
+  "cluster_id": "e8d560a3ab52",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 13875911145476764080,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=30 sev=8 pct=0 op=N spread=0 burst=5",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "53a1f649d2295eb7",
   "ts": "2026-11-27T10:44:01+08:00",
   "title": "山下有松创始人晒与LVMH老板合照，回应“收购传闻”：行业同行朋友交流",
