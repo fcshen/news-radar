@@ -576,6 +576,128 @@
   "engine": "primary"
  },
  {
+  "id": "b243bd1c21ef0e2a",
+  "ts": "2026-11-27T10:22:18+08:00",
+  "title": "新西兰总理：没人会因为我们让新西兰重回投票站而感谢我们",
+  "title_zh": "",
+  "body": "新西兰总理：没人会因为我们让新西兰重回投票站而感谢我们。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a1709f62265f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14979180647380221319,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e951120f1b3a39b1",
+  "ts": "2026-11-27T10:21:40+08:00",
+  "title": "新西兰总理拉克森：在谈判进行期间，政府继续以看守模式运作",
+  "title_zh": "",
+  "body": "新西兰总理拉克森：在谈判进行期间，政府继续以看守模式运作。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7842861.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "77b7e0a711d3",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 15060240356942455254,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "ded2f272b43f55ee",
+  "ts": "2026-11-27T10:21:24+08:00",
+  "title": "新西兰总理：将寻求组建包括反对党在内的稳定政府",
+  "title_zh": "",
+  "body": "新西兰总理：将寻求组建包括反对党在内的稳定政府。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3249955.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "a039c48edb25",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6567855000469959942,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "63ed8d1403169d51",
+  "ts": "2026-11-27T10:20:57+08:00",
+  "title": "新西兰总理拉克森：新西兰民众希望跨党派加强合作",
+  "title_zh": "",
+  "body": "新西兰总理拉克森：新西兰民众希望跨党派加强合作。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "20c8e24a3452",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 18154632764454384535,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "4e81c71c8d0ac7ed",
+  "ts": "2026-11-27T10:20:45+08:00",
+  "title": "零次方机器人完成新一轮数亿元融资",
+  "title_zh": "零次方机器人完成新一轮数亿元融资",
+  "body": "11月27日，零次方机器人完成新一轮数亿元融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使继续超额加注。",
+  "summary": "零次方机器人完成数亿元融资，投资方包括清科产投等。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3249444.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "人工智能领域投资活跃，可能影响相关概念股表现。",
+  "cluster_id": "7078ba5be90f",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6791036717719180342,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "64bf4308d6ba6e45",
   "ts": "2026-11-27T10:20:31+08:00",
   "title": "新西兰总理拉克森：强大稳定的政府将要求我们与机遇合作",
@@ -588,16 +710,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "38cc0867bd9b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11237137815757154691,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "15eba72a61b1e27c",
@@ -636,16 +759,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "华为新品牌可能影响汽车产业链相关公司股价。",
   "cluster_id": "f9492637336c",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 12397929024705815657,
-  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=1['华为'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
