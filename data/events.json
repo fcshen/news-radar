@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "e541716035cb5c29",
+  "ts": "2026-11-27T11:03:00+08:00",
+  "title": "新西兰反对党领袖希普金斯：工党是新西兰最受欢迎的政党",
+  "title_zh": "",
+  "body": "新西兰反对党领袖希普金斯：工党是新西兰最受欢迎的政党。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7886877.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "46b9a77aec15",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14601956161379783430,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
+ },
+ {
+  "id": "fea34991ad862b7b",
+  "ts": "2026-11-27T11:02:45+08:00",
+  "title": "广汽资本、安徽国控资本等成立股权投资基金",
+  "title_zh": "广汽资本、安徽国控资本等成立股权投资基金",
+  "body": "企查查APP显示，近日，安徽国控广祺股权投资基金合伙企业（有限合伙）成立，出资额为5亿元，经营范围包含以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该公司由六安市产业投资发展有限公司、广汽集团全资子公司广汽资本有限公司、安徽国控资本有限公司等共同持股。",
+  "summary": "安徽国控广祺股权投资基金成立，出资5亿元，涉私募股权投资等。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1110318.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响相关公司股价及投资策略。",
+  "cluster_id": "036f89cb1750",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5514995778647344730,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "a8ae841c2b556ed3",
   "ts": "2026-11-27T11:01:01+08:00",
   "title": "荷兰国际：韩元2027年有望进一步走强 经常账户盈余扩大提供支撑",
