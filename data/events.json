@@ -576,6 +576,131 @@
   "engine": "primary"
  },
  {
+  "id": "7c7453fb12016b71",
+  "ts": "2026-11-27T09:57:05+08:00",
+  "title": "Humanoids beware! Japan prefers smarter factory machines",
+  "title_zh": "日本青睐智能工厂机器，人形机器人需警惕",
+  "body": "",
+  "summary": "日本倾向于使用智能工厂机器，而非人形机器人。",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/humanoids-beware!-japan-prefers-smarter-factory-machines",
+  "source": "Nikkei Asia",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 48.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "b438441f7e5d",
+  "sources": [
+   "Nikkei Asia"
+  ],
+  "pushed": false,
+  "sh": 6011423421195507993,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "25ef79878c56b441",
+  "ts": "2026-11-27T09:56:19+08:00",
+  "title": "A股物理AI概念震荡走高，汉鑫科技涨超18%，科蓝软件涨超10%，爱仕达涨停，上纬新材涨超4%，移远通信、罗普特、柯力传",
+  "title_zh": "A股物理AI概念震荡走高，汉鑫科技涨超18%，科蓝软件涨超10%，爱仕达涨停，上纬新材涨超4%，移远通信、罗普特、柯力传",
+  "body": "感等个股跟涨。日前，宇树科技创始人、董事长王兴兴判断，5到10年内，中国机器人产量有望超过汽车，年产量超过2000万台。",
+  "summary": "物理AI概念股上涨，汉鑫科技等个股涨幅显著，宇树科技创始人预测未来机器人产量将超汽车。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "机器人产业预期提升，相关板块可能受益",
+  "cluster_id": "a60e4f382451",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 3879838892646878838,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "dffd3eb11c719af5",
+  "ts": "2026-11-27T09:55:50+08:00",
+  "title": "减速器板块短线拉升，爱仕达涨停",
+  "title_zh": "",
+  "body": "减速器板块短线拉升，爱仕达涨停，光洋股份、旭升集团、五洲新春、飞亚达、步科股份等纷纷走高。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7817436.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e3f869e437c4",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10897841848525739247,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "e212ca88dad0dae0",
+  "ts": "2026-11-27T09:54:21+08:00",
+  "title": "格恩半导体启动IPO辅导",
+  "title_zh": "格恩半导体启动IPO辅导",
+  "body": "证监会网站披露，格恩半导体（安徽）股份有限公司（简称“格恩半导体”）于2026年11月26日在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国泰海通证券。公开资料显示，格恩半导体成立于2021年8月，是一家专业从事氮化镓激光芯片研发与生产的高新技术企业。公司聚焦化合物半导体细分领域，致力于高性能、高功率、高可靠性半导体光电芯片的核心技术开发与产业化。股东方面，格恩半导体控股股东为阚宏柱，合计控制公司54.5623%股份对应的表决权。",
+  "summary": "格恩半导体拟首次公开发行股票，辅导券商为国泰海通证券。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1039522.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 57.2,
+  "level": "L1",
+  "impact": "可能引发相关半导体板块关注。",
+  "cluster_id": "b0bc053d6487",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1078284175040734079,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=31 sev=0 pct=0 op=N spread=2 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "6c2cde604887383f",
+  "ts": "2026-11-27T09:54:18+08:00",
+  "title": "奔驰（中国）与北京奔驰拟设合营企业，采购乘用车零部件并内部供应给北京奔驰",
+  "title_zh": "奔驰（中国）与北京奔驰拟设合营企业，采购乘用车零部件并内部供应给北京奔驰",
+  "body": "11月27日，据国家市场监督管理总局网站，梅赛德斯-奔驰（中国）投资有限公司与北京奔驰汽车有限公司新设合营企业案进入公示期，公示期为2026年11月27日至2026年12月6日。根据经营者集中简易案件公示表，梅赛德斯-奔驰（中国）投资有限公司（“奔驰（中国）”）与北京奔驰汽车有限公司（“北京奔驰”）签署合资合同，奔驰（中国）与北京奔驰将在北京市设立一家合营企业，采购乘用车零部件并内部供应给北京奔驰。交易后，奔驰（中国）与北京奔驰将分别持有合营企业70%和30%的股权并共同控制合营企业。",
+  "summary": "奔驰（中国）与北京奔驰将设立合营企业，采购零部件内部供应。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhq5556828.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "汽车零部件供应链变化可能影响相关供应商。",
+  "cluster_id": "caef5088df47",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 1259295483755990285,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "359aafaf2e45db58",
   "ts": "2026-11-27T09:53:22+08:00",
   "title": "军工板块表现活跃 成飞集成触及涨停",
@@ -2022,17 +2147,18 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 50.2,
+  "score": 52.2,
   "level": "L1",
   "impact": "航天板块可能受益",
   "cluster_id": "c876a982a866",
   "sources": [
    "金十数据",
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 14848185925123147712,
-  "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=2 burst=5",
+  "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=4 burst=5",
   "engine": "primary"
  },
  {
@@ -3620,16 +3746,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "56b04d52a37a",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 17450538306489401940,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "8aba092847244cd5",
