@@ -576,6 +576,55 @@
   "engine": "primary"
  },
  {
+  "id": "224dd2cd489e2b97",
+  "ts": "2026-11-27T08:52:45+08:00",
+  "title": "以军称打击黎巴嫩南部真主党武装火箭弹发射装置",
+  "title_zh": "以军称打击黎巴嫩南部真主党武装火箭弹发射装置",
+  "body": "以色列国防军26日晚发表声明称，以军当天对黎巴嫩南部黎真主党武装的火箭弹及发射装置发动打击。 以军说，此次打击目标是黎南部艾因·提纳地区真主党拉德万部队一处训练营地内的数十枚火箭弹及发射装置。真主党武装人员计划使用这些火箭弹袭击以色列，以军通过空中打击“消除威胁”。 以军还说，将继续采取行动“消除威胁”，同时将“继续恪守停火协议”。（新华社）",
+  "summary": "以色列国防军打击黎巴嫩南部真主党火箭弹及发射装置。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 50.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "9c6476616c2d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5479389002186586341,
+  "reason": "tier=55 ent=1['真主党'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "e258e0759e0b62f6",
+  "ts": "2026-11-27T08:51:52+08:00",
+  "title": "日本央行理事神山：人工智能的日益普及给数字货币和跨境证券交易带来新的网络安全风险",
+  "title_zh": "",
+  "body": "日本央行理事神山：人工智能的日益普及给数字货币和跨境证券交易带来新的网络安全风险。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1099571.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 58.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "cf6d41a4b33d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 6162158208597183714,
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "bbb58a5603df4ac4",
   "ts": "2026-11-27T08:50:30+08:00",
   "title": "银河证券：2027农业行业投资机会可围绕生猪养殖、宠物食品、厄尔尼诺展开",
@@ -613,16 +662,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 58.2,
+  "score": 60.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "5f1640c52da5",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2235668100463001460,
-  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "c2497729aa7aaede",
@@ -3126,16 +3176,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 58.2,
+  "score": 60.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "587fb1e8583a",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 13539817081166910798,
-  "reason": "tier=55 ent=2['普京', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=2['普京', '特朗普'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "f296e4658aae13e9",
