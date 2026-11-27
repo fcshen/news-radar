@@ -576,6 +576,129 @@
   "engine": "primary"
  },
  {
+  "id": "af16689a1f0d7916",
+  "ts": "2026-11-27T10:13:20+08:00",
+  "title": "赛微电子在武汉成立赛芯智算科技公司",
+  "title_zh": "赛微电子在武汉成立赛芯智算科技公司",
+  "body": "企查查APP显示，近日，武汉赛芯智算科技有限公司成立，经营范围包含计算机系统服务；集成电路芯片及产品销售；电子元器件零售；仪器仪表销售等。企查查股权穿透显示，该公司由赛微电子全资持股。",
+  "summary": "赛微电子在武汉成立全资子公司，专注计算机系统服务及芯片销售。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1059448.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 32.2,
+  "level": "L0",
+  "impact": "赛微电子业务拓展，可能影响相关产业链公司股价。",
+  "cluster_id": "a14ede34100b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7284567112865369351,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "efe074d28083b756",
+  "ts": "2026-11-27T10:13:12+08:00",
+  "title": "能源金属板块异动走高，寒锐钴业涨超10%",
+  "title_zh": "",
+  "body": "能源金属板块异动走高，寒锐钴业涨超10%，腾远钴业、盛新锂能、华友钴业、融捷股份、永兴材料等跟涨。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1059318.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9222c18ef18b",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 16801887911964835896,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=12 op=N spread=0 burst=5"
+ },
+ {
+  "id": "9940e96696c3c117",
+  "ts": "2026-11-27T10:13:00+08:00",
+  "title": "韩国法院就总统官邸搬迁案判处前总统尹锡悦的一名助手缓刑",
+  "title_zh": "",
+  "body": "韩国法院就总统官邸搬迁案判处前总统尹锡悦的一名助手缓刑。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7835502.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "abfea703fadb",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4583546365739667466,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "941f75bb55f2cd9c",
+  "ts": "2026-11-27T10:12:52+08:00",
+  "title": "乌克兰总统泽连斯基表示，若特朗普无法在年底前促成基辅可以接受的和平协议，他将向明年由民主党掌控的美国国会寻求更多军事援助",
+  "title_zh": "",
+  "body": "及更严厉的对俄制裁。",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236255",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 50.4,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "38392da48cac",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11114305873684137339,
+  "reason": "tier=55 ent=4['美国国会', '乌克兰'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=5"
+ },
+ {
+  "id": "57e80fb1ab68c452",
+  "ts": "2026-11-27T10:12:30+08:00",
+  "title": "英诺激光：前期研发投入对利润的影响已显著化解",
+  "title_zh": "英诺激光：前期研发投入对利润的影响已显著化解",
+  "body": "英诺激光(301021)11月26日在业绩说明会上表示，现公司已连续13个季度实现营收同比增长，前期研发投入对利润的影响已显著化解，净利润率近年来同步回升，现金流、负债率等指标表现优秀，超快激光钻孔设备等重点项目顺利推进。",
+  "summary": "英诺激光连续13个季度营收同比增长，研发投入影响化解，净利润率回升。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7834916.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 26.2,
+  "level": "L0",
+  "impact": "英诺激光股价可能受积极业绩影响而上涨。",
+  "cluster_id": "f2d7de402856",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 9346663607132778783,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "42e1a299c96b7bea",
   "ts": "2026-11-27T10:11:39+08:00",
   "title": "印尼证券交易所：5家公司因未能澄清或更正控股股东数据相关差异而受到处罚",
@@ -588,16 +711,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 44.2,
+  "score": 46.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "599e39bb3246",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 11144086577590199270,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=8 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "1fad300483fb0715",
@@ -637,16 +761,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 32.2,
+  "score": 34.2,
   "level": "L0",
   "impact": "储能板块可能受益于需求预期改善。",
   "cluster_id": "907b2c5e6727",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 12601752279948774541,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=8 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
@@ -892,6 +1017,31 @@
   "pushed": false,
   "sh": 12551063443819853285,
   "reason": "tier=55 ent=1['中芯国际'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=8 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "ec1c0c5879c97923",
+  "ts": "2026-11-27T10:07:48+08:00",
+  "title": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
+  "title_zh": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
+  "body": "中新网大庆11月27日电 (记者 田德雨)11月26日，由黑龙江省委宣传部组织的“给力！新引擎”数字经济篇主题采访活动走进大庆。作为典型资源型城市，大庆六十余年油气开发积累了丰厚的数据资源。当地抢抓数字经济机遇，以数字产业化、产业数字化双轮驱动，大庆市入选国家级数据产业集聚区建设试点、智慧能源领域国家数据标注先行先试城市，走出资源型城市实数融合转型之路。",
+  "summary": "大庆市利用油气开发积累的数据资源，推动数字化转型，成为国家级数据产业集聚区建设试点。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738574.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "大庆相关数据产业公司可能受益",
+  "cluster_id": "be9360d8a4e2",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 18075262637381180828,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
