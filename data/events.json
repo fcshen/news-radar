@@ -600,6 +600,31 @@
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
  },
  {
+  "id": "56cce7656f253bd6",
+  "ts": "2026-11-27T10:25:52+08:00",
+  "title": "前三季度京津冀实现地区生产总值9.2万亿元 同比增长4.8%",
+  "title_zh": "前三季度京津冀实现地区生产总值9.2万亿元 同比增长4.8%",
+  "body": "金十数据11月27日讯，据北京市统计局消息，前三季度，京津冀实现地区生产总值9.2万亿元，按不变价格计算，同比增长4.8%。北京、天津、河北分别为40468.4亿元、14101.4亿元和37368.5亿元，分别增长5.2%、4.8%和4.5%。",
+  "summary": "京津冀前三季度GDP达9.2万亿，同比增长4.8%，北京、天津、河北分别增长5.2%、4.8%和4.5%。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "区域经济数据或影响相关行业及企业业绩预期。",
+  "cluster_id": "77318fdfc3aa",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 11669931291335850021,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "13d288dece7f9b15",
   "ts": "2026-11-27T10:25:09+08:00",
   "title": "网传新版九年级教材有多处错误？全国教育辟谣平台：均为盗版",
@@ -1464,7 +1489,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11114305873684137339,
   "reason": "tier=55 ent=4['美国国会', '乌克兰'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=Y spread=0 burst=5"
  },
@@ -1614,7 +1639,7 @@
   "sources": [
    "Nikkei Asia"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4658167136194190357,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -1810,7 +1835,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 12551063443819853285,
   "reason": "tier=55 ent=1['中芯国际'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=8 op=N spread=0 burst=5",
   "engine": "primary"
@@ -2104,7 +2129,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 2067824736033602167,
   "reason": "tier=55 ent=2['LME', 'lme'] pred=0 conv=0 combo=8 rel=20 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -2177,7 +2202,7 @@
   "sources": [
    "SCMP"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10066679177278975044,
   "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -2324,7 +2349,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 4229867458411333265,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=15 sev=8 pct=0 op=N spread=0 burst=5"
  },
@@ -2523,7 +2548,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1078284175040734079,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=31 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -2720,7 +2745,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14891766301816659286,
   "reason": "tier=55 ent=1['乌克兰'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -2795,7 +2820,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14990351733181674889,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=40 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3092,7 +3117,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 5349234814350842007,
   "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -3215,7 +3240,7 @@
    "新浪财经7×24",
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 7062808703903581137,
   "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=2 burst=5"
  },
@@ -3314,7 +3339,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 1338403076498841943,
   "reason": "tier=55 ent=1['伊朗'] pred=0 conv=0 combo=6 rel=21 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3339,7 +3364,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 11257901515310205453,
   "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=23 sev=8 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3389,7 +3414,7 @@
   "sources": [
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 10662875170484874301,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3785,7 +3810,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 6209734714613335443,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=30 sev=0 pct=0 op=N spread=0 burst=5"
  },
@@ -3908,7 +3933,7 @@
   "sources": [
    "金十数据"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16633313954925450954,
   "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=30 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
@@ -3958,7 +3983,7 @@
    "金十数据",
    "行情异动"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 16787388911907770032,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=16 sev=0 pct=12 op=N spread=2 burst=5"
  },
@@ -4009,7 +4034,7 @@
    "新浪财经7×24",
    "中新网财经"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14848185925123147712,
   "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=4 burst=5",
   "engine": "primary"
@@ -4133,7 +4158,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14292581068602222020,
   "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
@@ -4183,7 +4208,7 @@
    "金十数据",
    "新浪财经7×24"
   ],
-  "pushed": false,
+  "pushed": true,
   "sh": 14806262072750420643,
   "reason": "tier=55 ent=1['统计局'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=12 op=N spread=2 burst=5",
   "engine": "primary"
