@@ -576,6 +576,128 @@
   "engine": "primary"
  },
  {
+  "id": "f44ad2f312f2ea25",
+  "ts": "2026-11-27T10:09:44+08:00",
+  "title": "三星电子半导体部门设机器人团队，拟2028年开始实际部署",
+  "title_zh": "三星电子半导体部门设机器人团队，拟2028年开始实际部署",
+  "body": "据报道，三星电子半导体板块——DS（设备解决方案）部已在其全球制造与基础设施总部下设立“机器人团队”，推进机器人技术在半导体工厂中的实际应用。业内人士透露，目前半导体工厂的前端自动化程度已达90%、后端也已达到80%，但仍需要人来负责零件耗材更换、设备维护等部分工序。报道指出，三星电子计划年内遴选合作伙伴，明年进行技术评估，2028年开始实际部署。",
+  "summary": "三星电子半导体部门成立机器人团队，计划2028年部署。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhp3241199.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 44.2,
+  "level": "L0",
+  "impact": "半导体设备供应商或受影响",
+  "cluster_id": "4d7d17c14046",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 447344847742800431,
+  "reason": "tier=55 ent=1['三星'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "cda3d62f3b31deaf",
+  "ts": "2026-11-27T10:09:27+08:00",
+  "title": "现货钯金 上涨 3%，至每盎司 899.26 美元",
+  "title_zh": "",
+  "body": "现货钯金 上涨 3%，至每盎司 899.26 美元。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhk7831649.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "459494ddf70e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7859723940307167,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "2f6461814a85f35d",
+  "ts": "2026-11-27T10:08:23+08:00",
+  "title": "菲律宾证券交易所的企业信息披露网站在周五宕机约半小时后已恢复上线，交易未受影响",
+  "title_zh": "",
+  "body": "菲律宾证券交易所的企业信息披露网站在周五宕机约半小时后已恢复上线，交易未受影响。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "027b6b82d1b0",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3931572690206762546,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "5ea6f837ffe58e5f",
+  "ts": "2026-11-27T10:08:14+08:00",
+  "title": "现货铂金涨近3%，至1327.36美元/盎司",
+  "title_zh": "",
+  "body": "现货铂金涨近3%，至1327.36美元/盎司。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 28.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "6a3aadd2b0a1",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 355660629834653932,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=4 op=N spread=0 burst=5"
+ },
+ {
+  "id": "52c5bc80514b09b6",
+  "ts": "2026-11-27T10:08:03+08:00",
+  "title": "港股芯片股走强，中芯国际(00981.HK)涨超5%，壁仞科技(06082.HK)、华虹宏力(01347.HK)、天数智",
+  "title_zh": "港股芯片股走强，中芯国际(00981.HK)涨超5%，壁仞科技(06082.HK)、华虹宏力(01347.HK)、天数智芯(09903.HK)、英诺赛科(02577.HK)等跟涨；TrendForce报告：存储芯片市场前景分化",
+  "body": "芯(09903.HK)、英诺赛科(02577.HK)等个股跟涨。TrendForce最新报告指出，存储芯片DRAM和NAND市场前景将明显分化，DRAM预计持续供不应求，但NAND闪存价格预计最早将于明年第一季度开始下跌。",
+  "summary": "中芯国际等港股芯片股上涨，TrendForce报告预测存储芯片市场前景分化",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 52.2,
+  "level": "L1",
+  "impact": "关注相关芯片股表现，可能影响相关ETF和期货价格",
+  "cluster_id": "526375709613",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12551063443819853285,
+  "reason": "tier=55 ent=1['中芯国际'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=8 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "8d9d806970c154c2",
   "ts": "2026-11-27T10:07:25+08:00",
   "title": "通信设备板块活跃 楚天龙涨停",
@@ -1151,16 +1273,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "通信设备、互联网相关板块可能受影响",
   "cluster_id": "5307fd8f7252",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 4963925754781379338,
-  "reason": "tier=55 ent=1['工信部'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=1['工信部'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
@@ -7742,16 +7865,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 71.2,
+  "score": 73.2,
   "level": "L2",
   "impact": "日元走强，可能影响出口型ETF表现。",
   "cluster_id": "3d153a874730",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 7903321488190958522,
-  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=0 burst=4",
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=40 sev=0 pct=0 op=N spread=2 burst=4",
   "engine": "primary",
   "tries": 1
  },
