@@ -576,6 +576,81 @@
   "engine": "primary"
  },
  {
+  "id": "19e25e739d74fb55",
+  "ts": "2026-11-27T11:00:49+08:00",
+  "title": "港股卓越睿新(02687.HK)盘中一度涨超90%，现涨幅收窄至72%",
+  "title_zh": "港股卓越睿新(02687.HK)盘中一度涨超90%，现涨幅收窄至72%",
+  "body": "公司旗下智慧树AI教学中心的超级智能体——大明白V5，现已上线WorkBuddy应用中心，大明白V5近期首次亮相2026腾讯全球数字生态大会。",
+  "summary": "卓越睿新旗下AI教学中心超级智能体大明白V5上线WorkBuddy应用中心，亮相腾讯全球数字生态大会。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "AI教育概念股可能受关注",
+  "cluster_id": "df6e0782e38a",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12549403631502522678,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "481b9680be9ed038",
+  "ts": "2026-11-27T10:59:43+08:00",
+  "title": "尽管地缘风险溢价回升，但市场对远期过剩的预期不断强化",
+  "title_zh": "",
+  "body": "欧佩克内部矛盾正削弱其产量调控效果，机构预计其重大配额调整可能推迟至明年。",
+  "summary": "",
+  "url": "https://xnews.jin10.com/details/236262",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 39.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "bfa0bf55f784",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 906470027763953725,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "379b12bbdc921d71",
+  "ts": "2026-11-27T10:59:14+08:00",
+  "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
+  "title_zh": "台湾核能公投：半导体和AI需求推高电力需求",
+  "body": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power referendum into the spotlight in Saturday’s local elections. The vote could also offer Taiwanese leader William Lai Ching-te a way out of a political dilemma as his administration explored the possibility of reviving nuclear power despite decades of opposition from his ruling Democratic Progressive Party, analysts said. Taiwan became nuclear-free in May last year when its final...",
+  "summary": "台湾半导体和AI产业电力需求增长，核能公投成为焦点，台领导人面临政治困境。",
+  "url": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 71.0,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "c1dec7d8d1f6",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": true,
+  "sh": 4125754845890565363,
+  "reason": "tier=80 ent=1['taiwan'] pred=0 conv=0 combo=6 rel=32 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "2eb9807aa06c2d2d",
   "ts": "2026-11-27T10:58:31+08:00",
   "title": "义乌海关出台促进跨境贸易便利化16条举措",
@@ -588,16 +663,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "可能提升义乌相关物流股表现",
   "cluster_id": "ecc96322555b",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 16611430576283109397,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
