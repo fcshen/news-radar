@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "d0fbdbc1f0b64dc7",
+  "ts": "2026-11-27T08:56:45+08:00",
+  "title": "日本央行执行理事神山：代币化的好处不仅取决于技术，还取决于制度安排、明确的法律框架和公私合作",
+  "title_zh": "日本央行执行理事神山：代币化的好处不仅取决于技术，还取决于制度安排、明确的法律框架和公私合作",
+  "body": "日本央行执行理事神山：代币化的好处不仅取决于技术，还取决于制度安排、明确的法律框架和公私合作。",
+  "summary": "日本央行执行理事强调代币化益处需考虑制度、法律和合作。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqym1104071.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 58.2,
+  "level": "L1",
+  "impact": "可能影响数字货币相关ETF和期货产品政策制定。",
+  "cluster_id": "72a4cc3be8db",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10123250605104969894,
+  "reason": "tier=55 ent=2['央行', '日本央行'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "dcc0f4166994b747",
   "ts": "2026-11-27T08:54:17+08:00",
   "title": "阿维塔科技宣布，阿维塔06T Max先锋版正式上新，官方售价21.99万元，限时权益后19.99万元",
