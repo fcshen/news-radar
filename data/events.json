@@ -576,6 +576,33 @@
   "engine": "primary"
  },
  {
+  "id": "3dd8f4704e361c71",
+  "ts": "2026-11-27T11:08:56+08:00",
+  "title": "澳大利亚外交部长黄英贤：澳大利亚今日对两名代表伊朗伊斯兰革命卫队在澳大利亚实施反犹太袭击的个人实施反恐融资制裁",
+  "title_zh": "澳大利亚外交部长黄英贤：澳大利亚今日对两名代表伊朗伊斯兰革命卫队在澳大利亚实施反犹太袭击的个人实施反恐融资制裁",
+  "body": "澳大利亚外交部长黄英贤：澳大利亚今日对两名代表伊朗伊斯兰革命卫队在澳大利亚实施反犹太袭击的个人实施反恐融资制裁。",
+  "summary": "澳大利亚对两名涉嫌反犹太袭击的个人实施反恐融资制裁。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacvhi1115505.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 88.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "31bdff994053",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": true,
+  "sh": 11125738850240424249,
+  "reason": "tier=55 ent=1['伊朗'] pred=1 conv=0 combo=26 rel=21 sev=15 pct=0 op=N spread=2 burst=5",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "b803266754b1903e",
   "ts": "2026-11-27T11:08:51+08:00",
   "title": "蔚来旗下firefly萤火虫宣布，萤火虫车型累计交付达到10万台",
