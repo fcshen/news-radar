@@ -576,6 +576,56 @@
   "engine": "primary"
  },
  {
+  "id": "53a1f649d2295eb7",
+  "ts": "2026-11-27T10:44:01+08:00",
+  "title": "山下有松创始人晒与LVMH老板合照，回应“收购传闻”：行业同行朋友交流",
+  "title_zh": "山下有松创始人晒与LVMH老板合照，回应“收购传闻”：行业同行朋友交流",
+  "body": "山下有松创始人付崧在社交媒体发布与奢侈品路威酩轩集团（LVMH）董事长兼首席执行官阿尔诺的合照，并配文“一次愉快的聊天”，同时写道：“与阿尔诺先生和Antoine聊品牌和生活。”两人的这次会面也引发了网友热议，评论区不少网友称“是不是阿诺看上了山下有松，想来谈收购？”对此付崧回复道：“行业同行朋友交流”。",
+  "summary": "山下有松创始人付崧发布与LVMH董事长阿尔诺合照，称是行业同行交流。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "可能引发市场对山下有松收购传闻的关注。",
+  "cluster_id": "aa09289b102c",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 13462489230793692591,
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "6156bba9b64b602a",
+  "ts": "2026-11-27T10:43:05+08:00",
+  "title": "澳新银行：受强劲AI支出预期支撑，铜价上涨",
+  "title_zh": "澳新银行：受强劲AI支出预期支撑，铜价上涨",
+  "body": "金十数据11月27日讯，澳新银行（ANZ）研究分析师在一份评论中表示，市场对人工智能（AI）领域近期支出保持强劲的预期，为铜价提供支撑。铜是数据中心建设的关键金属。分析师表示，未来几个季度，数据中心及其他AI相关基础设施的投资可能继续保持强劲。他们指出，韩国央行在上调2027年GDP增长预测后，维持了政策利率调整立场，其中一个原因是AI热潮带来的强劲增长动力。",
+  "summary": "澳新银行预期AI支出强劲，铜价受支撑，数据中心投资可能持续增长。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 47.2,
+  "level": "L0",
+  "impact": "AI相关行业可能受益，关注铜相关股票及期货表现。",
+  "cluster_id": "acd929927bc0",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 5794379701832794544,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "02452bc5aacada6c",
   "ts": "2026-11-27T10:41:58+08:00",
   "title": "日本参议院27日上午未通过针对文部科学大臣关芳弘的问责决议案",
@@ -612,16 +662,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "f53ce61ea4a3",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 18306123658117532106,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "443f816447426f48",
@@ -1376,16 +1427,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "79c75927f1f1",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 328064875066868189,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
@@ -1401,16 +1453,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 24.2,
+  "score": 26.2,
   "level": "L0",
   "impact": "可能推动相关企业技术升级，影响相关产业链。",
   "cluster_id": "58fa078103b1",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "中新网财经"
   ],
   "pushed": false,
   "sh": 15224933783550748784,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
