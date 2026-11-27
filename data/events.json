@@ -1,5 +1,155 @@
 [
  {
+  "id": "6f40c27c0aa99a1e",
+  "ts": "2026-11-27T16:10:02+08:00",
+  "title": "慈文传媒与易智时代合作签约",
+  "title_zh": "慈文传媒与易智时代合作签约",
+  "body": "据慈文传媒消息，11月26日，在2026北京国际视听大会・视听产业投资人大会现场，慈文传媒股份有限公司与北京易智时代数字科技有限公司合作签约。双方将联合打造“慈文TV”一站式AI影视创作与数字资产平台，推动AI影视技术与内容创作深度融合。",
+  "summary": "慈文传媒与易智时代签约，联合打造AI影视创作平台。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkaefwk5588415.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "AI影视技术合作可能影响相关产业链公司股价。",
+  "cluster_id": "275af350ed87",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11412702242048844872,
+  "reason": "与市场无关",
+  "engine": "primary"
+ },
+ {
+  "id": "2a8fb3fe1625a137",
+  "ts": "2026-11-27T16:09:24+08:00",
+  "title": "商务部发放对位芳纶长丝反倾销案调查问卷的通知",
+  "title_zh": "",
+  "body": "商务部发放对位芳纶长丝反倾销案调查问卷的通知。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkaefwk5587794.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 72.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "b357bf9ddf02",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": true,
+  "sh": 6060328712920635226,
+  "reason": "tier=55 ent=1['商务部'] pred=2 conv=0 combo=31 rel=6 sev=15 pct=0 op=N spread=0 burst=1",
+  "tries": 1
+ },
+ {
+  "id": "0fc246dbde5e09a2",
+  "ts": "2026-11-27T16:09:03+08:00",
+  "title": "港股收盘：恒生指数涨2.08%，恒生科技指数涨6.54%",
+  "title_zh": "港股收盘：恒生指数涨2.08%，恒生科技指数涨6.54%",
+  "body": "天数智芯涨27.95%，华虹宏力涨21.24%，智谱涨19.59%，MINIMAX-W涨18.47%，中芯国际涨15.85%，地平线机器人-W涨10.56%，商汤-W涨9.55%。",
+  "summary": "恒生指数上涨2.08%，恒生科技指数上涨6.54%，多只科技股涨幅显著。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkaefwe7904116.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 30.2,
+  "level": "L0",
+  "impact": "港股科技股表现或影响相关ETF及A股科技板块情绪。",
+  "cluster_id": "185475d6e200",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 12836455431443271201,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=8 op=N spread=2 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "588be05a05859840",
+  "ts": "2026-11-27T16:08:59+08:00",
+  "title": "东方财富策略陈果：国常会释放强烈稳市信号 A股重要政策底显现",
+  "title_zh": "东方财富策略陈果：国常会释放强烈稳市信号 A股重要政策底显现",
+  "body": "东方财富策略陈果最新观点认为，本次国常会稳市信号非常强烈，朝会午发，直提“国家队+充足流动性”，构成强烈政策底。他表示，这是月内国常会二度聚焦资本市场，周五上午专题研究、中午发稿，体现决策层高度关切。会议系统全面部署，存量增量并举，兼顾逆周期调节与改革、短期与中期。会议要求优化汇金类“平准基金”功能，引导中长期资金入市，稳市将由多方高效协作并提供充足流动性保障。会议还提出防范外围输入性风险，后续股票、债券、衍生品市场有望协同推进改革。陈果认为，市场大概率将本次会议视为重要政策底，资金面负反馈的最悲观时刻已过；后续更取决于基本面，关注美联储加息节奏、AI产业进展及内需政策力度。",
+  "summary": "东方财富策略陈果认为国常会释放强烈稳市信号，A股政策底显现。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkaefwc1127661.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 68.2,
+  "level": "L1",
+  "impact": "市场可能将国常会视为政策底，关注政策对市场流动性和改革推进的影响。",
+  "cluster_id": "c4fee085a486",
+  "sources": [
+   "新浪财经7×24",
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 17264735149998600961,
+  "reason": "tier=55 ent=1['国常会'] pred=0 conv=0 combo=6 rel=40 sev=0 pct=0 op=N spread=2 burst=1",
+  "engine": "primary"
+ },
+ {
+  "id": "f714c045b6b86477",
+  "ts": "2026-11-27T16:08:29+08:00",
+  "title": "福安药业(300194)：福安药业：关于子公司收到药品注册证书的公告",
+  "title_zh": "",
+  "body": "福安药业(300194)：福安药业：关于子公司收到药品注册证书的公告",
+  "summary": "",
+  "url": "https://disc.szse.cn/download/disc/disk03/finalpage/2026-11-27/bc6b2020-b080-4a30-b6f4-75616da9eac4.PDF",
+  "source": "深交所公告",
+  "tier": "exchange",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "szse",
+  "score": 25,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "8618190b8e8f",
+  "sources": [
+   "深交所公告"
+  ],
+  "pushed": false,
+  "sh": 11013039647758842718,
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+ },
+ {
+  "id": "56126c581e1c9f65",
+  "ts": "2026-11-27T16:08:10+08:00",
+  "title": "英国国债全线开盘走低；10年期国债收益率上涨5个基点至5.20%",
+  "title_zh": "",
+  "body": "英国国债全线开盘走低；10年期国债收益率上涨5个基点至5.20%。",
+  "summary": "",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 43.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "1104fdd86389",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17453739171834889068,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=8 op=N spread=0 burst=1"
+ },
+ {
   "id": "52fd9d958db1cb08",
   "ts": "2026-11-27T16:07:55+08:00",
   "title": "广期所：自2026年12月1日交易时起，非期货公司会员或者客户在多晶硅期货PS2612、PS2701、PS2702、PS",
@@ -196,6 +346,31 @@
   "pushed": false,
   "sh": 16540188505037702049,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=12 op=N spread=0 burst=1"
+ },
+ {
+  "id": "446d5d6a21983c67",
+  "ts": "2026-11-27T16:05:09+08:00",
+  "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
+  "title_zh": "私募市场对投资者更易接近，退出却成难题",
+  "body": "Retail access to private markets is growing, but PwC says education lags as redemption limits put liquidity risks in focus.",
+  "summary": "私募市场零售接入增长，但教育不足，赎回限制凸显流动性风险。",
+  "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 29.0,
+  "level": "L0",
+  "impact": "投资者需关注私募市场流动性风险，可能影响资产配置决策。",
+  "cluster_id": "8dea2f06c2ea",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 14956860796356371750,
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1",
+  "engine": "primary"
  },
  {
   "id": "94acb158f9affd0d",
@@ -856,11 +1031,12 @@
   "impact": "",
   "cluster_id": "8eeb39b1b3a0",
   "sources": [
-   "深交所公告"
+   "深交所公告",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 10994968416872086584,
-  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=1"
+  "reason": "tier=96 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=1"
  },
  {
   "id": "ca916159b5302f7c",
