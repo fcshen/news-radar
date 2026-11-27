@@ -576,6 +576,177 @@
   "engine": "primary"
  },
  {
+  "id": "c22fc2d498594d0f",
+  "ts": "2026-11-27T09:04:57+08:00",
+  "title": "小米汽车： 截至目前，小米澎程已交付超过60000台",
+  "title_zh": "",
+  "body": "小米汽车： 截至目前，小米澎程已交付超过60000台。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7889102.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 35.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "2001de10ffaf",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 3135913060968966508,
+  "reason": "tier=55 ent=1['小米'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "67d72188e01e8749",
+  "ts": "2026-11-27T09:04:35+08:00",
+  "title": "柳钢集团等成立智研新型材料科技公司",
+  "title_zh": "柳钢集团等成立智研新型材料科技公司",
+  "body": "企查查APP显示，近日，广西柳钢智研新型材料科技有限公司成立，经营范围包含非金属废料和碎屑加工处理；资源再生利用技术研发；喷涂加工；金属表面处理及热处理加工等。企查查股权穿透显示，该公司由广西柳州钢铁集团有限公司旗下广西柳钢环保股份有限公司等共同持股。",
+  "summary": "广西柳钢集团成立智研新型材料科技公司，涉非金属废料加工、资源再生等。",
+  "url": "https://finance.sina.com.cn/7x24/",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "可能影响相关环保及新材料板块公司股价。",
+  "cluster_id": "12dee47fd70e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 2973800741574305208,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "f71e648c3f3f4fd8",
+  "ts": "2026-11-27T09:04:23+08:00",
+  "title": "Hong Kong couple arrested for allegedly tampering with passport",
+  "title_zh": "香港夫妇涉嫌篡改护照被捕",
+  "body": "Hong Kong’s Immigration Department has arrested a woman and her boyfriend for allegedly altering a travel document unlawfully after she took to social media to complain about a “manufacturing defect” in her passport that caused Japan’s authorities to deny her entry. The couple, who are aged between 27 and 34, were arrested on Thursday night from a public housing estate in Lam Tin on suspicion of unlawful alteration of a travel document and misleading the immigration service. The case came to...",
+  "summary": "香港移民局逮捕一对夫妇，因涉嫌非法篡改旅行证件并误导移民服务。",
+  "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375967/hong-kong-couple-arrested-allegedly-tampering-passport",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "07c47db0cd6c",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 1231182910460250739,
+  "reason": "与市场无关",
+  "engine": "primary"
+ },
+ {
+  "id": "a2d0609ada5da74e",
+  "ts": "2026-11-27T09:04:06+08:00",
+  "title": "新西兰元延续跌势，大选结果显示国会无党派过半",
+  "title_zh": "",
+  "body": "新西兰元延续跌势，大选结果显示国会无党派过半。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5642924.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "e3e689d0fdf3",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 5418026474088068631,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "a4b37fc6e52d996f",
+  "ts": "2026-11-27T09:04:02+08:00",
+  "title": "汇丰重组印度后台支持岗位，数百个职位受影响",
+  "title_zh": "汇丰重组印度后台支持岗位，数百个职位受影响",
+  "body": "汇丰控股正在整合印度部分后台职能，以控制成本、加快人工智能落地。该行将把金奈、古尔冈、班加罗尔等多地的财务职能集中管理，员工预计此次调整将波及数百个岗位。汇丰将为员工提供调岗搬迁选择与配套支持，但不会额外发放搬迁现金补贴。",
+  "summary": "汇丰在印度整合后台职能，数百岗位受影响。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7887856.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 63.2,
+  "level": "L1",
+  "impact": "汇丰成本控制可能影响其业务表现。",
+  "cluster_id": "fcb4faf53a08",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 9759169645049597173,
+  "reason": "tier=55 ent=1['印度'] pred=1 conv=0 combo=26 rel=14 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
+  "id": "eeb7c1958e083ab4",
+  "ts": "2026-11-27T09:03:41+08:00",
+  "title": "新西兰标普/NZX 50指数在投票结果公布后维持0.2%的跌幅",
+  "title_zh": "",
+  "body": "新西兰标普/NZX 50指数在投票结果公布后维持0.2%的跌幅。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7887395.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "99e7e872fcf7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14688348127968411499,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "09e95c05dbf059f8",
+  "ts": "2026-11-27T09:03:20+08:00",
+  "title": "日本政府养老投资基金(GPIF)现在将把每次战略资产配置评估结果都报告给董事会",
+  "title_zh": "",
+  "body": "日本政府养老投资基金(GPIF)现在将把每次战略资产配置评估结果都报告给董事会。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqys5642005.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 23.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "5a4a72fad465",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7317721025731999042,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
   "id": "9c0be4a5c04d387d",
   "ts": "2026-11-27T09:02:45+08:00",
   "title": "睿远基金：拟不低于1亿元申购旗下公募基金",
@@ -588,16 +759,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "公募基金申购可能影响相关基金规模和净值。",
   "cluster_id": "766cfef985d3",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 10340916137035931705,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4",
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4",
   "engine": "primary"
  },
  {
@@ -855,16 +1027,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 17.2,
+  "score": 18.1,
   "level": "L0",
   "impact": "",
   "cluster_id": "e2bcc3a4865f",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 7838322746857500180,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=15 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "76bf5096804b7e8c",
@@ -5111,16 +5284,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 58.2,
+  "score": 60.2,
   "level": "L1",
   "impact": "国际局势影响全球金融市场，需关注相关地缘政治动态。",
   "cluster_id": "ded9c90f9d74",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": true,
   "sh": 1817355577368135160,
-  "reason": "tier=55 ent=3['乌克兰', '普京'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4",
+  "reason": "tier=55 ent=3['乌克兰', '普京'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=2 burst=4",
   "engine": "primary"
  },
  {
