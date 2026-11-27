@@ -576,6 +576,31 @@
   "engine": "primary"
  },
  {
+  "id": "935dbb747a101b0d",
+  "ts": "2026-11-27T09:18:48+08:00",
+  "title": "曹操出行与阿联酋拉斯海马交通管理局达成合作，将开展Robotaxi试点",
+  "title_zh": "曹操出行与阿联酋拉斯海马交通管理局达成合作，将开展Robotaxi试点",
+  "body": "11月27日消息，界面新闻获悉，曹操出行与阿联酋拉斯海马交通管理局（RAKTA）于11月25日签署合作备忘录。双方计划在拉斯海马指定区域开展自动驾驶车辆测试及试点，探索Robotaxi在载人接驳等场景的应用。曹操出行将提供自动驾驶载人车辆及物流车辆，负责车辆运营和维护，并联合阿联酋K2集团旗下出行运营商LUMO推进项目落地。此前，曹操出行已与阿布扎比投资办公室、K2集团达成合作，推进Robotaxi在阿联酋的部署及运营，并与自动驾驶技术公司May Mobility达成战略合作，探索在欧洲等市场开展Robotaxi试点。",
+  "summary": "曹操出行与阿联酋拉斯海马交通管理局签署合作备忘录，开展Robotaxi试点。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3324857.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "自动驾驶概念股可能受关注。",
+  "cluster_id": "3b3cdb9c6a25",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 7641920901105229282,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "6f404f272d9e3c4f",
   "ts": "2026-11-27T09:16:18+08:00",
   "title": "纽元兑美元NZD/USD小幅上涨0.2%至0.5480，新西兰执政联盟和反对阵营均未赢得议会多数",
@@ -663,16 +688,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 44.2,
+  "score": 46.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "d880817d6b00",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 3432029931675064931,
-  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['人民银行'] pred=0 conv=0 combo=6 rel=14 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "27e082a0fa3e05a0",
@@ -751,6 +777,32 @@
   "tries": 1
  },
  {
+  "id": "04d08f37d7a1ad21",
+  "ts": "2026-11-27T09:11:45+08:00",
+  "title": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+  "title_zh": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+  "body": "股票回购增持再贷款，是中国人民银行联合金融监管总局、中国证监会推出的支持资本市场的货币政策工具。本月初，这一政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%进一步降至1%，支持对象覆盖21家全国性银行和5家系统重要性城商行。",
+  "summary": "中国人民银行等机构推出回购增持再贷款，支持对象扩大，利率下调。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738514.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 77.2,
+  "level": "L2",
+  "impact": "可能增加市场流动性，影响相关金融产品估值。",
+  "cluster_id": "728d62de921e",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": true,
+  "sh": 17323370810832410156,
+  "reason": "tier=55 ent=0[] pred=2 conv=0 combo=16 rel=38 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary",
+  "tries": 1
+ },
+ {
   "id": "041a9840e1607e85",
   "ts": "2026-11-27T09:11:04+08:00",
   "title": "纽约期金突破3600美元/盎司，日内涨0.97%",
@@ -787,16 +839,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 23.2,
+  "score": 25.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "452cd3b88d21",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 5458370053056194680,
-  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=4"
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=2 burst=4"
  },
  {
   "id": "8dc286b4ab748769",
