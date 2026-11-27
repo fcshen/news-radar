@@ -576,6 +576,79 @@
   "engine": "primary"
  },
  {
+  "id": "9a6d13a5a58b34c9",
+  "ts": "2026-11-27T08:05:05+08:00",
+  "title": "美国总统特朗普：如果普京仍然是八国集团（G8）成员，现在可能就不会爆发乌克兰冲突了",
+  "title_zh": "",
+  "body": "美国总统特朗普：如果普京仍然是八国集团（G8）成员，现在可能就不会爆发乌克兰冲突了。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 58.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "1a13ebb6499f",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 14582126362752359690,
+  "reason": "tier=55 ent=3['乌克兰', '普京'] pred=0 conv=0 combo=8 rel=27 sev=0 pct=0 op=N spread=0 burst=4"
+ },
+ {
+  "id": "ca45812d5ed24461",
+  "ts": "2026-11-27T08:04:32+08:00",
+  "title": "日本上市的巴西ETF开盘上涨4.8%，受新任财政部长消息提振",
+  "title_zh": "",
+  "body": "日本上市的巴西ETF开盘上涨4.8%，受新任财政部长消息提振。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyn7831674.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 62.2,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "707b251b6374",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 14856955452119066649,
+  "reason": "tier=55 ent=1['财政部'] pred=0 conv=0 combo=6 rel=29 sev=0 pct=4 op=N spread=0 burst=4"
+ },
+ {
+  "id": "abcfbc8bdeda1a73",
+  "ts": "2026-11-27T08:04:18+08:00",
+  "title": "国投期货：金价跌破3000美元或者是更低都是有可能的",
+  "title_zh": "国投期货：金价跌破3000美元或更低",
+  "body": "国投期货高级分析师吴江分析，黄金的下跌是一个贯穿全年的变化。由于美联储的货币政策选择仍延续着偏鹰派，目前贵金属可能还看不到所谓的“底”。“后续（黄金）的价格空间可能会看得比较低一些，哪怕3000美元或者是更低都是有可能的，国内黄金价格年内可能会看到“6字头”。他提醒，投资者如果做多黄金不要加太大的杠杆。（中新经纬）",
+  "summary": "国投期货分析师吴江认为，受美联储偏鹰派货币政策影响，贵金属价格可能继续下跌，黄金价格可能跌破3000美元。",
+  "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacqyr3266859.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 46.2,
+  "level": "L0",
+  "impact": "贵金属价格波动可能影响相关ETF和期货产品表现",
+  "cluster_id": "3bb54dc80f0e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 4713250331255672541,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=23 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary"
+ },
+ {
   "id": "d069f78fd4a033c1",
   "ts": "2026-11-27T08:03:48+08:00",
   "title": "中国生物制药：贝普若韦生钠注射液在中国获批上市",
@@ -874,6 +947,32 @@
   "sh": 12466383288174478581,
   "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=20 sev=0 pct=0 op=N spread=0 burst=4",
   "engine": "primary"
+ },
+ {
+  "id": "715c883cbb6ba8de",
+  "ts": "2026-11-27T08:00:00+08:00",
+  "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+  "title_zh": "伊朗外长：科威特袭击事件可疑似为战争预谋",
+  "body": "Iran s FM Abbas Araghchi says the deadly Kuwait incident is suspicious and looks like a pre-cooked recipe for war.",
+  "summary": "伊朗外长阿拉格奇称科威特袭击事件可疑，似为战争预谋。",
+  "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+  "source": "Al Jazeera",
+  "tier": "media",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 71.2,
+  "level": "L2",
+  "impact": "",
+  "cluster_id": "dffaa9acd60f",
+  "sources": [
+   "Al Jazeera"
+  ],
+  "pushed": true,
+  "sh": 17405269429609921032,
+  "reason": "tier=55 ent=1['iran'] pred=1 conv=0 combo=26 rel=22 sev=0 pct=0 op=N spread=0 burst=4",
+  "engine": "primary",
+  "tries": 1
  },
  {
   "id": "68d7120ab7436f12",
