@@ -7,14 +7,25 @@
 """
 import datetime
 import json
+import os
 import sys
 from pathlib import Path
 
+def _env_int(name, default):
+    """空值走默认，写 0 就是 0 —— 验证告警链路时要把阈值压到 0。"""
+    raw = (os.environ.get(name) or "").strip()
+    try:
+        return int(raw)
+    except ValueError:
+        return default
+
+
 # 35 分钟：正常情况下数据每 2 分钟一次提交，超过这个数基本可以断定停了。
 # 留这么宽的余量是防 Actions 排队：偶尔一次构建慢十几分钟属正常。
-STALE_MIN = 35
+# 可用环境变量 STALE_MIN / ALERT_MIN 临时覆盖，用来验证告警链路本身。
+STALE_MIN = _env_int("STALE_MIN", 35)
 # 90 分钟：到这一步说明自动重启没救回来，必须让人知道。
-ALERT_MIN = 90
+ALERT_MIN = _env_int("ALERT_MIN", 90)
 
 
 def main() -> int:

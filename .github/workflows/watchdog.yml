@@ -14,6 +14,17 @@ on:
   schedule:
     - cron: "*/20 * * * *"
   workflow_dispatch:
+    inputs:
+      stale_min:
+        description: "临时阈值（分钟），留空用默认 35。设为 0 可验证告警链路"
+        required: false
+        default: ""
+  # 改了守护逻辑本身时立刻跑一次，不用等下一个 20 分钟
+  push:
+    paths:
+      - ".github/workflows/watchdog.yml"
+      - "tools/healthcheck.py"
+      - "tools/alert.py"
 
 permissions:
   contents: read
@@ -32,6 +43,8 @@ jobs:
 
       - name: 判断数据是否停摆
         id: chk
+        env:
+          STALE_MIN: "0"   # TEST: 临时压到 0，验证 dispatch 链路，验完改回
         run: python tools/healthcheck.py >> "$GITHUB_OUTPUT"
 
       - name: 判定结果
