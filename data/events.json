@@ -1,5 +1,29 @@
 [
  {
+  "id": "3bf3278ebe3e1491",
+  "ts": "2026-11-28T21:35:36+08:00",
+  "title": "伊拉克官员：国家安全顾问访问德黑兰期间，将就安全协议及边境安全问题进行讨论",
+  "title_zh": "",
+  "body": "伊拉克官员：国家安全顾问访问德黑兰期间，将就安全协议及边境安全问题进行讨论。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzta4773632.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "399a75f281f5",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 15889050764646664431,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "c9e07c56c392ee6a",
   "ts": "2026-11-28T21:34:57+08:00",
   "title": "长安汽车展出自研金钟罩固态电池及搭载该电池的智能机器人",
@@ -934,16 +958,17 @@
   "region": "intl",
   "lang": "en",
   "channel": "rss",
-  "score": 34.0,
+  "score": 36.0,
   "level": "L0",
   "impact": "",
   "cluster_id": "17a067d56951",
   "sources": [
-   "中东观察AlMonitor"
+   "中东观察AlMonitor",
+   "Al Jazeera"
   ],
   "pushed": false,
   "sh": 119110125867182347,
-  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=0 burst=1",
+  "reason": "tier=80 ent=0[] pred=0 conv=0 combo=0 rel=5 sev=0 pct=0 op=N spread=2 burst=1",
   "engine": "primary"
  },
  {
