@@ -1,5 +1,30 @@
 [
  {
+  "id": "6e6ed046decf0e23",
+  "ts": "2026-11-28T21:36:52+08:00",
+  "title": "伊拉克官员：伊拉克军队的第8和第11师正在扩大在基尔库克大片地区的部署",
+  "title_zh": "伊拉克官员：伊拉克军队第8和第11师扩大基尔库克部署",
+  "body": "此次军事部署增援涵盖了基尔库克与苏莱曼尼亚、尼尼微及萨拉赫丁省之间的边界地带。基尔库克加强军事部署旨在防止利用非官方路线进行走私活动。",
+  "summary": "伊拉克军队第8和第11师在基尔库克地区扩大部署，旨在防止走私活动。",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzsw7207945.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "可能影响地区安全与石油供应",
+  "cluster_id": "d5e61dfc2f8e",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 17285111416974124566,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "3bf3278ebe3e1491",
   "ts": "2026-11-28T21:35:36+08:00",
   "title": "伊拉克官员：国家安全顾问访问德黑兰期间，将就安全协议及边境安全问题进行讨论",
