@@ -1,5 +1,29 @@
 [
  {
+  "id": "2c86b40c61618288",
+  "ts": "2026-11-28T22:06:00+08:00",
+  "title": "英国海事贸易行动办公室：在也门附近登上货船的身份不明武装人员已离开船只，船员安全",
+  "title_zh": "",
+  "body": "英国海事贸易行动办公室：在也门附近登上货船的身份不明武装人员已离开船只，船员安全。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzta9236306.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "663a49aff657",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12922836855772408931,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "c3646d3034bbbc85",
   "ts": "2026-11-28T22:01:38+08:00",
   "title": "潮州三期工程5号机组投产",
@@ -62,16 +86,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "jin10",
-  "score": 36.2,
+  "score": 38.2,
   "level": "L0",
   "impact": "",
   "cluster_id": "71ce9d11942b",
   "sources": [
-   "金十数据"
+   "金十数据",
+   "新浪财经7×24"
   ],
   "pushed": false,
   "sh": 9677956105732451400,
-  "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "524ad213e38f1003",
