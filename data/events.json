@@ -1,5 +1,30 @@
 [
  {
+  "id": "dc4f08dc00c5c2a3",
+  "ts": "2026-11-28T22:17:08+08:00",
+  "title": "福州海丝文旅合作再拓新圈",
+  "title_zh": "福州海丝文旅合作再拓新圈",
+  "body": "中新社福州11月28日电 (记者 闫旭)2026年海上丝绸之路国际文化旅游节28日在福州开幕，来自45个国家和地区的国际机构代表、驻华使领馆官员、国际友城代表、旅行商、艺术团体等约520名嘉宾齐聚福州。",
+  "summary": "2026年海上丝绸之路国际文化旅游节在福州开幕，约520名国际嘉宾出席。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739454.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "cf6962ebb85d",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 13858961429145801652,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "7eb49b57488ff560",
   "ts": "2026-11-28T22:11:17+08:00",
   "title": "沙特主导的多国联军发言人图尔基·马利基：将对针对平民及民用设施的袭击企图予以回应",
