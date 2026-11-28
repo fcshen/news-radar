@@ -143,9 +143,13 @@ X-GitHub-Api-Version: 2022-11-28</div>
 
 <div class="card">
   <h2><span class="num">3</span>先去 cron-job.org 建作业</h2>
+  <div class="warn">
+    <b>别用主站的 /signup 地址</b>：cron-job.org 已把控制台迁到子域名，主站上那些路径全是 404。
+    只能从 <b>console.cron-job.org</b> 进。
+  </div>
   <ol>
-    <li>打开 <a href="https://cron-job.org/en/signup/" target="_blank" rel="noopener">cron-job.org 注册</a>（邮箱 + 密码，需点验证邮件；不要信用卡）</li>
-    <li>登录后 <b>Create cronjob</b></li>
+    <li>打开 <a href="https://console.cron-job.org/signup" target="_blank" rel="noopener">console.cron-job.org/signup</a> 注册（邮箱 + 密码，需点验证邮件；不要信用卡）</li>
+    <li>登录后（<a href="https://console.cron-job.org/login" target="_blank" rel="noopener">登录页</a>）点 <b>Create cronjob</b>，新版也可能写作右上角 <b>+ New cronjob</b></li>
     <li><b>Title</b>：金融雷达叫工</li>
     <li><b>URL</b>：粘上面那条</li>
     <li><b>Schedule</b>：选 <b>Every 5 minutes</b>（或自定义 <code>*/5 * * * *</code>）</li>
