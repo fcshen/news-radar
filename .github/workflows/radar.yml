@@ -12,18 +12,18 @@ on:
     # 现在改成高频短跑：某一次被跳过或迟到，15 分钟后还有下一次，最多空几分钟。
     # 每次启动都会回溯补抓，所以断档期的事件不会丢。
     - cron: "*/10 * * * *"
-  # 外部定时器（cron-job.org）每 5 分钟调一次，这条 cron 只是它失效时的兜底。
+  # 主力的"叫工"来自工作流自己：每次开局就派发下一次（见下方「续链」步骤）。
+  # 这条 cron 只是续链失效时的兜底。
   #
-  # 为什么必须靠外部：GitHub 自己的 schedule 不可靠（见上），而"用 token 触发
-  # 另一个 workflow"这条路，用 GITHUB_TOKEN 是无效的——文档写明用它创建的事件
-  # 不会触发新运行（防递归），API 照样回 204 却什么都不发生。所以外部定时器
-  # 必须带一个真实用户的 PAT。权限只要 Actions: write。
+  # 为什么不再用外部定时器：GitHub 自己的 schedule 不可靠（见上），而外部
+  # cron-job.org 需要注册账号 + 邮箱验证 + 一个 PAT，用户做不下来。2026-11-28
+  # 实测发现 GITHUB_TOKEN 配 actions: write 其实能派发自身，于是不再需要它们。
   workflow_dispatch:
     inputs:
       minutes:
-        description: "本次采集时长（分钟），外部定时器传 4"
+        description: "本次采集时长（分钟）"
         required: false
-        default: "4"
+        default: "20"
   # 代码类改动推送后自动重启，不必再去 Actions 页点按钮。
   # 这里只列代码文件，data/ 的定时提交不会命中，避免自我循环触发。
   push:
@@ -50,34 +50,47 @@ concurrency:
 
 permissions:
   contents: write
-  actions: write          # 仅用于「自派发」实验，验证完按结论保留或删除
+  actions: write          # 「续链」要派发工作流，缺这个权限会拿到 403/静默失败
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
-
-      # ── 临时实验：用内置 GITHUB_TOKEN 派发自己 ──────────────────
-      # 官方文档说用 GITHUB_TOKEN 创建的事件不会触发新运行（防递归），
-      # 但社区有实测反例（需要 actions: write + 显式 ref）。自己验一遍：
-      # 若成立，就不再需要 cron-job.org 和 PAT，链路能自己续上。
-      # 这里传 minutes=1，避免实验中真的长出一串长跑。
-      - name: 实验·自派发
+      # ── 续链：开局就把下一次叫进队列 ──────────────────────────────
+      # 官方文档写「用 GITHUB_TOKEN 创建的事件不会触发新工作流（防递归）」，
+      # 但 2026-11-28 实测反例成立：权限给到 actions: write 并显式传 ref 之后，
+      # HTTP 204 且真的创建了运行（21:00:16 的 push 运行 → 21:00:21 出现一条
+      # workflow_dispatch 运行）。所以不再需要 cron-job.org，也不再需要 PAT。
+      #
+      # 为什么放在"开局"而不是"收尾"：这次跑到一半挂了，接班人已经在队列里等着，
+      # 不会因为没执行到最后一步而断链。
+      #
+      # 为什么不会无限堆积：concurrency 同一组只保留「一个在跑 + 一个排队」，
+      # 更早的排队会被自动取消。所以永远只有一份在跑，链条自己闭环。
+      #
+      # 要整体停下来：去 Actions 页把 radar 这个 workflow 点 Disable，
+      # 已有的运行和队列会一起停掉。
+      - name: 续链·把下一次叫进队列
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          code=$(curl -s -o /tmp/disp.txt -w "%{http_code}" -X POST \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            -H "Content-Type: application/json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/radar.yml/dispatches" \
-            -d '{"ref":"main","inputs":{"minutes":"1"}}')
-          echo "::notice title=自派发结果::HTTP $code"
-          echo "自派发 HTTP $code"
-          head -c 400 /tmp/disp.txt 2>/dev/null || true
+          for i in 1 2 3; do
+            code=$(curl -s -o /tmp/d.txt -w "%{http_code}" -X POST \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              -H "Content-Type: application/json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/radar.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"minutes":"20"}}')
+            echo "第 $i 次派发 → HTTP $code"
+            if [ "$code" = "204" ]; then break; fi
+            sleep 3
+          done
+          head -c 300 /tmp/d.txt 2>/dev/null || true
+          echo "（非 204 也不致命：*/10 的 cron 会补位）"
+
+      - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
@@ -150,4 +163,4 @@ jobs:
               fi
             done
           ) &
-          python main.py --minutes ${{ inputs.minutes || '4' }}
+          python main.py --minutes ${{ inputs.minutes || '20' }}

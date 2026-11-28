@@ -65,6 +65,15 @@
 <h1>给雷达装一个外部定时器</h1>
 <p class="sub">cron-job.org 每 5 分钟替你叫一次工。GitHub 自己的定时任务会迟到几小时，这是目前唯一能真正兜住的办法。</p>
 
+<div class="card" style="border-color:#2c4a33;background:#121c15">
+  <p style="margin:0 0 6px;color:#9fd6a8;font-size:13.5px"><b>这页已经用不上了（2026-11-28 记录）</b></p>
+  <p style="margin:0;color:var(--dim);font-size:13px">
+    实测发现 GitHub 自带的 <code>GITHUB_TOKEN</code> 配上 <code>actions: write</code> 权限，
+    其实可以派发自己——每次运行开局就把下一次叫进队列，链路自己续得上。
+    所以既不需要注册 cron-job.org，也不需要生成任何令牌。下面内容仅留作备份参考。
+  </p>
+</div>
+
 <div class="card" style="border-color:#2a2f3a">
   <p style="margin:0;color:var(--dim);font-size:13px">
     这页的所有输入都只留在你手机上（浏览器本地），不会上传到任何地方。
