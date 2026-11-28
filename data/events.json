@@ -1,5 +1,78 @@
 [
  {
+  "id": "524ad213e38f1003",
+  "ts": "2026-11-28T21:59:04+08:00",
+  "title": "Taiwan elections: KMT loses 25-year hold on Hsinchu tech hub in magistrate vote",
+  "title_zh": "台湾选举：国民党失去新竹科技重镇",
+  "body": "Kuomintang candidate Hsu Hsin-ying lost the Hsinchu county magistrate election on Saturday, failing to retain the main opposition party’s administrative helm against Cheng Chao-fang, the challenger from Taiwan’s ruling Democratic Progressive Party. The KMT had maintained continuous leadership in Hsinchu county since 2001, losing the stronghold of the northern hi-tech hub area, just 30 minutes by high-speed rail from Taipei. The Hsinchu Science Park is home to around 600 tech firms in the...",
+  "summary": "国民党候选人徐欣莹在新竹县县长选举中败给民进党候选人郑昭平，结束自2001年起对新竹县的连续领导。",
+  "url": "https://www.scmp.com/news/china/politics/article/3376147/taiwan-elections-kmt-loses-25-year-hold-hsinchu-tech-hub-magistrate-vote",
+  "source": "SCMP",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 61.0,
+  "level": "L1",
+  "impact": "",
+  "cluster_id": "fd4ae8f4f4ae",
+  "sources": [
+   "SCMP"
+  ],
+  "pushed": false,
+  "sh": 2046131802970935008,
+  "reason": "tier=80 ent=1['taiwan'] pred=0 conv=0 combo=6 rel=22 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "4ce9523e03914dc3",
+  "ts": "2026-11-28T21:58:58+08:00",
+  "title": "沙特阿拉伯发布吉赞地区潜在危险警报",
+  "title_zh": "",
+  "body": "沙特阿拉伯发布吉赞地区潜在危险警报。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzsw7219494.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 36.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "c9ba305667b7",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 11630406731905465418,
+  "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
+  "id": "a2bc93615ea6b678",
+  "ts": "2026-11-28T21:58:20+08:00",
+  "title": "埃及外长：解决地区所有危机必须解决巴勒斯坦问题",
+  "title_zh": "",
+  "body": "埃及外长：解决地区所有危机必须解决巴勒斯坦问题。",
+  "summary": "",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "42389086edd1",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 1372667274968551417,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "1090ef7ff63bc47a",
   "ts": "2026-11-28T21:58:11+08:00",
   "title": "埃及外长：伊朗问题对地区的影响重大",
