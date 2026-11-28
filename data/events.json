@@ -431,16 +431,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 48.2,
-  "level": "L0",
+  "score": 50.2,
+  "level": "L1",
   "impact": "或影响相关食品股及原材料期货价格。",
   "cluster_id": "4be2abe9dd03",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 10201153048869435274,
-  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=12 op=N spread=0 burst=5",
+  "reason": "tier=55 ent=0[] pred=1 conv=0 combo=12 rel=0 sev=0 pct=12 op=N spread=2 burst=5",
   "engine": "primary"
  },
  {
