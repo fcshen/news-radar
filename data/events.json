@@ -1,5 +1,80 @@
 [
  {
+  "id": "c9e07c56c392ee6a",
+  "ts": "2026-11-28T21:34:57+08:00",
+  "title": "长安汽车展出自研金钟罩固态电池及搭载该电池的智能机器人",
+  "title_zh": "长安汽车展出自研金钟罩固态电池及搭载该电池的智能机器人",
+  "body": "11月27日，2026广州国际汽车展览会正式启幕。长安汽车现场展出自研金钟罩固态电池，以及搭载该电池的智能机器人。现阶段，长安汽车已经完成固态电池全新材料体系开发，攻克电芯放大工艺可靠性难关，实现材料、电芯、工艺全栈核心技术自主可控。根据技术落地规划，长安正加速推进自研固态电池在机器人等新兴领域的适配验证。",
+  "summary": "长安汽车在广州国际汽车展展出自研固态电池及智能机器人。",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzsw7206782.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "长安汽车固态电池技术进展可能影响新能源汽车产业链相关股票表现。",
+  "cluster_id": "8e4468bd3181",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 12853423339079647299,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "d87d541cb39470da",
+  "ts": "2026-11-28T21:33:18+08:00",
+  "title": "美国航空公司两架客机发生擦碰事故",
+  "title_zh": "美国航空公司两架客机发生擦碰事故",
+  "body": "美国航空公司两架客机27日在罗纳德·里根华盛顿国家机场发生机翼擦碰事故，其中一架客机的翼梢小翼撞断，所幸没有人员伤亡。这两架客机机型均为波音737，航班号分别是638和2152，一架目的地为达拉斯，另一架计划飞往芝加哥。事故发生在客机滑行前往跑道期间。空管无线电通话录音显示，638航班于27日17时许准备起飞时，机长报告说该机位置略微越过了等待线，机翼与紧随其后的一架客机发生擦碰。",
+  "summary": "美航两架波音737客机在华盛顿机场擦碰，一架翼梢小翼受损，无人员伤亡。",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzta4772449.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "9a6274021728",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 284874201593184249,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "eb52eb7c068ec917",
+  "ts": "2026-11-28T21:32:21+08:00",
+  "title": "美国黑五线上销售额超130亿美元，AI导流同比翻倍",
+  "title_zh": "美国黑五线上销售额超130亿美元，AI导流同比翻倍",
+  "body": "金十数据11月28日讯，Adobe Analytics数据显示，美国消费者在“黑色星期五”当天的线上消费总额达到131亿美元，较去年同期增长11.1%，消费者主要增加了电子产品和玩具方面的支出。这一数字略高于Adobe此前的初步预测，即线上消费额约为129亿美元、同比增长9.2%。为吸引受到通胀和高油价影响的美国消费者，零售商纷纷加大服装和家电等商品的折扣力度。数据显示，昨日美国零售网站来自AI的流量同比增长100%；先买后付（BNPL）昨日带动8亿美元线上消费，同比增长7.0%。Adobe Analytics预计，网络星期一仍将成为今年假日购物季乃至全年的最大线上购物日，线上消费额有望创下151亿美元的历史新高。网络购物周将带动475亿美元的线上消费额，同比增长7.4%，占整个假日购物季线上消费总额的17.3%。",
+  "summary": "美国黑五线上消费额131亿美元，同比增长11.1%，AI导流增长100%，先买后付带动8亿美元消费。",
+  "url": "https://www.jin10.com/",
+  "source": "金十数据",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "jin10",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "电商相关股票可能受益，关注消费电子和玩具板块表现。",
+  "cluster_id": "62fdfc3c34e2",
+  "sources": [
+   "金十数据"
+  ],
+  "pushed": false,
+  "sh": 7072292036846211336,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "80c7afeb8c2b145c",
   "ts": "2026-11-28T21:28:43+08:00",
   "title": "Taiwan's KMT holds Taipei mayorships, suffers shock defeat in central city",
@@ -22,6 +97,31 @@
   "pushed": false,
   "sh": 2378774478463587748,
   "reason": "tier=80 ent=1['taiwan'] pred=0 conv=0 combo=6 rel=7 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
+  "id": "39adada87b60bc99",
+  "ts": "2026-11-28T21:28:08+08:00",
+  "title": "高交会观察：AI技术成果迭代升级 加速场景落地",
+  "title_zh": "高交会观察：AI技术成果迭代升级 加速场景落地",
+  "body": "中新网深圳11月28日电 (记者 程景伟 索有为)第二十八届中国国际高新技术成果交易会28日在深圳闭幕。记者从本届高交会采访发现，AI技术成果持续迭代升级，从概念演示走向工业制造、民生服务、低空出行等真实场景，也吸引海内外客商到场对接合作。",
+  "summary": "第二十八届中国国际高新技术成果交易会闭幕，AI技术成果迭代升级，应用于工业制造、民生服务等场景。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739440.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "AI技术发展可能影响相关产业链公司业绩。",
+  "cluster_id": "e1ee52c85396",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 9903914725470804602,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
   "engine": "primary"
  },
  {
