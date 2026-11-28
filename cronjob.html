@@ -77,12 +77,31 @@
   <p>打开 <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">New fine-grained token</a>，按下面填：</p>
   <table>
     <tr><th style="width:96px">Token name</th><td>news-radar-cron</td></tr>
-    <tr><th>Expiration</th><td>1 year（到期前页面会提醒你，也可设更长）</td></tr>
+    <tr><th>Expiration</th><td>1 year（到期前 GitHub 会提醒你）</td></tr>
     <tr><th>Repository access</th><td><b>Only select repositories</b> → 只勾 <code>fcshen/news-radar</code></td></tr>
-    <tr><th>Permissions</th><td>展开 <b>Repository permissions</b> → 找 <b>Actions</b> → 设为 <b>Read and write</b>。其它一律不动。</td></tr>
   </table>
-  <p class="hint">只要这一项。不要给 Contents、不要给 Admin，泄露了危害也有限。</p>
-  <p>生成后形如 <code>github_pat_11ABC...</code>，<b>只显示一次</b>，先粘到下面再关页面。</p>
+
+  <p style="margin:14px 0 8px"><b>权限（Page 下半部分）</b>　GitHub 新版改了交互，权限要先「添加」再设级别，不是打勾：</p>
+  <ol style="margin-bottom:8px">
+    <li>找到 <b>Permissions</b> 区块，确认停在 <b>Repositories</b> 这个标签（不是 Account）</li>
+    <li>中间显示 <code>No repository permissions added yet</code> 是<b>正常的</b>，说明还没添加</li>
+    <li>点右上角 <b>+ Add permissions</b></li>
+    <li>在弹出的搜索框里输入 <b>Actions</b></li>
+    <li>勾上 <b>Actions</b>，把它的访问级别设为 <b>Read and write</b>，然后点 <b>Add permissions</b> 确认</li>
+  </ol>
+  <p class="hint">只要 Actions 这一项。不要加 Contents，不要加 Administration——用不上，泄露了危害也小。</p>
+
+  <details style="margin:12px 0 0">
+    <summary style="cursor:pointer;color:var(--dim);font-size:13px">实在找不到？用老式令牌，两个勾就够</summary>
+    <p class="hint" style="margin:9px 0 0">
+      打开 <a href="https://github.com/settings/tokens/new" target="_blank" rel="noopener">Tokens (classic)</a> →
+      Note 填 <code>news-radar-cron</code>，Expiration 选 1 year，只勾这两个：
+      <code>repo</code> 和 <code>workflow</code>。生成的令牌以 <code>ghp_</code> 开头，用法完全一样。
+      唯一缺点是这个令牌对你名下所有仓库都有效，而 fine-grained 那个只对本项目有效。
+    </p>
+  </details>
+
+  <p style="margin:14px 0 0">生成后形如 <code>github_pat_11ABC...</code>（或 <code>ghp_...</code>），<b>只显示一次</b>，先粘到下面再关页面。</p>
 </div>
 
 <div class="card">
