@@ -109,16 +109,17 @@
   "region": "cn",
   "lang": "zh",
   "channel": "sina",
-  "score": 64.2,
+  "score": 66.2,
   "level": "L1",
   "impact": "",
   "cluster_id": "9c4a4443a117",
   "sources": [
-   "新浪财经7×24"
+   "新浪财经7×24",
+   "金十数据"
   ],
   "pushed": false,
   "sh": 2232914289883092298,
-  "reason": "tier=55 ent=1['俄罗斯'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=N spread=0 burst=5"
+  "reason": "tier=55 ent=1['俄罗斯'] pred=1 conv=0 combo=26 rel=6 sev=8 pct=0 op=N spread=2 burst=5"
  },
  {
   "id": "c64fe7d81e9e5c85",
