@@ -1,5 +1,29 @@
 [
  {
+  "id": "9b72f6b086ab1faa",
+  "ts": "2026-11-28T21:44:03+08:00",
+  "title": "巴西将柴油补贴延长一个月",
+  "title_zh": "",
+  "body": "巴西将柴油补贴延长一个月。",
+  "summary": "",
+  "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahzsw7212103.d.html",
+  "source": "新浪财经7×24",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "sina",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "f21f1a62056d",
+  "sources": [
+   "新浪财经7×24"
+  ],
+  "pushed": false,
+  "sh": 10365598309096754944,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5"
+ },
+ {
   "id": "d36fe0647a49e175",
   "ts": "2026-11-28T21:39:55+08:00",
   "title": "伊拉克官员：在基尔库克的军事增援旨在防止利用非官方路线进行走私活动",
