@@ -75,6 +75,31 @@
   "engine": "primary"
  },
  {
+  "id": "8d0ab9e68666b7e8",
+  "ts": "2026-11-28T09:32:11+08:00",
+  "title": "浙江嘉兴“三件冬衣”搭上出海新通道 拓宽共富之路",
+  "title_zh": "浙江嘉兴“三件冬衣”搭上出海新通道 拓宽共富之路",
+  "body": "中新网嘉兴11月28日电(傅飞扬 杨永昌)“最近订单排得满，我们旺季月工资能稳稳达到18000元，手艺好的熟练工能冲击20000元。”连日来，位于浙江海宁的嘉兴后起服饰有限公司生产车间里机声隆隆，李师傅脚下的缝纫机转个不停，指尖捏着衣料飞针走线。",
+  "summary": "嘉兴后起服饰有限公司订单增多，熟练工月工资可达18000-20000元。",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739114.shtml",
+  "source": "中新网财经",
+  "tier": "media",
+  "region": "cn",
+  "lang": "zh",
+  "channel": "rss",
+  "score": 24.2,
+  "level": "L0",
+  "impact": "",
+  "cluster_id": "11e1ee3efaab",
+  "sources": [
+   "中新网财经"
+  ],
+  "pushed": false,
+  "sh": 4999425393071775419,
+  "reason": "tier=55 ent=0[] pred=0 conv=0 combo=0 rel=0 sev=0 pct=0 op=N spread=0 burst=5",
+  "engine": "primary"
+ },
+ {
   "id": "c886235783a0c4bc",
   "ts": "2026-11-28T09:30:21+08:00",
   "title": "Israel says killed two 'terrorists' working at MSF clinic",
