@@ -90,6 +90,11 @@
     <li>勾上 <b>Actions</b>，把它的访问级别设为 <b>Read and write</b>，然后点 <b>Add permissions</b> 确认</li>
   </ol>
   <p class="hint">只要 Actions 这一项。不要加 Contents，不要加 Administration——用不上，泄露了危害也小。</p>
+  <p class="hint" style="color:#8a93a0">
+    加完会看到<b>两行</b>，别以为是加多了：<code>Actions · Read and write</code> 是你加的，
+    <code>Metadata · Read-only（标 Required）</code> 是 GitHub 自动附带、且删不掉的必选项——
+    它用来识别令牌能作用于哪些仓库。上面的计数显示 2 就是这个原因。
+  </p>
 
   <details style="margin:12px 0 0">
     <summary style="cursor:pointer;color:var(--dim);font-size:13px">实在找不到？用老式令牌，两个勾就够</summary>
