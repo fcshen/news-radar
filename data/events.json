@@ -300,6 +300,31 @@
   "reason": "tier=55 ent=1['沙特'] pred=0 conv=0 combo=6 rel=6 sev=0 pct=0 op=N spread=2 burst=5"
  },
  {
+  "id": "37398b819224e8d0",
+  "ts": "2026-11-28T22:00:01+08:00",
+  "title": "AI data center boom strains construction labor across the U.S.",
+  "title_zh": "美国AI数据中心建设热潮影响建筑劳动力",
+  "body": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
+  "summary": "CNBC探访德克萨斯州阿比林，探讨AI数据中心建设对当地经济的正面和负面影响。",
+  "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+  "source": "CNBC Top",
+  "tier": "authority",
+  "region": "intl",
+  "lang": "en",
+  "channel": "rss",
+  "score": 0.0,
+  "level": "L0",
+  "impact": "数据中心建设或影响相关产业链公司业绩。",
+  "cluster_id": "7b7ed7acc6d2",
+  "sources": [
+   "CNBC Top"
+  ],
+  "pushed": false,
+  "sh": 14796378804422267073,
+  "reason": "与市场无关",
+  "engine": "primary"
+ },
+ {
   "id": "524ad213e38f1003",
   "ts": "2026-11-28T21:59:04+08:00",
   "title": "Taiwan elections: KMT loses 25-year hold on Hsinchu tech hub in magistrate vote",
