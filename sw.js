@@ -3,7 +3,7 @@
    GitHub Pages 的 /<仓库名>/ 子路径下都能用。
    注意：局域网 http://192.168.x.x 属于非安全上下文，浏览器不会注册 SW；
    此时页面照常工作，只是没有离线能力。部署到 https 后自动生效。 */
-const SHELL = "radar-shell-v16";
+const SHELL = "radar-shell-v17";
 const ASSETS = ["./", "./setup.html", "./manifest.webmanifest",
                 "./assets/icon-144.png", "./assets/icon-192.png",
                 "./assets/icon-512.png", "./assets/icon-maskable-512.png",

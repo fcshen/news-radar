@@ -23,9 +23,9 @@ def _env_int(name, default):
 # 35 分钟：正常情况下数据每 2 分钟一次提交，超过这个数基本可以断定停了。
 # 留这么宽的余量是防 Actions 排队：偶尔一次构建慢十几分钟属正常。
 # 可用环境变量 STALE_MIN / ALERT_MIN 临时覆盖，用来验证告警链路本身。
-STALE_MIN = _env_int("STALE_MIN", 35)
+STALE_MIN = _env_int("STALE_MIN", 25)
 # 90 分钟：到这一步说明自动重启没救回来，必须让人知道。
-ALERT_MIN = _env_int("ALERT_MIN", 90)
+ALERT_MIN = _env_int("ALERT_MIN", 60)
 
 
 def main() -> int:

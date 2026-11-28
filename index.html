@@ -30,6 +30,9 @@
   .bar{display:flex;align-items:center;gap:10px;max-width:840px;margin:0 auto}
   h1{font-size:16px;font-weight:600;margin:0;letter-spacing:.2px;white-space:nowrap}
   .meta{font-size:12px;color:var(--faint);margin-left:auto;white-space:nowrap}
+  /* 数据不再更新时把时间标红：停摆要能一眼看出来，而不是靠人去比对 */
+  .meta.stale{color:var(--l2)}
+  .meta.very-stale{color:var(--l3);font-weight:600}
   .icon-btn{width:32px;height:32px;flex:0 0 auto;border-radius:9px;border:1px solid var(--line);
             background:var(--panel);color:var(--dim);font-size:15px;line-height:1;
             display:flex;align-items:center;justify-content:center;cursor:pointer}
@@ -281,6 +284,17 @@ function paintMeta(){
   const hot=ALL.filter(e=>e.level==="L2"||e.level==="L3").length;
   const hm=GEN? " · 更新 "+GEN.slice(11,16) : "";
   $("meta").textContent=`今日 ${t} · 待看 ${hot}${hm}`;
+
+  // 数据多久没更新，标红。
+  // 2026-11-27 那次停摆四个半小时，页面看起来一切正常，只是那个时间没动——
+  // 而"没动"这件事只有盯着看才看得出来。所以把"老了"变成颜色，一眼就能发现。
+  const age = GEN ? (Date.now() - Date.parse(GEN)) / 60000 : 0;   // 分钟
+  const el = $("meta");
+  el.classList.toggle("stale", age > 20);
+  el.classList.toggle("very-stale", age > 60);
+  el.title = GEN ? `数据生成于 ${GEN.slice(11,16)}，已 ${Math.round(age)} 分钟`
+                 : "尚未拿到数据";
+
   $("stat").textContent = (TOTAL>ALL.length)
     ? `近 ${ALL.length} / 共 ${TOTAL} 条`
     : `库内 ${ALL.length} 条`;

@@ -120,18 +120,11 @@ jobs:
         run: python main.py --once
 
       - name: 提交首轮数据
+        # 推送失败不让整个 run 立刻挂掉：主循环还会反复重试。
+        # 真正的失败会在末尾统一判定（红的 run + 手机提醒）。
+        continue-on-error: true
         run: |
-          git add data/ 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "无变更"
-          else
-            git commit -m "data: 首轮 $(date -u +%Y-%m-%dT%H:%MZ)"
-            # 必须先同步：代码 push 与定时任务的数据 push 常撞在一起，
-            # 不做 rebase 会因 non-fast-forward 被拒，且这一步没有重试机会，
-            # 结果是首轮数据一直推不上去、手机端停在旧数据。
-            git pull --rebase --autostash -q || true
-            git push || echo "推送失败，稍后重试"
-          fi
+          bash tools/push_data.sh "data: 首轮 $(date -u +%Y-%m-%dT%H:%MZ)"
 
       - name: 采集主循环 + 每 2 分钟提交数据
         env:
@@ -150,21 +143,35 @@ jobs:
           # （commit 已经进仓库）。也就是说超限的代价是构建频率自动退化回 10 分钟，
           # 不会比旧版更差；没超限时则快 5 倍。所以 120 秒是纯增益。
           #
-          # 前端同时并发读 raw.githubusercontent.com（commit 秒级可见，不受 Pages
-          # 构建和边缘缓存影响），Pages 作为兜底通道，两条路谁新用谁。
+          # 提交/推送全部交给 tools/push_data.sh：那里显式 fetch + rebase，
+          # 不依赖 upstream，也不会被残留的 rebase 卡死。
           (
             while true; do
               sleep 120
-              git add data/ 2>/dev/null || true
-              if ! git diff --cached --quiet; then
-                git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)" || true
-                for i in 1 2 3; do
-                  git pull --rebase --autostash -q || true
-                  if git push -q; then break; fi
-                  echo "push 失败（第 $i 次），5 秒后重试"
-                  sleep 5
-                done
-              fi
+              bash tools/push_data.sh || true
             done
           ) &
           python main.py --minutes ${{ inputs.minutes || '20' }}
+
+      - name: 推送失败则提醒手机并让本 run 变红
+        # 必须 always()：主循环被 timeout 杀掉时这一步也要跑。
+        #
+        # 为什么这一步比日志重要：以前推送失败只在日志里 echo 一句，Actions
+        # 页面照样是绿色，谁都不会去看。现在失败会让 run 变红——我查 API 就能
+        # 发现，不用等手机先停摆、再由人来问。
+        if: always()
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          FLAG="${RUNNER_TEMP:-/tmp}/pushfail.log"
+          if [ -s "$FLAG" ]; then
+            echo "── 推送失败记录 ──"
+            cat "$FLAG"
+            python tools/alert.py "⚠️ 雷达数据推不上去" \
+              "最近一次提交没进仓库，手机看板会停在旧数据。已在自动重试，若连续两次收到这条请告诉我。" || true
+            echo "::error::数据推送持续失败，看板会停在旧数据"
+            exit 1
+          fi
+          echo "数据推送正常"

@@ -76,18 +76,9 @@ jobs:
           # 8 分钟足够把断档期的消息抓回来（backfill 覆盖最近 60 分钟）
           python main.py --minutes 8 || echo "采集异常，仍然尝试提交已有数据"
 
-          git add data/ 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "没有新数据"
-          else
-            git commit -m "data: watchdog 接管 $(date -u +%Y-%m-%dT%H:%MZ)" || true
-            for i in 1 2 3; do
-              git pull --rebase --autostash -q || true
-              if git push -q; then echo "已提交"; break; fi
-              echo "push 失败（第 $i 次）"
-              sleep 5
-            done
-          fi
+          # 与主任务共用同一套推送逻辑，避免两处各写一份、一处修了另一处没修
+          bash tools/push_data.sh "data: watchdog 接管 $(date -u +%Y-%m-%dT%H:%MZ)" \
+            || echo "推送失败，留给下一轮"
 
       - name: 停摆就把结果推到手机
         if: steps.chk.outputs.stale == '1'
